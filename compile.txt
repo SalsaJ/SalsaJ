@@ -1,0 +1,10 @@
+# DANS LE DOSSIER SRC
+
+# POUR COMPILER
+javac ij/ImageJ.java 
+
+# POUR EXECUTER
+java -cp . ij.ImageJ
+
+# POUR EFFACER LES .class créés 
+find . -name "*.class" -delete
