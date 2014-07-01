@@ -1,0 +1,17 @@
+// Astronomy.txt		MACROS FOR IMAGEJ ASTRONOMY PLUGINS
+//
+// Append this to the file {ImageJ-directory}/macros/StartupMacros.txt
+
+
+macro "Photometer Action Tool- Cf00O00ffCccfo22bbC88fo4477C44fo5544" {
+        run("Photometer");
+   }
+
+macro "Clear Action Tool- Cda1L0b75L2c86L4d97L6ea8L8fb9L74b3Lc7b3Cf00L75b7C431Lc3e0DbeDefDed" {
+       run("ClearPhotometer");
+   }
+
+macro "Settings Action Tool- Cf60T4d14+" {
+       run("PhotometrySettings");
+   }
+

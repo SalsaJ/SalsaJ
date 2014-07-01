@@ -1,0 +1,102 @@
+// "StartupMacros"
+// The macros and macro tools in this file ("StartupMacros.txt") are 
+// automatically installed in the Plugins>Macros submenu and
+//  in the tool bar when ImageJ starts up.
+
+//  About the drawing tools.
+//
+//  This is a set of drawing tools similar to the pencil, paintbrush, 
+//  eraser and flood fill (paint bucket) tools in NIH Image. The 
+//  pencil and paintbrush draw in the current foreground color 
+//  and the eraser draws in the current background color. The
+//  flood fill tool fills the selected area using the foreground color.
+//  Hold down the alt key to have the pencil and paintbrush draw 
+//  using the background color or to have the flood fill tool fill 
+//  using the background color. Set the foreground and background 
+//  colors by double-clicking on the flood fill tool or on the eye  
+//  dropper tool.  Double-click on the pencil, paintbrush or eraser 
+//  tool  to set the drawing width for that tool.
+//
+// Icons contributed by Tony Collins.
+
+ 
+  var xx = requires138b(); // check version at install
+  function requires138b() {requires("1.38b"); return 0; }
+
+macro "Unused Tool- Cf60" { } // display an empty box
+macro "Photometry Action Tool- Cf00o22ffC88fo44ccCccfo5599C00fT00141T80142Tf0143C44fo7744" {
+        run("Photometer");
+   }
+
+macro "Clear Photometry Action Tool- Cf00o22ffC88fo44ccCccfo5599C44fo7744Cf60T4016-" {
+       run("ClearPhotometer");
+   }
+
+macro "Photometry Settings Action Tool- Cf00o22ffC88fo44ccCccfo5599C44fo7744Cf60T4016+" {
+       run("PhotometrySettings");
+   }
+
+macro "Unused Tool- Cf60" { } // display an empty box
+macro "Abort Macro or Plugin (or press Esc key) Action Tool - CbooP51b1f5fbbf5f1b15510T5c10X" {
+      setKeyDown("Esc");
+  }
+
+macro "Unused Tool- Cf60" { } // display an empty box
+macro "Unused Tool- Cf60" { } // display an empty box
+macro "Unused Tool -" {} // display a box with a + icon
+
+macro "-" {} //menu divider
+macro "Close all images windows" {
+       path = getDirectory("macros")+"/tools/CloseAllWindows.txt";
+       if (!File.exists(path))
+           exit("\"CloseAllWindows.txt\" not found in SalsaJ/macros/.");
+       runMacro(path);
+   }
+
+macro "-" {} //menu divider
+macro "Extrasolar Planet Transit exercise" {
+       path = getDirectory("macros")+"/MacroTransit.txt";
+       if (!File.exists(path))
+           exit("\"MacroTransit.txt\" not found in SalsaJ/macros/.");
+       runMacro("MacroTransit");
+   }
+
+macro "Distance Measurement with Cepheids" {
+       path = getDirectory("macros")+"/MacroCepheid.txt";
+       if (!File.exists(path))
+           exit("\"MacroCepheid.txt\" not found in ImageJ/macros/.");
+       runMacro("MacroCepheid");
+   }
+macro "Saturn's Moons" {
+       path = getDirectory("macros")+"/Macro_Saturn_Moons.txt";
+       if (!File.exists(path))
+           exit("\"Macro_Saturn_Moons.txt\" not found in SalsaJ/macros/.");
+       runMacro("Macro_Saturn_Moons");
+   }
+
+macro "Circumstellar Disk around Beta Pictoris" {
+       path = getDirectory("macros")+"/MacroBetaPic.txt";
+       if (!File.exists(path))
+           exit("\"MacroBetaPic.txt\" not found in SalsaJ/macros/.");
+       runMacro("MacroBetaPic");
+   }
+
+macro "-" {} //menu divider
+macro "About Startup Macros..." {
+       path = getDirectory("macros")+"/AboutStartupMacros.txt";
+       if (!File.exists(path))
+           exit("\"About Startup Macros\" not found in ImageJ/macros/.");
+       open(path);
+   }
+
+  macro "Popup Menu" {
+      cmd = getArgument();
+      if (cmd=="Help...")
+           showMessage("About Popup Menu",
+               "To customize this menu, edit the line that starts with\n\"var pmCmds\" in macros/StartupMacros.txt");
+      else
+          run(cmd);
+  }
+
+
+

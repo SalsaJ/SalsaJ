@@ -1,0 +1,14 @@
+// This tool generates Z-axis profile plots
+
+    macro "Z Profile Plotter Tool -C66a-P21d12cdc0P22d22ddd0" {
+        requires("1.31j");
+        if (nSlices==1)
+            exit("This tool requires a stack");
+        getCursorLoc(x, y, z, flags);
+        values = newArray(nSlices);
+        for (z=0; z<nSlices; z++)
+             values[z] = getPixel(x, y, z);
+        Plot.create("Z Axis Profile", "Z", "Value", values);
+        //plot.setLimits(0, nSlices-1, 0, 255);
+        Plot.update();
+    }
