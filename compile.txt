@@ -1,10 +1,20 @@
 # DANS LE DOSSIER SRC
 
-# POUR COMPILER
-javac ij/ImageJ.java 
+# POUR COMPILER (creer le fichier build avant)
+javac  -d ../build -target 1.6 ij/ImageJ.java ij/plugin/*.java nom/tam/fits/*.java
+cp ij/*.properties ../build/ij/
+mkdir ../build/ij/i18n/
+mkdir ../build/images/
+cp ij/i18n/*.properties ../build/ij/i18n/
+cp images/* ../build/images/
+cp MANIFEST.MF ../build
 
-# POUR EXECUTER
-java -cp . ij.ImageJ
+# POUR EXECUTER 
+cd ../build/
+java ij.ImageJ
 
-# POUR EFFACER LES .class créés 
+# POUR CREER UN JAR
+jar cvfm SalsaJ2.jar MANIFEST.MF ij/ images/ nom/
+
+# POUR EFFACER LES .class créés au cas ou
 find . -name "*.class" -delete
