@@ -149,7 +149,6 @@ public class FITS extends ImagePlus implements PlugIn {
                         System.out.println("Header: \n" + s);
                     }
 
-
                     ImageData imgData = null;
                     if (bhdu[0].getData() != null) {
                         imgData = (ImageData) bhdu[0].getData();
@@ -536,7 +535,7 @@ public class FITS extends ImagePlus implements PlugIn {
 
                     IJ.showStatus("");
                     //IJ.log("exception " + fis);
-                    File file = new File("tmp.fits");
+                    File file = new File(IJ.getDirectory("home")+".tmp.fits");
                     fis = new FileOutputStream(file);
                     DataOutputStream dos = new DataOutputStream(fis);
                     //IJ.log("exception " + file + " " + fis + " " + dos);
@@ -549,7 +548,7 @@ public class FITS extends ImagePlus implements PlugIn {
                     } catch (Exception e) {
                     }
 
-                } catch (FileNotFoundException ex) {
+                    } catch (FileNotFoundException ex) {
                     Logger.getLogger(FITS.class.getName()).log(Level.SEVERE, null, ex);
                 } catch (FitsException ex) {
                     Logger.getLogger(FITS.class.getName()).log(Level.SEVERE, null, ex);
@@ -667,7 +666,6 @@ public class FITS extends ImagePlus implements PlugIn {
             } // catch
         }
 
-
     }
 
 
@@ -687,9 +685,7 @@ public class FITS extends ImagePlus implements PlugIn {
         RandomAccessFile f;
         ImagePlus imp = null;
 
-
         imp = new ImagePlus(path);
-
 
         FileInfo fi;
         fi = imp.getFileInfo();
