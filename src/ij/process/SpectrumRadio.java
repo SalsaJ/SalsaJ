@@ -148,4 +148,8 @@ public class SpectrumRadio extends Spectrum {
         }
         System.arraycopy(ytemp, 0, YdataDisplay, 0, length);
     }
+    
+    
+    
+    
 }

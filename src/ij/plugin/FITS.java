@@ -236,7 +236,7 @@ public class FITS extends ImagePlus implements PlugIn {
                                     this.setProcessor(fileName, ip);
 
                                 } // 16-bits
-                                ///////////////// 32 VBITS ///////////////////////
+                                ///////////////// 32 BITS ///////////////////////
                                 else if (bhdu[0].getBitPix() == 32) {
                                     int[][] itab = (int[][]) imgData.getKernel();
                                     int idx = 0;
@@ -499,6 +499,79 @@ public class FITS extends ImagePlus implements PlugIn {
                                     P.draw();
                                 }
                             }   //end by Oli
+                            
+                            //New by thomas, SRT telescope , 18112014
+                            if (bhdu[0].getTelescop() != null) {
+                                if (bhdu[0].getTelescop().startsWith("SRT")) {
+                                    if (IJ.debug) {
+                                        System.out.println("For radiotelescope UPMC SRT");
+                                    }
+                                    short[] Upmcitab = (short[]) imgData.getKernel();
+                                    float[] xValues = new float[wi];
+                                    float[] yValues = new float[wi];
+                                    for (int y = 0; y < wi; y++) {
+                                        yValues[y] = Upmcitab[y];
+                                    }
+                                    String unitY = "Intensity ";
+                                    unitY = bun.getString("IntensityRS") + " ";
+                                    String unitX = "Freq ";
+                                    unitX = bun.getString("FrequencyRS") + " ";
+                                    float CRVAL1 = 0;
+                                    float CRPIX1 = 0;
+                                    float CDELT1 = 0;
+                                    if (bhdu[0].getCRVAL1() != null) {
+                                        CRVAL1 = Float.parseFloat(bhdu[0].getCRVAL1());
+                                    }
+                                    if (bhdu[0].getCRPIX1() != null) {
+                                        CRPIX1 = Float.parseFloat(bhdu[0].getCRPIX1());
+                                    }
+                                    if (bhdu[0].getCDELT1() != null) {
+                                        CDELT1 = Float.parseFloat(bhdu[0].getCDELT1());
+                                    }
+                                    for (int x = 0; x < wi; x++) {
+                                        xValues[x] = (CRVAL1 + (x - CRPIX1) * CDELT1) / 1000000;
+                                    }
+                                    FloatProcessor Upmcimgtmp;
+                                    Upmcimgtmp = new FloatProcessor(wi, he);
+                                    Upmcimgtmp.setPixels(yValues);
+                                    Upmcimgtmp.resetMinAndMax();
+                                    Upmcimgtmp = (FloatProcessor) Upmcimgtmp.resize(wi, 100);
+                                    ip = Upmcimgtmp;
+                                    ip.flipVertical();
+                                    setProcessor(fileName, ip);
+                                    // crop spectra between Freq= [1419.9 , 1420.9]
+                                    double OliFrqMin = 1419.9;
+                                    double OliFrqMax = 1420.9;
+                                    if (IJ.debug) {
+                                        System.out.println(OliFrqMin + "  " + OliFrqMax);
+                                    }
+                                    float Olicut;
+                                    int x = 1;
+                                    while (xValues[x] < OliFrqMin) {
+                                        x++;
+                                    }
+                                    Olicut = yValues[x];
+                                    if (IJ.debug) {
+                                        System.out.println("X= " + x + "  X(x)= " + xValues[x] + " Y(x)= " + Olicut);
+                                    }
+                                    while (xValues[x] < OliFrqMax) {
+                                        x++;
+                                    }
+                                    if (IJ.debug) {
+                                        System.out.println("X= " + x + " X(x)= " + xValues[x] + " Y(x)= " + yValues[x - 1]);
+                                    }
+                                    Olicut = (Olicut + yValues[x - 1]) / 2;
+                                    for (int y = 0; y < wi; y++) {
+                                        if (yValues[y] < Olicut) {
+                                            yValues[y] = Olicut;
+                                        }
+                                    }
+                                    // end of crop
+                                    unitX += "(MHz)";
+                                    Plot P = new Plot(IJ.getBundle().getString("PlotWinTitle") + " " + fileName, "X: " + unitX, "Y: " + unitY, xValues, yValues);
+                                    P.draw();
+                                }
+                            }   //New by thomas, SRT telescope , 18112014
 
                             /////////////////////////////////////////////////////////////////////////////////////////
                             /////////////////////////////////////////////////////////////////////////////////////////

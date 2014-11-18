@@ -38,6 +38,9 @@ public class RadioSpectrum_Reader implements PlugIn {
     // TB ref wave to compute velocity (in nm)
     public static double wave_ref = 589;
 
+    String freqUnit = "THz";
+    String waveUnit = "nm";
+
     /**
      * Main processing method for the RadioSpectrum_Reader object
      *
@@ -79,522 +82,19 @@ public class RadioSpectrum_Reader implements PlugIn {
             spectdata = false;
         }
 
-        String freqUnit = "THz";
-        String waveUnit = "nm";
-
         //IJ.log("freq 0 "+wave_ref);
         ///////////////// SPECTDATA OPTIQUE //////////////////////////////////////
         if (spectdata) {
-            optique = true;
-            ArrayList xarray = new ArrayList();
-            ArrayList yarray = new ArrayList();
-            int cpt = 0;
-            String[] sp;
-            String s;
-            boolean xx = false;
-            try {
-
-                BufferedReader bf = new BufferedReader(stream);
-                String line = bf.readLine(); // header
-                while (line != null) {
-                    line = bf.readLine();
-                    if (line == null) {
-                        break;
-                    }
-                    //System.out.println("line " + line);
-                    // chiffres séparés part des espaces
-                    sp = line.split(" ");
-                    xx = false;
-                    for (int i = 0; i < sp.length; i++) {
-                        s = sp[i];
-                        if (s.length() > 0) {
-                            //System.out.println(i + " " + s + " " + cpt);
-                            if (!xx) {
-                                xarray.add(Float.parseFloat(sp[i]));
-                                xx = true;
-                            } else {
-                                yarray.add(Float.parseFloat(sp[i]));
-                            }
-                        }
-                    }
-                    cpt++;
-                }
-                float[] xtemp = new float[cpt];
-                float[] ytemp = new float[cpt];
-                for (int i = 0; i < cpt; i++) {
-                    xtemp[i] = ((Float) xarray.get(i)).floatValue();
-                    ytemp[i] = ((Float) yarray.get(i)).floatValue();
-                }
-                /////////////////// COMPUTE VALUES
-                float tmp_wave, tmp_freq, tmp_freq0;
-                int length = cpt;
-                float[] xValues = new float[length];
-                for (int i = 0; i < length; i++) {
-                    tmp_wave = xtemp[i] / 10; // A to nanometers
-                    tmp_freq = (float) ((3.0E8 / ((float) tmp_wave * 1.E-9))); // Hz
-                    //tmp_freq0 = (float) (3.e8 / 589.0e-9); // Hz; 589.6
-                    tmp_freq0 = (float) (3.e17 / (wave_ref)); // Hz; 589.6
-                    switch (SCALETYPE) {
-                        case pixel:
-                            xValues[i] = (float) (i);
-                            break;
-                        case velocity:
-                            //xValues[length - 1 - i] = (float) (((i + 1 - length / 2) * deltav + fd.getVelolsr()) * 0.001);
-                            // thomas 19.09.06
-                            xValues[i] = (float) ((3.e8 * (tmp_freq0 / tmp_freq - 1.0)) * 1e-3);
-                            break;
-                        case frequency:
-                            xValues[i] = (float) ((tmp_freq) * 1e-12); // THz
-                            break;
-                        case wavelength:
-                            xValues[i] = (float) (tmp_wave);
-                            break;
-                        default:
-                            xValues[i] = (float) (i);
-                            break;
-                    }
-                }
-                float[] yValues = new float[length];
-                System.arraycopy(ytemp, 0, yValues, 0, length);
-
-                /// LABELS
-                switch (SCALETYPE) {
-                    case velocity:
-                        //EU_HOU Bundle
-                        xLabel = bun.getString("VelocityRS") + " (" + bun.getString("unitsVelocityRS") + ")";
-                        break;
-                    case frequency:
-                        //EU_HOU Bundle
-                        // xLabel = bun.getString("FrequencyRS") + " (" + bun.getString("unitsFrequencyRS") + ")";
-                        xLabel = bun.getString("FrequencyRS") + " (" + freqUnit + ")";
-                        break;
-                    case wavelength:
-                        //EU_HOU Bundle
-                        // xLabel = bun.getString("WavelengthRS") + " (" + bun.getString("unitsWavelengthRS") + ")";
-                        xLabel = bun.getString("WavelengthRS") + " (" + waveUnit + ")";
-                        break;
-                    default:
-                        pixel:
-                        //EU_HOU Bundle
-                        xLabel = bun.getString("ChannelRS");
-                        break;
-                }
-
-                ////*/////////// PLOT //////////////////////////
-                ImagePlus impdata = new ImagePlus();
-                FloatProcessor ipdata = new FloatProcessor(cpt, 150);
-                impdata.setProcessor("data", ipdata);
-                FileInfo fi = new FileInfo();
-                fi.fileName = fileName;
-                fi.directory = directory;
-                impdata.setFileInfo(fi);
-                yLabel = bun.getString("IntensityRS");
-                PlotWindow.RadioSpectra = true;
-                PlotWindow.Base_Line_subtracted = false;
-                PlotWindow.Base_Line = false;
-                PlotWindow.ZERO_LINE = false;
-                PlotWindow pw = new PlotWindow(IJ.getBundle().getString("PlotWinTitle") + "  " + fileName, xLabel, yLabel, xValues, yValues, impdata);
+            PlotWindow pw = readSpectData(stream, fileName, directory);
+            if (pw != null) {
                 pw.draw();
-            } catch (FileNotFoundException ex) {
-                Logger.getLogger(RadioSpectrum_Reader.class.getName()).log(Level.SEVERE, null, ex);
-            } catch (IOException ex) {
-                Logger.getLogger(RadioSpectrum_Reader.class.getName()).log(Level.SEVERE, null, ex);
             }
-
-
-
+            // FITS
         } else {
-            ////////////////////// FITS
-            IJ.log("Opening FITS spectrum "+directory+" "+fileName);
-            FitsDecoder fd = new FitsDecoder(directory, fileName);
-            FileInfo fi = null;
-
-            try {
-                fi = fd.getInfo();
-            } catch (IOException e) {
+            PlotWindow pw = readFITS(fileName, directory);
+            if (pw != null) {
+                pw.draw();
             }
-            System.out.print(fi.width + " " + fi.height + " " + fi.nImages);
-
-            //if (fi != null && fi.width > 0 && fi.height == 1 && fi.offset > 0 && fi.nImages == 1) {
-            if ((fi != null) && (fi.width > 0) && (fi.height > 0) && (fi.offset > 0) && (fi.nImages == 1)) {
-                System.out.print(fi.width + " " + fi.height + " " + fi.nImages);
-                fi.fileType = FileInfo.GRAY16_UNSIGNED;
-                FileOpener fo = new FileOpener(fi);
-                ImagePlus imp = fo.open(false);
-                ImageProcessor ip = imp.getProcessor();
-                ip.flipVertical();
-                Calibration cal = imp.getCalibration();
-                if (fi.height == 150) {
-                    optique = true;
-                }
-
-                double bzero = fd.getBzero();
-                double bscale = fd.getBscale();
-
-                imp.setProperty("Info", fd.getHeaderInfo());
-                imp.setFileInfo(fi);
-                int length;
-                short[] shortpixels = null;
-                float[] floatpixels = null;
-                System.out.print(FileInfo.GRAY16_SIGNED);
-                if ((fi.fileType == FileInfo.GRAY16_SIGNED) || (fi.fileType == FileInfo.GRAY16_UNSIGNED)) {
-                    shortpixels = (short[]) ip.getPixels();
-                    length = shortpixels.length;
-                } else {
-                    floatpixels = (float[]) ip.getPixels();
-                    length = floatpixels.length;
-                }
-                //EU_HOU Bundle
-                xLabel = IJ.getPluginBundle().getString("ChannelRS");
-                /*
-                 * switch (SCALETYPE) { case velocity: //EU_HOU Bundle //xLabel
-                 * = bun.getString("VelocityRS") + " (" +
-                 * bun.getString("unitsVelocityRS") + ")"; xLabel =
-                 * bun.getString("VelocityRS") + "THZ"; break; case frequency:
-                 * //EU_HOU Bundle xLabel = bun.getString("FrequencyRS") + " ("
-                 * + bun.getString("unitsFrequencyRS") + ")"; xLabel =
-                 * bun.getString("FrequencyRS") + " (" +
-                 * bun.getString("unitsFrequencyRS") + ")"; break; case
-                 * wavelength: //EU_HOU Bundle xLabel =
-                 * bun.getString("WavelengthRS") + " (" +
-                 * bun.getString("unitsWavelengthRS") + ")"; break; default:
-                 * pixel: //EU_HOU Bundle xLabel = bun.getString("ChannelRS");
-                 * break; }
-                 */
-
-                //EU_HOU Bundle
-                yLabel = bun.getString("IntensityRS");
-
-                l = fd.getCrval2();
-                b = fd.getCrval3();
-
-                // PASSER EN DOUBLE !! (TB)
-
-                double[] xValues = new double[length];
-                IJ.showProgress(0);
-
-                double deltav;
-                double restfreq = fd.getRestfreq();
-                ///////////////////////////////////// RADIO /////////////////////
-                if (!optique) {
-                    if (restfreq == 0.0) {
-                        restfreq = fd.getCrval1();
-                    }
-                    if ((fd.getDeltav() == 0.0) & (SCALETYPE == velocity)) {
-                        deltav = -3.0E8 * fd.getCdelt1() / restfreq; // SI m/s
-                        System.out.println(deltav);
-                    } else {
-                        deltav = fd.getDeltav();
-                    }
-                    if (fd.getTelescop().startsWith("LAB-")) { // Lab 11/12/12 ALM -- data stored in VELO-LSR(=CTYPE1)
-                        for (int i = 0; i < length; i++) {
-                            switch (SCALETYPE) {
-                                case pixel:
-                                    xValues[i] = (float) (i);
-                                    break;
-                                case velocity:
-                                    xValues[i] = (float) ((float) ((fd.getCrval1() + fd.getCdelt1() * ((float) (i)) - fd.getCrpix1())) * 0.001);//km/s
-                                    break;
-                                case frequency:
-                                    xValues[i] = (float) (restfreq * (1.e0 - (float) ((fd.getCrval1() + fd.getCdelt1() * (((float) (i)) - fd.getCrpix1()))) / 3.0e8) * 1.e-6);//MHz
-                                    break;
-                                case wavelength:
-                                    ///////////////////////////////////////////////
-                                    xValues[i] = (float) (3.0E+10 / restfreq / (1. - (fd.getCrval1() + fd.getCdelt1() * ((float) (i) - fd.getCrpix1())) / 3.e8));//cm
-                                    break;
-                                default:
-                                    xValues[i] = (float) (i);
-                                    break;
-                            }
-                        }
-
-                    } else { // SRT or Onsala 11/12/12 ALM
-                        for (int i = 0; i < length; i++) {
-                            switch (SCALETYPE) {
-                                case pixel:
-                                    xValues[i] = (float) (i);
-                                    break;
-                                case velocity:
-                                    //xValues[length - 1 - i] = (float) (((i + 1 - length / 2) * deltav + fd.getVelolsr()) * 0.001);
-                                    // thomas 19.09.06
-                                    if (fd.getVelolsr() > 100) // m/s
-                                    {
-                                        xValues[length - 1 - i] = (float) ((float) ((((i) - fd.getCrpix1())) * deltav - fd.getVelolsr()) * 0.001 * 1.0f + (float) (3.0E8 * (1.0f - fd.getCrval1() / restfreq)) * 0.001); //km/s
-                                    }
-                                    if (fd.getVelolsr() <= 100) //km/s
-                                    {
-                                        xValues[length - 1 - i] = (float) ((float) ((((i) - fd.getCrpix1())) * deltav * 0.001 - fd.getVelolsr()) * 1.0f + (float) (3.0E8 * (1.0f - fd.getCrval1() / restfreq)) * 0.001); //km/s
-                                    }
-                                    break;
-                                case frequency:
-                                    if (fd.getVelolsr() > 100) // m/s
-                                    {
-                                        xValues[i] = (float) ((float) ((fd.getCrval1() + fd.getCdelt1() * ((float) (i) - fd.getCrpix1())) * 0.000001) + fd.getVelolsr() * restfreq / 3.e8 * 1.e-6);//MHz
-                                    }
-                                    if (fd.getVelolsr() <= 100) // km/s
-                                    {
-                                        xValues[i] = (float) ((float) ((fd.getCrval1() + fd.getCdelt1() * ((float) (i) - fd.getCrpix1())) * 0.000001) + fd.getVelolsr() * 1.e3 * restfreq / 3.e8 * 1.e-6);//MHz
-                                    }
-                                    break;
-                                case wavelength:
-                                    ///////////////////////////////////////////////
-                                    //xValues[i] = (float) (fd.getCrval1() - (float) (i));
-                                    if (fd.getVelolsr() > 100) // m/s
-                                    {
-                                        xValues[i] = (float) (3.0E+10 / (fd.getCrval1() + fd.getCdelt1() * (fd.getCrpix1() - (float) (i)) + fd.getVelolsr() * restfreq / 3.e8));//cm
-                                    }
-                                    if (fd.getVelolsr() <= 100) //km/s
-                                    {
-                                        xValues[i] = (float) (3.0E+10 / (fd.getCrval1() + fd.getCdelt1() * (fd.getCrpix1() - (float) (i)) + fd.getVelolsr() * 1.e3 * restfreq / 3.e8));//cm
-                                    }
-                                    break;
-                                default:
-                                    xValues[i] = (float) (i);
-                                    break;
-                            }
-                        }
-                    }
-                    double[] yValues = new double[length];
-                    double[] coeff = cal.getCoefficients();
-                    if (coeff == null) {
-                        coeff = new double[2];
-                        coeff[0] = 0.0;
-                        coeff[1] = 1.0;
-                    }
-                    bzero = bscale * coeff[0] + bzero;
-                    //coeff[1]*fd.getBzero()+coeff[0];
-                    bscale = coeff[1] * bscale;
-
-                    if ((fi.fileType == FileInfo.GRAY16_SIGNED) || (fi.fileType == FileInfo.GRAY16_UNSIGNED)) {
-                        for (int i = 0; i < length; i++) {
-                            // thomas 19.09.06 ajout velocity alm 10/12/12 modif
-                            if (fd.getTelescop().startsWith("LAB-")) { // LAB 11/12/12 ALM -- data stored in VELO-LSR
-                                if ((SCALETYPE == wavelength) || (SCALETYPE == velocity)) {
-                                    yValues[length - 1 - i] = (float) (bscale * (shortpixels[i]) + bzero);
-                                } else {
-                                    yValues[i] = (float) (bscale * (shortpixels[i]) + bzero);
-                                }
-                            } // srt
-                            else {
-                                if ((SCALETYPE == wavelength) || (SCALETYPE == velocity)) {
-                                    yValues[length - 1 - i] = (float) (bscale * (shortpixels[i]) + bzero);
-                                } else {
-                                    yValues[i] = (float) (bscale * (shortpixels[i]) + bzero);
-                                }
-                            }
-                        }
-                    } else {
-                        for (int i = 0; i < length; i++) {
-                            //if (SCALETYPE == wavelength) {
-                            //   yValues[length - 1 - i] = (float) (bscale * (floatpixels[i]) + bzero);
-                            //}
-                            yValues[i] = (float) (bscale * (floatpixels[i]) + bzero);
-                        }
-                    }
-////////////////////////// Test Spectrum
-//                    SpectrumRadio spectrum = new SpectrumRadio(xValues, yValues);
-//                    spectrum.setFd(fd);
-//                    spectrum.setDisplay(Spectrum.DISPLAY_DEFAULT);
-//                    PlotWindow pwtest = spectrum.plot();
-//                    pwtest.draw();
-//
-//                    SpectrumRadio spectrum2 = new SpectrumRadio(xValues, yValues);
-//                    spectrum2.setFd(fd);
-//                    spectrum2.setDisplay(Spectrum.DISPLAY_VELOCITY);
-//                    PlotWindow pwtest2 = spectrum2.plot();
-//                    pwtest2.draw();
-////////////////////////// Test Spectrum                    
-
-
-                    /// LABELS
-                    freqUnit = "MHz";
-                    waveUnit = "cm";
-                    switch (SCALETYPE) {
-                        case velocity:
-                            //EU_HOU Bundle
-                            xLabel = bun.getString("VelocityRS") + " (" + bun.getString("unitsVelocityRS") + ")";
-                            break;
-                        case frequency:
-                            //EU_HOU Bundle
-                            // xLabel = bun.getString("FrequencyRS") + " (" + bun.getString("unitsFrequencyRS") + ")";
-                            xLabel = bun.getString("FrequencyRS") + " (" + freqUnit + ")";
-                            break;
-                        case wavelength:
-                            //EU_HOU Bundle
-                            // xLabel = bun.getString("WavelengthRS") + " (" + bun.getString("unitsWavelengthRS") + ")";
-                            xLabel = bun.getString("WavelengthRS") + " (" + waveUnit + ")";
-                            break;
-                        default:
-                            pixel:
-                            //EU_HOU Bundle
-                            xLabel = bun.getString("ChannelRS");
-                            break;
-                    }
-
-                    ////////////////////////// Test Spectrum
-//                    SpectrumRadio spectrum = new SpectrumRadio(xValues, yValues);
-//                    spectrum.setFd(fd);
-//                    spectrum.setDisplay(Spectrum.DISPLAY_DEFAULT);
-//                    PlotWindow pwtest = spectrum.plot();
-//                    pwtest.draw();
-//
-//                    SpectrumRadio spectrum2 = new SpectrumRadio(xValues, yValues);
-//                    spectrum2.setFd(fd);
-//                    spectrum2.setDisplay(Spectrum.DISPLAY_VELOCITY);
-//                    PlotWindow pwtest2 = spectrum2.plot();
-//                    pwtest2.draw();
-////////////////////////// Test Spectrum      
-
-                    ImagePlus impdata = new ImagePlus();
-                    FloatProcessor proc = new FloatProcessor(1, 1);
-                    impdata.setProcessor("spectrum", proc);
-                    fi.directory=directory;
-                    fi.fileName=fileName;
-                    impdata.setFileInfo(fi);
-
-
-                    PlotWindow.RadioSpectra = true;
-                    PlotWindow.Base_Line_subtracted = false;
-                    PlotWindow.Base_Line = false;
-                    PlotWindow.ZERO_LINE = false;
-                    //EU_HOU Bundle
-                    IJ.log("spectre info " + impdata + " " + impdata.getOriginalFileInfo());
-                    PlotWindow pw = new PlotWindow(IJ.getBundle().getString("PlotWinTitle") + "  " + fileName, xLabel, yLabel, xValues, yValues, impdata);
-
-                    pw.draw();
-                    //Plot pw = new Plot(IJ.getBundle().getString("PlotWinTitle") + "  " + fileName, xLabel, yLabel, xValues, yValues, null, null);
-                    //pw.show();
-                }
-///////////////////////////// OPTIQUE ///////////////////////////////////////
-                if (optique) {
-                    length = fi.width;
-
-                    xValues = new double[length];
-                    if (restfreq == 0.0) {
-                        restfreq = 3.0E8 / (fd.getCrval1() * 1.e-10);
-                    }
-                    if ((fd.getDeltav() == 0.0) & (SCALETYPE == velocity)) {
-                        deltav = -fd.getCdelt1() / restfreq;
-
-                    } else {
-                        deltav = fd.getDeltav();
-                    }
-                    float tmp_wave, tmp_freq, tmp_freq0;
-                    for (int i = 0; i < length; i++) {
-
-                        tmp_wave = (float) (fd.getCrval1() + fd.getCdelt1() * ((float) (i))) * 0.1f; // nanometers
-                        tmp_freq = (float) ((3.0E8 / ((float) tmp_wave * 1.E-9))); // Hz
-                        //tmp_freq0 = (float) (3.e8 / 589.0e-9); // Hz; 589.6
-                        tmp_freq0 = (float) (3.e17 / (wave_ref)); // Hz; 589.6
-                        switch (SCALETYPE) {
-                            case pixel:
-                                xValues[i] = (float) (i);
-                                break;
-                            case velocity:
-                                //xValues[length - 1 - i] = (float) (((i + 1 - length / 2) * deltav + fd.getVelolsr()) * 0.001);
-                                // thomas 19.09.06
-                                xValues[i] = (float) ((3.e8 * (tmp_freq0 / tmp_freq - 1.0)) * 1e-3);
-                                break;
-                            case frequency:
-                                xValues[i] = (float) ((tmp_freq) * 1e-12); // THz
-                                break;
-                            case wavelength:
-                                xValues[i] = (float) (tmp_wave);
-                                break;
-                            default:
-                                xValues[i] = (float) (i);
-                                break;
-                        }
-                    }
-
-                    double[] yValues = new double[length];
-
-                    double[] coeff = cal.getCoefficients();
-                    if (coeff == null) {
-                        coeff = new double[2];
-                        coeff[0] = 0.0;
-                        coeff[1] = 1.0;
-
-                    }
-                    // ??
-                    bscale = 2 * fi.width;
-                    bzero = bscale * coeff[0] + bzero;
-                    //coeff[1]*fd.getBzero()+coeff[0];
-                    bscale = coeff[1] * bscale;
-
-                    // TB
-                    bzero = 32768;
-                    bscale = 1;
-
-                    if ((fi.fileType == FileInfo.GRAY16_SIGNED) || (fi.fileType == FileInfo.GRAY16_UNSIGNED)) {
-                        for (int i = 0; i < length; i++) {
-                            // thomas 19.09.06 ajout velocity
-                            // if ((SCALETYPE == wavelength) || (SCALETYPE == velocity)) {
-
-                            //   yValues[length - 1 - i] = (float) (bscale * (shortpixels[i]) + bzero);
-                            //} else
-
-                            yValues[i] = (float) (bzero + bscale * shortpixels[i]);
-
-                        }
-                    } else {
-                        for (int i = 0; i < length; i++) {
-                            //if (SCALETYPE == wavelength) {
-                            //    yValues[length - 1 - i] = (float)  (floatpixels[i]) ;
-                            //}else{
-                            yValues[i] = (float) (bzero + bscale * floatpixels[i]);
-                        }
-                    }
-
-//                    // Test Spectrum
-//                    SpectrumOptical spectrum = new SpectrumOptical(xValues, yValues);
-//                    spectrum.setFd(fd);
-//                    spectrum.setWave_ref(wave_ref);
-//                    spectrum.setDisplay(Spectrum.DISPLAY_DEFAULT);
-//                    PlotWindow pwtest = spectrum.plot();
-//                    pwtest.draw();
-//                    spectrum.setDisplay(Spectrum.DISPLAY_WAVELENGTH);
-//                    PlotWindow pwtest2 = spectrum.plot();
-//                    pwtest2.draw();
-
-                    /// LABELS
-                    switch (SCALETYPE) {
-                        case velocity:
-                            //EU_HOU Bundle
-                            xLabel = bun.getString("VelocityRS") + " (" + bun.getString("unitsVelocityRS") + ")";
-                            break;
-                        case frequency:
-                            //EU_HOU Bundle
-                            // xLabel = bun.getString("FrequencyRS") + " (" + bun.getString("unitsFrequencyRS") + ")";
-                            xLabel = bun.getString("FrequencyRS") + " (" + freqUnit + ")";
-                            break;
-                        case wavelength:
-                            //EU_HOU Bundle
-                            // xLabel = bun.getString("WavelengthRS") + " (" + bun.getString("unitsWavelengthRS") + ")";
-                            xLabel = bun.getString("WavelengthRS") + " (" + waveUnit + ")";
-                            break;
-                        default:
-                            pixel:
-                            //EU_HOU Bundle
-                            xLabel = bun.getString("ChannelRS");
-                            break;
-                    }
-
-                    PlotWindow.RadioSpectra = true;
-                    PlotWindow.Base_Line_subtracted = false;
-                    PlotWindow.Base_Line = false;
-                    PlotWindow.ZERO_LINE = false;
-                    //EU_HOU Bundle
-                    PlotWindow pw = new PlotWindow(IJ.getBundle().getString("PlotWinTitle") + "  " + fileName, xLabel, yLabel, xValues, yValues, imp);
-                    pw.draw();
-                }//optique
-            } else {
-                //EU_HOU Bundle
-                IJ.log("Error FITS decoder ");
-                IJ.error(bun.getString("error0"));
-            }
-
-            IJ.showStatus("");
         }
     }
 
@@ -641,8 +141,8 @@ public class RadioSpectrum_Reader implements PlugIn {
         if (dof <= ma) {
             //EU_HOU Bundle
             IJ.error(bun.getString("error1") /*
-                     * too few points to fit
-                     */);
+             * too few points to fit
+             */);
             return 0;
         }
 
@@ -776,9 +276,6 @@ public class RadioSpectrum_Reader implements PlugIn {
             res.close();
             res = null;
 
-
-
-
         }
     }
 
@@ -846,6 +343,518 @@ public class RadioSpectrum_Reader implements PlugIn {
         rdindex++;
     }
 
-    private void readSpectData() {
+    private PlotWindow readSpectData(InputStreamReader stream, String fileName, String directory) {
+        optique = true;
+        ArrayList xarray = new ArrayList();
+        ArrayList yarray = new ArrayList();
+        int cpt = 0;
+        String[] sp;
+        String s;
+        boolean xx = false;
+        try {
+
+            BufferedReader bf = new BufferedReader(stream);
+            String line = bf.readLine(); // header
+            while (line != null) {
+                line = bf.readLine();
+                if (line == null) {
+                    break;
+                }
+                //System.out.println("line " + line);
+                // chiffres séparés part des espaces
+                sp = line.split(" ");
+                xx = false;
+                for (int i = 0; i < sp.length; i++) {
+                    s = sp[i];
+                    if (s.length() > 0) {
+                        //System.out.println(i + " " + s + " " + cpt);
+                        if (!xx) {
+                            xarray.add(Float.parseFloat(sp[i]));
+                            xx = true;
+                        } else {
+                            yarray.add(Float.parseFloat(sp[i]));
+                        }
+                    }
+                }
+                cpt++;
+            }
+            double[] xtemp = new double[cpt];
+            double[] ytemp = new double[cpt];
+            for (int i = 0; i < cpt; i++) {
+                xtemp[i] = ((Float) xarray.get(i)).floatValue();
+                ytemp[i] = ((Float) yarray.get(i)).floatValue();
+            }
+            /////////////////// COMPUTE VALUES
+            double tmp_wave, tmp_freq, tmp_freq0;
+            int length = cpt;
+            double[] xValues = new double[length];
+            for (int i = 0; i < length; i++) {
+                tmp_wave = xtemp[i] / 10; // A to nanometers
+                tmp_freq = ((3.0E8 / (tmp_wave * 1.E-9))); // Hz
+                //tmp_freq0 = (float) (3.e8 / 589.0e-9); // Hz; 589.6
+                tmp_freq0 = (3.e17 / (wave_ref)); // Hz; 589.6
+                switch (SCALETYPE) {
+                    case pixel:
+                        xValues[i] = (i);
+                        break;
+                    case velocity:
+                        //xValues[length - 1 - i] = (float) (((i + 1 - length / 2) * deltav + fd.getVelolsr()) * 0.001);
+                        // thomas 19.09.06
+                        xValues[i] = ((3.e8 * (tmp_freq0 / tmp_freq - 1.0)) * 1e-3);
+                        break;
+                    case frequency:
+                        xValues[i] = ((tmp_freq) * 1e-12); // THz
+                        break;
+                    case wavelength:
+                        xValues[i] = (tmp_wave);
+                        break;
+                    default:
+                        xValues[i] = (i);
+                        break;
+                }
+            }
+            double[] yValues = new double[length];
+            System.arraycopy(ytemp, 0, yValues, 0, length);
+
+            /// LABELS
+            switch (SCALETYPE) {
+                case velocity:
+                    //EU_HOU Bundle
+                    xLabel = bun.getString("VelocityRS") + " (" + bun.getString("unitsVelocityRS") + ")";
+                    break;
+                case frequency:
+                    //EU_HOU Bundle
+                    // xLabel = bun.getString("FrequencyRS") + " (" + bun.getString("unitsFrequencyRS") + ")";
+                    xLabel = bun.getString("FrequencyRS") + " (" + freqUnit + ")";
+                    break;
+                case wavelength:
+                    //EU_HOU Bundle
+                    // xLabel = bun.getString("WavelengthRS") + " (" + bun.getString("unitsWavelengthRS") + ")";
+                    xLabel = bun.getString("WavelengthRS") + " (" + waveUnit + ")";
+                    break;
+                default:
+                    pixel:
+                    //EU_HOU Bundle
+                    xLabel = bun.getString("ChannelRS");
+                    break;
+            }
+
+            ////*/////////// PLOT //////////////////////////
+            ImagePlus impdata = new ImagePlus();
+            FloatProcessor ipdata = new FloatProcessor(cpt, 150);
+            impdata.setProcessor("data", ipdata);
+            FileInfo fi = new FileInfo();
+            fi.fileName = fileName;
+            fi.directory = directory;
+            impdata.setFileInfo(fi);
+            yLabel = bun.getString("IntensityRS");
+            PlotWindow.RadioSpectra = true;
+            PlotWindow.Base_Line_subtracted = false;
+            PlotWindow.Base_Line = false;
+            PlotWindow.ZERO_LINE = false;
+            PlotWindow pw = new PlotWindow(IJ.getBundle().getString("PlotWinTitle") + "  " + fileName, xLabel, yLabel, xValues, yValues, impdata);
+
+            return pw;
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(RadioSpectrum_Reader.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(RadioSpectrum_Reader.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        return null;
+    }
+
+    private PlotWindow readFITS(String fileName, String directory) {
+        ////////////////////// FITS
+        IJ.log("Opening FITS spectrum " + directory + " " + fileName);
+        FitsDecoder fd = new FitsDecoder(directory, fileName);
+        FileInfo fi = null;
+
+        try {
+            fi = fd.getInfo();
+        } catch (IOException e) {
+        }
+        System.out.print(fi.width + " " + fi.height + " " + fi.nImages);
+
+        //if (fi != null && fi.width > 0 && fi.height == 1 && fi.offset > 0 && fi.nImages == 1) {
+        if ((fi != null) && (fi.width > 0) && (fi.height > 0) && (fi.offset > 0) && (fi.nImages == 1)) {
+            System.out.print(fi.width + " " + fi.height + " " + fi.nImages);
+            fi.fileType = FileInfo.GRAY16_UNSIGNED;
+            FileOpener fo = new FileOpener(fi);
+            ImagePlus imp = fo.open(false);
+            ImageProcessor ip = imp.getProcessor();
+            ip.flipVertical();
+            Calibration cal = imp.getCalibration();
+            if (fi.height == 150) {
+                optique = true;
+            }
+
+            double bzero = fd.getBzero();
+            double bscale = fd.getBscale();
+
+            imp.setProperty("Info", fd.getHeaderInfo());
+            imp.setFileInfo(fi);
+            int length;
+            short[] shortpixels = null;
+            float[] floatpixels = null;
+            System.out.print(FileInfo.GRAY16_SIGNED);
+            if ((fi.fileType == FileInfo.GRAY16_SIGNED) || (fi.fileType == FileInfo.GRAY16_UNSIGNED)) {
+                shortpixels = (short[]) ip.getPixels();
+                length = shortpixels.length;
+            } else {
+                floatpixels = (float[]) ip.getPixels();
+                length = floatpixels.length;
+            }
+            //EU_HOU Bundle
+            xLabel = IJ.getPluginBundle().getString("ChannelRS");
+            /*
+             * switch (SCALETYPE) { case velocity: //EU_HOU Bundle //xLabel
+             * = bun.getString("VelocityRS") + " (" +
+             * bun.getString("unitsVelocityRS") + ")"; xLabel =
+             * bun.getString("VelocityRS") + "THZ"; break; case frequency:
+             * //EU_HOU Bundle xLabel = bun.getString("FrequencyRS") + " ("
+             * + bun.getString("unitsFrequencyRS") + ")"; xLabel =
+             * bun.getString("FrequencyRS") + " (" +
+             * bun.getString("unitsFrequencyRS") + ")"; break; case
+             * wavelength: //EU_HOU Bundle xLabel =
+             * bun.getString("WavelengthRS") + " (" +
+             * bun.getString("unitsWavelengthRS") + ")"; break; default:
+             * pixel: //EU_HOU Bundle xLabel = bun.getString("ChannelRS");
+             * break; }
+             */
+
+            //EU_HOU Bundle
+            yLabel = bun.getString("IntensityRS");
+
+            l = fd.getCrval2();
+            b = fd.getCrval3();
+
+            // PASSER EN DOUBLE (TB)
+            double[] xValues = new double[length];
+            IJ.showProgress(0);
+
+            double deltav;
+            double restfreq = fd.getRestfreq();
+            ///////////////////////////////////// RADIO /////////////////////
+            if (!optique) {
+                if (restfreq == 0.0) {
+                    restfreq = fd.getCrval1();
+                }
+                if ((fd.getDeltav() == 0.0) & (SCALETYPE == velocity)) {
+                    deltav = -3.0E8 * fd.getCdelt1() / restfreq; // SI m/s
+                    System.out.println(deltav);
+                } else {
+                    deltav = fd.getDeltav();
+                }
+                if (fd.getTelescop().startsWith("LAB-")) { // Lab 11/12/12 ALM -- data stored in VELO-LSR(=CTYPE1)
+                    for (int i = 0; i < length; i++) {
+                        switch (SCALETYPE) {
+                            case pixel:
+                                xValues[i] = (i);
+                                break;
+                            case velocity:
+                                xValues[i] = (((fd.getCrval1() + fd.getCdelt1() * ((i)) - fd.getCrpix1())) * 0.001);//km/s
+                                break;
+                            case frequency:
+                                xValues[i] = (restfreq * (1.e0 - ((fd.getCrval1() + fd.getCdelt1() * (((i)) - fd.getCrpix1()))) / 3.0e8) * 1.e-6);//MHz
+                                break;
+                            case wavelength:
+                                ///////////////////////////////////////////////
+                                xValues[i] = (3.0E+10 / restfreq / (1. - (fd.getCrval1() + fd.getCdelt1() * ((i) - fd.getCrpix1())) / 3.e8));//cm
+                                break;
+                            default:
+                                xValues[i] = (i);
+                                break;
+                        }
+                    }
+
+                } else { // SRT or Onsala 11/12/12 ALM
+                    for (int i = 0; i < length; i++) {
+                        switch (SCALETYPE) {
+                            case pixel:
+                                xValues[i] = (float) (i);
+                                break;
+                            case velocity:
+                                //xValues[length - 1 - i] = (float) (((i + 1 - length / 2) * deltav + fd.getVelolsr()) * 0.001);
+                                // thomas 19.09.06
+                                if (fd.getVelolsr() > 100) // m/s
+                                {
+                                    xValues[length - 1 - i] = (((((i) - fd.getCrpix1())) * deltav - fd.getVelolsr()) * 0.001 * 1.0f + (3.0E8 * (1.0f - fd.getCrval1() / restfreq)) * 0.001); //km/s
+                                }
+                                if (fd.getVelolsr() <= 100) //km/s
+                                {
+                                    xValues[length - 1 - i] = (((((i) - fd.getCrpix1())) * deltav * 0.001 - fd.getVelolsr()) * 1.0f + (3.0E8 * (1.0f - fd.getCrval1() / restfreq)) * 0.001); //km/s
+                                }
+                                break;
+                            case frequency:
+                                if (fd.getVelolsr() > 100) // m/s
+                                {
+                                    xValues[i] = (((fd.getCrval1() + fd.getCdelt1() * ((i) - fd.getCrpix1())) * 0.000001) + fd.getVelolsr() * restfreq / 3.e8 * 1.e-6);//MHz
+                                }
+                                if (fd.getVelolsr() <= 100) // km/s
+                                {
+                                    xValues[i] = (((fd.getCrval1() + fd.getCdelt1() * ((i) - fd.getCrpix1())) * 0.000001) + fd.getVelolsr() * 1.e3 * restfreq / 3.e8 * 1.e-6);//MHz
+                                }
+                                break;
+                            case wavelength:
+                                ///////////////////////////////////////////////
+                                //xValues[i] = (float) (fd.getCrval1() - (float) (i));
+                                if (fd.getVelolsr() > 100) // m/s
+                                {
+                                    xValues[i] = (3.0E+10 / (fd.getCrval1() + fd.getCdelt1() * (fd.getCrpix1() - (i)) + fd.getVelolsr() * restfreq / 3.e8));//cm
+                                }
+                                if (fd.getVelolsr() <= 100) //km/s
+                                {
+                                    xValues[i] = (3.0E+10 / (fd.getCrval1() + fd.getCdelt1() * (fd.getCrpix1() - (i)) + fd.getVelolsr() * 1.e3 * restfreq / 3.e8));//cm
+                                }
+                                break;
+                            default:
+                                xValues[i] = (i);
+                                break;
+                        }
+                    }
+                }
+                double[] yValues = new double[length];
+                double[] coeff = cal.getCoefficients();
+                if (coeff == null) {
+                    coeff = new double[2];
+                    coeff[0] = 0.0;
+                    coeff[1] = 1.0;
+                }
+                bzero = bscale * coeff[0] + bzero;
+                //coeff[1]*fd.getBzero()+coeff[0];
+                bscale = coeff[1] * bscale;
+
+                if ((fi.fileType == FileInfo.GRAY16_SIGNED) || (fi.fileType == FileInfo.GRAY16_UNSIGNED)) {
+                    for (int i = 0; i < length; i++) {
+                        // thomas 19.09.06 ajout velocity alm 10/12/12 modif
+                        if (fd.getTelescop().startsWith("LAB-")) { // LAB 11/12/12 ALM -- data stored in VELO-LSR
+                            if ((SCALETYPE == wavelength) || (SCALETYPE == velocity)) {
+                                yValues[length - 1 - i] = (float) (bscale * (shortpixels[i]) + bzero);
+                            } else {
+                                yValues[i] = (float) (bscale * (shortpixels[i]) + bzero);
+                            }
+                        } // srt
+                        else {
+                            if ((SCALETYPE == wavelength) || (SCALETYPE == velocity)) {
+                                yValues[length - 1 - i] = (float) (bscale * (shortpixels[i]) + bzero);
+                            } else {
+                                yValues[i] = (float) (bscale * (shortpixels[i]) + bzero);
+                            }
+                        }
+                    }
+                } else {
+                    for (int i = 0; i < length; i++) {
+                        //if (SCALETYPE == wavelength) {
+                        //   yValues[length - 1 - i] = (float) (bscale * (floatpixels[i]) + bzero);
+                        //}
+                        yValues[i] = (float) (bscale * (floatpixels[i]) + bzero);
+                    }
+                }
+////////////////////////// Test Spectrum
+//                    SpectrumRadio spectrum = new SpectrumRadio(xValues, yValues);
+//                    spectrum.setFd(fd);
+//                    spectrum.setDisplay(Spectrum.DISPLAY_DEFAULT);
+//                    PlotWindow pwtest = spectrum.plot();
+//                    pwtest.draw();
+//
+//                    SpectrumRadio spectrum2 = new SpectrumRadio(xValues, yValues);
+//                    spectrum2.setFd(fd);
+//                    spectrum2.setDisplay(Spectrum.DISPLAY_VELOCITY);
+//                    PlotWindow pwtest2 = spectrum2.plot();
+//                    pwtest2.draw();
+////////////////////////// Test Spectrum                    
+
+                /// LABELS
+                freqUnit = "MHz";
+                waveUnit = "cm";
+                switch (SCALETYPE) {
+                    case velocity:
+                        //EU_HOU Bundle
+                        xLabel = bun.getString("VelocityRS") + " (" + bun.getString("unitsVelocityRS") + ")";
+                        break;
+                    case frequency:
+                        //EU_HOU Bundle
+                        // xLabel = bun.getString("FrequencyRS") + " (" + bun.getString("unitsFrequencyRS") + ")";
+                        xLabel = bun.getString("FrequencyRS") + " (" + freqUnit + ")";
+                        break;
+                    case wavelength:
+                        //EU_HOU Bundle
+                        // xLabel = bun.getString("WavelengthRS") + " (" + bun.getString("unitsWavelengthRS") + ")";
+                        xLabel = bun.getString("WavelengthRS") + " (" + waveUnit + ")";
+                        break;
+                    default:
+                        pixel:
+                        //EU_HOU Bundle
+                        xLabel = bun.getString("ChannelRS");
+                        break;
+                }
+
+                ////////////////////////// Test Spectrum
+//                    SpectrumRadio spectrum = new SpectrumRadio(xValues, yValues);
+//                    spectrum.setFd(fd);
+//                    spectrum.setDisplay(Spectrum.DISPLAY_DEFAULT);
+//                    PlotWindow pwtest = spectrum.plot();
+//                    pwtest.draw();
+//
+//                    SpectrumRadio spectrum2 = new SpectrumRadio(xValues, yValues);
+//                    spectrum2.setFd(fd);
+//                    spectrum2.setDisplay(Spectrum.DISPLAY_VELOCITY);
+//                    PlotWindow pwtest2 = spectrum2.plot();
+//                    pwtest2.draw();
+////////////////////////// Test Spectrum     
+                ImagePlus impdata = new ImagePlus();
+                FloatProcessor proc = new FloatProcessor(1, 1);
+                impdata.setProcessor("spectrum", proc);
+                fi.directory = directory;
+                fi.fileName = fileName;
+                impdata.setFileInfo(fi);
+
+                PlotWindow.RadioSpectra = true;
+                PlotWindow.Base_Line_subtracted = false;
+                PlotWindow.Base_Line = false;
+                PlotWindow.ZERO_LINE = false;
+                //EU_HOU Bundle
+                //IJ.log("spectre info " + impdata + " " + impdata.getOriginalFileInfo());
+                PlotWindow pw = new PlotWindow(IJ.getBundle().getString("PlotWinTitle") + "  " + fileName, xLabel, yLabel, xValues, yValues, impdata);
+
+                return pw;
+
+                //               pw.draw();
+                //Plot pw = new Plot(IJ.getBundle().getString("PlotWinTitle") + "  " + fileName, xLabel, yLabel, xValues, yValues, null, null);
+                //pw.show();
+            }
+///////////////////////////// OPTIQUE ///////////////////////////////////////
+            if (optique) {
+                length = fi.width;
+
+                xValues = new double[length];
+                if (restfreq == 0.0) {
+                    restfreq = 3.0E8 / (fd.getCrval1() * 1.e-10);
+                }
+                if ((fd.getDeltav() == 0.0) & (SCALETYPE == velocity)) {
+                    deltav = -fd.getCdelt1() / restfreq;
+
+                } else {
+                    deltav = fd.getDeltav();
+                }
+                double tmp_wave, tmp_freq, tmp_freq0;
+                for (int i = 0; i < length; i++) {
+
+                    tmp_wave = (fd.getCrval1() + fd.getCdelt1() * ((i))) * 0.1f; // nanometers
+                    tmp_freq = ((3.0E8 / (tmp_wave * 1.E-9))); // Hz
+                    //tmp_freq0 = (float) (3.e8 / 589.0e-9); // Hz; 589.6
+                    tmp_freq0 = (3.e17 / (wave_ref)); // Hz; 589.6
+                    switch (SCALETYPE) {
+                        case pixel:
+                            xValues[i] = (i);
+                            break;
+                        case velocity:
+                            //xValues[length - 1 - i] = (float) (((i + 1 - length / 2) * deltav + fd.getVelolsr()) * 0.001);
+                            // thomas 19.09.06
+                            xValues[i] = ((3.e8 * (tmp_freq0 / tmp_freq - 1.0)) * 1e-3);
+                            break;
+                        case frequency:
+                            xValues[i] = ((tmp_freq) * 1e-12); // THz
+                            break;
+                        case wavelength:
+                            xValues[i] = (tmp_wave);
+                            break;
+                        default:
+                            xValues[i] = (i);
+                            break;
+                    }
+                }
+
+                double[] yValues = new double[length];
+
+                double[] coeff = cal.getCoefficients();
+                if (coeff == null) {
+                    coeff = new double[2];
+                    coeff[0] = 0.0;
+                    coeff[1] = 1.0;
+
+                }
+                // ??
+                bscale = 2 * fi.width;
+                bzero = bscale * coeff[0] + bzero;
+                //coeff[1]*fd.getBzero()+coeff[0];
+                bscale = coeff[1] * bscale;
+
+                // TB
+                bzero = 32768;
+                bscale = 1;
+
+                if ((fi.fileType == FileInfo.GRAY16_SIGNED) || (fi.fileType == FileInfo.GRAY16_UNSIGNED)) {
+                    for (int i = 0; i < length; i++) {
+                            // thomas 19.09.06 ajout velocity
+                        // if ((SCALETYPE == wavelength) || (SCALETYPE == velocity)) {
+
+                        //   yValues[length - 1 - i] = (float) (bscale * (shortpixels[i]) + bzero);
+                        //} else
+                        yValues[i] = (bzero + bscale * shortpixels[i]);
+
+                    }
+                } else {
+                    for (int i = 0; i < length; i++) {
+                        //if (SCALETYPE == wavelength) {
+                        //    yValues[length - 1 - i] = (float)  (floatpixels[i]) ;
+                        //}else{
+                        yValues[i] = (bzero + bscale * floatpixels[i]);
+                    }
+                }
+
+//                    // Test Spectrum
+//                    SpectrumOptical spectrum = new SpectrumOptical(xValues, yValues);
+//                    spectrum.setFd(fd);
+//                    spectrum.setWave_ref(wave_ref);
+//                    spectrum.setDisplay(Spectrum.DISPLAY_DEFAULT);
+//                    PlotWindow pwtest = spectrum.plot();
+//                    pwtest.draw();
+//                    spectrum.setDisplay(Spectrum.DISPLAY_WAVELENGTH);
+//                    PlotWindow pwtest2 = spectrum.plot();
+//                    pwtest2.draw();
+                /// LABELS
+                switch (SCALETYPE) {
+                    case velocity:
+                        //EU_HOU Bundle
+                        xLabel = bun.getString("VelocityRS") + " (" + bun.getString("unitsVelocityRS") + ")";
+                        break;
+                    case frequency:
+                        //EU_HOU Bundle
+                        // xLabel = bun.getString("FrequencyRS") + " (" + bun.getString("unitsFrequencyRS") + ")";
+                        xLabel = bun.getString("FrequencyRS") + " (" + freqUnit + ")";
+                        break;
+                    case wavelength:
+                        //EU_HOU Bundle
+                        // xLabel = bun.getString("WavelengthRS") + " (" + bun.getString("unitsWavelengthRS") + ")";
+                        xLabel = bun.getString("WavelengthRS") + " (" + waveUnit + ")";
+                        break;
+                    default:
+                        pixel:
+                        //EU_HOU Bundle
+                        xLabel = bun.getString("ChannelRS");
+                        break;
+                }
+
+                PlotWindow.RadioSpectra = true;
+                PlotWindow.Base_Line_subtracted = false;
+                PlotWindow.Base_Line = false;
+                PlotWindow.ZERO_LINE = false;
+                //EU_HOU Bundle
+                PlotWindow pw = new PlotWindow(IJ.getBundle().getString("PlotWinTitle") + "  " + fileName, xLabel, yLabel, xValues, yValues, imp);
+
+                return pw;
+
+                // pw.draw();
+            }//optique
+        } else {
+            //EU_HOU Bundle
+            IJ.log("Error FITS decoder ");
+            IJ.error(bun.getString("error0"));
+        }
+
+        IJ.showStatus("");
+
+        return null;
     }
 }
