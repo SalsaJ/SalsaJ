@@ -2299,6 +2299,7 @@ public class ImagePlus implements ImageObserver, Measurements {
      *@param  y  Description of the Parameter
      */
     public void mouseClicked(int x, int y) {
+        IJ.log(x+", "+y);
     }
     /*
      *  EU_HOU END
