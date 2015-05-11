@@ -11,3 +11,4 @@ http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 - nom = library for reading FITS format
 - images=icons
 - skyview=sky coordinates for stars when using FITS images
+
