@@ -1,0 +1,769 @@
+#. extracted from properties/locale_PT.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-11 16:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [base]
+msgctxt "[base]"
+"[base]"
+msgid ""
+msgstr ""
+
+#: home
+msgid "\"InÃ­cio\""
+msgstr ""
+
+#: observer
+msgid "\"Observador\""
+msgstr ""
+
+#: simulator
+msgid "\"Simulador\""
+msgstr ""
+
+#: archive
+msgid "\"Arquivo\""
+msgstr ""
+
+#: credits
+msgid "\"Creditos\""
+msgstr ""
+
+#: radioTelescope
+msgid "\"RadioTelescÃ³pio\""
+msgstr ""
+
+#: login
+msgid "\"Login\""
+msgstr ""
+
+#: password
+msgid "\"Password\""
+msgstr ""
+
+#: password_confirmation
+msgid "\"confirme password\""
+msgstr ""
+
+#: first_name
+msgid "\"Nome\""
+msgstr ""
+
+#: last_name
+msgid "\"Apelido\""
+msgstr ""
+
+#: email
+msgid "\"Email\""
+msgstr ""
+
+#: country
+msgid "\"PaÃ­s\""
+msgstr ""
+
+#: language
+msgid "\"LÃ­ngua\""
+msgstr ""
+
+#: status
+msgid "\"Status\""
+msgstr ""
+
+#: motivation
+msgid "\"MotivaÃ§Ã£o\""
+msgstr ""
+
+#: register
+msgid "\"Registo\""
+msgstr ""
+
+#: status_1
+msgid "\"investigador\""
+msgstr ""
+
+#: status_2
+msgid "\"professor\""
+msgstr ""
+
+#: status_3
+msgid "\"estudante\""
+msgstr ""
+
+#: status_4
+msgid "\"outro\""
+msgstr ""
+
+#: Paris
+msgid "\"Paris 2m (FR)\""
+msgstr ""
+
+#: Cracovie
+msgid "\"KrakÃ³w (PL)\""
+msgstr ""
+
+#: Craiova
+msgid "\"Craiova (RO)\""
+msgstr ""
+
+#: Paris2
+msgid "\"Paris 3m (FR)\""
+msgstr ""
+
+#: Pampilhosa
+msgid "\"Pampilhosa da Serra (PT)\""
+msgstr ""
+
+#: Madrid
+msgid "\"Madrid (ES)\""
+msgstr ""
+
+#: to_login
+msgid "\"Log in\""
+msgstr ""
+
+#: register
+msgid "\"Crie a sua conta\""
+msgstr ""
+
+#: booking
+msgctxt "booking"
+msgid "\"Reserva\""
+msgstr ""
+
+#: myInformation
+msgid "\"Minhas informaÃ§Ãµes\""
+msgstr ""
+
+#: administration
+msgid "\"AdministraÃ§Ã£o\""
+msgstr ""
+
+#: account_requests
+msgid "\"Pedidos de conta\""
+msgstr ""
+
+#: delete_time_slots
+msgid "\"Apagar intervalos de tempo\""
+msgstr ""
+
+#: account_list
+msgid "\"Lista de contas\""
+msgstr ""
+
+#: webcam
+msgid "\"Webcam\""
+msgstr ""
+
+#: logout
+msgid "\"Log out\""
+msgstr ""
+
+#: forgotten_password
+msgid "\"Password esquecida\""
+msgstr ""
+
+#: date
+msgid "\"Data\""
+msgstr ""
+
+#: cancel_button
+msgid "\"Cancelamento\""
+msgstr ""
+
+#: enter_your_email
+msgid "\"Entre o seu email\""
+msgstr ""
+
+#: [info_errors]
+msgctxt "[info_errors]"
+msgid ""
+msgstr ""
+
+#: error_title
+msgid "\"HÃ¡ # erros\"       "
+msgstr ""
+
+#: empty_parameter_error
+msgid "\"nÃ£o pode estar vazio\""
+msgstr ""
+
+#: dont_exist
+msgid "\"nÃ£o existe\""
+msgstr ""
+
+#: too_short_parameter_error
+msgid "\"deve ter # caracteres pelo menos\" "
+msgstr ""
+
+#: login_cararcter_restraint_error
+msgid "\"deve ser a-z A-Z 0-9\""
+msgstr ""
+
+#: name_cararcter_restraint_error
+msgid "'os caracteres sÃ³ podem ser letras, nÃºmeros e \"_\"'"
+msgstr ""
+
+#: login_not_available_error
+msgctxt "login_not_available_error"
+msgid "\"nÃ£o disponÃ­vel\""
+msgstr ""
+
+#: incorrect_password_error
+msgid "\"estÃ¡ incorrecto\""
+msgstr ""
+
+#: mail_incorrect_shape_error
+msgid "\"deve ser da forma : toto@tata.pt\""
+msgstr ""
+
+#: mail_not_available_error
+msgid "\"jÃ¡ estÃ¡ relacionado com outra conta\""
+msgstr ""
+
+#: date_in_the_past_error
+msgid "\"nÃ£o pode estar no passado\""
+msgstr ""
+
+#: radiotelescope_not_available_error
+msgctxt "radiotelescope_not_available_error"
+msgid "\"nÃ£o disponÃ­vel\""
+msgstr ""
+
+#: is_not_a_date_error
+msgid "\"nÃ£o Ã© uma data\""
+msgstr ""
+
+#: [index]
+msgctxt "[index]"
+msgid ""
+msgstr ""
+
+#: welcome
+msgid "\"Bem vindo\""
+msgstr ""
+
+#: welcome_txt
+msgid ""
+"\"<span class='date'>24 Novembro, 2011</span> | RadioAstronomia EU-"
+"HOU.<br/>Bem vindo ao EU-HOU. Este site proporciona o acesso ao Pequeno "
+"RadiotelescÃ³pio SRT instalado na Pampilhosa da Serra. Ã possÃ­vel operar "
+"este telescÃ³pio remotamente. A partir das suas observaÃ§Ãµes, poderÃ¡ "
+"construir um mapa da nossa galÃ¡xia, a Via LÃ¡ctea...\""
+msgstr ""
+
+#: observer_txt
+msgid ""
+"\"Interface Web para uso remoto da Antena. Um login e password sÃ£o "
+"requeridos para aceder a este instrumento.\""
+msgstr ""
+
+#: simulator_txt
+msgid ""
+"\"Interface Web para aceder Ã  base de dados LAB e Ã s ferramentas para "
+"interactivamente executar o exercÃ­cio MW  (curva de rotaÃ§Ã£o e braÃ§os "
+"espirais)\" "
+msgstr ""
+
+#: archive_txt
+msgid ""
+"\"Base de dados das observaÃ§Ãµes das 6-antenas Europeias com ferramentas "
+"para (i) mostrar/download os resultados arquivados (ii) construir um mapa da "
+"Via LÃ¡ctea.\""
+msgstr ""
+
+#: msg_registred
+msgid "\"EstÃ¡ registado, espere pela confirmaÃ§Ã£o electrÃ³nica (email).\""
+msgstr ""
+
+#: msg_dont_touch_parameters
+msgid "\"NÃ£o mude os parÃ¢metros\""
+msgstr ""
+
+#: msg_need_a_password
+msgid "\"Introduza uma password\""
+msgstr ""
+
+#: msg_need_a_login
+msgid "\"Introduze um login\""
+msgstr ""
+
+#: msg_login_password_incorrect
+msgid "\"O seu login e/ou password estÃ£o incorrectos\""
+msgstr ""
+
+#: msg_not_valid_account
+msgid "\"A sua conta ainda nÃ£o foi validada\""
+msgstr ""
+
+#: msg_not_allowed
+msgid "\"NÃ£o tem permissÃ£o para ir para esta pÃ¡gina\""
+msgstr ""
+
+#: msg_not_reserved
+msgid "\"Neste momento nÃ£o tem qualquer reserva\""
+msgstr ""
+
+#: msg_wait_for_validation
+msgid "\"JÃ¡ validou o seu email, por favor espere pela validaÃ§Ã£o da admin\""
+msgstr ""
+
+#: msg_already_valid
+msgid "\"A sua conta jÃ¡ estÃ¡ vÃ¡lida, pode reservar tempos de observaÃ§Ã£o\""
+msgstr ""
+
+#: msg_deleted_account
+msgid "\"A sua conta foi apagada. Crie outra conta.\""
+msgstr ""
+
+#: msg_validated_account
+msgid ""
+"\"Email validado. Precisa que um administrador valide a sua conta, dependendo "
+"aquela da sua motivaÃ§Ã£o. ReceverÃ¡ um email quando estiver pronto.\""
+msgstr ""
+
+#: msg_broken_link
+msgid "\"Desculpe, nÃ£o funcionou. Por favor, crie uma nova conta.\""
+msgstr ""
+
+#: [login]
+msgctxt "[login]"
+msgid ""
+msgstr ""
+
+#: enter_login_password
+msgid "\"Entre o seu login e password\""
+msgstr ""
+
+#: [register]
+msgctxt "[register]"
+msgid ""
+msgstr ""
+
+#: register_title
+msgid "\"Criar uma conta para efectuar reservas e observar\""
+msgstr ""
+
+#: [booking]
+msgctxt "[booking]"
+msgid ""
+msgstr ""
+
+#: scheduler_title
+msgid "\"CalendarizaÃ§Ã£o\""
+msgstr ""
+
+#: date_of_reservation
+msgid "\"Data de reserva (UTC)\""
+msgstr ""
+
+#: duration
+msgid "\"DuraÃ§Ã£o\""
+msgstr ""
+
+#: reserve
+msgctxt "reserve"
+msgid "\"Reserva\""
+msgstr ""
+
+#: this_week
+msgid "\"esta semana\""
+msgstr ""
+
+#: date_UTC
+msgid "\"data (UTC)\""
+msgstr ""
+
+#: [userPage]
+msgctxt "[userPage]"
+msgid ""
+msgstr ""
+
+#: user_page_title
+msgid "\"As minhas informaÃ§Ãµes\""
+msgstr ""
+
+#: my_slot
+msgid "\"Os meus tempos de observaÃ§Ã£o\""
+msgstr ""
+
+#: my_data
+msgid "\"Os meus dados\""
+msgstr ""
+
+#: no_futur_reservation_message
+msgid "\"VocÃª nÃ£o tem reserva futura\""
+msgstr ""
+
+#: change_button
+msgid "\"Editar\""
+msgstr ""
+
+#: valid_change_button
+msgid "\"MudanÃ§a vÃ¡lida\""
+msgstr ""
+
+#: delete_account_button
+msgid "\"Apagar a minha conta\""
+msgstr ""
+
+#: delete_time_slote
+msgid "\"apagar\""
+msgstr ""
+
+#: [credits]
+msgctxt "[credits]"
+msgid ""
+msgstr ""
+
+#: credits_title
+msgid "\"CrÃ©ditos\""
+msgstr ""
+
+#: credits_disclaimer[]
+msgid "\"Este projecto foi financiado com o apoio da ComissÃ£o Europeia.\""
+msgstr ""
+
+#: credits_disclaimer[]
+msgid ""
+"\"Esta publicaÃ§Ã£o [comunicaÃ§Ã£o] reflecte somente as opiniÃµes do(s) "
+"autor(es),\""
+msgstr ""
+
+#: credits_disclaimer[]
+msgid ""
+"\"e a ComissÃ£o nÃ£o Ã© responsÃ¡vel por quaisquer usos da informaÃ§Ã£o aqui "
+"disponibilizada.\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Imagens e dados de :\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Kalberla, P.M.W. et al., 2005, A&A, 440, 775\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Mellinger, A., 2009, PASP, 121, 1180\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Schlegel, D.J., 1998, ApJ, 500, 525\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Site optimizado para FireFox / Chrome / Safari\""
+msgstr ""
+
+#: credits_contact
+msgid "\"Contacto\""
+msgstr ""
+
+#: credits_copyright
+msgid ""
+"\"Copyright@Eu-hou - Design/Conception Antoine Radiguet - Philippe SalomÃ©\""
+msgstr ""
+
+#: [mail]
+msgctxt "[mail]"
+msgid ""
+msgstr ""
+
+#: hello_user[]
+msgid "\"OlÃ¡ #,\" "
+msgstr ""
+
+#: hello_user[]
+msgctxt "hello_user[]"
+msgid "\"\""
+msgstr ""
+
+#: thank_user[]
+msgctxt "thank_user[]"
+msgid "\"\""
+msgstr ""
+
+#: thank_user[]
+msgid "\"Obrigado\""
+msgstr ""
+
+#: thank_user[]
+msgid "\"A equipa de observaÃ§Ã£o\""
+msgstr ""
+
+#: email_validation_subject
+msgid "\"ConfirmaÃ§Ã£o de email\""
+msgstr ""
+
+#: email_validation_mail[]
+msgid "\"Obrigado por criar a sua conta\""
+msgstr ""
+
+#: email_validation_mail[]
+msgid "\"Para validar o seu email, clique no atalho abaixo\""
+msgstr ""
+
+#: email_validation_mail[]
+msgid ""
+"'<a href=\"http://euhou.obspm.fr/public/validEmail.php?login=#&validation=#\">"
+"Atalho de ValidaÃ§Ã£o</a>'"
+msgstr ""
+
+#: time_confirmation_subject
+msgid "\"ConfirmaÃ§Ã£o da reserva\""
+msgstr ""
+
+#: time_confirmation_mail[]
+msgid "\"A sua reserva foi guardada\""
+msgstr ""
+
+#: time_confirmation_mail[]
+msgid "\"Pode usar o radiotelescÃ³pio # Ã s # durante # hora(s)\" "
+msgstr ""
+
+#: password_recovery_subject
+msgid "\"RecuperaÃ§Ã£o da Password\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgid "\"Esqueceu a sua password ?\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgid "\"Para recuperar a sua conta, por favor clique no atalho abaixo\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgid ""
+"'<a href=\"http://euhou.obspm.fr/public/passwordRecover.php?login=#&validatio"
+"n=#\">atalho de recuperaÃ§Ã£o</a>'"
+msgstr ""
+
+#: password_recovery_mail[]
+msgctxt "password_recovery_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgid "\"Se nÃ£o pediu a recuperaÃ§Ã£o da password, por favor contacte a admin\""
+msgstr ""
+
+#: user_registration_admin_notification_subject
+msgid "\"Registo de utilizador\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgid "\"OlÃ¡ Admin\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgctxt "user_registration_admin_notification_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgid "\"Apenas registo de utilizador\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgid ""
+"\"<br/><a href='http://euhou.obspm.fr/public/validUserList.php' >atalho</a>\""
+msgstr ""
+
+#: account_validated_subject
+msgctxt "account_validated_subject"
+msgid "\"A sua conta foi validada\""
+msgstr ""
+
+#: account_validated_mail[]
+msgctxt "account_validated_mail[]"
+msgid "\"A sua conta foi validada\""
+msgstr ""
+
+#: account_validated_mail[]
+msgid "\"Pode reservar um intervalo de tempo para observar\""
+msgstr ""
+
+#: delete_reservation_subject
+msgid "\"As suas reservas foram apagadas\""
+msgstr ""
+
+#: delete_reservation_notification
+msgid ""
+"\"A sua reserva no radiotelescÃ³pio # de # a # foram apagadas por um admin do "
+"site web.\" "
+msgstr ""
+
+#: delete_reservations_notification
+msgid "\"A sua reserva no radiotelescÃ³pio # de :\" "
+msgstr ""
+
+#: delete_reservations_list
+msgid "\"# a #;\" "
+msgstr ""
+
+#: delete_reservations_deleted
+msgid "\"foi apagado por um admin do site web.\""
+msgstr ""
+
+#: delete_reservations_contact
+msgid "\"para mais informaÃ§Ã£o, por favor contacte um admin.\""
+msgstr ""
+
+#: [archives]
+msgctxt "[archives]"
+msgid ""
+msgstr ""
+
+#: archives_title
+msgid "\"Arquivos Comenius\""
+msgstr ""
+
+#: id
+msgid "\"Id\""
+msgstr ""
+
+#: user
+msgid "\"Utilizador\""
+msgstr ""
+
+#: all
+msgid "\"Todos\""
+msgstr ""
+
+#: num
+msgid "\"Num\""
+msgstr ""
+
+#: download_selected_fits
+msgid "\"download Fits seleccionados\""
+msgstr ""
+
+#: download_selected_CSV
+msgid "\"download CSV seleccionados\""
+msgstr ""
+
+#: [simulator]
+msgctxt "[simulator]"
+msgid ""
+msgstr ""
+
+#: simulator_title
+msgid "\"Simulador Comenius\""
+msgstr ""
+
+#: [observator]
+msgctxt "[observator]"
+msgid ""
+msgstr ""
+
+#: command
+msgid "\"Comando\""
+msgstr ""
+
+#: results
+msgid "\"Resultados\""
+msgstr ""
+
+#: freq
+msgid "\"freq\""
+msgstr ""
+
+#: time
+msgid "\"Tempo\""
+msgstr ""
+
+#: observe
+msgid "\"Observe\""
+msgstr ""
+
+#: end_of_session
+msgid "\"Fim da sessÃ£o\""
+msgstr ""
+
+#: base
+msgid "\"base\""
+msgstr ""
+
+#: [application]
+msgctxt "[application]"
+msgid ""
+msgstr ""
+
+#: galaxie_plan_radio
+msgid "\"Radio H21\""
+msgstr ""
+
+#: galaxie_plan_optic
+msgid "\"Ãptico\""
+msgstr ""
+
+#: galaxie_plan_infrarouge
+msgid "\"Infravermelho\""
+msgstr ""
+
+#: visibility
+msgid "\"Visibilidade\""
+msgstr ""
+
+#: spectrum_legend
+msgid "\"T [K] .vs. V [km/s]\""
+msgstr ""
+
+#: spectrum_send_max
+msgid "\"enviar max\""
+msgstr ""
+
+#: spectrum_clean
+msgid "\"limpar\""
+msgstr ""
+
+#: control_longitude
+msgid "\"Lon\""
+msgstr ""
+
+#: control_latitude
+msgid "\"Lat\""
+msgstr ""
+
+#: simulate
+msgid "\"Simular\""
+msgstr ""
+
+#: rotation_curve
+msgid "\"Curva de RotaÃ§Ã£o\""
+msgstr ""
+
+#: galaxie_map
+msgid "\"Mapa da GalÃ¡xia\""
+msgstr ""
+
+#: clean_all
+msgid "\"Limpar tudo\""
+msgstr ""
+
+#: clean_last
+msgid "\"Limpar Ãºltimo\""
+msgstr ""
+
+#: rotation_curve_title
+msgid "\"Curvas de RotaÃ§Ã£o V [km/s] .vs. R [kpc]\""
+msgstr ""
+
+#: galaxie_map_title
+msgid "\"Mapa da Via LÃ¡ctea X [kpc] , Y [kpc]\""
+msgstr ""

@@ -1,0 +1,789 @@
+#. extracted from locale_EN.properties, locale_PT.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-11 13:00+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [base]
+msgctxt "[base]"
+"[base]"
+msgid ""
+msgstr ""
+
+#: home
+msgid "\"Home\""
+msgstr "\"InÃ­cio\""
+
+#: observer
+msgid "\"Observer\""
+msgstr "\"Observador\""
+
+#: simulator
+msgid "\"Simulator\""
+msgstr "\"Simulador\""
+
+#: archive
+msgid "\"Archive\""
+msgstr "\"Arquivo\""
+
+#: credits
+msgctxt "credits"
+msgid "\"Credits\""
+msgstr "\"Creditos\""
+
+#: radioTelescope
+msgid "\"radio telescope\""
+msgstr "\"RadioTelescÃ³pio\""
+
+#: login
+msgid "\"Username\""
+msgstr "\"Login\""
+
+#: password
+msgid "\"Password\""
+msgstr "\"Password\""
+
+#: password_confirmation
+msgid "\"Password confirmation\""
+msgstr "\"confirme password\""
+
+#: first_name
+msgid "\"First name\""
+msgstr "\"Nome\""
+
+#: last_name
+msgid "\"Last name\""
+msgstr "\"Apelido\""
+
+#: email
+msgid "\"Email\""
+msgstr "\"Email\""
+
+#: country
+msgid "\"Country\""
+msgstr "\"PaÃ­s\""
+
+#: language
+msgid "\"Language\""
+msgstr "\"LÃ­ngua\""
+
+#: status
+msgid "\"Status\""
+msgstr "\"Status\""
+
+#: motivation
+msgid "\"Motivation\""
+msgstr "\"MotivaÃ§Ã£o\""
+
+#: status_1
+msgid "\"researcher\""
+msgstr "\"investigador\""
+
+#: status_2
+msgid "\"teacher\""
+msgstr "\"professor\""
+
+#: status_3
+msgid "\"student\""
+msgstr "\"estudante\""
+
+#: status_4
+msgid "\"other\""
+msgstr "\"outro\""
+
+#: Paris
+msgid "\"Paris 2m (FR)\""
+msgstr "\"Paris 2m (FR)\""
+
+#: Cracovie
+msgid "\"Krakow (PL)\""
+msgstr "\"KrakÃ³w (PL)\""
+
+#: Craiova
+msgid "\"Craiova (RO)\""
+msgstr "\"Craiova (RO)\""
+
+#: Paris2
+msgid "\"Paris 3m (FR)\""
+msgstr "\"Paris 3m (FR)\""
+
+#: Madrid
+msgid "\"Madrid (ES)\""
+msgstr "\"Madrid (ES)\""
+
+#: to_login
+msgid "\"Log in\""
+msgstr "\"Log in\""
+
+#: register
+msgid "\"Create your account\""
+msgstr ""
+
+#: booking
+msgid "\"Booking\""
+msgstr "\"Reserva\""
+
+#: myInformation
+msgid "\"My informations\""
+msgstr "\"Minhas informaÃ§Ãµes\""
+
+#: administration
+msgid "\"Administration\""
+msgstr "\"AdministraÃ§Ã£o\""
+
+#: account_requests
+msgid "\"Account Requests\""
+msgstr "\"Pedidos de conta\""
+
+#: delete_time_slots
+msgid "\"Delete time slots\""
+msgstr "\"Apagar intervalos de tempo\""
+
+#: account_list
+msgid "\"Account list\""
+msgstr "\"Lista de contas\""
+
+#: webcam
+msgid "\"Webcam\""
+msgstr "\"Webcam\""
+
+#: logout
+msgid "\"Log out\""
+msgstr "\"Log out\""
+
+#: forgotten_password
+msgid "\"Password forgotten\""
+msgstr "\"Password esquecida\""
+
+#: date
+msgid "\"Date\""
+msgstr "\"Data\""
+
+#: cancel_button
+msgid "\"Cancel\""
+msgstr "\"Cancelamento\""
+
+#: enter_your_email
+msgid "\"Enter your email\""
+msgstr "\"Entre o seu email\""
+
+#: [info_errors]
+msgctxt "[info_errors]"
+msgid ""
+msgstr ""
+
+#: error_title
+msgid "\"There are # errors\"       ; There are 3 errors"
+msgstr "\"HÃ¡ # erros\"       ; There is 3 errors"
+
+#: empty_parameter_error
+msgid "\"cannot be empty\""
+msgstr "\"nÃ£o pode estar vazio\""
+
+#: dont_exist
+msgid "\"doesn't exist\""
+msgstr "\"nÃ£o existe\""
+
+#: too_short_parameter_error
+msgid "\"must have at least # characters\" ; must have at least 8 characters "
+msgstr "\"deve ter # caracteres pelo menos\" ; must have 8 characters at least"
+
+#: login_cararcter_restraint_error
+msgid "\"must consist of a-z A-Z 0-9\""
+msgstr "\"deve ser a-z A-Z 0-9\""
+
+#: name_cararcter_restraint_error
+msgid "'cannot contain characters other than letters, numbers and \"_\"'"
+msgstr "'os caracteres sÃ³ podem ser letras, nÃºmeros e \"_\"'"
+
+#: login_not_available_error
+msgid "\"is not available\""
+msgstr "\"nÃ£o disponÃ­vel\""
+
+#: incorrect_password_error
+msgid "\"is incorrect\""
+msgstr "\"estÃ¡ incorrecto\""
+
+#: mail_incorrect_shape_error
+msgid "\"must be have the format: toto@tata.net\""
+msgstr "\"deve ser da forma : toto@tata.pt\""
+
+#: mail_not_available_error
+msgid "\"already related to another account\""
+msgstr "\"jÃ¡ estÃ¡ relacionado com outra conta\""
+
+#: date_in_the_past_error
+msgid "\"date cannot be in the past\""
+msgstr "\"nÃ£o pode estar no passado\""
+
+#: radiotelescope_not_available_error
+msgid "\"not available\""
+msgstr "\"nÃ£o disponÃ­vel\""
+
+#: is_not_a_date_error
+msgid "\"is not a date\""
+msgstr "\"nÃ£o Ã© uma data\""
+
+#: [index]
+msgctxt "[index]"
+msgid ""
+msgstr ""
+
+#: welcome
+msgid "\"Welcome\""
+msgstr "\"Bem vindo\""
+
+#: welcome_txt
+msgid ""
+"\"<span class='date'>November 24, 2011</span> | EU-HOU radio "
+"astronomy<br/>Welcome to Hands-On Universe, Europe. The aim of this site is "
+"to give remote access to small radio telescopes installed throughout Europe. "
+"It is possible to operate these telescopes remotly.  Based on your "
+"observations, you will be able to build a map of our galaxy, the Milky "
+"Way...\""
+msgstr ""
+"\"<span class='date'>24 Novembro, 2011</span> | RadioAstronomia EU-"
+"HOU.<br/>Bem vindo ao EU-HOU. Este site proporciona o acesso ao Pequeno "
+"RadiotelescÃ³pio SRT instalado na Pampilhosa da Serra. Ã possÃ­vel operar "
+"este telescÃ³pio remotamente. A partir das suas observaÃ§Ãµes, poderÃ¡ "
+"construir um mapa da nossa galÃ¡xia, a Via LÃ¡ctea...\""
+
+#: observer_txt
+msgid ""
+"\"Web interface to remotely use the Antenna. A login and password are "
+"required to access this facility.\""
+msgstr ""
+"\"Interface Web para uso remoto da Antena. Um login e password sÃ£o "
+"requeridos para aceder a este instrumento.\""
+
+#: simulator_txt
+msgid ""
+"\"Web interface to access the LAB database and tools to interactively perform "
+"the Milky Way-exercise (rotation curve and spiral arms)\" "
+msgstr ""
+"\"Interface Web para aceder Ã  base de dados LAB e Ã s ferramentas para "
+"interactivamente executar o exercÃ­cio MW  (curva de rotaÃ§Ã£o e braÃ§os "
+"espirais)\" "
+
+#: archive_txt
+msgid ""
+"\"Database of the all the observations taken with the 5 antennas together "
+"with tools to (i) display and download the archived results and (ii) create "
+"a map of the Milky Way.\""
+msgstr ""
+"\"Base de dados das observaÃ§Ãµes das 6-antenas Europeias com ferramentas "
+"para (i) mostrar/download os resultados arquivados (ii) construir um mapa da "
+"Via LÃ¡ctea.\""
+
+#: msg_registred
+msgid "\"You have been registered; please wait for the comfirmation email\""
+msgstr "\"EstÃ¡ registado, espere pela confirmaÃ§Ã£o electrÃ³nica (email).\""
+
+#: msg_dont_touch_parameters
+msgid "\"Don't modify the link\""
+msgstr "\"NÃ£o mude os parÃ¢metros\""
+
+#: msg_need_a_password
+msgid "\"You must give a password\""
+msgstr "\"Introduza uma password\""
+
+#: msg_need_a_login
+msgid "\"You must give a login\""
+msgstr "\"Introduze um login\""
+
+#: msg_login_password_incorrect
+msgid "\"Your login or password is incorrect\""
+msgstr "\"O seu login e/ou password estÃ£o incorrectos\""
+
+#: msg_not_valid_account
+msgid "\"Your account hasn't been validated yet\""
+msgstr "\"A sua conta ainda nÃ£o foi validada\""
+
+#: msg_not_allowed
+msgid "\"you are not allowed to go on this page\""
+msgstr "\"NÃ£o tem permissÃ£o para ir para esta pÃ¡gina\""
+
+#: msg_not_reserved
+msgid "\"you have no reservation for now\""
+msgstr "\"Neste momento nÃ£o tem qualquer reserva\""
+
+#: msg_wait_for_validation
+msgid ""
+"\"You've already validated your email, please wait for the admin validation\""
+msgstr "\"JÃ¡ validou o seu email, por favor espere pela validaÃ§Ã£o da admin\""
+
+#: msg_already_valid
+msgid "\"Your account is already valid, you can reserve time slots to observe\""
+msgstr "\"A sua conta jÃ¡ estÃ¡ vÃ¡lida, pode reservar tempos de observaÃ§Ã£o\""
+
+#: msg_deleted_account
+msgid "\"Your account has been deleted. Create another account\""
+msgstr "\"A sua conta foi apagada. Crie outra conta.\""
+
+#: msg_validated_account
+msgid ""
+"\"Your e-mail address has been validated. You now need to wait for an "
+"administator to validate your account, based on your motivation. You will "
+"received an email when your account has been approved and is active\""
+msgstr ""
+"\"Email validado. Precisa que um administrador valide a sua conta, dependendo "
+"aquela da sua motivaÃ§Ã£o. ReceverÃ¡ um email quando estiver pronto.\""
+
+#: msg_broken_link
+msgid "\"Sorry, it did not work. Please create a new account\""
+msgstr "\"Desculpe, nÃ£o funcionou. Por favor, crie uma nova conta.\""
+
+#: [login]
+msgctxt "[login]"
+msgid ""
+msgstr ""
+
+#: enter_login_password
+msgid "\"Enter your login and password\""
+msgstr "\"Entre o seu login e password\""
+
+#: [register]
+msgctxt "[register]"
+msgid ""
+msgstr ""
+
+#: register_title
+msgid "\"Create an account to make a reservation and observe\""
+msgstr "\"Criar uma conta para efectuar reservas e observar\""
+
+#: [booking]
+msgctxt "[booking]"
+msgid ""
+msgstr ""
+
+#: scheduler_title
+msgid "\"Scheduler\""
+msgstr "\"CalendarizaÃ§Ã£o\""
+
+#: date_of_reservation
+msgid "\"Date of reservation (UTC)\""
+msgstr "\"Data de reserva (UTC)\""
+
+#: duration
+msgid "\"Duration\""
+msgstr "\"DuraÃ§Ã£o\""
+
+#: reserve
+msgid "\"Reserve\""
+msgstr "\"Reserva\""
+
+#: this_week
+msgid "\"this week\""
+msgstr "\"esta semana\""
+
+#: date_UTC
+msgid "\"date (UTC)\""
+msgstr "\"data (UTC)\""
+
+#: [userPage]
+msgctxt "[userPage]"
+msgid ""
+msgstr ""
+
+#: user_page_title
+msgid "\"My information\""
+msgstr "\"As minhas informaÃ§Ãµes\""
+
+#: my_slot
+msgid "\"My slots\""
+msgstr "\"Os meus tempos de observaÃ§Ã£o\""
+
+#: my_data
+msgid "\"My data\""
+msgstr "\"Os meus dados\""
+
+#: no_futur_reservation_message
+msgid "\"You have no future reservations\""
+msgstr "\"VocÃª nÃ£o tem reserva futura\""
+
+#: change_button
+msgid "\"Edit\""
+msgstr "\"Editar\""
+
+#: valid_change_button
+msgid "\"Valid change\""
+msgstr "\"MudanÃ§a vÃ¡lida\""
+
+#: delete_account_button
+msgid "\"Delete my account\""
+msgstr "\"Apagar a minha conta\""
+
+#: delete_time_slote
+msgid "\"delete\""
+msgstr "\"apagar\""
+
+#: [credits]
+msgctxt "[credits]"
+msgid ""
+msgstr ""
+
+#: credits_title
+msgctxt "credits_title"
+msgid "\"Credits\""
+msgstr "\"CrÃ©ditos\""
+
+#: credits_disclaimer[]
+msgid ""
+"\"This project has been funded with support from the European Commission.\""
+msgstr ""
+
+#: credits_disclaimer[]
+msgid ""
+"\"This publication [communication] reflects the views only of the author,\""
+msgstr ""
+
+#: credits_disclaimer[]
+msgid ""
+"\"and the Commission cannot be held responsible for any use which may be made "
+"of the information contained therein.\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Images and data from:\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Kalberla, P.M.W. et al., 2005, A&A, 440, 775\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Mellinger, A., 2009, PASP, 121, 1180\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Schlegel, D.J., 1998, ApJ, 500, 525\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Site optimized for Firefox / Chrome / Safari\""
+msgstr ""
+
+#: credits_contact
+msgid "\"Contact\""
+msgstr "\"Contacto\""
+
+#: credits_copyright
+msgid ""
+"\"copyright@EU-HOU - Design/Conception Antoine Radiguet - Philippe SalomÃ©\""
+msgstr ""
+"\"Copyright@Eu-hou - Design/Conception Antoine Radiguet - Philippe SalomÃ©\""
+
+#: [mail]
+msgctxt "[mail]"
+msgid ""
+msgstr ""
+
+#: hello_user[]
+msgid "\"Hello #,\" ; Hello Login"
+msgstr ""
+
+#: hello_user[]
+msgctxt "hello_user[]"
+msgid "\"\""
+msgstr ""
+
+#: thank_user[]
+msgctxt "thank_user[]"
+msgid "\"\""
+msgstr ""
+
+#: thank_user[]
+msgid "\"Thank you\""
+msgstr ""
+
+#: thank_user[]
+msgid "\"The observatory team\""
+msgstr ""
+
+#: email_validation_subject
+msgid "\"Email confirmation\""
+msgstr "\"ConfirmaÃ§Ã£o de email\""
+
+#: email_validation_mail[]
+msgid "\"Thank you for creating your account\""
+msgstr ""
+
+#: email_validation_mail[]
+msgid "\"To validate your email, please click on the link below\""
+msgstr ""
+
+#: email_validation_mail[]
+msgid ""
+"'<a href=\"http://euhou.obspm.fr/public/validEmail.php?login=#&validation=#\">"
+"Validation link</a>' ; Translate only  \"Validation link\" "
+msgstr ""
+
+#: time_confirmation_subject
+msgid "\"Reservation confirmation\""
+msgstr "\"ConfirmaÃ§Ã£o da reserva\""
+
+#: time_confirmation_mail[]
+msgid "\"Your reservation have been saved\""
+msgstr ""
+
+#: time_confirmation_mail[]
+msgid ""
+"\"You can use the # radio telescope at # for # hour(s)\" ; You can use the "
+"Paris radiotelescope at 16h30 for 2 hour(s)"
+msgstr ""
+
+#: password_recovery_subject
+msgid "\"Password recovery\""
+msgstr "\"RecuperaÃ§Ã£o da Password\""
+
+#: password_recovery_mail[]
+msgid "\"Forgot your password?\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgid "\"To recover your account, please click on the link below\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgid ""
+"'<a href=\"http://euhou.obspm.fr/public/passwordRecover.php?login=#&validatio"
+"n=#\">recover link</a>'; Translate only  \"Recover link\" "
+msgstr ""
+
+#: password_recovery_mail[]
+msgctxt "password_recovery_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgid ""
+"\"If you haven't ask for password recovery, please contact the administrator\""
+msgstr ""
+
+#: user_registration_admin_notification_subject
+msgid "\"User registration\""
+msgstr "\"Registo de utilizador\""
+
+#: user_registration_admin_notification_mail[]
+msgid "\"Hello Admin\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgctxt "user_registration_admin_notification_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgid "\"A user has just registered\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgid ""
+"\"<br/><a href='http://euhou.obspm.fr/public/validUserList.php' >link</a>\"; "
+"Translate only  \"link\" "
+msgstr ""
+
+#: account_validated_subject
+msgctxt "account_validated_subject"
+msgid "\"Your account has been validated\""
+msgstr "\"A sua conta foi validada\""
+
+#: account_validated_mail[]
+msgctxt "account_validated_mail[]"
+msgid "\"Your account has been validated\""
+msgstr ""
+
+#: account_validated_mail[]
+msgid "\"You can reserve a time slot to observe\""
+msgstr ""
+
+#: delete_reservation_subject
+msgid "\"Your reservation(s) have been deleted\""
+msgstr "\"As suas reservas foram apagadas\""
+
+#: delete_reservation_notification
+msgid ""
+"\"Your reservation for the # radio telescope from # to # has been deleted by "
+"an admin of the website.\" ;Your reservation in the Paris radiotelescope from "
+"16h30 to 17h30 has been deleted by an administrator of the website.\""
+msgstr ""
+"\"A sua reserva no radiotelescÃ³pio # de # a # foram apagadas por um admin do "
+"site web.\" ;Your reservation in the Paris radiotelescope from 16h30 to "
+"17h30 have been deleted by an admin of the website.\""
+
+#: delete_reservations_notification
+msgid ""
+"\"Your reservations in the # radio telescope from :\" ; Your reservations in "
+"the Paris radio telescope from:"
+msgstr ""
+"\"A sua reserva no radiotelescÃ³pio # de :\" ; Your reservations in the Paris "
+"radiotelescope from:"
+
+#: delete_reservations_list
+msgid "\"# to #;\" ; 16h30 to 17h30"
+msgstr "\"# a #;\" ; 16h30 to 17h30"
+
+#: delete_reservations_deleted
+msgid "\"have been deleted by an administrator of the website.\""
+msgstr "\"foi apagado por um admin do site web.\""
+
+#: delete_reservations_contact
+msgid "\"for more information, please contact the administrator.\""
+msgstr "\"para mais informaÃ§Ã£o, por favor contacte um admin.\""
+
+#: [archives]
+msgctxt "[archives]"
+msgid ""
+msgstr ""
+
+#: archives_title
+msgid "\"Comenius archives\""
+msgstr "\"Arquivos Comenius\""
+
+#: id
+msgid "\"Id\""
+msgstr "\"Id\""
+
+#: user
+msgid "\"User\""
+msgstr "\"Utilizador\""
+
+#: all
+msgid "\"All\""
+msgstr "\"Todos\""
+
+#: num
+msgid "\"Num\""
+msgstr "\"Num\""
+
+#: download_selected_fits
+msgid "\"download selected Fits\""
+msgstr "\"download Fits seleccionados\""
+
+#: download_selected_CSV
+msgid "\"download selected CSV\""
+msgstr "\"download CSV seleccionados\""
+
+#: [simulator]
+msgctxt "[simulator]"
+msgid ""
+msgstr ""
+
+#: simulator_title
+msgid "\"Comenius-Simulator\""
+msgstr "\"Simulador Comenius\""
+
+#: [observator]
+msgctxt "[observator]"
+msgid ""
+msgstr ""
+
+#: command
+msgid "\"Command\""
+msgstr "\"Comando\""
+
+#: results
+msgid "\"Results\""
+msgstr "\"Resultados\""
+
+#: freq
+msgid "\"freq\""
+msgstr "\"freq\""
+
+#: time
+msgid "\"Time\""
+msgstr "\"Tempo\""
+
+#: observe
+msgid "\"Observe\""
+msgstr "\"Observe\""
+
+#: end_of_session
+msgid "\"End of session\""
+msgstr "\"Fim da sessÃ£o\""
+
+#: base
+msgid "\"base\""
+msgstr "\"base\""
+
+#: [application]
+msgctxt "[application]"
+msgid ""
+msgstr ""
+
+#: galaxie_plan_radio
+msgid "\"Radio H21\""
+msgstr "\"Radio H21\""
+
+#: galaxie_plan_optic
+msgid "\"Optics\""
+msgstr "\"Ãptico\""
+
+#: galaxie_plan_infrarouge
+msgid "\"Infrared\""
+msgstr "\"Infravermelho\""
+
+#: visibility
+msgid "\"Visibility\""
+msgstr "\"Visibilidade\""
+
+#: spectrum_legend
+msgid "\"T [K] .vs. V [km/s]\""
+msgstr "\"T [K] .vs. V [km/s]\""
+
+#: spectrum_send_max
+msgid "\"send max\""
+msgstr "\"enviar max\""
+
+#: spectrum_clean
+msgid "\"clean\""
+msgstr "\"limpar\""
+
+#: control_longitude
+msgid "\"Lon\""
+msgstr "\"Lon\""
+
+#: control_latitude
+msgid "\"Lat\""
+msgstr "\"Lat\""
+
+#: simulate
+msgid "\"Simulate\""
+msgstr "\"Simular\""
+
+#: rotation_curve
+msgid "\"Rotation Curve\""
+msgstr "\"Curva de RotaÃ§Ã£o\""
+
+#: galaxie_map
+msgid "\"Galaxy map\""
+msgstr "\"Mapa da GalÃ¡xia\""
+
+#: clean_all
+msgid "\"Clean all\""
+msgstr "\"Limpar tudo\""
+
+#: clean_last
+msgid "\"Clean last\""
+msgstr "\"Limpar Ãºltimo\""
+
+#: rotation_curve_title
+msgid "\"Rotation curves V [km/s] .vs. R [kpc]\""
+msgstr "\"Curvas de RotaÃ§Ã£o V [km/s] .vs. R [kpc]\""
+
+#: galaxie_map_title
+msgid "\"Map of the Milky Way X [kpc] , Y [kpc]\""
+msgstr "\"Mapa da Via LÃ¡ctea X [kpc] , Y [kpc]\""

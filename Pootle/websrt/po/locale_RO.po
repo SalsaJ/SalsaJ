@@ -1,0 +1,763 @@
+#. extracted from properties/locale_RO.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-11 16:22+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [base]
+msgctxt "[base]"
+"[base]"
+msgid ""
+msgstr ""
+
+#: home
+msgid "\"Acasa\""
+msgstr ""
+
+#: observer
+msgid "\"Observator\""
+msgstr ""
+
+#: simulator
+msgid "\"Simulator\""
+msgstr ""
+
+#: archive
+msgid "\"Arhiva\""
+msgstr ""
+
+#: credits
+msgctxt "credits"
+msgid "\"Multumiri\""
+msgstr ""
+
+#: radioTelescope
+msgid "\"radiotelescop\""
+msgstr ""
+
+#: login
+msgid "\"Login\""
+msgstr ""
+
+#: password
+msgid "\"Parola\""
+msgstr ""
+
+#: password_confirmation
+msgid "\"Confirmarea parolei\""
+msgstr ""
+
+#: first_name
+msgid "\"Prenume\""
+msgstr ""
+
+#: last_name
+msgid "\"Nume\""
+msgstr ""
+
+#: email
+msgid "\"Email\""
+msgstr ""
+
+#: country
+msgid "\"Tara\""
+msgstr ""
+
+#: language
+msgid "\"Limba\""
+msgstr ""
+
+#: status
+msgid "\"Status\""
+msgstr ""
+
+#: motivation
+msgid "\"Motivare\""
+msgstr ""
+
+#: register
+msgid "\"Inregistrare\""
+msgstr ""
+
+#: status_1
+msgid "\"cercetator\""
+msgstr ""
+
+#: status_2
+msgid "\"profesor\""
+msgstr ""
+
+#: status_3
+msgid "\"student\""
+msgstr ""
+
+#: status_4
+msgid "\"altceva\""
+msgstr ""
+
+#: Paris
+msgid "\"Paris 2m (FR)\""
+msgstr ""
+
+#: Cracovie
+msgid "\"Cracovia (PL)\""
+msgstr ""
+
+#: Craiova
+msgid "\"Craiova 3m (RO)\""
+msgstr ""
+
+#: Paris2
+msgid "\"Paris 3m (FR)\""
+msgstr ""
+
+#: to_login
+msgid "\"Log in\""
+msgstr ""
+
+#: register
+msgid "\"Creaza-ti cont\""
+msgstr ""
+
+#: booking
+msgid "\"Rezervare\""
+msgstr ""
+
+#: myInformation
+msgctxt "myInformation"
+msgid "\"Informatiile mele\""
+msgstr ""
+
+#: administration
+msgid "\"Administrare\""
+msgstr ""
+
+#: account_requests
+msgid "\"Creare cont\""
+msgstr ""
+
+#: delete_time_slots
+msgid "\"Sterge timpul alocat\""
+msgstr ""
+
+#: account_list
+msgid "\"Lista contului\""
+msgstr ""
+
+#: webcam
+msgid "\"Webcam\""
+msgstr ""
+
+#: logout
+msgid "\"Iesire\""
+msgstr ""
+
+#: forgotten_password
+msgid "\"Parola uitata\""
+msgstr ""
+
+#: date
+msgid "\"Date\""
+msgstr ""
+
+#: cancel_button
+msgid "\"Anulare\""
+msgstr ""
+
+#: enter_your_email
+msgid "\"Intoduceti adresa de email\""
+msgstr ""
+
+#: [info_errors]
+msgctxt "[info_errors]"
+msgid ""
+msgstr ""
+
+#: error_title
+msgid "\"Este o # eroare\"       "
+msgstr ""
+
+#: empty_parameter_error
+msgid "\"nu poate fi gol\""
+msgstr ""
+
+#: dont_exist
+msgid "\"nu exista\""
+msgstr ""
+
+#: too_short_parameter_error
+msgid "\"trebuie sa  # caractere cel putin\" "
+msgstr ""
+
+#: login_cararcter_restraint_error
+msgid "\"trebuie sa fie fara a-z A-Z 0-9\""
+msgstr ""
+
+#: name_cararcter_restraint_error
+msgid "'nu poate contine alte caractere decat litere, numere si \"_\"'"
+msgstr ""
+
+#: login_not_available_error
+msgctxt "login_not_available_error"
+msgid "\"nu este valabil\""
+msgstr ""
+
+#: incorrect_password_error
+msgid "\"este incorect\""
+msgstr ""
+
+#: mail_incorrect_shape_error
+msgid "\"trebuie sa aibe forma : toto@tata.fr\""
+msgstr ""
+
+#: mail_not_available_error
+msgid "\"deja alocat altui cont\""
+msgstr ""
+
+#: date_in_the_past_error
+msgid "\"nu poate fi in trecut\""
+msgstr ""
+
+#: radiotelescope_not_available_error
+msgctxt "radiotelescope_not_available_error"
+msgid "\"nu este valabil\""
+msgstr ""
+
+#: is_not_a_date_error
+msgid "\"nu este o data\""
+msgstr ""
+
+#: [index]
+msgctxt "[index]"
+msgid ""
+msgstr ""
+
+#: welcome
+msgid "\"Bine ati venit\""
+msgstr ""
+
+#: welcome_txt
+msgid ""
+"\"<span class='date'>November 24, 2011</span> | EU-HOU "
+"RadioAstronomy.<br/>Bine ati venit la EU-HOU.Tinta acestui site este de a da "
+"acces la radiotelescoape instalate in observatoarele din Paris "
+",Craiova,Cracovia,Madrid  .Deasemenea este posibil de a controla aceste "
+"radiotelescoape de la distanta.Din observatiile dumneavoastra veti putea "
+"creea o harta a galaxiei noastre Calea Lactee...\""
+msgstr ""
+
+#: observer_txt
+msgid ""
+"\"Interfata Web pentru controlul Antenei.Un nume si o parola este necesara "
+"pentru a acesa aceasta facilitate.\""
+msgstr ""
+
+#: simulator_txt
+msgid ""
+"\"Interfata Web pentru a acesa baza de date LAB si uneltele interactive "
+"necesare pentru exercitiile MW (curba de rotatie si bratele spirale)\" "
+msgstr ""
+
+#: archive_txt
+msgid ""
+"\"Baza de date a celor 5 Radiotelescoape cu uneltele necesare pentru (i) a "
+"afisa/descarca arhivele rezultate (ii) pentru a realiza o harta a Galaxiei.\""
+msgstr ""
+
+#: msg_registred
+msgid "\"Ati fost inregistrat, va rugam asteptati email-ul de confirmare\""
+msgstr ""
+
+#: msg_dont_touch_parameters
+msgid "\"Nu atinge parametrii\""
+msgstr ""
+
+#: msg_need_a_password
+msgid "\"Aveti nevoie de parola\""
+msgstr ""
+
+#: msg_need_a_login
+msgid "\"Trebuie sa dati un nume\""
+msgstr ""
+
+#: msg_login_password_incorrect
+msgid "\"Numele sau parola  incorect\""
+msgstr ""
+
+#: msg_not_valid_account
+msgid "\"Contul dumneavoastra nu a fost validat inca\""
+msgstr ""
+
+#: msg_not_allowed
+msgid "\"nu aveti permisiunea de a accesa aceasta pagina\""
+msgstr ""
+
+#: msg_not_reserved
+msgid "\"nu aveti nici o rezervare\""
+msgstr ""
+
+#: msg_wait_for_validation
+msgid ""
+"\"Aveti deja Email-ul validat, va rugam asteptati validarea Administratorului "
+"\""
+msgstr ""
+
+#: msg_already_valid
+msgid "\"Contul este validat ,puteti rezerva timp in orar pentru observatii\""
+msgstr ""
+
+#: msg_deleted_account
+msgid "\"Contul dumneavoastra a fost sters. Creati un alt cont\""
+msgstr ""
+
+#: msg_validated_account
+msgid ""
+"\"Email validat. Asteptati validarea contului de Administrator, avand in "
+"vedere si motivarea. Veti primi un  email de confirmare\""
+msgstr ""
+
+#: msg_broken_link
+msgid "\"Ne cerem scuze, nu functioneaza. Va rugam creati un nou cont\""
+msgstr ""
+
+#: [login]
+msgctxt "[login]"
+msgid ""
+msgstr ""
+
+#: enter_login_password
+msgid "\"Introduceti Numele si Parola\""
+msgstr ""
+
+#: [register]
+msgctxt "[register]"
+msgid ""
+msgstr ""
+
+#: register_title
+msgid ""
+"\"Creati un cont pentru a face rezervare si a incepe sa faceti observatii \""
+msgstr ""
+
+#: [booking]
+msgctxt "[booking]"
+msgid ""
+msgstr ""
+
+#: scheduler_title
+msgid "\"Orar\""
+msgstr ""
+
+#: date_of_reservation
+msgid "\"Data rezervarii (UTC)\""
+msgstr ""
+
+#: duration
+msgid "\"Durata\""
+msgstr ""
+
+#: reserve
+msgid "\"Rezervat\""
+msgstr ""
+
+#: this_week
+msgid "\"aceasta saptamana\""
+msgstr ""
+
+#: date_UTC
+msgid "\"data (UTC)\""
+msgstr ""
+
+#: [userPage]
+msgctxt "[userPage]"
+msgid ""
+msgstr ""
+
+#: user_page_title
+msgctxt "user_page_title"
+msgid "\"Informatiile mele\""
+msgstr ""
+
+#: my_slot
+msgid "\"Orarul meu\""
+msgstr ""
+
+#: my_data
+msgid "\"Datele mele\""
+msgstr ""
+
+#: no_futur_reservation_message
+msgid "\"Nu aveti rezervari viitoare\""
+msgstr ""
+
+#: change_button
+msgid "\"Edit\""
+msgstr ""
+
+#: valid_change_button
+msgid "\"Schimbare valida\""
+msgstr ""
+
+#: delete_account_button
+msgid "\"Sterge contul meu\""
+msgstr ""
+
+#: delete_time_slote
+msgid "\"sterge\""
+msgstr ""
+
+#: [credits]
+msgctxt "[credits]"
+msgid ""
+msgstr ""
+
+#: credits_title
+msgctxt "credits_title"
+msgid "\"Multumiri\""
+msgstr ""
+
+#: credits_disclaimer[]
+msgid "\"Acest proiect este sprijinit de Comisia Europeana.\""
+msgstr ""
+
+#: credits_disclaimer[]
+msgid "\"Aceasta publicatie reflecta doar punctul de vedere al autorului,\""
+msgstr ""
+
+#: credits_disclaimer[]
+msgid ""
+"\"Comisia Europeana nu poate fi facuta raspunzatoare pentru modul in care "
+"sunt folosite informatiile de pe acest site.\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Imagini si date de la:\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Kalberla, P.M.W. et al., 2005, A&A, 440, 775\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Mellinger, A., 2009, PASP, 121, 1180\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Schlegel, D.J., 1998, ApJ, 500, 525\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgid "\"Site optimizat pentru FireFox / Chrome / Safari\""
+msgstr ""
+
+#: credits_contact
+msgid "\"Contact\""
+msgstr ""
+
+#: credits_copyright
+msgid "\"Copyright@Eu-hou - Design/Concept Antoine Radiguet - Philippe SalomÃ©\""
+msgstr ""
+
+#: [mail]
+msgctxt "[mail]"
+msgid ""
+msgstr ""
+
+#: hello_user[]
+msgid "\"Salut #,\" "
+msgstr ""
+
+#: hello_user[]
+msgctxt "hello_user[]"
+msgid "\"\""
+msgstr ""
+
+#: thank_user[]
+msgctxt "thank_user[]"
+msgid "\"\""
+msgstr ""
+
+#: thank_user[]
+msgid "\"Multumesc\""
+msgstr ""
+
+#: thank_user[]
+msgid "\"Echipa observatorului\""
+msgstr ""
+
+#: email_validation_subject
+msgid "\"Confirmare Email\""
+msgstr ""
+
+#: email_validation_mail[]
+msgid "\"Va multumim ca ati creat un cont\""
+msgstr ""
+
+#: email_validation_mail[]
+msgid "\"Pentru a valida email ,va rugam sa dati clik pe link-ul de mai jos \""
+msgstr ""
+
+#: email_validation_mail[]
+msgid ""
+"'<a href=\"http://euhou.obspm.fr/public/validEmail.php?login=#&validation=#\">"
+"Validation link</a>' "
+msgstr ""
+
+#: time_confirmation_subject
+msgid "\"Rezervare confirmata\""
+msgstr ""
+
+#: time_confirmation_mail[]
+msgid "\"Rezervarea dumneavoastra a fost confirmata\""
+msgstr ""
+
+#: time_confirmation_mail[]
+msgid "\"Puteti folosi # radiotelescopul # pentru # ora (e)\" "
+msgstr ""
+
+#: password_recovery_subject
+msgid "\"Recuperarea parolei.\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgid "\"Ati uitat parola?.\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgid "\"Pentru recuperarea contului,va rugam dati clik pe link-ul de mai jos.\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgid ""
+"'<a href=\"http://euhou.obspm.fr/public/passwordRecover.php?login=#&validatio"
+"n=#\">recover link</a>'"
+msgstr ""
+
+#: password_recovery_mail[]
+msgctxt "password_recovery_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgid ""
+"\"Daca nu ati intrebat de recuperarea parolei,contactati Administratorul.\""
+msgstr ""
+
+#: user_registration_admin_notification_subject
+msgid "\"Inregistrare utilizator\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgid "\"Salut Admin.\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgctxt "user_registration_admin_notification_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgid "\"Un utilizator a fost inregistrat.\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgid ""
+"\"<br/><a href='http://euhou.obspm.fr/public/validUserList.php' >link</a>\""
+msgstr ""
+
+#: account_validated_subject
+msgctxt "account_validated_subject"
+msgid "\"Contul dumneavoastra a fost validat.\""
+msgstr ""
+
+#: account_validated_mail[]
+msgctxt "account_validated_mail[]"
+msgid "\"Contul dumneavoastra a fost validat.\""
+msgstr ""
+
+#: account_validated_mail[]
+msgid "\"Puteti rezerva timp pentru observatii.\""
+msgstr ""
+
+#: delete_reservation_subject
+msgid "\"Rezervarea dumneavoastra a fost stearsa.\""
+msgstr ""
+
+#: delete_reservation_notification
+msgid ""
+"\"Rezervarea dumneavoastra la # radiotelescopul din # la # a fost stearsa de "
+"Administratorul site-ului .\" "
+msgstr ""
+
+#: delete_reservations_notification
+msgid "\"Rezervarea dumneavoastra la # radiotelescopul din :\" "
+msgstr ""
+
+#: delete_reservations_list
+msgid "\"# la #;\" "
+msgstr ""
+
+#: delete_reservations_deleted
+msgid "\"a fost sters de administratorul site-ului.\""
+msgstr ""
+
+#: delete_reservations_contact
+msgid "\"pentru mai multe informatii, contactati un administrator.\""
+msgstr ""
+
+#: [archives]
+msgctxt "[archives]"
+msgid ""
+msgstr ""
+
+#: archives_title
+msgid "\"Arhivele Comenius \""
+msgstr ""
+
+#: id
+msgid "\"Id\""
+msgstr ""
+
+#: user
+msgid "\"Utilizator\""
+msgstr ""
+
+#: all
+msgid "\"All\""
+msgstr ""
+
+#: num
+msgid "\"Num\""
+msgstr ""
+
+#: download_selected_fits
+msgid "\"download selected Fits\""
+msgstr ""
+
+#: download_selected_CSV
+msgid "\"download selected CSV\""
+msgstr ""
+
+#: [simulator]
+msgctxt "[simulator]"
+msgid ""
+msgstr ""
+
+#: simulator_title
+msgid "\"Simulator Comenius \""
+msgstr ""
+
+#: [observator]
+msgctxt "[observator]"
+msgid ""
+msgstr ""
+
+#: command
+msgid "\"Comanda\""
+msgstr ""
+
+#: results
+msgid "\"Rezultate\""
+msgstr ""
+
+#: freq
+msgid "\"freq\""
+msgstr ""
+
+#: time
+msgid "\"Timp\""
+msgstr ""
+
+#: observe
+msgid "\"Observa\""
+msgstr ""
+
+#: end_of_session
+msgid "\"Terminarea sesiunii\""
+msgstr ""
+
+#: base
+msgid "\"baza\""
+msgstr ""
+
+#: [application]
+msgctxt "[application]"
+msgid ""
+msgstr ""
+
+#: galaxie_plan_radio
+msgid "\"Radio H21\""
+msgstr ""
+
+#: galaxie_plan_optic
+msgid "\"Optic\""
+msgstr ""
+
+#: galaxie_plan_infrarouge
+msgid "\"Infrarosu\""
+msgstr ""
+
+#: visibility
+msgid "\"Vizibilitate\""
+msgstr ""
+
+#: spectrum_legend
+msgid "\"T [K] .vs. V [km/s]\""
+msgstr ""
+
+#: spectrum_send_max
+msgid "\"send max\""
+msgstr ""
+
+#: spectrum_clean
+msgid "\"clean\""
+msgstr ""
+
+#: control_longitude
+msgid "\"Lon\""
+msgstr ""
+
+#: control_latitude
+msgid "\"Lat\""
+msgstr ""
+
+#: simulate
+msgid "\"Simulare\""
+msgstr ""
+
+#: rotation_curve
+msgid "\"Curbe de rotatie\""
+msgstr ""
+
+#: galaxie_map
+msgid "\"Harta galaxiei\""
+msgstr ""
+
+#: clean_all
+msgid "\"Clean all\""
+msgstr ""
+
+#: clean_last
+msgid "\"Clean last\""
+msgstr ""
+
+#: rotation_curve_title
+msgid "\"Curbe de rotatie V [km/s] .vs. R [kpc]\""
+msgstr ""
+
+#: galaxie_map_title
+msgid "\"Harta Caii Lactee X [kpc] , Y [kpc]\""
+msgstr ""
