@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-11-17 06:52+0200\n"
+"Last-Translator: Eleni <elthchatz@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#  Thank you for your help to translate this file.
+#: text001
+msgid "receive radio wave"
+msgstr "Λήψη ραδιοκυμάτων "
+
+#: text002
+msgid "The Sun is our star: a gigantic ball of gas, the Sun is shining because of nuclear reactions. Its temperature is very high: several thousands of degrees."
+msgstr ""
+"Ο Ήλιος είναι το άστρο μας: μια γιγάντια αέρια σφαίρα, ο Ήλιος λάμπει χάρη "
+"στις θερμοπυρηνικές αντιδράσεις στο εσωτερικό του. Η θερμοκρασία του είναι "
+"πολύ υψηλή:  πολλές χιλιάδες βαθμοί Κέλβιν."
+
+#: text003
+msgid "THE FM RADIO FROM STARS"
+msgstr "ΤΑ ΡΑΔΙΟ FM ΤΩΝ ΑΣΤΡΩΝ"
+
+#: text004
+msgid "So stars are emitting radio waves... ?"
+msgstr "Λοιπόν τα αστέρια εκπέμπουν ραδιοκύματα ... ;"
+
+#: text005
+msgid "If we  could tune a radio to the FM frequency of 160MHz, we could hear... the Sun ! What a weird music!"
+msgstr ""
+"Αν μπορούσαμε να συντονίσουμε ένα ραδιόφωνο στα FM στην συχνότητα των "
+"160MHz, θα μπορούσαμε να ακούσουμε ... τον Ήλιο! Τι παράξενη μουσική!"
+
+#: text006
+msgid "the horsehead nebula"
+msgstr "Το νεφέλωμα τη κεφαλής του αλόγου"
+
+#: text007
+msgid "6000.C"
+msgstr "6000C˚ (βαθμούς Κελσίου)"
+
+#: text008
+msgid "QUIZZ"
+msgstr "ΚΟΥΙΖ"
+
+#: text009
+msgid "During World War II, a plane could hide from radar while flying facing the sun."
+msgstr ""
+"Κατά τη διάρκεια του Β 'Παγκοσμίου Πολέμου, ένα αεροπλάνο θα μπορούσε να "
+"κρυφτεί από τα ραντάρ, όταν  κατά τη διάρκεια πτήσης του ήταν στραμμένο προς "
+"τον ήλιο."
+
+#: text010
+msgid "True or False?"
+msgstr "Σωστό ή Λάθος;"
+
+#: text011
+msgid "THE radio WAVES: invisible WAVEs that are not SOUND waves"
+msgstr "ΤΑ ραδιο ΚΥΜΑΤΑ: Αόρατα ΚΥΜΑΤΑ που δεν είναι ΗΧΗΤΙΚΑ κύματα"
+
+#: text012
+msgid "We receive radio waves from the Universe, but what can we actually hear?"
+msgstr ""
+"Λαμβάνουμε ραδιοκύματα από το Σύμπαν, αλλά μπορούμε πραγματικά να τα "
+"ακούσουμε;"
+
+#: text013
+msgid "It doesnt matter: nobody is listening to the stars. In fact, stellar radio waves are used to take a picture, more like a radar."
+msgstr ""
+"Δεν έχει σημασία: κανείς δεν ακούει τα αστέρια. Στην πραγματικότητα, τα "
+"αστρικά ραδιοκύματα χρησιμοποιούνται για να τραβηχτεί μια φωτογραφία, δηλαδή "
+"σαν ένα ραντάρ."
+
+#: text014
+msgid "Radio astronomers listen to the stars with headphones."
+msgstr "Οι ραδιοαστρονόμοι αφουγκράζονται τα αστέρια με ακουστικά."
+
+#: text015
+msgid "Let's compare Stars in the radio and optical domain"
+msgstr "Ας συγκρίνουμε τα Αστέρια στο ραδιοφωνικά και στα οπτικά μήκη κύματος"
+
+#: text016
+msgid "Our eyes can see visible light from stars: we see the colors inside a  rainbow. Our sun is yellow, but red stars, blue, white, brown, ... also exist!"
+msgstr ""
+"Τα μάτια μας μπορούν να δουν το ορατό φως από τα αστέρια: βλέπουμε τα "
+"χρώματα του ουράνιου τόξου. Ο ήλιος μας είναι κίτρινος αλλά επίσης υπάρχουν "
+"άστρα που είναι κόκκινα, μπλε, άσπρα, καφέ, ...!"
+
+#: text017
+msgid "Radio waves can be used to detect invisible galaxies."
+msgstr ""
+"Τα ραδιοκύματα μπορούν να χρησιμοποιηθούν για την ανίχνευση αόρατων "
+"γαλαξιών. "
+
+#: text018
+msgid "The radio of the stars is not very melodious. It is emitted by the atoms and the molecules of gas that are heated by the stars. Its more like a kind of noise, like the scratchy sound of an old vinyl record."
+msgstr ""
+"Τα ραδιοκύματα από τα αστέρια, δεν είναι πολύ μελωδικά. Εκπέμπονται από τα "
+"άτομα και τα μόρια των αερίων, όταν αυτά θερμαίνονται από τα αστέρια. Είναι "
+"περισσότερο σαν ένα είδος θορύβου, σαν ένας παλιός χαλασμένος δίσκος "
+"βινυλίου."
+
+#: text019
+msgid "Radio waves show us parts of planets and galaxies, in particular where atoms and molecules of hydrogen and carbon monoxide lie. For the Sun, radio waves show magnetic storms, in the form of spots on its surface."
+msgstr ""
+"Τα ραδιοκύματα μας δείχνουν τμήματα πλανητών και γαλαξιών, ειδικά εκεί που "
+"βρίσκονται άτομα και μόρια υδρογόνου και μονοξειδίου του άνθρακα. Στον  Ήλιο "
+"τα ραδιοκύματα δείχνουν μαγνητικές καταιγίδες, υπό τη μορφή κηλίδων στην "
+"επιφάνεια του."
+
+#: text020
+msgid "MAGNETIC FIELDS"
+msgstr "ΜΑΓΝΗΤΙΚΑ ΠΕΔΙΑ"
+
+#: text021
+msgid "The song of stars?"
+msgstr "Το τραγούδι των άστρων;"
+
+#: text022
+msgid "exoplanets"
+msgstr ""
+
+#: text023
+msgid "pulsars, the radio lighthouse of the Universe"
+msgstr "πάλσαρς, ο ραδιο-φάρος του Σύμπαντος"
+
+#: text024
+msgid "In 1054 BC, the chinese people were able to observe a bright new star in the sky: it was a supernovae explosion. A millenium later, we can observe a beautiful nebula in the same place: the Crab nebula. At its very center lies a peculiar star: a pulsar."
+msgstr ""
+"Το 1054 πΧ, οι Κινέζοι μπόρεσαν να παρατηρήσουν ένα φωτεινό νέο αστέρι στον "
+"ουρανό: ήταν μια έκρηξη υπερκαινοφανούς. Μια χιλιετία αργότερα, στην ίδια "
+"θέση βλέπουμε ένα όμορφο νεφέλωμα: το νεφέλωμα του Καρκίνου. Στο κέντρο του "
+"βρίσκεται ένα περίεργο αστέρι: ένα πάλσαρ."
+
+#: text025
+msgid "The pulsar signals come from extra-terrestrials"
+msgstr "Τα σήματα πάλσαρ προέρχονται από εξωγήινους"
+
+#: text026
+msgid "SUPERNOVAE"
+msgstr "ΥΠΕΡΚΑΙΝΟΦΑΝΕΙΣ"
+
+#: text027
+msgid "Like a spinning top, a pulsar is rotating around"
+msgstr "Όπως μια σβούρα, ένα πάλσαρ περιστρέφεται"
+
+#: text028
+msgid "Radio emission from the Sun"
+msgstr "Ραδιοεκπομπή από τον Ήλιο"
+
+#: text029
+msgid "Optical emission from the Sun"
+msgstr "Οπτική εκπομπή από τον Ήλιο"
+
+#: text030
+msgid "Comparing the strength of the signal coming from the stars to that of a mobile phone"
+msgstr ""
+"Συγκρίνοντας την ισχύ του σήματος που προέρχεται από τα αστέρια, με αυτή "
+"ενός κινητού τηλεφώνου"
+
+#: text031
+msgid "At full power, a mobile phone can emit up to 1 Watt. The antenna of the phone compagnies mounted on the roofs of some buildings are very small : they only measure 1 meter, and thats enough to transmit the radio signal."
+msgstr ""
+"Σε πλήρη ισχύ, ένα κινητό τηλέφωνο μπορεί να εκπέμψει μέχρι 1 Watt. Οι "
+"αντένες που τοποθετούνται από τις τηλεφωνικές εταιρίες στις ταράτσες των "
+"σπιτιών, είναι σχετικά πολύ μικρές: μόλις 1 μέτρο περίπου, και αυτό είναι "
+"αρκετό για τη μετάδοση ραδιόφωνικών σημάτων. "
+
+#: text032
+msgid "A mobile phone can perturb the signal of a radio telescope."
+msgstr "Ένα κινητό τηλέφωνο μπορεί να διαταράξει το σήμα του ραδιοτηλεσκόπιου."
+
+#: text033
+msgid "To receive radio waves from stars, SWITCH OFF YOUR MOBILE"
+msgstr "Για να λάβεις ραδιοκύματα από τα αστέρια, ΑΠΕΝΕΡΓΟΠΟΊΗΣΕ ΤΟ ΚΙΝΗΤΌ ΣΟΥ"
+
+#: text034
+msgid "In contrast, to receive radio signal from stars, radio astronomers have to use huge antennas, of a size up to 300 meter. For example galaxies that are emitting radio waves are very far away (millions of light-years). As a result, the signal arriving on earth is very weak."
+msgstr ""
+"Σε αντίθεση, για να λάβουν ραδιοσήματα από τα άστρα, οι ραδιοαστρονόμοι "
+"πρέπει να χρησιμοποιήσουν τεράστιες κεραίες, μεγέθους μέχρι και 300 μέτρων. "
+"Για παράδειγμα, οι γαλαξίες που εκπέμπουν ραδιοκύματα είναι πολύ "
+"απομακρυσμένοι (εκατομμύρια έτη φωτός). Ως αποτέλεσμα, το σήμα που φθάνει "
+"στη Γη, είναι πολύ ασθενές."
+
+#: text035
+msgid "How to receive the weak radio waves of the stars : with Huge radio telescopes"
+msgstr ""
+"Πώς λαμβάνουμε τα αδύναμα ραδιοκύματα από τα αστέρια: με Τεράστια "
+"ραδιοτηλεσκόπια"
+
+#: text036
+msgid "For that reason, astronomers build huge radio telescopes. It allows the study of galaxies very far away, at billion of light-years from Earth. The form of the dish can vary depending on the location and the cost."
+msgstr ""
+"Για το λόγο αυτό, οι αστρονόμοι κατασκευάζουν τεράστια ραδιοτηλεσκόπια. Αυτό "
+"επιτρέπει τη μελέτη γαλαξιών που βρίσκονται πολύ μακριά, δισεκατομμύρια έτη "
+"φωτός από τη Γη. Το σχήμα του \"πιάτου\" του ραδιοτηλεσκοπίου διαφέρει "
+"ανάλογα με τον τόπο και το κόστος."
+
+#: text037
+msgid "With a dish twice as big, one can receive a signal two times stronger."
+msgstr ""
+"Με ένα  διπλάσιο πιάτο, μπορεί κανείς να λάβει ένα σήμα δύο φορές "
+"ισχυρότερο."
+
+#: text038
+msgid "TELESCOPE"
+msgstr "ΤΗΛΕΣΚΟΠΙΟ"
+
+#: text039
+msgid "The bigger the antenna is, the more sensitive it is to radio waves. The satellite dishes used for receiving the television signal illustrate that very well: a big dish receives a better signal."
+msgstr ""
+"Όσο μεγαλύτερη είναι η κεραία, τόσο μεγαλύτερη ευαισθησία στα ραδιοκύματα "
+"έχει. Οι παραβολικές κεραίες (πιάτα) που χρησιμοποιούνται για τη λήψη "
+"τηλεοπτικού σήματος δείχνουν αυτη την εξάρτηση: χρησιμοποιώντας ένα μεγάλο "
+"πιάτο λαμβάνετε καλύτερο σήμα."
+
+#: text040
+msgid "Arecibo (Puerto Rico, Caribbean Sea) 305 m in diameter"
+msgstr "Arecibo (Πουέρτο Ρίκο, Καραϊβική Θάλασσα) με διάμετρο 305 μ."
+
+#: text041
+msgid "Nancay (France) 300 m of length"
+msgstr "Nancay (Γαλλία) μήκους 300 μ."
+
+#: text042
+msgid "Green Bank (United States) 105 m in diameter"
+msgstr "Green Bank (Ηνωμένες Πολιτείες) με διάμετρο 105 μ."
+
+#: text043
+msgid "ANTENNAE"
+msgstr "ΚΕΡΑΙΕΣ"
+
+#: text044
+msgid "the Sun"
+msgstr "ο Ήλιος"
+
+#: text045
+msgid "Radar sreen - NAVY (USA)"
+msgstr "Οθόνη ραντάρ  - ΝΑΥΤΙΚΟ (ΗΠΑ)"
+
+#: text046
+msgid "In addition to bring us light, the Sun emits radio waves, in all the FM band, and beyond! Besides, the Suns emission is more powerful than any of our FM radios. But our favorite FM emitters are only a few km away, whereas the Sun is very far from the Earth: at 150 million km! The signal coming from the Sun is therefore too weak to actually prevent us from listening to our favourite radio stations. PHEW!"
+msgstr ""
+"Εκτός από το φως, ο Ήλιος εκπέμπει ραδιοκύματα σε όλη τη φασματική περιοχή "
+"των FM, αλλά και πέρα απ' αυτήν! Εξ'άλλου, η εκπομπή του Ήλιου είναι πιο "
+"ισχυρή από οποιοδήποτε ραδιοφωνικό σταθμό FM. Αλλά οι πομποί  των τελευταίων "
+"είναι μόνο μερικά χιλιόμετρα μακριά, ενώ ο Ήλιος είναι πολύ μακριά από τη "
+"Γη: στα 150 εκατομμύρια χιλιόμετρα! Το σήμα που προέρχεται από τον Ήλιο "
+"είναι επομένως πολύ αδύναμο για να μαε εμποδίσει να ακούσουμε τους "
+"αγαπημένους μας ραδιοφωνικούς σταθμούς (ευτυχώς!)."
+
+#: text047
+msgid "The radio waves from stars can, as FM radio, be received anytime, day and night, whereas their bright light can only be seen at night, when the Sun has set."
+msgstr ""
+"Τα ραδιοκύματα από τα αστέρια μπορούμε να τα λάβουμε (όπως το ραδιοφωνικά "
+"FM) ανά πάσα στιγμή, μέρα και νύχτα, ενώ το έντονο φως τους μπορεί να "
+"παρατηρηθεί μόνο το βράδυ, όταν ο ήλιος έχει δύσει."
+
+#: text048
+msgid "One galaxy can host billions of stars. In some galaxies, the center is buried deep inside lots of dust clouds that shield the light from the galaxy. But radio waves can pierce through the clouds and thus can be observed. This is called a  radiogalaxy."
+msgstr ""
+"Ένας γαλαξίας μπορεί να φιλοξενήσει δισεκατομμύρια αστέρια. Σε ορισμένους "
+"γαλαξίες το κέντρο τους είναι θαμμένο πίσω από τόσα νέφη σκόνης που το φως "
+"του δεν φτάνει ως εμάς. Αλλά τα ραδιοκύματα μπορούν να διαπεράσουν τα "
+"σύννεφα και έτσι να παρατηρηθούν. Όταν ένας γακαίας εκπέμπει έντονη "
+"ραδιοακτονοβολία ονομάζεται ραδιογαλαξίας."
+
+#: text049
+msgid "1 m"
+msgstr "1 μέτρο"
+
+#: text050
+msgid "25 m"
+msgstr "25 μέτρα"
+
+#: text051
+msgid "1 light-year is the distance traveled by light in 1 year: it's a huge distance! The light travels very fast: 300 000 km per second! At this speed, you could get to the Moon in 1seconde, and to the Sun in 8minutes...  and to the Andromeda galaxy in 2million years !"
+msgstr ""
+"1 έτος φωτός είναι η απόσταση που ταξιδεύει το φως σε ένα χρόνο: είναι μια "
+"τεράστια απόσταση! Το φως ταξιδεύει πολύ γρήγορα: 300 000 χιλιόμετρα το "
+"δευτερόλεπτο! Σε αυτή την ταχύτητα, θα μπορούσατε να πάτε στο φεγγάρι σε ένα "
+"δευτερόλεπτο, στον Ήλιο σε 8 λεπτά ... και στο γαλαξία της Ανδρομέδας σε 2 "
+"εκατομμύρια χρόνια!"
+
+#: text052
+msgid "If you compare the signal coming from the Sun and the signal from a mobile phone, the signal of the mobile phone is a billion time stronger "
+msgstr ""
+"Αν συγκρίνετε το σήμα που προέρχεται από τον Ήλιο και το σήμα από ένα κινητό "
+"τηλέφωνο, το σήμα του κινητού τηλεφώνου είναι ένα δισεκατομμύριο φορές "
+"ισχυρότερο"
+
+#: text053
+msgid "Effelsberg (Germany) 100 m in diameter"
+msgstr "Effelsberg (Γερμανία) διαμέτρου 100 μ."
+
+#: text054
+msgid "The Future of radioastronomy: radio telescopes for  amateurs in Europe"
+msgstr ""
+"Το Μέλλον της ραδιοαστρονομίας: ραδιοτηλεσκόπια για ερασιτέχνες στην Ευρώπη"
+
+#: text055
+msgid "A European network of radio telescope is currently under development for the student in secondary schools."
+msgstr ""
+"Ένα Ευρωπαϊκό δίκτυο ραδιοτηλεσκοπίων είναι ατή τη στιγμή υπό ανάπτυξη για "
+"τους μαθητές της δευτεροβάθμιας εκπαίδευσης."
+
+#: text056
+msgid "A small telescope is easy to buy... but what about a small radio telescope?"
+msgstr ""
+"Ένα μικρό τηλεσκόπιο είναι εύκολο να αγοραστεί ... αλλά τι γίνεται με ένα "
+"μικρό ραδιοτηλεσκόπιο;"
+
+#: text057
+msgid "Two prototypes of 2,3m in diameter were developed in the EU-HOU project: www.euhou.net by the Onsala observatory in Sweden. It has been used in European classrooms since 2005 via Internet. With these radio telescopes, it is possible to observe the gas of the Milky Way, even in big cities, and even in daylight."
+msgstr ""
+"Δύο πρωτότυπα διαμέτρου 2,3 m αναπτύχθηκαν από το EU-HOU project: "
+"www.euhou.net από το αστεροσκοπείο Onsala της Σουηδίας. Έχουν χρησιμοποιηθεί "
+"σε ευρωπαϊκές τάξεις από το 2005 μέσω του Διαδικτύου. Με αυτά τα "
+"ραδιοτηλεσκόπια είναι δυνατό να παρατηρηθεί το αέριο του Γαλαξία μας, ακόμη "
+"και στις μεγάλες πόλεις, ακόμη και στο φως της ημέρας."
+
+#: text058
+msgid "Can we contribute to find intelligent life in the Universe? "
+msgstr "Μπορούμε να συμβάλλουμε για την εξεύρεση ευφυούς ζωής στο Σύμπαν;"
+
+#: text059
+msgid "Thanks to the Internet, it will be soon possible to observe the gas of the Milky Way with a radio telescope from any European classroom."
+msgstr ""
+"Χάρη στο Διαδίκτυο, θα είναι σύντομα δυνατό να παρατηρηθεί το αέριο του "
+"Γαλαξία μας με ένα ραδιοτηλεσκόπιο από οποιαδήποτε Ευρωπαϊκή τάξη."
+
+#: text060
+msgid "EU-HOU project"
+msgstr "πρόγραμμα EU-HOU"
+
+#: text061
+msgid "Yes: with a clever screensaver system installed on their computers, more that 3 million users contribute to search for intelligent signal from the galaxy. It is the program  SETI @ HOME. To get involved, see setiathome.berkeley.edu"
+msgstr ""
+"Ναι: με ένα έξυπνο σύστημα screensaver εγκατεστημένο στους υπολογιστές τους, "
+"περισσότεροι από 3 εκατομμύρια χρήστες συμβάλλουν στην αναζήτηση για ένα "
+"\"νοήμον\"σήμα από τον γαλαξία. Πρόκειται για το πρόγραμμα SETI @ home. Για να "
+"λάβετε μέρος, δείτε setiathome.berkeley.edu"
+
+#: text062
+msgid "SETI"
+msgstr ""
+"(Search for Extra-Terrestrial Intelligence). Αναζήτηση Εξωγήινης Νοημοσύνης."
+
+#: text063
+msgid "Onsala (Sweden) Small antenna of 2,3m in diameter"
+msgstr "Onsala (Σουηδία) Μικρή κεραία διαμεέτρου 2,3 m "
+
+#: text064
+msgid "Exobiology Searching for Life in the Universe"
+msgstr "Εξωβιολογία Ψάχνοντας για Ζωή στο Σύμπαν"
+
+#: text065
+msgid "Some antennae are used to listen to extraterrestrial signals, in case they really exist."
+msgstr ""
+"Μερικές κεραίες χρησιμοποιούνται για να ακούσουμε εξωγήινα σήματα, σε "
+"περίπτωση που υπάρχουν πραγματικά."
+
+#: text066
+msgid "There are planets orbiting around the Sun: The Solar System. In order: Mercure, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune."
+msgstr ""
+"Υπάρχουν πλανήτες σε τροχιά γύρω από τον Ήλιο: Το Ηλιακό Σύστημα. Με τη "
+"σειρά: Ερμής, Αφροδίτη, Γη, Άρης, Δίας, Κρόνος, Ουρανός και Ποσειδώνας."
+
+#: text067
+msgid "In 1992, a Polish researcher, Alex Wolszcan, observe the pulsar (bip bip bip) PSR 1257+12 with the Arecibo radio telescope. To his great surprise, he discover the first planetary system beyond the Sun: extrasolar planets! These new planets are particularly interesting because they are like the Earth. But they are so far away, 900 light-years, that we wont get much more information for a long time!"
+msgstr ""
+"Το 1992, ένας Πολωνός ερευνητής, Alex Wolszcan, παρατήρησε το πάλσαρ (μπιπ "
+"μπιπ μπιπ) PSR 1257 12 με το ραδιοτηλεσκόπιο του Arecibo. Προς μεγάλη του "
+"έκπληξη, ανακαάλυψε το πρώτο πλανητικό σύστημα πέρα από τον Ήλιο: "
+"Εξωηλιακούς πλανήτες! Αυτοί οι νέοι πλανήτες είναι ιδιαίτερα ενδιαφέροντες "
+"γιατί μοιάζουν με τη Γη. Αλλά είναι τόσο μακρινοί, σε απόσταση 900 ετών "
+"φωτός, που δεν θα μπορέσουμε να πάρουμε περισσότερες πληροφορίες για πολύ "
+"καιρό ακόμα!"
+
+#: text068
+msgid "Fortunately, since then more than 300 extrasolar planets have been discovered. They are everywhere inside our Galaxy. Maybe some day we will discover life on one of these planets. Life could be brought by comets travelling through space. On Earth, comets brought complex molecules that played a role in the development of life."
+msgstr ""
+"Ευτυχώς, από τότε έχουν ανακαλυφθεί πάνω από 300 εξωπλανήτες (εξωηλιακοί "
+"πλανήτες). Βρίσκονται παντού μέσα στο Γαλαξία μας. Ίσως κάποια μέρα θα "
+"ανακαλύψουμε ζωή σε έναν από αυτούς τους πλανήτες. Η ζωή θα μπορούσε να "
+"μεταφερθεί από τους κομήτες που ταξιδεύουν στο διάστημα. Στη Γη, οι κομήτες "
+"έφεραν σύνθετα μόρια που έπαιξαν σημαντικό ρόλο στην ανάπτυξη της ζωής."
+
+#: text069
+msgid "planetes"
+msgstr "πλανήτες"
+
+#: text070
+msgid "Observatories, High technology inside"
+msgstr "Αστεροσκοπεία, περιέχουν Υψηλή τεχνολογία"
+
+#: text071
+msgid "With a radio telescope the size of the Earth, its possible to observe a planet the size of Jupiter somewhere else in our Galaxy, at many light-years from us."
+msgstr ""
+"Με ένα ραδιοτηλεσκόπιο στο μέγεθος της Γης, είναι δυνατόν να παρατηρήσουμε "
+"έναν πλανήτη στο μέγεθος του Δία κάπου αλλού στον Γαλαξία μας, σε απόσταση "
+"πολλών ετών φωτός από εμάς."
+
+#: text072
+msgid "FOREST of antennae"
+msgstr "ΔΑΣΟΣ κεραιών"
+
+#: text073
+msgid "With a digital camera, there is more detail when there are more pixels. In the same way, we can use a network of radio telescopes to increase the detail: the more antennas you have, the more precise you get!"
+msgstr ""
+"Με μια ψηφιακή φωτογραφική μηχανή, καταγράφουμε περισσότερες λεπτομέρειες "
+"όταν υπάρχουν περισσότερα pixel. Με τον ίδιο τρόπο, μπορούμε να "
+"χρησιμοποιήσουμε ένα δίκτυο ραδιοτηλεσκοπίων για να αυξήσουμε την "
+"λεπτομέρεια: όσες περισσότερες κεραίες έχετε, τόσο πιο ακριβείς παρατηρήσεις "
+"θα κάνετε!"
+
+#: text074
+msgid "To see more details in distant galaxies, forests of radio antennae are built around the world: 27 antennae for the VLA in New Mexico (USA), 30 antennas in Pune (India), 64 antennas in the Andes (Chile)."
+msgstr ""
+"Για να δείτε περισσότερες λεπτομέρειες σε μακρινούς γαλαξίες, δάση από "
+"ραδιοκεραίες, είναι εγκαταστημένα σε όλο τον κόσμο: 27 κεραίες του VLA στο "
+"Νέο Μεξικό (ΗΠΑ), 30 κεραίες στο Πούνε (Ινδία), 64 κεραίες στις Άνδεις "
+"(Χιλή)."
+
+#: text075
+msgid "The radio signal from the antennas is mixed and analysed by very powerful computer. We can even mix the signal from antennae located on different continents to simulate a giant antenna the size of the Earth!"
+msgstr ""
+"Το ραδιοφωνικό σήμα από τις κεραίες αναμιγνύεται και αναλύεται σε έναν πολύ "
+"ισχυρό υπολογιστή. Μπορούμε να αναμίξουμε ακόμη το σήμα από κεραίες που "
+"βρίσκονται σε διαφορετικές ηπείρους και έτσι να  προσομοιωθεί μια γιγαντιαία "
+"κεραία στο μέγεθος της Γης!"
+
+#: text076
+msgid "The first radio antenna radars were actually built by the military during World War II: they could listen to the Sun!"
+msgstr ""
+"Οι πρώτες κεραίες  ραντάρ, είχαν στην πραγματικότητα κατασκευαστεί από το "
+"στρατό κατά τη διάρκεια του Β 'Παγκοσμίου Πολέμου: μπορούσαν να ακούσουν τον "
+"Ήλιο!"
+
+#: text077
+msgid "the Solar System"
+msgstr "Το Ηλιακό Σύστημα "
+
+#: text078
+msgid "exoplanets"
+msgstr "Εξω-πλανήτες"
+
+#: text079
+msgid "the regular signal received from a pulsar"
+msgstr "Το κανονικό σήμα που λαμβάνεται από ένα πάλσαρ"
+
+#: text080
+msgid "ALMA (Chile)"
+msgstr "ALMA (Χιλή)"
+
+#: text081
+msgid "Plateau de Bure (Alpes)"
+msgstr "Plateau de Bure (Άλπεις)"
+
+#: text082
+msgid "SKA (in project)"
+msgstr "SKA (σε σχεδιασμό)"
+
+#: text083
+msgid "des radiotelescopes pour capter les ondes de le univers"
+msgstr "ραδιοτηλεσκόπια για να συλλάβουν τα κύματα του σύμπαντος."
+
+# add the name of the translator here
+#: text084
+msgid "Credits :Observatoire de Paris Sciences a l'école NASA, ESO, ESA Conception and implementation : Olivier Marco, Aurore Mathon, Yannick Libert"
+msgstr ""
+"Συντελεστές: Αστεροσκοπείο Παρισιού Επιστήμες στο σχολείο, NASA, ESO, ESA "
+"Σύλληψη και υλοποίηση: Olivier Marco, Aurore Mathon, Yannick Libert. "
+"Μετάφραση: Ελένη Χατζηχρήστου"
+
+#: text085
+msgid "Radio wave emitted by the galaxy M87"
+msgstr "Ραδιοκύματα που εκπέμπονται από τον γαλαξία M87"
+
+#: text086
+msgid "The Crab nebula- M1 the remains of a supernova explosion."
+msgstr ""
+"Το Νεφέλωμα του Καρκίνου (M1), απομεινάρια μιας έκρηξης υπερκαινοφανούς."
+
+#: text087
+msgid "Receive Galactic Signal"
+msgstr "Λήψη Γαλαξιακού Σήματος"
+
+#: text088
+msgid "SUN radio"
+msgstr "Ραδιοκύματα από τον ΉΛΙΟ"
+
+#: text089
+msgid "atoms"
+msgstr "άτομα"
+
+#: text090
+msgid "Very Large Array, USA"
+msgstr "Πολύ Μεγάλη Δαράταξη (ραδιοτηλεσκόπιων), ΗΠΑ"
+
+#: text091
+msgid "international collaboration"
+msgstr "διεθνής συνεργασία"
+
+#: text092
+msgid "radiotelescopes tuned up to the Universe"
+msgstr "ραδιοτηλεσκόπια συντονισμένα στο Σύμπαν"

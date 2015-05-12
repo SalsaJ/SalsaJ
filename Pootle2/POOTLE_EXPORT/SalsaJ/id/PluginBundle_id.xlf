@@ -1,0 +1,1500 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="PluginBundle_id.po" source-language="en-US" datatype="plaintext" target-language="id">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="pixel">
+        <source>pixel</source>
+        <target state="translated">piksel</target>
+        <note from="developer">## GLOBAL SECTION</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pixels">
+        <source>pixels</source>
+        <target state="translated">piksel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="degrees">
+        <source>degrees</source>
+        <target state="translated">derajat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open__%04__Open">
+        <source>Open</source>
+        <target state="translated">Buka</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply">
+        <source>Apply</source>
+        <target state="translated">Terapkan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Settings">
+        <source>Settings</source>
+        <target state="translated">Pengaturan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Text File...">
+        <source>Open Text File...</source>
+        <target state="translated">Bukan Berkas Teks...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Height">
+        <source>Height</source>
+        <target state="translated">Tinggi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width">
+        <source>Width</source>
+        <target state="translated">Lebar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create New Window">
+        <source>Create New Window</source>
+        <target state="translated">Buat Pelipat Baru</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="List">
+        <source>List</source>
+        <target state="translated">Daftar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unit">
+        <source>Unit</source>
+        <target state="translated">Satuan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="none">
+        <source>none</source>
+        <target state="translated">tidak ada</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Left column">
+        <source>Left column</source>
+        <target state="translated">Kolom kiri</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Right column">
+        <source>Right column</source>
+        <target state="translated">Kolom kanan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="values">
+        <source>values</source>
+        <target state="translated">nilai</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File">
+        <source>File</source>
+        <target state="translated">Berkas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Title">
+        <source>Title</source>
+        <target state="translated">Judul</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stack required">
+        <source>Stack required</source>
+        <target state="translated">Diperlukan Tumpukan</target>
+        <note from="developer">## Stack Editor</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No images are open.">
+        <source>No images are open.</source>
+        <target state="translated">Tidak ada citra yang dibuka</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="There must be at least two open images.">
+        <source>There must be at least two open images.</source>
+        <target state="translated">Setidaknya harus ada 2 citra yang dibuka</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="None of the open images can go in a stack.">
+        <source>None of the open images can go in a stack.</source>
+        <target state="translated">Tidak satupun citra yang dibuka dapat ditumpuk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="All open images must be the same type.">
+        <source>All open images must be the same type.</source>
+        <target state="translated">Seluruh citra harus memiliki tipe yang sama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="All open images must be the same size.">
+        <source>All open images must be the same size.</source>
+        <target state="translated">Seluruh citra harus memiliki ukuran yang sama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stack">
+        <source>Stack</source>
+        <target state="translated">Tumpuk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Convert to Images?">
+        <source>Convert to Images?</source>
+        <target state="translated">Ubah ke Citra?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to convert this&#10;stack to">
+        <source>Are you sure you want to convert this
+stack to</source>
+        <target state="translated">Apakah kamu yakin mengubah 
+tumpuk ke</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="separate windows?">
+        <source>separate windows?</source>
+        <target state="translated">jendela terpisah?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image Calculator">
+        <source>Image Calculator</source>
+        <target state="translated">Kalkulator Citra</target>
+        <note from="developer">## Image Calculator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No windows are open.">
+        <source>No windows are open.</source>
+        <target state="translated">Tidak ada jendela yang dibuka</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Both stacks must have the same number of slices.">
+        <source>Both stacks must have the same number of slices.</source>
+        <target state="translated">Kedua tumpukan harus memiliki jumlah potongan yang sama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Out of memory">
+        <source>Out of memory</source>
+        <target state="translated">Kehabisan memori</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image 1:">
+        <source>Image 1:</source>
+        <target state="translated">Citra 1:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image 2:">
+        <source>Image 2:</source>
+        <target state="translated">Citra 2:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Operation:">
+        <source>Operation:</source>
+        <target state="translated">Operasi:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Result of">
+        <source>Result of</source>
+        <target state="translated">Hasil dari</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Result">
+        <source>Result</source>
+        <target state="translated">Hasil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Add__%04__Add">
+        <source>Add</source>
+        <target state="translated">Tambah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Subtract">
+        <source>Subtract</source>
+        <target state="translated">Kurang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Multiply">
+        <source>Multiply</source>
+        <target state="translated">Kali</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Divide">
+        <source>Divide</source>
+        <target state="translated">Bagi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AND">
+        <source>AND</source>
+        <target state="translated">DAN</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="OR">
+        <source>OR</source>
+        <target state="translated">ATAU</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="XOR">
+        <source>XOR</source>
+        <target state="translated">ATAU eksklusif</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Min">
+        <source>Min</source>
+        <target state="translated">Min</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Max">
+        <source>Max</source>
+        <target state="translated">Maks</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gamma">
+        <source>Gamma</source>
+        <target state="translated">Gamma</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Average">
+        <source>Average</source>
+        <target state="translated">Rata-rata</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Difference">
+        <source>Difference</source>
+        <target state="translated">Selisih</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy">
+        <source>Copy</source>
+        <target state="translated">Salin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy except White">
+        <source>Copy except White</source>
+        <target state="translated">Salin kecuali Putih</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="index">
+        <source>index</source>
+        <target state="translated">indeks</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value:">
+        <source>Value:</source>
+        <target state="translated">Nilai</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value (binary): ">
+        <source>Value (binary): </source>
+        <target state="translated">Nilai (biner)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Binary number required">
+        <source>Binary number required</source>
+        <target state="translated">Jumlah biner diperlukan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value (0.1-5.0):">
+        <source>Value (0.1-5.0):</source>
+        <target state="translated">Nilai (0.1-5.0):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gamma must be between 0.1 and 5.0">
+        <source>Gamma must be between 0.1 and 5.0</source>
+        <target state="translated">Gamma harus di antara 0.1 dan 5.0</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Spline">
+        <source>Spline</source>
+        <target state="translated">Kurva Kontinyu</target>
+        <note from="developer">## Selection</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paste Control">
+        <source>Paste Control</source>
+        <target state="translated">Kontrol Rekat</target>
+        <note from="developer">## PLUGIN/FRAME
+### PasteController</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Transfer Mode:">
+        <source>Transfer Mode:</source>
+        <target state="translated">Mode Transfer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brightness &amp; Contrast">
+        <source>Brightness &amp; Contrast</source>
+        <target state="translated">Kecerlangan &amp; Kontras</target>
+        <note from="developer">### ContrastAdjuster</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window &amp; Level">
+        <source>Window &amp; Level</source>
+        <target state="translated">Jendela &amp; Tingkatan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ColorTitle__%04__Color">
+        <source>Color</source>
+        <target state="translated">Warna</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Minimum">
+        <source>Minimum</source>
+        <target state="translated">Minimum</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maximum">
+        <source>Maximum</source>
+        <target state="translated">Maksimum</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brightness">
+        <source>Brightness</source>
+        <target state="translated">Kecerlangan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Constrast">
+        <source>Constrast</source>
+        <target state="translated">Kontras</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Level:">
+        <source>Level:</source>
+        <target state="translated">Tingkatan:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window:">
+        <source>Window:</source>
+        <target state="translated">Jendela:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Auto">
+        <source>Auto</source>
+        <target state="translated">Otomatis</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reset">
+        <source>Reset</source>
+        <target state="translated">Tata Ulang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set">
+        <source>Set</source>
+        <target state="translated">Set</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply ">
+        <source>Apply </source>
+        <target state="translated">Terapkan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Thresh">
+        <source>Thresh</source>
+        <target state="translated">Mengirik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Update">
+        <source>Update</source>
+        <target state="translated">Mutakhir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Requires an 8-bit grayscale image or an RGB stack">
+        <source>Requires an 8-bit grayscale image or an RGB stack</source>
+        <target state="translated">Diperlukan citra dengan skala keabuan 8-bit atau tumpukan RGB</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply LUT to all">
+        <source>Apply LUT to all</source>
+        <target state="translated">Terapkan LUT untuk semua</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LUT2__%04__slices in the stack?">
+        <source>slices in the stack?</source>
+        <target state="translated">Potongan di dalam tumpukan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply brightness and contrast settings to all">
+        <source>Apply brightness and contrast settings to all</source>
+        <target state="translated">Terapkan pengaturan kecerlangan dan kontras untuk semua</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB2__%04__slices in the stack?">
+        <source>slices in the stack?</source>
+        <target state="translated">Potongan di dalam tumpukan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Min and Max">
+        <source>Set Min and Max</source>
+        <target state="translated">Atur Min dan Maks</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Minimum Displayed Value:">
+        <source>Minimum Displayed Value:</source>
+        <target state="translated">Nilai Minimum yang Ditampilkan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maximum Displayed Value:">
+        <source>Maximum Displayed Value:</source>
+        <target state="translated">Nilai Maksimum yang Ditampilkan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set W&amp;L">
+        <source>Set W&amp;L</source>
+        <target state="translated">Atur W&amp;L</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window Center (Level):">
+        <source>Window Center (Level):</source>
+        <target state="translated">Pusat Jendela (Tingkat):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window Width:">
+        <source>Window Width:</source>
+        <target state="translated">Lebar Jendela:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No Image">
+        <source>No Image</source>
+        <target state="translated">Tidak ada Citra</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Measurements">
+        <source>Set Measurements</source>
+        <target state="translated">Atur Pengukuran</target>
+        <note from="developer">## Analyser</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="measurements">
+        <source>measurements</source>
+        <target state="translated">pengukuran</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Area">
+        <source>Area</source>
+        <target state="translated">Area</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mean Grey Value">
+        <source>Mean Grey Value</source>
+        <target state="translated">Nilai rata-rata abu-abu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Standard Deviation">
+        <source>Standard Deviation</source>
+        <target state="translated">Standar Deviasi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Modal Grey Value">
+        <source>Modal Grey Value</source>
+        <target state="translated">Pengandaian Nilai Abu-abu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Min &amp; Max Grey Value">
+        <source>Min &amp; Max Grey Value</source>
+        <target state="translated">Nilai Abu-abu Min &amp; Maks</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Centroid">
+        <source>Centroid</source>
+        <target state="translated">Centroid</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center of Mass">
+        <source>Center of Mass</source>
+        <target state="translated">Pusat Massa</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Perimeter">
+        <source>Perimeter</source>
+        <target state="translated">Garis Keliling Lingkaran</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bounding Rectangle">
+        <source>Bounding Rectangle</source>
+        <target state="translated">Garis Keliling Bujur Sangkar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fit Ellipse">
+        <source>Fit Ellipse</source>
+        <target state="translated">Fit Elips</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Circularity">
+        <source>Circularity</source>
+        <target state="translated">Bentuk Bundar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Feret's Diameter">
+        <source>Feret's Diameter</source>
+        <target state="translated">Diameter Feret</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Limit to Threshold">
+        <source>Limit to Threshold</source>
+        <target state="translated">Batas untuk Ambang Batas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Display Image Name">
+        <source>Display Image Name</source>
+        <target state="translated">Tampilkan Nama Citra</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Invert Y Coordinates">
+        <source>Invert Y Coordinates</source>
+        <target state="translated">Ubah Koordinat Y</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="DeciPlaces__%04__Decimal Places:">
+        <source>Decimal Places:</source>
+        <target state="translated">Penempatan Desimal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value">
+        <source>Value</source>
+        <target state="translated">Nilai</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Name">
+        <source>Name</source>
+        <target state="translated">Nama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Angle">
+        <source>Angle</source>
+        <target state="translated">Sudut</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Length ">
+        <source>Length </source>
+        <target state="translated">Panjang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SD">
+        <source>SD</source>
+        <target state="translated">SD</target>
+        <note from="developer">### Shorter labels</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Moy.">
+        <source>Moy.</source>
+        <target state="translated">Moy.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Threshold">
+        <source>Threshold</source>
+        <target state="translated">Ambang Batas</target>
+        <note from="developer">## ThresholdAdjuster</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Red">
+        <source>Red</source>
+        <target state="translated">Merah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Black &amp; White">
+        <source>Black &amp; White</source>
+        <target state="translated">Hitam &amp; Putih</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Over/Under">
+        <source>Over/Under</source>
+        <target state="translated">Lebih/Kurang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Threshold Levels">
+        <source>Set Threshold Levels</source>
+        <target state="translated">Atur Tingkat Ambang Batas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lower Threshold Level:">
+        <source>Lower Threshold Level:</source>
+        <target state="translated">Tingkat Ambang Batas terendah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upper Threshold Level:">
+        <source>Upper Threshold Level:</source>
+        <target state="translated">Tingkat Ambang Batas tertinggi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB images cannot be thresolded.">
+        <source>RGB images cannot be thresolded.</source>
+        <target state="translated">Citra RGB tidak bisa memiliki ambang batas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Nouveau...">
+        <source>Nouveau...</source>
+        <target state="translated">Baru...</target>
+        <note from="developer">## NewPlugin</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Type">
+        <source>Type</source>
+        <target state="translated">Tipe</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Record">
+        <source>Record</source>
+        <target state="translated">Rekam</target>
+        <note from="developer">## Recorder</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create Macro">
+        <source>Create Macro</source>
+        <target state="translated">Buat Makro</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create Plugin">
+        <source>Create Plugin</source>
+        <target state="translated">Buat Colok-Masuk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Commands">
+        <source>Commands</source>
+        <target state="translated">Perintah</target>
+        <note from="developer">## Command Lister</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Command&#9;Plugin">
+        <source>Command	Plugin</source>
+        <target state="translated">Perintah	Colok-Masuk</target>
+        <note from="developer">### 2 FIELDS SEPARATED BY \t</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Keyboard Shortcuts">
+        <source>Keyboard Shortcuts</source>
+        <target state="translated">Shortcut di Papan Ketik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hot Key&#9;Command">
+        <source>Hot Key	Command</source>
+        <target state="translated">Kunci Panas	Perintah</target>
+        <note from="developer">### 2 FIELDS SEPARATED BY \t</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Scale">
+        <source>Set Scale</source>
+        <target state="translated">Atur Skala</target>
+        <note from="developer">## ScaleDialog</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Distance in Pixels:">
+        <source>Distance in Pixels:</source>
+        <target state="translated">Jarak dalam Piksel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Real Distance:">
+        <source>Real Distance:</source>
+        <target state="translated">Jarak Sebenarnya</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width/Height Ratio:">
+        <source>Width/Height Ratio:</source>
+        <target state="translated">Perbandingan Lebar/Panjang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unit of Length:">
+        <source>Unit of Length:</source>
+        <target state="translated">Satuan Panjang:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale:">
+        <source>Scale:</source>
+        <target state="translated">Skala:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScDiagGlobal__%04__Global">
+        <source>Global</source>
+        <target state="translated">Global</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&lt;No Scale&gt;">
+        <source>&lt;No Scale&gt;</source>
+        <target state="translated">&lt;Tidak ada Skala&gt;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Surface Plotter">
+        <source>Surface Plotter</source>
+        <target state="translated">Plotter Permukaan</target>
+        <note from="developer">## SurfacePlotter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Surface Plot">
+        <source>Surface Plot</source>
+        <target state="translated">Plot Permukaan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Drawing slice">
+        <source>Drawing slice</source>
+        <target state="translated">Potongan Gambar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Number of samples">
+        <source>Number of samples</source>
+        <target state="translated">Jumlah Sampel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw wireframe">
+        <source>Draw wireframe</source>
+        <target state="translated">Gambar Bingkai Hitam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shade">
+        <source>Shade</source>
+        <target state="translated">Bayangan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw axis">
+        <source>Draw axis</source>
+        <target state="translated">Gambar Sumbu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Source Background is Lighter">
+        <source>Source Background is Lighter</source>
+        <target state="translated">Latar belakang sumber lebih terang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill Plot Background with Black">
+        <source>Fill Plot Background with Black</source>
+        <target state="translated">Isi Plot Latar Belakang dengan Hitam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill Plot">
+        <source>Fill Plot</source>
+        <target state="translated">Isi Plot</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Smooth">
+        <source>Smooth</source>
+        <target state="translated">Halus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Page Setup">
+        <source>Page Setup</source>
+        <target state="translated">Tata Halaman</target>
+        <note from="developer">## Printer</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scaling">
+        <source>Scaling</source>
+        <target state="translated">Penskalaan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw Border">
+        <source>Draw Border</source>
+        <target state="translated">Gambar Tepi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Print Title">
+        <source>Print Title</source>
+        <target state="translated">Cetak Judul</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center on Page">
+        <source>Center on Page</source>
+        <target state="translated">Arahkan ke tengah halaman</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotate">
+        <source>Rotate</source>
+        <target state="translated">Putar</target>
+        <note from="developer">## Rotator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Interpolate">
+        <source>Interpolate</source>
+        <target state="translated">Interpolasi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Angle is invalid.">
+        <source>Angle is invalid.</source>
+        <target state="translated">Sudut tidak benar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Miscellaneous Options">
+        <source>Miscellaneous Options</source>
+        <target state="translated">Aneka Opsi</target>
+        <note from="developer">## Options</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Real Histogram Bins:">
+        <source>Real Histogram Bins:</source>
+        <target state="translated">Keranjang Histogram benar:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Divide by Zero Value:">
+        <source>Divide by Zero Value:</source>
+        <target state="translated">Bagi dengan Nilai Nol:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Use Pointer Cursor">
+        <source>Use Pointer Cursor</source>
+        <target state="translated">Gunakan Kursor Penunjuk </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale When Converting">
+        <source>Scale When Converting</source>
+        <target state="translated">Skala Saat Diubah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hide &quot;Process Stack?&quot; Dialog">
+        <source>Hide "Process Stack?" Dialog</source>
+        <target state="translated">Sembunyikan "Proses Tumpuk?" Dialog</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Antialiased Text">
+        <source>Antialiased Text</source>
+        <target state="translated">Teks Anti Alias</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Interpolate Images &lt;100%">
+        <source>Interpolate Images &lt;100%</source>
+        <target state="translated">Interpolasi Citra &lt;100%</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Images at 100%">
+        <source>Open Images at 100%</source>
+        <target state="translated">Buka Citra 100%</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Debug Mode">
+        <source>Debug Mode</source>
+        <target state="translated">Mode Awakutu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Line width:">
+        <source>Line width:</source>
+        <target state="translated">Lebar Garis:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="JPEG quality (0-100):">
+        <source>JPEG quality (0-100):</source>
+        <target state="translated">Kualitas JPEG  (0-100):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mark Width:">
+        <source>Mark Width:</source>
+        <target state="translated">Tandai Lebar:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fonts">
+        <source>Fonts</source>
+        <target state="translated">Huruf</target>
+        <note from="developer">## Fonts</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Plain">
+        <source>Plain</source>
+        <target state="translated">Datar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bold">
+        <source>Bold</source>
+        <target state="translated">Tebal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Italic">
+        <source>Italic</source>
+        <target state="translated">miring</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bold+Italic">
+        <source>Bold+Italic</source>
+        <target state="translated">Tebal+Miring</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pt">
+        <source>pt</source>
+        <target state="translated">pt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Curve Fitter">
+        <source>Curve Fitter</source>
+        <target state="translated">Fitter Kurva</target>
+        <note from="developer">## Fitter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fit...">
+        <source>Fit...</source>
+        <target state="translated">Fit...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No function available">
+        <source>No function available</source>
+        <target state="translated">Tidak ada fungsi yang tersedia</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="First select the image to be transformed">
+        <source>First select the image to be transformed</source>
+        <target state="translated">Pertama: pilih citra yang akan ditransformasikan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="-transformed">
+        <source>-transformed</source>
+        <target state="translated">-transformasikan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="These commands&#10;do not work with line selections.">
+        <source>These commands
+do not work with line selections.</source>
+        <target state="translated">Perintah 
+tidak bisa dilakukan dengan garis yang dipilih</target>
+        <note from="developer">## Resizer</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Resize">
+        <source>Resize</source>
+        <target state="translated">Ubah Ukuran</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Constrain Aspect Ratio">
+        <source>Constrain Aspect Ratio</source>
+        <target state="translated">Pembatasan Aspek Perbandingan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="NOTE: Undo is not available">
+        <source>NOTE: Undo is not available</source>
+        <target state="translated">CAT: Kembali ke sebelumnya tidak tersedia</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width or height are invalid.">
+        <source>Width or height are invalid.</source>
+        <target state="translated">Lebar atau tinggi salah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SalsaJ ran out of memory causing &#10;the last">
+        <source>SalsaJ ran out of memory causing 
+the last</source>
+        <target state="translated">SalsaJ kehabisan memori menyebabkan 
+terakhir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="slices to be lost.">
+        <source>slices to be lost.</source>
+        <target state="translated">potongan hilang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Resize Image Canvas">
+        <source>Resize Image Canvas</source>
+        <target state="translated">Ubah Ukuran Kanvas Citra</target>
+        <note from="developer">## CanvasResizer NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Resize Stack Canvas">
+        <source>Resize Stack Canvas</source>
+        <target state="translated">Ubah Ukuran Kanvas Tumpuk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Postion">
+        <source>Postion</source>
+        <target state="translated">Posisi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zero Fill">
+        <source>Zero Fill</source>
+        <target state="translated">Tidak Ada Isi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Top-Left ">
+        <source>Top-Left </source>
+        <target state="translated">Kiri-Atas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Top-Center">
+        <source>Top-Center</source>
+        <target state="translated">Tengah- Atas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Top-Right">
+        <source>Top-Right</source>
+        <target state="translated">Kanan-Atas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center-Left">
+        <source>Center-Left</source>
+        <target state="translated">Kiri-Tengah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center">
+        <source>Center</source>
+        <target state="translated">Tengah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center-Right">
+        <source>Center-Right</source>
+        <target state="translated">Kanan-Tengah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bottom-Left">
+        <source>Bottom-Left</source>
+        <target state="translated">Kiri-Bawah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bottom-Center">
+        <source>Bottom-Center</source>
+        <target state="translated">Tengah-Bawah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bottom-Right">
+        <source>Bottom-Right</source>
+        <target state="translated">Kanan-Bawah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Make Montage">
+        <source>Make Montage</source>
+        <target state="translated">Buat Montase</target>
+        <note from="developer">## Montage Maker NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Columns">
+        <source>Columns</source>
+        <target state="translated">Kolom</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rows">
+        <source>Rows</source>
+        <target state="translated">Baris</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale Factor">
+        <source>Scale Factor</source>
+        <target state="translated">Faktor Skala</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="First Slice">
+        <source>First Slice</source>
+        <target state="translated">Potongan Pertama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Last Slice">
+        <source>Last Slice</source>
+        <target state="translated">Potongan Terakhir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Increment__%04__Increment">
+        <source>Increment</source>
+        <target state="translated">Kenaikan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Border Width">
+        <source>Border Width</source>
+        <target state="translated">Lebar Tepi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Label Slices">
+        <source>Label Slices</source>
+        <target state="translated">Label Potongan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Use Foreground Color">
+        <source>Use Foreground Color</source>
+        <target state="translated">Gunakan Warna Latar Depan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Channels">
+        <source>Channels</source>
+        <target state="translated">Saluran</target>
+        <note from="developer">## ImageProperties NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frames">
+        <source>Frames</source>
+        <target state="translated">Bingkai</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pixel Width">
+        <source>Pixel Width</source>
+        <target state="translated">Lebar Piksel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pixeln Height">
+        <source>Pixeln Height</source>
+        <target state="translated">Tinggi Pikseln</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Voxel Depth">
+        <source>Voxel Depth</source>
+        <target state="translated">Kedalaman Voxel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frame Interval">
+        <source>Frame Interval</source>
+        <target state="translated">Interval Bingkai</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Origin (pixels)">
+        <source>Origin (pixels)</source>
+        <target state="translated">Asal (Piksel)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Global__%04__Global">
+        <source>Global</source>
+        <target state="translated">Global</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="is not locked">
+        <source>is not locked</source>
+        <target state="translated">tidak terkunci</target>
+        <note from="developer">## SimpleCommands</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="is now unlocked">
+        <source>is now unlocked</source>
+        <target state="translated">sekarang sudah tidak terkunci</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rename">
+        <source>Rename</source>
+        <target state="translated">Ubah Nama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New title:">
+        <source>New title:</source>
+        <target state="translated">Judul baru:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="-copy">
+        <source>-copy</source>
+        <target state="translated">-salin</target>
+        <note from="developer">## Duplicater</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Duplicate">
+        <source>Duplicate</source>
+        <target state="translated">Duplikat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Title:">
+        <source>Title:</source>
+        <target state="translated">Judul:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Duplicate Entire Stack?">
+        <source>Duplicate Entire Stack?</source>
+        <target state="translated">Duplikasi seluruh tumpukan?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale">
+        <source>Scale</source>
+        <target state="translated">Skala</target>
+        <note from="developer">## Scaler</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="X Scale">
+        <source>X Scale</source>
+        <target state="translated">Skala X</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Y Scale">
+        <source>Y Scale</source>
+        <target state="translated">Skala Y</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="X or Y scale are invalid.">
+        <source>X or Y scale are invalid.</source>
+        <target state="translated">Skala X atau Y tidak benar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="-rescaled">
+        <source>-rescaled</source>
+        <target state="translated">-ubah skala</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill with Background Color">
+        <source>Fill with Background Color</source>
+        <target state="translated">isi dengan warna latar belakang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScaleBar Plus">
+        <source>ScaleBar Plus</source>
+        <target state="translated">Tambah BatangSkala </target>
+        <note from="developer">## ScaleBar</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width in">
+        <source>Width in</source>
+        <target state="translated">Lebar dalam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Height in pixels">
+        <source>Height in pixels</source>
+        <target state="translated">Tinggi dalam piksel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Font Size">
+        <source>Font Size</source>
+        <target state="translated">Ukuran Huruf</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScaleBarColor__%04__Color">
+        <source>Color</source>
+        <target state="translated">Warna</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Background">
+        <source>Background</source>
+        <target state="translated">Latar Belakang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Location">
+        <source>Location</source>
+        <target state="translated">Lokasi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScaleBarBold__%04__Bold Text">
+        <source>Bold Text</source>
+        <target state="translated">Tebalkan Teks</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hide Text">
+        <source>Hide Text</source>
+        <target state="translated">Sembunyikan Teks</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Serif Font">
+        <source>Serif Font</source>
+        <target state="translated">Huruf Serif</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LookUp Table">
+        <source>LookUp Table</source>
+        <target state="translated">Mencari Tabel</target>
+        <note from="developer">## LutViewer</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Index&#9;Red&#9;Green&#9;Blue">
+        <source>Index	Red	Green	Blue</source>
+        <target state="translated">Indeks	Merah	Hijau	Biru</target>
+        <note from="developer">### 4 FIELDS SEPARATED BY \t</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LUT">
+        <source>LUT</source>
+        <target state="translated">LUT</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB images do not use LUTs.">
+        <source>RGB images do not use LUTs.</source>
+        <target state="translated">Citra RGB tidak menggunakan LUT</target>
+        <note from="developer">## LutLoader</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Profile Plot Options">
+        <source>Profile Plot Options</source>
+        <target state="translated">Opsi Plot Profil</target>
+        <note from="developer">## Profiler</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fixed Y-axis Scale">
+        <source>Fixed Y-axis Scale</source>
+        <target state="translated">Skala tetap sumbu-Y </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Do Not Save X-Values">
+        <source>Do Not Save X-Values</source>
+        <target state="translated">Jangan Simpan Nilai-X</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Auto-close">
+        <source>Auto-close</source>
+        <target state="translated">Tutup-otomatis</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Vertical Profile">
+        <source>Vertical Profile</source>
+        <target state="translated">Profil Vertikal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Roi Manager">
+        <source>Roi Manager</source>
+        <target state="translated">Manajer ROI</target>
+        <note from="developer">## RoiManager</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiAdd__%04__Add">
+        <source>Add</source>
+        <target state="translated">Tambah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiAdd&amp;Draw__%04__Delete">
+        <source>Delete</source>
+        <target state="translated">Hapus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiDel__%04__Delete">
+        <source>Delete</source>
+        <target state="translated">Hapus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiOpen__%04__Open">
+        <source>Open</source>
+        <target state="translated">Buka</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open All">
+        <source>Open All</source>
+        <target state="translated">Buka Semua</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save">
+        <source>Save</source>
+        <target state="translated">Simpan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select All">
+        <source>Select All</source>
+        <target state="translated">Pilih Semua</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Measure">
+        <source>Measure</source>
+        <target state="translated">Ukur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw">
+        <source>Draw</source>
+        <target state="translated">Gambar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill">
+        <source>Fill</source>
+        <target state="translated">Isi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The active image does not have an ROI.">
+        <source>The active image does not have an ROI.</source>
+        <target state="translated">Citra aktif tidak memiliki ROI</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The ROI list is empty.">
+        <source>The ROI list is empty.</source>
+        <target state="translated">Daftar ROI kosong</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="At least one ROI in the list must be selected.">
+        <source>At least one ROI in the list must be selected.</source>
+        <target state="translated">Setidaknya pilih satu ROI di daftar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This ROI does not fit the current image.">
+        <source>This ROI does not fit the current image.</source>
+        <target state="translated">ROI ini tidak sesuai dengan citra saat ini</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open ROI...">
+        <source>Open ROI...</source>
+        <target state="translated">Buka ROI...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select a file in the folder...">
+        <source>Select a file in the folder...</source>
+        <target state="translated">Pilih Berkas di dalam Pelipat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save ROI...">
+        <source>Save ROI...</source>
+        <target state="translated">Simpan ROI...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibration Bar">
+        <source>Calibration Bar</source>
+        <target state="translated">Kalibrasi Batang</target>
+        <note from="developer">## CalibrationBar</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Location:">
+        <source>Location:</source>
+        <target state="translated">Lokasi:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill Colour:">
+        <source>Fill Colour:</source>
+        <target state="translated">Isi Warna:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Label Colour:">
+        <source>Label Colour:</source>
+        <target state="translated">Label Warna:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Number of Labels:">
+        <source>Number of Labels:</source>
+        <target state="translated">Jumlah Label:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="CaliPlaces__%04__Decimal Places:">
+        <source>Decimal Places:</source>
+        <target state="translated">Lokasi Desimal:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Font Size:">
+        <source>Font Size:</source>
+        <target state="translated">Ukuran Huruf:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zoom Factor:">
+        <source>Zoom Factor:</source>
+        <target state="translated">Faktor Zum:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="CaliBold__%04__Bold Text">
+        <source>Bold Text</source>
+        <target state="translated">Tebal teks</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="with bar">
+        <source>with bar</source>
+        <target state="translated">dengan batang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upper Right">
+        <source>Upper Right</source>
+        <target state="translated">Kanan Atas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upper Left">
+        <source>Upper Left</source>
+        <target state="translated">Kiri Atas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lower Right">
+        <source>Lower Right</source>
+        <target state="translated">Kanan Bawah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lower Left">
+        <source>Lower Left</source>
+        <target state="translated">Kiri Bawah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="At Selection">
+        <source>At Selection</source>
+        <target state="translated">Pada Pilihan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Image Sequence...">
+        <source>Open Image Sequence...</source>
+        <target state="translated">Buka Citra Urutan...</target>
+        <note from="developer">## FolderOpener</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Error:">
+        <source>Import Error:</source>
+        <target state="translated">Impor Salah:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This folder does not appear to contain any TIFF,&#10;FITS, JPEG, BMP, GIF, or PGM files.">
+        <source>This folder does not appear to contain any TIFF,
+FITS, JPEG, BMP, GIF, or PGM files.</source>
+        <target state="translated">Pelipat tidak memuat berkas  TIFF,
+FITS, JPEG, BMP, GIF, atau PGM.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="None of the">
+        <source>None of the</source>
+        <target state="translated">Tidak satupun dari</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="files contain  in their name the string">
+        <source>files contain  in their name the string</source>
+        <target state="translated">Berkas memuat  dalam string nama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id=": wrong dimensions">
+        <source>: wrong dimensions</source>
+        <target state="translated">: dimensi yang salah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id=": wrong type">
+        <source>: wrong type</source>
+        <target state="translated">: tipe yang salah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id=": unable to open">
+        <source>: unable to open</source>
+        <target state="translated">: tidak dapat dibuka</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sequence Options">
+        <source>Sequence Options</source>
+        <target state="translated">Opsi Urutan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Number of Images">
+        <source>Number of Images</source>
+        <target state="translated">Jumlah Citra</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Starting Image">
+        <source>Starting Image</source>
+        <target state="translated">Memulai Citra</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FoldOpt3__%04__Increment">
+        <source>Increment</source>
+        <target state="translated">Kenaikan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File Name Contains">
+        <source>File Name Contains</source>
+        <target state="translated">Nama Berkas memuat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Convert to 8-bit Greyscale">
+        <source>Convert to 8-bit Greyscale</source>
+        <target state="translated">Ubah ke Keabuan 8-bit</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open 1/2 Size">
+        <source>Open 1/2 Size</source>
+        <target state="translated">Buka Ukuran 1/2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enter URL">
+        <source>Enter URL</source>
+        <target state="translated">Masukkan URL</target>
+        <note from="developer">## URLOpener</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enter the URL of an image to open:">
+        <source>Enter the URL of an image to open:</source>
+        <target state="translated">Masukkan URL citra untuk dibuka</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Animation Options">
+        <source>Animation Options</source>
+        <target state="translated">Opsi Animasi</target>
+        <note from="developer">## Animator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Speed (1-100 fps):">
+        <source>Speed (1-100 fps):</source>
+        <target state="translated">Kecepatan (1-100 fps): </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Loop Back and Forth">
+        <source>Loop Back and Forth</source>
+        <target state="translated">Loop Mundur dan Maju</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start Animation">
+        <source>Start Animation</source>
+        <target state="translated">Mulai Animasi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Slice">
+        <source>Set Slice</source>
+        <target state="translated">Atur Potongan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slice number">
+        <source>Slice number</source>
+        <target state="translated">Nomer Potongan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save As Text">
+        <source>Save As Text</source>
+        <target state="translated">Simpan sebagai Teks</target>
+        <note from="developer">## TextWriter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This command requires a TextWindow">
+        <source>This command requires a TextWindow</source>
+        <target state="translated">Perintah membutuhkan JendelaTeks</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibrate...">
+        <source>Calibrate...</source>
+        <target state="translated">Kalibrasi...</target>
+        <note from="developer">## Calibrator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Function:">
+        <source>Function:</source>
+        <target state="translated">Fungsi:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Global calibration">
+        <source>Global calibration</source>
+        <target state="translated">Kalibrasi Global</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibrator:">
+        <source>Calibrator:</source>
+        <target state="translated">Kalibrator:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Please select a function">
+        <source>Please select a function</source>
+        <target state="translated">Silahkan pilih Fungsi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibration of 16-bit images, except with straight&#10;line functions, is currently not supported.">
+        <source>Calibration of 16-bit images, except with straight
+line functions, is currently not supported.</source>
+        <target state="translated">Kalibrasi citra 16-bit, kecuali dengan fungsi garis
+lurus saat ini tidak didukung</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pixel Inverter">
+        <source>Pixel Inverter</source>
+        <target state="translated">Piksel Inverter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="To create a calibration curve, the left column must&#10;contain a list of measured mean pixel values and the&#10;right column must contain the same number of calibration&#10;standard values.">
+        <source>To create a calibration curve, the left column must
+contain a list of measured mean pixel values and the
+right column must contain the same number of calibration
+standard values.</source>
+        <target state="translated">Untuk membuat kalibrasi kurva, kolom kiri harus
+memuat daftar nilai ukuran piksel rata-rata dan
+kolom kanan harus memuat jumlah nilai standar
+kalibrasi yang sama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibration function">
+        <source>Calibration function</source>
+        <target state="translated">Fungsi kalibrasi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Recorder">
+        <source>Recorder</source>
+        <target state="translated">Rekaman</target>
+        <note from="developer">## Recorder</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="32-bit float image required">
+        <source>32-bit float image required</source>
+        <target state="translated">Dipelrukan Citra "float" 32-bit</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Last used files:">
+        <source>Last used files:</source>
+        <target state="translated">Berkas terakhir yang digunakan:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Files">
+        <source>Files</source>
+        <target state="translated">Berkas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translate">
+        <source>Translate</source>
+        <target state="translated">Terjemahkan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation on X">
+        <source>Translation on X</source>
+        <target state="translated">Penerjemahan pada X</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation on Y">
+        <source>Translation on Y</source>
+        <target state="translated">Penerjemahan pada Y</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation on X is invalid">
+        <source>Translation on X is invalid</source>
+        <target state="translated">Penerjemahan pada X salah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation en Y est invalide">
+        <source>Translation en Y est invalide</source>
+        <target state="translated">Penerjemahan pada Y salah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open/Save Using JFileChooser">
+        <source>Open/Save Using JFileChooser</source>
+        <target state="translated">Buka/Simpan Menggunakan PemillihBerkasJ</target>
+        <note from="developer">## Option JFile Chooser</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Horizontal Profile">
+        <source>Horizontal Profile</source>
+        <target state="translated">Profil Horisontal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gaussian fit results">
+        <source>Gaussian fit results</source>
+        <target state="translated">Hasil fit Gaussian</target>
+        <note from="developer">## Spectrum Radio...</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Channel">
+        <source>Channel</source>
+        <target state="translated">Saluran</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Velocity">
+        <source>Velocity</source>
+        <target state="translated">Kecepatan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="km/s">
+        <source>km/s</source>
+        <target state="translated">km/det</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frequency">
+        <source>Frequency</source>
+        <target state="translated">Frekuensi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="MHz">
+        <source>MHz</source>
+        <target state="translated">MHz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Wavelength">
+        <source>Wavelength</source>
+        <target state="translated">Panjang Gelombang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cm">
+        <source>cm</source>
+        <target state="translated">cm</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Intensity">
+        <source>Intensity</source>
+        <target state="translated">Intensitas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This does not appear to be a FITS file.">
+        <source>This does not appear to be a FITS file.</source>
+        <target state="translated">Ini tidak tampak seperti berkas FITS</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="too few points to fit">
+        <source>too few points to fit</source>
+        <target state="translated">Terlalu sedikit titik untuk fit</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="singular matrix">
+        <source>singular matrix</source>
+        <target state="translated">matriks tunggal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="choose two intervals">
+        <source>choose two intervals</source>
+        <target state="translated">pilih dua interval</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="first interval">
+        <source>first interval</source>
+        <target state="translated">interval pertama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="second interval">
+        <source>second interval</source>
+        <target state="translated">interval kedua</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="choose order of baseline fit (0&lt;order&lt;5)">
+        <source>choose order of baseline fit (0&lt;order&lt;5)</source>
+        <target state="translated">pilih urutan fit garis pangkal (0&lt;urutan&lt;5)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Order">
+        <source>Order</source>
+        <target state="translated">Urutan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="display zero line in blue">
+        <source>display zero line in blue</source>
+        <target state="translated">Tampilkan garis nol di Biru</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gaussian fit of spectral line">
+        <source>Gaussian fit of spectral line</source>
+        <target state="translated">Fit Gaussian garis spektrum</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose parameters">
+        <source>Choose parameters</source>
+        <target state="translated">Pilih Parameter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="interval">
+        <source>interval</source>
+        <target state="translated">interval</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="amplitude">
+        <source>amplitude</source>
+        <target state="translated">amplitudo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="center">
+        <source>center</source>
+        <target state="translated">tengah</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="width">
+        <source>width</source>
+        <target state="translated">lebar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="erase the last">
+        <source>erase the last</source>
+        <target state="translated">hapus yang terakhir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Subtract baseline">
+        <source>Subtract baseline</source>
+        <target state="translated">kurangi garis pangkal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gaussian fit">
+        <source>Gaussian fit</source>
+        <target state="translated">fit Gaussian</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Baseline">
+        <source>Baseline</source>
+        <target state="translated">Garis Pangkal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lambda[A]">
+        <source>Lambda[A]</source>
+        <target state="translated">Lambda[A]</target>
+        <note from="developer">## Optical Spectrum...</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flux[ADU]">
+        <source>Flux[ADU]</source>
+        <target state="translated">Flux[ADU]</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

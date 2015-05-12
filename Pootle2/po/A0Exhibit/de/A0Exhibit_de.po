@@ -1,0 +1,1111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2012-10-24 16:16+0200\n"
+"PO-Revision-Date: 2012-11-02 17:19+0200\n"
+"Last-Translator: Martin <vorsitzender1@astropeiler.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: A0Exhibit_en.xml:2(p1_text1)
+msgid "Imagine light as a superposition of many individual waves that have different wavelengths (a wavelength is the distance over which the wave’s pattern repeats). For the light visible by human eyes, each wavelength can be associated with a colour. Have you ever tried illuminating a prism with a lamp? You obtain a beautiful rainbow, which is revealing the decomposition of the visible light into its single colours (or single wavelengths).  For a human eye, the visible range of wavelength lies between 400 and 700 nanometres (0.000000001 metres). We can see 400 nm as blue, and 700 nm as red.  But there are more wavelengths that our eyes cannot see: some shorter than blue, and some longer than red."
+msgstr ""
+"Stelle dir Licht als eine Überlagerung vieler individueller Wellen mit "
+"unterschiedlichen Wellenlängen vor (eine Wellenlänge ist die Entfernung, "
+"nach der sich das Wellenmuster wiederholt). In dem Bereich des Lichts, der "
+"für das menschliche Auge sichtbar ist, kann jede Wellenlänge einer Farbe "
+"zugeordnet werden. Hast du schon einmal versucht, ein Prisma mit einer Lampe "
+"anzustrahlen? Du erhältst einen schönen Regenbogen, der die Zerlegung des "
+"sichtbaren Lichts in seine einzelnen Farben (oder einzelnen Wellenlängen) "
+"sichtbar macht. Das Auge des Menschen kann Wellenlängen zwischen 400 und 700 "
+"Nanometern (0,000000001 Meter, abgekürzt nm) wahrnehmen. Wir sehen 400 nm "
+"als blau und 700 nm als rot. Aber es gibt mehr Wellenlängen, die unser Auge "
+"nicht mehr wahrnehmen kann: Manche sind kürzer als blau, und manche länger "
+"als rot."
+
+#: A0Exhibit_en.xml:2(p1_visible_graph) A0Exhibit_en.xml:2(p1_visible)
+msgid "visible"
+msgstr "sichtbar"
+
+#: A0Exhibit_en.xml:2(p1_title1)
+msgid "What is a radio signal? "
+msgstr "Was ist ein Radiosignal?"
+
+#: A0Exhibit_en.xml:2(p1_title2)
+msgid "Light is a wave..."
+msgstr "Licht ist eine Welle..."
+
+#: A0Exhibit_en.xml:2(p1_sunlight)
+msgid "sunlight"
+msgstr "Sonnenlicht"
+
+#: A0Exhibit_en.xml:2(p1_intensity)
+msgid "intensity"
+msgstr "Intensität"
+
+#: A0Exhibit_en.xml:2(p1_red)
+msgid "Red"
+msgstr "Rot"
+
+#: A0Exhibit_en.xml:2(p1_orange)
+msgid "Orange"
+msgstr "Orange"
+
+#: A0Exhibit_en.xml:2(p1_yellow)
+msgid "Yellow"
+msgstr "Gelb"
+
+#: A0Exhibit_en.xml:2(p1_green)
+msgid "Green"
+msgstr "Grün"
+
+#: A0Exhibit_en.xml:2(p1_blue)
+msgid "Blue"
+msgstr "Blau"
+
+#: A0Exhibit_en.xml:2(p1_indigo)
+msgid "Indigo"
+msgstr "Indigo"
+
+#: A0Exhibit_en.xml:2(p1_violet)
+msgid "Violet"
+msgstr "Violett"
+
+#: A0Exhibit_en.xml:2(p1_newton)
+msgid "(Newton’s primary colours defined in 1672)"
+msgstr "(die von Newton 1672 definierten Primärfarben)"
+
+#: A0Exhibit_en.xml:2(p1_AM)
+msgid "AM"
+msgstr "AM"
+
+#: A0Exhibit_en.xml:2(p1_FM)
+msgid "FM"
+msgstr "FM"
+
+#: A0Exhibit_en.xml:2(p1_VHF)
+msgid "VHF"
+msgstr "VHF"
+
+#: A0Exhibit_en.xml:2(p1_UHF)
+msgid "UHF"
+msgstr "UHF"
+
+#: A0Exhibit_en.xml:2(p1_microwaves)
+msgid "microwaves"
+msgstr "Mikrowellen"
+
+#: A0Exhibit_en.xml:2(p1_cell_phone)
+msgid "cell phone"
+msgstr "Mobiltelefon"
+
+#: A0Exhibit_en.xml:2(p1_wifi)
+msgid "Wifi Bluetooth"
+msgstr "WLAN Bluetooth"
+
+#: A0Exhibit_en.xml:2(p1_radars)
+msgid "radars"
+msgstr "Radar"
+
+#: A0Exhibit_en.xml:2(p1_hydrogen)
+msgid "atomic hydrogen line"
+msgstr "Wasserstofflinie"
+
+#: A0Exhibit_en.xml:2(p1_co)
+msgid "CO emission line"
+msgstr "CO-Emissionslinie"
+
+#: A0Exhibit_en.xml:2(p1_thermo)
+msgid "thermographic camera"
+msgstr "Wärmebildkamera"
+
+#: A0Exhibit_en.xml:2(p1_tv_remote)
+msgid "TV remote control"
+msgstr "Fernbedienung"
+
+#: A0Exhibit_en.xml:2(p1_desinfectant)
+msgid "UV desinfectant"
+msgstr "UV-Desinfizierer"
+
+#: A0Exhibit_en.xml:2(p1_radiography)
+msgid "Radiography (here, Radio is for Radiation!)"
+msgstr "Röntgenuntersuchung"
+
+#: A0Exhibit_en.xml:2(p1_banner)
+msgid "Dr. Banner’s experiments"
+msgstr "Dr. Banners Experimente"
+
+#: A0Exhibit_en.xml:2(p1_radio)
+msgid "RADIO"
+msgstr "RADIO"
+
+#: A0Exhibit_en.xml:2(p1_ir)
+msgid "IR"
+msgstr "IR"
+
+#: A0Exhibit_en.xml:2(p1_uv)
+msgid "UV"
+msgstr "UV"
+
+#: A0Exhibit_en.xml:2(p1_xray)
+msgid "X-RAY"
+msgstr "Röntgenstrahlen"
+
+#: A0Exhibit_en.xml:2(p1_gammaray)
+msgid "GAMMA RAY"
+msgstr "Gammastrahlen"
+
+#: A0Exhibit_en.xml:2(p1_visible_light)
+msgid "visible light"
+msgstr "sichtbares Licht"
+
+#: A0Exhibit_en.xml:2(p1_text2)
+msgid "Light also carries energy, and the amount of energy depends on the wavelength: the shorter the wavelength, the more energetic the light beam is. Take short wavelength UV light for example: a little is good for the tan, but too much can cause sunburns! Conversely, longer wavelengths are associated with weaker energies. FM radio emissions for example, are harmless to us. In the Universe at large, energetic phenomenon like supernovae emits lots of X-Rays and Gamma Ray which are even more energetic than UV. But the cold gas lying in between stars, or some cold dust particles for example, emit low energy radiations at long wavelengths that fall into the Radio domain."
+msgstr ""
+"Licht transportiert auch Energie, und die Energiemenge hängt von der "
+"Wellenlänge ab: je kürzer die Wellenlänge, desto energiereicher ist der "
+"Strahl. Betrachten wir als Beispiel UV-Licht: geringe Mengen sind gut, um "
+"braun zu werden, bei größeren Mengen aber bekommt man Sonennbrand! Umgekehrt "
+"übertragen längere Wellenlängen weniger Energie. Radiowellen im UKW-Bereich "
+"etwa sind für uns harmlos. Im Universum geben energiereiche Phänomene wie "
+"Supernovae intensive Röntgen- und Gammastrahlung ab, die sogar noch "
+"energiereicher als UV-Licht sind. Am anderen Ende des Spektrums gibt das "
+"kalte Gas zwischen den Sternen oder kalte Staubpartikel im All Radiowellen "
+"niedriger Energie (und entsprechend großer Wellenlänge) ab."
+
+#: A0Exhibit_en.xml:2(p1_text3)
+msgid "Why is this gas cold? There are stars everywhere, so shouldn’t it be very hot?! Well, it’s true that a galaxy can contain something like a hundred billion of stars. But the distance between them is huge! For example, Proxima Centauri is the closest star from the Sun. It’s at 4.2 light-years from us. That means 40,000,000,000,000 km! At those kinds of distances, the stars do not heat the gas very much!  That’s why astronomers observe the interstellar gas in radio!"
+msgstr ""
+"Warum ist dieses Gas kalt? Wenn doch überall Sterne sind, sollte es dann "
+"nicht sehr heiß sein? Nun, es ist wahr, dass Galaxien etwa 100 Milliarden "
+"Sterne enthalten können. Aber die Entfernung zwischen ihnen ist riesig. "
+"Proxima Centauri etwa ist der Stern, der uns am nächsten liegt. Er ist 4,2 "
+"Lichtjahre entfernt, das sind 40 000 000 000 000 km! Bei diesen Entfernungen "
+"heizen die Sterne das Gas kaum auf. Darum beobachten Astronomen das "
+"interstellare Gas im Radiobereich."
+
+#: A0Exhibit_en.xml:2(p1_text4)
+msgid "Light can be considered as a wave, and also as a particle. Like a wave, it can create interference patterns, like two water waves hitting each other. But it can also be emitted photon by photon, and the photons can be counted in a receiver! Difficult to imagine? Well, take a cylinder. If you illuminate it on its side, its shadow is a square. But illuminate its face, and its shadow becomes a sphere!"
+msgstr ""
+"Licht kann als Welle, aber auch als Teilchen betrachtet werden. Wie eine "
+"Welle kann es Interferenzmuster erzeugen, wie zwei Wasserwellen, die "
+"einander treffen. Aber es kann auch Photon für Photon ausgestrahlt werden, "
+"und die Photonen können in einem Empfänger einzeln gezählt werden! Schwer "
+"vorzustellen? Betrachten wir einen Zyliner. Wenn man eine Seite beleuchtet, "
+"ist sein Schatten ein Rechteck. Aber beleuchtet man die Oberseite, ist sein "
+"Schatten ein Kreis!"
+
+#: A0Exhibit_en.xml:2(did_you_know) A0Exhibit_en.xml:2(did_you_know) A0Exhibit_en.xml:2(did_you_know) A0Exhibit_en.xml:2(did_you_know) A0Exhibit_en.xml:2(did_you_know)
+msgid "Did you know?"
+msgstr "Wusstest du schon...?"
+
+#: A0Exhibit_en.xml:2(p2_title1)
+msgid "So radio waves are just a kind of light. "
+msgstr "Radiowellen sind also nur eine Art von Licht."
+
+#: A0Exhibit_en.xml:2(p2_title2)
+msgid "What do we use them for?"
+msgstr "Wofür verwenden wir sie?"
+
+#: A0Exhibit_en.xml:2(p2_text1)
+msgid "On Earth, we use radio waves mainly for communication purpose. Why? Because they propagate easily through the atmosphere, and even under water.  The radio domain is a wide range of wavelengths, extending from kilometres to millimetres. The way they propagate strongly depends on their wavelength, and we take advantage of these different modes of propagation to create our very complex and diverse communication system:"
+msgstr ""
+"Auf der Erde verwenden wir Radiowellen vor allem für Kommunikationszwecke. "
+"Warum? Weil sie sich leicht durch die Atmosphäre ausbreiten und sogar ein "
+"wenig ins Wasser eindringen können. Der Radiobereich umfasst viele "
+"Wellenlängen, vom Kilometer- bis in den Millimeterbereich. Die Art, wie sich "
+"die Wellen ausbreiten, hängt stark von ihrer Wellenlänge ab, und wir machen "
+"uns diese verschiedenen Ausbreitungsarten zunutze, um unser komplexes "
+"Kommunikationsnetzwerk zu betreiben:"
+
+#: A0Exhibit_en.xml:2(p2_text2)
+msgid "Kilometre wavelengths propagate through surface waves and follow the curvature of the Earth. With enough emission power, they can reach up to 1000 km. They also propagate under water, that’s why they are often used by submarines. Be careful though, it’s not Sonar! Sonar stands for SOund Navigation And Ranging. It’s a technique that uses sound propagation underwater, not light!  Amateur radio operators use decametre wavelengths. These wavelengths are very interesting because they are reflected by the Earth’s ionosphere. This means that an amateur radio signal sent to the sky bounces onto the ionosphere back to Earth, and propagates very far. Sometimes it can even reach the antipodes! Why sometimes? Well the reflection processes depends on the state of the ionosphere.  Wavelengths below about a metre propagate directly in straight lines from the emitter, almost like visible light. It’s the domain of FM broadcasting, TV emission, Wi-Fi, Bluetooth, etc. These wavelengths are less affected by the ionosphere, that’s why we need satellites to relay them and send them back to Earth."
+msgstr ""
+"Wellenlängen im Kilometer breiten sich als Bodenwelle entlang der Krümmung "
+"der Erdkugel aus. Mit genug Sendeleistung reichen sie bis zu 1000 km weit. "
+"Sie dringen auch ins Wasser ein, so dass sie oft von U-Booten verwendet "
+"werden. Diese Kommunikation darf aber nicht mit Sonar verwechselt werden! "
+"Sonar steht für \"SOund Navigation And Ranging\" (Navigation und "
+"Entfernungsmessung mit Schall). Das ist eine Technik, die Schallausbreitung, "
+"keine Radiowellen, benutzt. Funkamateure benutzen vor allem Wellenlängen im "
+"Dekameterbereich. Dieser Bereich ist besonders interessant, weil die Wellen "
+"von der Ionosphäre zur Erde zurückreflektiert werden und so besonders weit "
+"reichen. Manchmal kommen sogar Funkverbindungen zu den Antipoden, also dem "
+"entferntesten Punkt der Erde, zustande! Das funktioniert nicht immer; die "
+"Reflektion hängt vom Zustand der Ionosphäre ab.Wellenlängen unter einem "
+"Meter breiten sich in gerader Linie vom Sender aus, fast wie sichtbares "
+"Licht. In diesem Bereich arbeiten der UKW-Rundfunk, Fernsehsender, WLAN, "
+"Bluetooth usw. Diese Wellenlängen werden von der Ionosphäre kaum "
+"beeinflusst, so dass man Satelliten braucht, um mit ihnen um die Erde zu "
+"kommen."
+
+#: A0Exhibit_en.xml:2(p2_ionosphere) A0Exhibit_en.xml:2(p2_ionosphere) A0Exhibit_en.xml:2(p2_ionosphere)
+msgid "ionosphere"
+msgstr "Ionosphäre"
+
+#: A0Exhibit_en.xml:2(p2_km)
+msgid "KILOMETER wavelenghts"
+msgstr "Kilometerwellen"
+
+#: A0Exhibit_en.xml:2(p2_dm)
+msgid "DECAMETER wavelenghts"
+msgstr "Dekameterwellen"
+
+#: A0Exhibit_en.xml:2(p2_m)
+msgid "METER wavelenghts"
+msgstr "Meterwellen"
+
+#: A0Exhibit_en.xml:2(p2_text3)
+msgid "So radio waves are light, not sound. How come I can listen to my favourite songs with my radio? Well, suppose you want to share a song with your friend, 100m away from you. You could shout it very loudly but it would require a huge amount of energy to be heard, which would most likely result in a sore throat and some angry neighbours… Instead you could use your flashlight, translate it into Morse code and send it to your friend. By doing that, you have solved the problem of energy and distance, but you have lost a lot of information in the process. To keep all the information, you have to code the light you are sending in a specific way, so that your friend can receive and decode it easily.  This is called signal processing. Frequency Modulation (FM yes, like in FM radio!) is a kind of signal processing that is very easy and cheap to implement. You just modulate the light signal you are sending (the carrier wave) by varying its instantaneous frequency according to that of your message (your song for example). The signal is sent «modulated», and your radio «demodulates» it back to its original form and transmits it to its speakers, thus converting light back into sound!"
+msgstr ""
+"Radiowellen sind also Licht, kein Schall. Wie kann man aber dann \"Radio "
+"hören\"? Nehmen wir an, du willst ein Lied mit deinem Freund, der 100 m "
+"entfernt ist, teilen. Du könntest laut rufen, was aber sehr ineffizient "
+"wäre. Stattdessen könntest du eine Taschenlampe benutzen und den Songtext "
+"morsen. Damit hast du das Problem der Energieverschwendung gelöst, verlierst "
+"aber eine Menge Informationen, nämlich die Melodie. Um alle Information zu "
+"erhalten, musst du das Licht auf eine spezielle Art verändern, so dass dein "
+"Freund das Signal leicht empfangen und entschlüsseln kann. Dabei spricht man "
+"von Modulation. Frequenzmodulation (FM) ist eine Art der Modulation, die "
+"sehr einfach und billig zu implementieren ist und deshalb z.B. für den UKW-"
+"Rundfunk verwendet wird. Man moduliert das gesendete Signal, indem man seine "
+"Frequenz entsprechend der Frequenz des Musikstücks ändert. Der Empfänger "
+"\"demoduliert\" das Signal und bringt es damit zurück in den ursprünglichen "
+"Frequenzbereich, so dass es über Lautsprecher wieder als Schall "
+"wiedergegeben werden kann."
+
+#: A0Exhibit_en.xml:2(p2_text4)
+msgid "Other signal processing methods are used, like Amplitude Modulation (AM) or Phase Modulation (PM) to transmit information. Wi-Fi, for example, uses a combination of FM and PM."
+msgstr ""
+"Zur Informationsübertragung werden andere Veränderungen des Signals "
+"verwendet, wie Amplitudenmodulation (AM) oder Phasenmodulation (PM). WLAN "
+"nutzt beispielsweise eine Kombination aus FM und PM."
+
+#: A0Exhibit_en.xml:2(p2_text5)
+msgid "The ionosphere is a layer of electrons and other electrically charged particles in the upper atmosphere. It starts at around 80 km from the ground. At this altitude, the atmosphere is too thin to shield the particles from the Solar radiation. Atoms and molecules are hit directly with very energetic light like UV and X-Ray, and this causes them to break and lose some electrons. Their neutral balance is disturbed and they become electrically charged. The resulting mixture of electrons and charged particles is called plasma, and it is responsible for the reflection power of the ionosphere at decametre wavelengths.  During the day, Sunbeams hit the ionosphere and produce a lot of charged particles; the ionosphere becomes unstable and cannot reflect the radio signals very efficiently. But at night, the ionosphere is less perturbed and almost acts as a smooth mirror. This is why amateur radio operators prefer to send their long-distance call during the night!"
+msgstr ""
+"DIe Ionosphäre ist eine Schicht aus Elektronen und anderen elektrisch "
+"geladenen Teilchen in der oberen Atmosphäre. Sie beginnt etwa 80 km über dem "
+"Boden. In dieser Höhe ist die Atmosphäre zu dünn, um die Teilchen der "
+"solaren Strahlung abzuschirmen. Atome und Moleküle werden von sehr "
+"energiereichem UV-Licht und Röntgenstrahlen getroffen, und dadurch werden "
+"sie gespalten, verlieren Elektronen und werden so elektrisch geladen. Die "
+"entstehende Mischung aus freien Elektronen und elektrisch geladenen Teilchen "
+"wird Plasma genannt, und dieses Plasma reflektiert die Radiowellen in der "
+"Ionosphäre. Im Laufe des Tages treffen Sonnenstrahlen auf die Ionosphäre und "
+"produzieren viele geladene Teilchen, die Ionosphäre wird dabei instabil und "
+"kann Signale nicht mehr so gut reflektieren. Aber bei Nacht beruhigt sich "
+"die Ionosphäre und verhält sich fast wie ein glatter Spiegel, weshalb auch "
+"Funkamateure gern die Nacht für ihre weltweiten Gespräche nutzen."
+
+#: A0Exhibit_en.xml:2(p2_fm)
+msgid "Frequency Modulation (F.M.)"
+msgstr "Frequenzmodulation (FM)"
+
+#: A0Exhibit_en.xml:2(p2_whatis)
+msgid "What is the ionosphere?"
+msgstr "Was ist die Ionosphäre?"
+
+#: A0Exhibit_en.xml:2(p2_text6)
+msgid "While light can propagate in empty spaces, sound cannot. This is because sound waves need a medium they can vibrate into. You can listen to a piano melody because each time the pianist presses a key, a small hammer hits a string and makes it vibrate. The vibration then propagates into the air, until it reaches a receiver like a human ear for example. The ear is in fact a small vibrating membrane (the ear-drum) connected to small bones that transmits the vibration to our nervous system."
+msgstr ""
+"Licht kann sich im leeren Raum ausbreiten, aber Schall nicht. Der Grund ist, "
+"dass Schallwellen ein Medium brauchen, das ihre Vibration überträgt. "
+"Schlägt ein Klavierspieler eine Taste an, wird eine Saite des Klaviers durch "
+"einen kleinen Hammer in Schwingung versetzt. Diese Schwingung überträgt "
+"sich durch die Luft, bis sie z.B. auf das Ohr eines Menschen trifft. Im Ohr "
+"sorgt eine kleine schwingende Membran, das Trommelfell, dafür, dass aus dem "
+"Schall Signale werden, die an das Nervensystem geleitet werden."
+
+#: A0Exhibit_en.xml:2(p2_didyouknowtext)
+msgid "Light and sound are both waves, but their nature is very different."
+msgstr ""
+"Sowohl Licht als auch Schall sind Wellen, aber ihre Eigenschaften sind sehr "
+"unterschiedlich."
+
+#: A0Exhibit_en.xml:2(p3_title1)
+msgid "Why do astronomers use "
+msgstr "Warum verwenden Astronomen "
+
+#: A0Exhibit_en.xml:2(p3_title2)
+msgid "very big telescopes?"
+msgstr "sehr große Teleskope?"
+
+#: A0Exhibit_en.xml:2(p3_text1)
+msgid "One crucial parameter when observing the sky is the spatial resolution. The spatial resolution is the smallest detail a telescope can observe. The smaller it is, the more details you will observe on your source. The resolution of a telescope, Θ, is proportional to the wavelength, λ, at which you are observing, and inversely proportional to the diameter of the telescope, Φ. Or simply put:   So, the more precision we want, the bigger the telescope must be, especially at high wavelengths.  How big? Well, let’s do the maths. Let say I want to see someone standing on the Moon with an optical telescope., and to see him with a bit of detail, I want to make an image of him that has a height of 10 pixels. The man on the Moon is 2m tall.  First, let’s calculate his apparent size. The apparent size is the angle δ under which an object of size d is seen at a distance D. Using trigonometric relations, it’s fairly easy to find that sin(δ) = d/D. As δ is very small, this simplifies to δ ≈ d/D.  "
+msgstr ""
+"Ein entscheidender Parameter bei der Himmelsbeobachtung ist die "
+"Ortsauflösung. Sie beschreibt die Größe der kleinsten Details, die ein "
+"Teleskop noch beobachten kann. Je besser die Ortsauflösung, desto mehr feine "
+"Details der Quelle werden sichtbar. Die Auflösung eines Teleskops, Θ, ist "
+"proportional zur Wellenlänge λ, bei der beobachtet wird, und invers "
+"proportional zum Durchmesser des Teleskops Φ. Oder, einfacher ausgedrückt: "
+"Je genauer wir beobachten wollen, desto größer muss das Teleskop sein, "
+"besonders bei großen Wellenlängen. Wie groß? Rechnen wir nach. Angenommen, "
+"man möchte mit einem optischen Teleskop eine Person auf dem Mond sehen, und, "
+"um einige Details zu sehen, ein Bild von 10 Pixel Höhe erzeugen. Der Mensch "
+"ist ca. 2 Meter groß. Berechnen wir zunächst seine scheinbare Größe. Das "
+"ist der Winkel δ, unter dem ein Objekt der Größe d in der Entfernung D "
+"erscheint. Mit Hilfe der Trigonometrie ergibt sich sin(δ) = d/D , und da δ "
+"sehr klein ist, können wir näherungsweise von δ ≈ d/D ausgehen."
+
+#: A0Exhibit_en.xml:2(p3_diameter)
+msgid "Diameter"
+msgstr "Durchmesser"
+
+#: A0Exhibit_en.xml:2(p3_text2)
+msgid "Here, D is the distance to the Moon, which is hidden somewhere in this poster. If you want to calculate δ be careful that d and D are in the same units! You obtain δ in radian.  Now, we said we need 10 pixels to sample our image of the man, so our spatial resolution Θ should be equal to δ/10  Using the formula of the spatial resolution, and the center wavelength of the visible spectrum (it’s probably somewhere on another poster, you will have to look for it – again: be careful with the units!), you can now calculate the diameter of the telescope you will have to build.  You have it? Here’s a hint: it’s roughly the width of Central park in New York. It’s also 3 times the height of the Eiffel Tower…  This explains why astronomers always thrive for bigger telescopes! And the spatial resolution issue becomes critical at longer wavelengths. For radio observations, the telescopes are gigantic."
+msgstr ""
+"D ist hier die Mondentfernung, deren Wert irgendwo auf diesem Poster "
+"versteckt ist. Bei der Berechnung von δ musst du beachten, dass d und D in "
+"derselben Einheit angegeben sein müssen! Du wirst δ im Bogenmaß erhalten. "
+"Wir sagten, dass wir ein 10 Pixel großes Bild erzeugen wollen, also muss "
+"unsere Ortsauflösung Θ kleiner als die Größe des Menschen sein sein, genauer "
+"gesagt δ/10. Verwenden wir jetzt die Formel für die Ortsauflösung und die "
+"mittlere Wellenlänge des sichtbaren Lichts (die vermutlich auf einem anderen "
+"Poster steht -- und auch hier wieder: Vorsicht mit den Einheiten!), können "
+"wir den benötigten Teleskopdurchmesser berechnen. Hast du eine Lösung? Hier "
+"ist ein Hinweis: Er entspricht ungefähr der Breite des New Yorker Central "
+"Parks, oder der dreifachen Höhe des Eiffelturms in Paris... Das erklärt, "
+"warum Astronomen immer größere Instrumente anstreben. Und die Probleme mit "
+"der Ortsauflösung verschlimmern sich bei längeren Wellenlängen. Deshalb sind "
+"Radioteleskope im Vergleich so riesig."
+
+#: A0Exhibit_en.xml:2(p3_text3)
+msgid "Take for example the Arecibo Observatory: this huge telescope of 305 m diameter is the largest telescope ever built. It is located on the island of Puerto Rico, in the Caribbean. It observes a wide area of centimetre wavelengths. Its impressive size has earned him several appearances in movies, like in the James Bond film: GoldenEye. Another example is the Nançay Radio Telescope in France:  Located 2h south of Paris in the Sologne forest near Orleans, this 460 m long radio telescope has two huge mirrors: a plane one of 200x40 m and a spherical one of 300x35 m. Centimetre radio waves are collected by the focal carriage at the centre of the instrument. The plane mirror is movable vertically, only allowing observations of objects passing through the local meridian. It is thus called a meridian instrument. "
+msgstr ""
+"Betrachten wir etwa das Teleskop von Arecibo: Diese riesige Antenne von 305 "
+"m Durchmesserr ist das größte je gebaute Teleskop. Es liegt auf der Insel "
+"Puerto Rico in der Karibik und beobachtet einen weiten Frequenzbereich im "
+"Zentimeterwellenbereich. Wegen seiner beeindruckenden Größe war es schon in "
+"einigen Filmen, unter anderem in James Bond: Golden Eye, zu sehen. Ein "
+"anderes Beispiel ist das Teleskop von Nançay in Frankreich. 2 Stunden "
+"südlich von Paris bei Orleans gelegen, hat dieses 460 m lange Gerät zwei "
+"riesige Spiegel: einen flachen von 200x40 m und einen sphärischen von 300x35 "
+"m. Zentimeterwellen werden von einem beweglichen Empfänger aufgefangen. Der "
+"flache Spiegel kann vertikal bewegt werden; damit kann das Instrument nur "
+"Objekte beobachten, die durch den Meridian am Beobachtungsort laufen. Solche "
+"Instrumente nennt man daher auch Meridianinstrumente."
+
+#: A0Exhibit_en.xml:2(p3_text4)
+msgid "A diameter of 305 m is impressive in size, and it’s also a technical challenge to keep the surface of the mirror regular so that the radio signals can converge to the same point. So does that mean that it is the best we could ever do? Well, hopefully we will be able to do even better. One observing technique can overcome this limit: it’s called interferometry."
+msgstr ""
+"Ein Durchmesser von 305 m ist eine beeindruckende Größe, und es ist auch "
+"eine technische Herausforderung, die Oberfläche des Spiegels so gleichmäßig "
+"zu halten, dass die reflektierten Radiowellen im gleichen Punkt "
+"zusammenlaufen. Heißt das also, dass das die Grenze des Machbaren ist? Nun, "
+"hoffentlich werden wir noch bessere Lösungen finden. Eine "
+"Beobachtungstechnik, die diese Grenze überwinden kann, ist die "
+"Interferometrie."
+
+#: A0Exhibit_en.xml:2(p3_arecibo)
+msgid "The Arecibo Observatory"
+msgstr "Das Arecibo-Observatorium"
+
+#: A0Exhibit_en.xml:2(p3_nrt)
+msgid "The Nançay Radio Telescope"
+msgstr "Das Radioteleskop von Nançay"
+
+#: A0Exhibit_en.xml:2(p4_title1)
+msgid "the Interferometry Technique "
+msgstr "Interferometrie"
+
+#: A0Exhibit_en.xml:2(p4_title2)
+msgid "Better, stronger, but a bit more difficult!"
+msgstr "Besser, stärker, aber etwas schwieriger!"
+
+#: A0Exhibit_en.xml:2(p4_text1)
+msgid "The difficulty in achieving high resolutions with single-dish radio telescopes has led the use of another observing technique: Interferometry.   First of all, what is interference? To understand the concept of interference, let’s visualise the light as a wave. If a surface with two small holes in it gets illuminated, it should produce this effect:"
+msgstr ""
+"Da beim Versuch, mit einzelnen Teleskopen hohe Ortsauflösungen zu erreichen, "
+"große Schwierigkeiten auftreten, hat man sich einer anderen "
+"Beobachtungstechnik zugewandt: Der Interferometrie. Zunächst einmal: Was "
+"versteht man unter Interferenz? Um dieses Konzept zu verstehen, können wir "
+"uns Licht als eine Welle vorstellen. Wenn eine Fläche mit zwei kleinen "
+"Löchern darin angestrahlt wird, tritt dieser Effekt auf:"
+
+#: A0Exhibit_en.xml:2(p4_text2)
+msgid "Where the two waves coming out the holes overlap, they will add up if they are in phase, or cancel each other when they are out of phase. Something similar to this happen when you push someone on a swing: your friend will gain height only if your movements are in phase with the movements of the swing. With the light experiment depicted above, here is what you can observe on a screen:"
+msgstr ""
+"Wenn die beiden Wellen, die aus den Löchern austreten, einander überlagern, "
+"dann verstärken sie sich, wenn sie die gleiche Phase haben, und löschen "
+"einander aus, wenn sie gegensätzliche Phase haben. Etwas ähnliches passiert "
+"beim anstoßen einer Schaukel: Man gewinnt nur an Höhe, wenn der Rhythmus des "
+"Anschiebens in Phase mit der Bewegung der Schaukel ist. Bei dem oben "
+"dargestellten Lichtexperiment ergibt sich folgendes Bild auf einem "
+"Beobachtungsschirm:"
+
+#: A0Exhibit_en.xml:2(p4_text3)
+msgid "Want to do this at home? Well, that’s fairly easy as long as you have a laser pointer and three pieces of pencil lead. Hold the three pieces of lead between your thumb and your index, and try to make them as parallel as possible. Put them in front of your laser pointer, and look at the result on the wall: there you have it! You’ve just created interferences!"
+msgstr ""
+"Willst du das einmal nachstellen? Es ist recht einfach, wenn du einen "
+"Laserpointer und drei sehr dünne Stäbchen (etwa Druckbleistiftminen) hast. "
+"Halte die drei Stäbchen so zwischen Daumen und Zeigefinger, dass sie einen "
+"sehr kleinen, gleichmäßigen Abstand zueinander haben, und richte sie so "
+"parallel wie möglich aus. Richte jetzt den Laserpointer darauf, und an der "
+"Wand solltest du ein Interferenzmuster erkennen!"
+
+#: A0Exhibit_en.xml:2(p4_sowhat)
+msgid "So what happens with an astronomical source in radio waves?"
+msgstr "Was passiert also mit einer astronomischen Radioquelle?"
+
+#: A0Exhibit_en.xml:2(p4_pdbi)
+msgid "The Plateau de Bure Interferometer: on a plateau in the south of France, near Gap, is a network of six antennas of 15 m in diameter, observing in the millimetre range. They can move on rails and their maximum extension can reach up to 700 m."
+msgstr ""
+"Das Interferometer auf dem Plateu de Bure: Auf einer Hochebene in "
+"Südfrankreich, bei Gap, steht ein Netzwerk aus sechs Antennen mit je 15 m "
+"Durchmesser, die im Millimeterbereich beobachten. Sie sind auf Schienen "
+"verschiebbar und können bis auf 700 m Entfernung auseinandergefahren werden."
+
+#: A0Exhibit_en.xml:2(p4_vla)
+msgid "The Very Large Array: featured in the famous movie Contact. This interferometer is located in the desert plains of New Mexico, near Socorro, and observes in centimetre wavelengths. It’s a network of 27 movable antennas, put together to reach impressive spatial resolutions. Indeed the, array configurations are spanning from 1 km up to 36 km!"
+msgstr ""
+"Das Very Large Array, bekannt aus dem Film \"Contact\". Dieses Interferometer "
+"befindet sich in der flachen Wüste New Mexicos, bei Socorro, und beobachtet "
+"im Zentimeterbereich. Das Netzwerk umfasst 27 bewegliche Antennen, die "
+"zusammen eine beeindruckende Ortsauflösung erreichen. Das Array kann in "
+"Konfigurationen von 1 km bis zu 36 km betrieben werden."
+
+#: A0Exhibit_en.xml:2(p4_sowhattext)
+msgid "In a simple two-element radio interferometer, the signals from source alternately arrive in phase and out of phase as the Earth rotates and causes a change in the difference in path (the “d” on the picture) from the radio source to the two elements of the interferometer. This produces interference fringes in a manner similar to what was shown in the double slit experiment with visible light.  If the radio source has finite angular size, then “d” varies across the source. The measured interference fringes from the interferometer pair thus depend on the detailed nature of the radio «brightness» distribution in the sky. For a radio interferometer with several antennas, each pair produces different fringes, and information from the fringes can be used to reconstruct the original image."
+msgstr ""
+"Die Drehung der Erde verändert den Laufweg der Signale (das \"d\" im Bild) von "
+"der Radioquelle zu den beiden Antennen eines einfachen Zwei-Element-"
+"Interferometers, so dass im Lauf der Zeit die Signale an den Antennen "
+"abwechselnd in Phase und gegenphasig gemessen werden. Das erzeugt "
+"Interferenzmuster, ganz ähnlich denen, die wir aus dem Doppelspaltexperiment "
+"mit sichtbarem Licht kennen. Wenn die Radioquelle eine begrenzte Ausdehnung "
+"hat, dann ändert sich \"d\" über die Quelle hinweg. Die gemessenen "
+"Interferenzmuster hängen daher von der genauen Struktur der "
+"\"Helligkeitsverteilung\" der Radioquelle am Himmel ab. Bei einem "
+"Interferometer mit mehreren Antennen erzeugt jedes Paar verschiedene "
+"Interferenzmuster, und durch verrechnen dieser Informationen kann das "
+"Originalbild rekonstruiert werden."
+
+#: A0Exhibit_en.xml:2(p4_alma)
+msgid "The Atacama Large Millimeter Array (ALMA) will initially be composed of 66 high-precision antennas working together at millimeter and submillimeter wavelengths, with a possible extension in the future. Thanks to its high resolution and sensitivity, ALMA will bring a new vision of the Universe, allowing scientists to unravel longstanding and important astronomical mysteries."
+msgstr ""
+"Das Atacama Large Millimetre Array (ALMA) wird anfangs aus 66 hochgenauen "
+"Antennen bestehen, die gemeinsam im Millimeter- und Submillimeterbereich "
+"arbeiten werden. Eine zukünftige Erweiterung ist angedacht. Dank seiner "
+"hohen Auflösung und Empfindlichkeit wird ALMA eine neue Sicht auf das "
+"Universum ermöglichen und Astronomen helfen, lang erwartete Antworten auf "
+"schwierige Fragen zu finden."
+
+#: A0Exhibit_en.xml:2(p4_text4)
+msgid "Now you know how to reconstruct an image from interference patterns. But what’s the point of all this? It’s a very important point: in interferometry, the spatial resolution is not calculated from the diameter of the telescopes, but from the longest distance between a pair of telescopes! This means that an interferometer with telescopes distant from 1 km can obtain an image as if it was taken by a single-dish telescope of this diameter!"
+msgstr ""
+"Jetzt weißt du also, wie man ein Bild aus Interferenzmustern rekonstruieren "
+"kann. Aber wozu das Ganze? Nun, das ist der Kernpunkt der ganzen Sache: In "
+"der Interferometrie wird die Ortsauflösung nicht von der Größe der einzelnen "
+"Teleskope bestimmt, sondern von dem größten Abstand eines Paars von "
+"Teleskopen. Das heißt, dass ein Interferometer aus Teleskopen, die einen "
+"Kilometer entfernt stehen, ein Bild erzeugen kann, dass so scharf ist wie "
+"eins von einem Teleskop mit 1 km Durchmesser!"
+
+#: A0Exhibit_en.xml:2(p4_didyouknowtext)
+msgid "In recognition of their contributions to the development of radio interferometry using the earth-rotation synthesis, two British Astronomers Martin Ryle and Antony Hewish were awarded the 1974 Nobel Prize for Physics."
+msgstr ""
+"1974 wurde den beiden britischen Astronomen Martin Ryle und Antony Hewish "
+"der Physiknobelpreis für ihre Beiträge zur Nutzung der Erddrehung für die "
+"Radiointerferometrie verliehen."
+
+#: A0Exhibit_en.xml:2(p5_title1)
+msgid "From the Sky to the Computer: "
+msgstr "Vom Himmel in den Computer:"
+
+#: A0Exhibit_en.xml:2(p5_text3)
+msgid "What is the receiver made of?  As we are going to tackle the technical aspect of radio observations, we should adapt a bit our vocabulary. It will be more practical to talk about frequencies instead of wavelengths, because hardware sample the incoming signal at a certain frequency rate. If the radio signal is expressed in frequency too, it’s more convenient to compare them to each other. And switching from wavelength λ to frequency υ, is easy: we use this simple relation υ=c/λ (where c is the speed of light)  In a simple chain of acquisition, the first element that collects the radio signal is a small antenna, which can take several forms depending on the wavelength. For short radio wavelengths, millimetres for example, the antenna is a corrugated horn, plugged to a waveguide. For longer wavelengths like centimetre, a simple copper wire is enough."
+msgstr ""
+"Woraus besteht der Empfänger? Um die technischen Aspekte von Radio-"
+"Beobachtungen anzugehen, müssen wir unser Vokabular ein wenig anpassen: Es "
+"wird praktischer sein, von Frequenzen anstelle von Wellenlängen zu reden, "
+"weil die Hardware das ankommende Signal mit einer bestimmten Frequenz "
+"abtastet. Wenn also das Radiosignal als Frequenz beschrieben wird, dann "
+"können sie leichter verglichen werden. Der Übergang von der Wellenlänge λ "
+"zur Frequenz υ ist einfach, wir nutzen den einfachen Zusammenhang υ=c/λ "
+"(wobei c die Lichtgeschwindigkeit ist). In einer einfachen Empfangskette ist "
+"die Antenne das erste Element, die die Radiostrahlung empfängt. Diese kann "
+"verschiedene Formen haben, je nach Wellenlänge. Für kurzwellige "
+"Radiostrahlung z.B. ist die Antenne ein Rillenhorn, welches mit einem "
+"Hohlleiter verbunden ist. Für längere Wellenlängen reicht ein einfache "
+"Kupferdraht."
+
+#: A0Exhibit_en.xml:2(p5_title2)
+msgid "the Hitchhiker’s Guide to the radio Universe"
+msgstr "Per Anhalter durch das Radiouniversum"
+
+#: A0Exhibit_en.xml:2(p5_text1)
+msgid "As you can see from the picture, the atmosphere is transparent for a large part of the radio domain. This means that observations are possible in daylight! Think about the poor radio astronomers who never get to sleep…"
+msgstr ""
+"Wie man im Bild erkennt, ist die Atmosphäre für einen großen Teil des "
+"Radiofrequenzbereichs durchlässig. Das heißt, dass Beobachtungen bei "
+"Tageslicht möglich sind! Die armen Radioastronomen kommen also nie zum "
+"schlafen..."
+
+#: A0Exhibit_en.xml:2(p5_atm)
+msgid "Atmospheric opacity"
+msgstr "Durchlässigkeit der Atmosphäre"
+
+#: A0Exhibit_en.xml:2(p5_text2)
+msgid "The signal is collected with the primary reflector of the telescope. It usually has the shape of a parabola, though it could also be spherical. The important property of this primary reflector is that it converges the signal to a single point, called the focal point. At the focal point, there can be the receiver itself, or another mirror called the sub-reflector that relays the signal to the receiver."
+msgstr ""
+"Das Signal wird mit dem Hauptspiegel des Teleskops aufgefangen. Dieser hat "
+"üblicherweise die Form einer Parabel, kann aber auch sphärisch sein. Die "
+"wichtigste Eigenschaft des Spiegels ist, dass er das Signal auf einen "
+"einzelnen Punkt fokussiert, den sogenannten Fokuspunkt oder Brennpunkt. Dort "
+"kann sich entweder direkt der Empfänger befinden, oder ein zweiter Spiegel, "
+"meist Subreflektor genannt, der das Signal zum Empfänger umleitet. "
+
+#: A0Exhibit_en.xml:2(p5_captionleft)
+msgid "Copper wire for centimetre wavelengths reception."
+msgstr "Kupferdraht für den Empfang von Zentimeterwellen"
+
+#: A0Exhibit_en.xml:2(p5_captionright)
+msgid "Corrugated horn for millimetre wavelengths reception."
+msgstr "Rillenhorn für den Empfang von Millimeterwellen"
+
+#: A0Exhibit_en.xml:2(p5_radiolight)
+msgid "Radio light"
+msgstr "Radiostrahlung"
+
+#: A0Exhibit_en.xml:2(p5_focal)
+msgid "Focal point"
+msgstr "Fokuspunkt"
+
+#: A0Exhibit_en.xml:2(p5_subref)
+msgid "Sub reflector"
+msgstr "Subreflektor"
+
+#: A0Exhibit_en.xml:2(p5_primref)
+msgid "Primary reflector"
+msgstr "Hauptspiegel"
+
+#: A0Exhibit_en.xml:2(p5_text4)
+msgid "The small antenna is then linked to a filter that selects the range of frequencies around the frequency of interest. A high frequency amplifier boosts the resulting signal. Once amplified, the trick is to convert the analog signal (a smoothly variating voltage) to a digital signal (an encoded version). But the source frequencies are too high to be sampled with any ordinary hardware! The sample rate is just too high, even an expensive state-of-the-art analog to digital converter could not do it… But here is a simple solution: why not shift the frequency to a much lower one, so that it can be analysed?! Well, this is called heterodyne detection, and it is a technique that is frequently used in radio reception, not only in astronomy, but also in communication."
+msgstr ""
+"Die kleine Antenne wird dann mit einem Filter verbunden, das nur einen "
+"schmalen Bereich rund um die interessante Frequenz durchlässt. Ein "
+"Hochfrequenzverstärker verstärkt das daraus entstehende Signal. Ist es "
+"einmal verstärkt, geht es nur noch darum, das analoge Signal (eine sich "
+"stufenlos ändernde Spannung) in ein digitales Signal (eine codierte Version "
+"von diskreten Spannungsstufen) umzuwandeln. Aber die Ursprungsfrequenzen "
+"sind zu hoch, um sie mit normaler Hardware abzutasten. Die benötigte "
+"Abtastrate wäre so hoch, dass auch teure, aktuelle Analog-Digital-Wandler es "
+"nicht schaffen könnten. Die Lösung ist aber einfach: Das Signal wird in "
+"einen niedrigeren Frequenzbereich umgesetzt. Man spricht von Heterodyne-"
+"Empfängern, und diese Technik wird oft zum Empfang von Radiowellen "
+"eingesetzt -- nicht nur in der Astronomie, sondern auch in der "
+"Kommunikationstechnik."
+
+#: A0Exhibit_en.xml:2(p5_text5)
+msgid "In heterodyne detection, the signal is mixed with a known signal, generated locally by a stable laser. It is called the Local Oscillator. The Local Oscillator has a frequency (FLO) close to that of the sky signal (FSKY), and it can be tuned so that the difference between FLO and FSKY is equal to a fixed frequency that is called the Intermediate Frequency. To put it simply:  F SKY - F LO = F Intermediate The Intermediate Frequency is just the right frequency to be sampled by cheaper hardware, less difficult to build and more reliable. Once converted into bits, the signal can be analysed by software and shifted back to the real observed frequency just by numerically adding back again FLO."
+msgstr ""
+"Beim Heterodynempfang wird das Signal mit einem zweiten, bekannten Signal "
+"gemischt, das in der Regel von einem stabilen laserkontrollierten Generator "
+"stammt. Ihn nennt man meistens Lokaloszillator oder LO. Der LO hat eine "
+"Frequenz (FLO), die nahe an der des gemessenen Signals vom Himmel (FSKY) "
+"liegt und kann so abgestimmt werden, dass der Unterschied zwischen FLO und "
+"FSKY einer festen Frequenz, der sogenannten Zwischenfrequenz (ZF) "
+"entspricht. Als Formel notiert: FSKY - FLO = ZF. Die ZF wählt man so, dass "
+"sie einfach mit einfacher, relativ günstiger Hardware in ein digitales "
+"Signal konvertiert werden kann. Ist sie einmal konvertiert, kann das Signal "
+"mit Software analysiert werden; will man die ursprüngliche Frequenz "
+"anzeigen, addiert man einfach in der Software FLO wieder dazu."
+
+#: A0Exhibit_en.xml:2(p5_last)
+msgid "Now that we have our signal in a computer, let’s do some science!"
+msgstr ""
+"Jetzt haben wir unser Signal im Computer -- Zeit für die wissenschaftliche "
+"Analyse!"
+
+#: A0Exhibit_en.xml:2(p5_hetercaption)
+msgid "A simplified schematic of the heterodyne detection process."
+msgstr "Ein vereinfachtes Schema des Heterodynempfangs."
+
+#: A0Exhibit_en.xml:2(p6_title1)
+msgid "Radio Sources of the Universe "
+msgstr "Radioquellen des Universums"
+
+#: A0Exhibit_en.xml:2(p6_title2)
+msgid "What are we receiving from the sky?"
+msgstr "Was empfangen wir vom Himmel?"
+
+#: A0Exhibit_en.xml:2(p6_sun)
+msgid "The Sun is one of the closest astronomical radio sources. Most of its radio emission comes from its corona, a layer above the photosphere where there are a lot of charged particles forming what is called plasma. Radio emission can also arise from magnetic storms, which form spots on its surface."
+msgstr ""
+"Die Sonne ist eine der nächsten astronomischen Radioquellen. Ihre "
+"Radiostrahlung kommt vor allem aus der Korona, einer Schicht oberhalb der "
+"Photosphäre, in der viele geladene Teilchen ein Plasma bilden. "
+"Radioemissionen können aber auch aus magnetischen Stürmen her rühren, die "
+"die Sonnenflecken auf der Oberfläche der Sonne bilden."
+
+#: A0Exhibit_en.xml:2(p6_pulsars)
+msgid "Pulsars the radio lighthouses of the Universe. Like a spinning top, a pulsar is rotating along itself continuously. The radio beams emitted by the pulsar follow its rotation, like a lighthouse on a sea shore. They are received on Earth as short signals (“bip bip bip”). Nearly 2000 pulsars have been observed in our Galaxy and billions exists in the whole Universe."
+msgstr ""
+"Pulsare sind die \"Radioleuchttürme\" des Universums. Die Radiostrahlen, die "
+"von Pulsaren abgestrahlt werden, folgen der Drehung des Pulsars wie die "
+"Lichtstrahlen eines Leuchtturms der Drehung seines Scheinwerfers. Auf der "
+"Erde empfangen wir sie als kurze Signale (\"piep piep piep\"). Beinahe 2000 "
+"Pulsare sind in unserer Milchstraße beobachtet worden, und im ganzen "
+"Universum gibt es Milliarden."
+
+#: A0Exhibit_en.xml:2(p6_pulsarcaption)
+msgid "The pulsar lighthouse effect"
+msgstr "Der \"Radioleuchtturmeffekt\""
+
+#: A0Exhibit_en.xml:2(p6_gal)
+msgid "Galaxies are made of cold gas that emits energy in the radio domain. In some galaxies, the centre is buried deep inside lots of dust clouds that shield the visible light from us, but radio waves can pierce through the cloud and can be observed.  They are called “radio galaxies”."
+msgstr ""
+"Das kalte Gas in Galaxien gibt Energie im Radiobereich ab. In einigen "
+"Galaxien ist das Zentrum in einer Wolke von Gas und Staub verborgen, die das "
+"sichtbare Licht abschirmt. Radiowellen können allerdings diese Wolken "
+"durchdringen und machen die Beobachtung des Zentrums möglich. Man spricht "
+"von \"Radiogalaxien\"."
+
+#: A0Exhibit_en.xml:2(p6_galcaption)
+msgid "False-colour image of the nearby radiogalaxy Centaurus A, showing radio (red), infrared (green) and X-ray emission (blue)."
+msgstr ""
+"Falschfarbaufnahme der nahen Radiogalaxie Centaurus A. Radiostrahlung ist "
+"rot, Infrarotlicht grün und Röntgenstrahlung blau dargestellt."
+
+#: A0Exhibit_en.xml:2(p6_cmb)
+msgid "The Cosmic Microwave Background cosmological models predicted that if the Universe originates from a Big Bang, there should be a leftover radiation. It was first discovered in 1964 by American radio astronomers Arno Penzias and Robert Wilson. They were the first to bring a solid observational proof to the Big Bang Theory, and this earned them the 1978 Nobel Prize."
+msgstr ""
+"Die kosmische HintergrundstrahlungKosmologische Modelle haben vorausgesagt, "
+"dass, falls das Universum tatsächlich in einem Urknall entstanden ist, Reste "
+"der damaligen Strahlung bis heute sichtbar sein müssten. Diese Strahlung "
+"wurde 1964 von den amerikanischen Radioastronomen Arno Penzias und Robert "
+"Wilson entdeckt. Sie waren die ersten, deren Beobachtungen einen belastbarem "
+"Beweis der Urknalltheorie liefertten, und erhielten dafür 1978 den "
+"Nobelpreis."
+
+#: A0Exhibit_en.xml:2(p6_didyouknowtext)
+msgid "In 1054 BC, the Chinese people were able to observe a bright new star in the sky: it was a supernova explosion. A millennium later, we can observe a beautiful nebula in the same place: the Crab nebula. At its very centre lies a peculiar star: a pulsar."
+msgstr ""
+"Im Jahr 1054 vor Christus beobachteten die Chinesen einen hellen neuen Stern "
+"am Himmel: eine Supernovaexplosion. Ein Jahrtausend später beobachten wir "
+"an dieser Stelle einen herrlichen Nebel, den Krebsnebel. In seiner Mitte "
+"liegt ein ganz besonderer Stern: Ein Pulsar."
+
+#: A0Exhibit_en.xml:2(p7_title1)
+msgid "From Computer to Science:"
+msgstr "Vom Computer zur Wissenschaft"
+
+#: A0Exhibit_en.xml:2(p7_title2)
+msgid "what information brings a radio signal?"
+msgstr "welche Information enthält ein Radiosignal?"
+
+#: A0Exhibit_en.xml:2(p7_text1)
+msgid "What information can we deduce from radio observations? As you should know by now, the spatial resolution of a radio telescope is not that great, unless it’s a huge telescope of 300 m of diameter or an interferometer. For example, a 3m telescope like the one of the EU-HOU project has a resolution of 5°. It’s ten times the angular size of the Sun!  So, no image? Not with a 3m telescope, no. But with an interferometer, like the Plateau de Bure Interferometer for example, you can make some beautiful pictures like this one for example:  It traces the molecular content of a nearby galaxy called the Whirlpool galaxy. Remember, your eyes cannot see radio emission, so astronomers used this colour scale is here to help us: blue is not very intense, and red is the most intense. That means that when it’s the reddest, there are a lot of molecules in there!"
+msgstr ""
+"Welche Information können wir aus Radiobeobachtungen ableiten? Wie Du "
+"bereits wissen solltest, ist die räumliche Auflösung eines Radioteleskops "
+"nicht so besonders, wenn es nicht gerade ein Riesenteleskop mit 300m "
+"Durchmesser oder ein Interferometer ist. Zum Beispiel hat ein 3m Teleskop, "
+"wie es beim EU-HOU Projekt verwendet wird, eine Auflösung von 5°. Das ist "
+"zehnmal so viel wie der Winkel des Sonnendurchmessers! Also, kein Bild? In "
+"der Tat, nicht mit einem 3m Teleskop. Aber mit einem Interferometer wie mit "
+"dem Plateau de Bure Interferometer zum Beispiel kann mann schöne Bilder wie "
+"dieses erzeugen: Es weist die molekulare Verteilung einer nahegelegenen "
+"Galaxie, der Whirlpool Galaxie nach. Zur Erinnerung, Deine Augen können "
+"Radiostrahlung nicht sehen, daher nutzen die Astronomen die Farbskala zur "
+"Verdeutlichung: Blau ist recht schwach und rot ist am intensivsten. Das "
+"heißt, dort wo es am rötesten ist, sind viele Moleküle!"
+
+#: A0Exhibit_en.xml:2(p7_text2)
+msgid "So, no chance to retrieve anything interesting with my 3m radio telescope, then? Yes! Spatial information is not the only thing an astronomer longs for. For example, radio astronomy offers a very interesting physical property: the velocity of what you observe.  How?  "
+msgstr ""
+"Also habe ich keine Chance etwas interessantes mit meinem 3m Radioteleskop "
+"zu sehen? Doch! Räumliche Informationen sind nicht das Einzige was "
+"Astronomen interessiert. Radioastronomie kann nämlich eine sehr interessante "
+"physikalische Eigenschaft zeigen: Die Geschwindigkeit dessen, was man "
+"beobachtet. Wie geht das?"
+
+#: A0Exhibit_en.xml:2(p7_text3)
+msgid "Thanks to the Doppler effect! The Doppler effect is the change in wavelength of a wave for an observer moving relative to its source. You can experience the Doppler effect when a vehicle sounding a siren or horn approaches, passes, and recedes from you. It’s this niiiiiiiiuuuuuuuuuum sound! The light, as it’s a wave like the sound, behave the same way:"
+msgstr ""
+"Aufgrund des Dopplereffektes! Der Dopplereffekt ist die Veränderung der "
+"Wellenlänge wenn ein Beobacher sich auf die Quelle zubewegt. Du kannst den "
+"Dopplereffekt hören, wenn ein Fahrzeug mit einer Sirene oder Hupe auf Dich "
+"zukommt, Dich passiert und sich dann entfernt. Es ist "
+"dasniiiiiiiiuuuuuuuuuum Geräusch! Das Licht verhält sich genau so, da es "
+"eine Welle ist so wie Töne auch."
+
+#: A0Exhibit_en.xml:2(p7_text4)
+msgid "As the photon approaches, its wavelength is shortened in front of it. If it’s originally a yellow photon, then it’s colour turns to blue. We call that a blueshift.  If the photon is going away, then that’s the other way around, the wavelength becomes longer. For our yellow photon, its colour turns to red. It’s a redshift!  So the Doppler effect gives information about the speed of what we are observing. For example, you can see if a star if moving away from us or if it’s coming in our direction, and we can know at what speed it moves.   It’s very useful because knowing the kinematic of the object you are observing allow you to try to reproduce it’s behaviour with computer programs, it’s called modelling. Once you have reproduce a computer model that fits a lot of observation, you can apply it to predict other observations, or guess what’s going to happen to your source in a billion years. For example, with a 3m telescope, you can observe the hydrogen emission line at 21cm. Pointing it to the Milky Way will give you a spectrum, which in that case is the density of hydrogen with respect to its velocity. If along your line of sight you intercepted two spiral arms of the Milky Way moving at a different speed, your spectrum will have two peaks, each at the velocity of its respective arm.   So, with radio observation, I can reconstruct the spiral arms of the Milky Way. How cool is that?!"
+msgstr ""
+"Wenn das Photon auf einen zukommt, wird die Wellänge davor kürzer. Wenn "
+"ursprügnlich ein gelbes Photon ist, dann wird sein Farbe blau. Wir nennen "
+"das Blauverschiebung. Wenn sich das Photon entfernt, dann ist es gerade "
+"andersherum, die Wellenlänge wird länger. Unser gelbes Photon wird dann rot. "
+"Das ist die Rotverschiebung. Daher gibt der Dopplereffekt Informationen "
+"über die Geschwindigkeit der Objekte, die wir beobachten. Man kann z.B. "
+"sehen, ob sich ein Stern von uns wegbewegt oder auf uns zukommt und mit "
+"welcher Geschwindigkeit das passiert. Die ist sehr nützlich, denn wenn man "
+"die Kinematik des beobachteten Objektes kennt, dann kann man versuchen, dies "
+"in einem Computerprogramm zu reproduzieren. Das nennt man Modellierung. "
+"Wenn man ein Computermodell hat, das auf viele Beobachtungen passt, kann man "
+"es dazu nutzen, das Ergebnis anderer Beobachtungen vorherzusagen, oder zu "
+"sehen, was in einer Milliarde Jahre passiert. Mit einem 3m Teleskop kann man "
+"zum Beispiel die Emissionslinie des Wasserstoffs bei 21cm beobachten. Wenn "
+"man es auf die Milchstraße richtet, erhält man ein Spektrum, welches die "
+"Dichte des Wasserstoffs in Abhängigkeit seiner Geschwindigkeit darstellt. "
+"Wenn Du in deiner Sichtlinie zwei Spiralarme der Milchstraße hast, die sich "
+"mit unterschiedlicher Geschwindigkeit bewegen, wird Dein Spektrum zwei "
+"Spitzen haben, jede bei der Geschwindigkeit des entsprechenden Arms. Also "
+"kannst Du mit Radiobeobachtungen die Spiralarme der Milchstraße sehen. Wie "
+"cool findest Du das?"
+
+#: A0Exhibit_en.xml:2(p7_text5)
+msgid "You want to do that too? Well, you can. Connect to http://www.euhou.net (or flash the QR code down below) and pilot a radio telescope yourself. You will be guided through some exercises to reconstruct the spiral arms of the Milky Way, or search for Dark Matter, with the spectra you will obtain yourself. And you can see the results of your commands in real-time on the telescope thanks to a webcam filming it 24h a day.  "
+msgstr ""
+"Willst Du das machen? Ja, das geht. Verbinde dich mit http://www.euhou.net "
+"und steuer selber ein Radioteleskop. Du wirst durch einige Versuche geführt "
+"und kannst damit die Spiralarme der Galaxie rekonstruieren oder nach dunkler "
+"Materie suchen, alles mit Spekten, die Du selber aufgenommen hast. Du "
+"kannst die Auswirkungen Deiner Kommandos auf das Teleskop auch in Echtzeit "
+"auf der Webcam sehen, die 24 Stunden am Tag das Teleskop zeigt."
+
+#: A0Exhibit_en.xml:2(p7_last)
+msgid "So, what are you waiting for?"
+msgstr "Also, worauf warten wir?"
+
+#: A0Exhibit_en.xml:2(p8_title2)
+msgid "The Radio Astronomy’s Timeline"
+msgstr "Die Zeitschiene der Radioastronomie"
+
+#: A0Exhibit_en.xml:2(p8_title1)
+msgid "A little background…"
+msgstr "Ein wenig Hintergrund...."
+
+#: A0Exhibit_en.xml:2(p8_radio)
+msgid "Radio Astronomy"
+msgstr "Radioastronomie"
+
+#: A0Exhibit_en.xml:2(p8_euhoumw)
+msgid "The EU-HOUMW project presents: A short review of the radio astronomy history, along with its most famous discoveries."
+msgstr ""
+"Das EU-HOUMW Projekt präsentiert: Eine kurze Übersicht über die Geschichte "
+"der Radioastronomie und ihrer berühmtesten Entdeckungen"
+
+#: A0Exhibit_en.xml:2(p8_like)
+msgid "Like"
+msgstr "Wie"
+
+#: A0Exhibit_en.xml:2(p8_message)
+msgid "Message"
+msgstr "Nachricht"
+
+#: A0Exhibit_en.xml:2(p8_maxwell)
+msgid "I just published a paper called A Dynamical Theory of the Electromagnetic field. I explain how electromagnetic radiations (like light, for example) exist at any wavelengths!"
+msgstr ""
+"Ich habe gerade eine Veröffentlichung geschrieben: Eine dynamische Theorie "
+"des elektromagnetischen Feldes. Ich erkläre, wie elektromagnetische "
+"Strahlung (wie z.B. Licht) bei jeder Wellenlänge existiert!"
+
+#: A0Exhibit_en.xml:2(p8_likecomment) A0Exhibit_en.xml:2(p8_likecomment) A0Exhibit_en.xml:2(p8_likecomment)
+msgid "Like - Comment - Share"
+msgstr "Gefällt mir - Kommentar - Empfehlen"
+
+#: A0Exhibit_en.xml:2(p8_edison)
+msgid "Thomas Alva Edison If so, then celestial objects must emit some radio waves too…"
+msgstr ""
+"Thomas Alva Edison: Wenn das so ist, dann müssen Objekte im All auch "
+"Radiostrahlung aussenden..."
+
+#: A0Exhibit_en.xml:2(p8_plank)
+msgid "Max Planck Well, according to my calculations, if we consider that the Sun is a Black Body, its radio emission should be very weak. For the moment I think it is not possible to detect it, even with our best instruments."
+msgstr ""
+"Max Planck: Nun, nach meinen Berechnungen sollte die Ausstrahlung der Sonne "
+"recht schwach sein, wenn wir sie als Schwarkkörperstrahler betrachten. Ich "
+"glaube, zurzeit können wir das selbst mit unseren besten Instrumenten nicht "
+"nachweisen."
+
+#: A0Exhibit_en.xml:2(p8_nordmann)
+msgid "Charles Nordmann I think you are right Max, I put an antenna on the Mont Blanc (in France), but I didn’t detect anything."
+msgstr ""
+"Charles Nordmann: Ich glaube, Du hast recht, Max. Ich habe eine Antenne auf "
+"den Mont Blanc (in Frankreich) gesetzt und nichts gefunden."
+
+#: A0Exhibit_en.xml:2(p8_jansky)
+msgid "Unbelievable! It was a normal day at the Bell telephone company, I was working on my radio antenna to establish transatlantic telephone communications (at 14.5 m wavelength), when I suddenly realise that I was picking up a periodic signal from the sky every day. After further investigations, it turns out to be the radio emission of the centre of the Milky Way, our Galaxy!"
+msgstr ""
+"Unglaublich! Es war ein normaler Arbeitstag bei der Bell Telephone "
+"Gesellschaft. Ich arbeitete an meiner Radioantenne um eine transatlantische "
+"Telefonverbindung aufzubauen (bei 14,5 m Wellenlänge), als mir plötzlich "
+"auffiel dass ich ein Signal aufnahm, das jeden Tag periodisch wiederkam. "
+"Nach weiteren Untersuchen stellte sich heraus, das dies Radiostrahlung aus "
+"dem Zentrum der Milchstraße, unserer Galaxie, war!"
+
+#: A0Exhibit_en.xml:2(p8_hey)
+msgid "James Stanley Hey Same thing happened to us. We are working with the military to build anti-aircraft radars. Every time we point the radars to the Sun, something is jamming them. I think the Sun is emitting meter wave radiations."
+msgstr ""
+"James Stanley Hey: Das Gleich ist uns passiert. Wir arbeiteten mit dem "
+"Militär an einem Flugzeug-Abwehr Radar. Jedesmal wenn wir es auf die Sonne "
+"richteten, wurden wir gestört. Ich glaube, die Sonne sendet Strahlung im "
+"Meterwellenbereich aus."
+
+#: A0Exhibit_en.xml:2(p8_hewish)
+msgid "Martin Ryle and Antony Hewish Thank you Karl! Owing to your great discovery, we used the Cambridge Interferometer to map the radio sky. We detected a lot of radio sources!"
+msgstr ""
+"Martin Ryle und Antony Hewish: Vielen Dank, Karl! Aufgrund deiner "
+"großartigen Entdeckung nutzen wir das Cambridge Interferometer um den "
+"Radiohimmel aufzunehmen. Wir endeckten eine Menge Radioquellen!"
+
+#: A0Exhibit_en.xml:2(p8_37people)
+msgid "37 people like this."
+msgstr "37 Leuten gefällt dies."
+
+#: A0Exhibit_en.xml:2(p8_reberlike)
+msgid "Grote Reber, John Kraus like this."
+msgstr "Das gefällt Grote Reber, John Kraus "
+
+#: A0Exhibit_en.xml:2(p8_vandehulst)
+msgid "My supervisor, the famous Jan Oort, asked me to find atomic lines in the radio domain. I found an interesting one: it is the hyperfine transition of neutral hydrogen. If my calculations are correct, this line should be at a wavelength of 21 cm. It should be a weak emission, but, hey, hydrogen is the most abundant atom in the Universe. Why not trying to observe it?"
+msgstr ""
+"Mein Lehrer, der berühmte Jan Oort, beauftragte mich Atomlinien im "
+"Radiobereich zu finden. Ich fand eine sehr interessante: Es ist der "
+"Hyperfeinstrukturübergang des neutralen Wasserstoffs. Wenn meine "
+"Berechnungen korrekt sind, sollte diese Linie bei 21 cm sein. Es sollte eine "
+"schwache Emission sien, aber immerhin ist Wasserstoff das häufigste Element "
+"im Universum. Warum sollten wir nicht versuchen es zu finden?"
+
+#: A0Exhibit_en.xml:2(p8_ewen)
+msgid "Edward Mills Purcell and Harold Irving Ewen You are right! We built a 1 m x 1 m horn antenna and we detected the 21 cm line! Think about all the implication for radio astronomy! At 21cm the radiation from neutral hydrogen penetrates much farther than visible light, and it is the most abundant atom in the Universe! That means that we can observe large structures, like other galaxies, very far away."
+msgstr ""
+"Edward Mills Purcell und Harold Irving Ewen Du hast recht! Wir haben eine 1 "
+"m x 1 m Hornantenne gebaut und damit die 21cm Linie gesehen! Denke nur an "
+"all die Auswirkungen für die Radioastronomie. Die Strahlung des neutralen "
+"Wasserstoffs bei 21cm dringt viel weiter als das sichtbare Licht, und "
+"Wasserstoff ist das häufigste Atom im Universum! Das heißt, wir könne große "
+"Strukturen wie andere, sehr weit entfernte Galaxien beobachten."
+
+#: A0Exhibit_en.xml:2(p8_write) A0Exhibit_en.xml:2(p8_write) A0Exhibit_en.xml:2(p8_write)
+msgid "Write a comment…"
+msgstr "Schreibe einen Kommentar..."
+
+#: A0Exhibit_en.xml:2(p8_penzias)
+msgid "We think we just found something very interesting for radio astronomy. We are working at the Bell Telephone Company, and we built an antenna that was originally used to communicate with satellites Echo and Telstar 1 (the first telecommunication satellites ever launched). We accidentally discovered an additional noise of unknown origin during observations on the wavelength 7.35 cm. This noise corresponds to a sky temperature of 2.7 K. And it fills the entire sky almost uniformly! We think that we detected the Cosmic Microwave Background predicted by the Big Bang theory."
+msgstr ""
+"Wir glauben, wir haben gerade etwas Interessantes für die Radioastronomie "
+"entdeckt. Wir arbeiten für die Bell Telephone Company, und wir haben eine "
+"Antenne gebaut, die ursprünglich für die Kommunikation mit den Satelliten "
+"Echo und Telstar 1 (die ersten Telekomunnikationssatelliten) benutzt wurde. "
+"Zufällig entdeckten wir während unserer Beobachtungen auf der Wellenlänge "
+"von 73,5cm ein Rauschen unbekannten Ursprungs. Dieses Rauschen entspricht "
+"einer Temperatur des Himmels von 2,7 K und ist nahezu gleichförmig über den "
+"gesamten Himmel zu beobachten. Wir glauben, wir haben die kosmische "
+"Hintergrundstrahlung entdeckt, die von der Theorie des Urknalls vorhergesagt "
+"wird. "
+
+#: A0Exhibit_en.xml:2(p8_dicke)
+msgid "Robert Henry Dicke Well boys, we’ve been scooped…"
+msgstr "Robert Henry Dicke Jungs, da ist uns jemand zuvorgekommen..."
+
+#: A0Exhibit_en.xml:2(p8_nobel)
+msgid "Nobel Prize Committee Guys, you just gave the most important clue in favour of the Big Bang theory. How about a Nobel Prize in physics?"
+msgstr ""
+"Nobelpreis Komitee Ihr habt uns gerde den wichtigsten Nachweis zugunsten der "
+"Urknalltheorie geliefert. Wie wäre es mit dem Nobelpreis in Physik?"
+
+#: A0Exhibit_en.xml:2(p8_penziaslike)
+msgid "Robert Wilson, Arno Penzias like this."
+msgstr "Robert Wilson, Arno Penzias gefällt das."
+
+#: A0Exhibit_en.xml:2(p9_title1)
+msgid "Hands-On Universe, Europe "
+msgstr "Hands-On Universe, Europe"
+
+#: A0Exhibit_en.xml:2(p9_title2)
+msgid "Connecting Classrooms to the Milky Way"
+msgstr "Connecting Classrooms to the Milky Way"
+
+#: A0Exhibit_en.xml:2(p9_text2)
+msgid "Our project currently includes 11 countries: Germany, Belgium, Cyprus, Spain, France, Greece, Poland, Portugal, Sweden, Romania, UK, and is sustaining a growing community of teachers and educators since 2004."
+msgstr ""
+"Unser Projekt umfasst zur Zeit 11 Länder, Deutschland, Belgien, Zypern, "
+"Spanien, Frankreich, Griechenland, Polen, Portugal, Schweden, Rumanien, "
+"Großbritannien und unterstützt eine wachsende Gemeinschaft von Lehrern und "
+"Erziehern seit 2004."
+
+#: A0Exhibit_en.xml:2(p9_dicyouknowtext)
+msgid "The EU-HOU activities inspired the educational systems of many European countries, and some of the exercises that can be found in the website were used to design pedagogical material used in textbook."
+msgstr ""
+"Die Aktivitäten von EU-HOU haben das Erziehungssystem vieler Europäischer "
+"Länder inspiriert, und einige der Übungen auf der Webseite haben Eingang in "
+"das Material in Schulbüchern gefunden."
+
+#: A0Exhibit_en.xml:2(p9_text4)
+msgid "The network of 6 radio telescopes, in France, Portugal, Spain, Poland, and Romania, allows on-line observations of the gas of the Milky Way in classrooms. These instruments operate in the radio domain and enable the observations 24 hours a day. These wavelengths are not sensitive to bad weather conditions and can be used during the day (and night), which is well adapted for educational timing and constraints. Want to try? Visit our website and register for a free account!"
+msgstr ""
+"Das Netzwerk von 6 Radioteleskopen in Frankreich, Portugal, Spanien, Polen "
+"und Rumänien erlaubt On-line Beobachtungen des Gases in der Milchstaße von "
+"Klassenzimmer aus. Diese Instrumente arbeiten im Radiobereich und erlauben "
+"Beobachtungen rund um die Uhr. Die verwendeten Wellenlängen werden nicht "
+"durch schlechtes Wetter beeinträchtigt und können sowohl am Tag als auch in "
+"der Nacht benutzt werden, so dass sie auf die zeitlichen Erfordernisse des "
+"Unterrichtes angepasst sind. Wollen Sie es ausprobieren? Besuchen Sie unsere "
+"Webseite und registrieren Sie sich kostenlos!"
+
+#: A0Exhibit_en.xml:2(p10_title1)
+msgid "My Radio Astronomy "
+msgstr "Meine Radioastronomie"
+
+#: A0Exhibit_en.xml:2(p10_title2)
+msgid "Write your comments, unleash your imagination!"
+msgstr "Schreibe Deinen Kommentar, gib Deiner Phantasie Raum!"
+
+#: A0Exhibit_en.xml:2(p3_earthmoon)
+msgid "The Earth-Moon distance is approximately 380,000 km"
+msgstr "Die Entfernung von der Erde zum Mond beträgt ca. 380.000 km"
+
+#: A0Exhibit_en.xml:2(p5_sky)
+msgid "SKY"
+msgstr "HIMMEL"
+
+#: A0Exhibit_en.xml:2(p5_smallant)
+msgid "Small Antenna"
+msgstr "Kleine Antenne"
+
+#: A0Exhibit_en.xml:2(p5_presel)
+msgid "Bandpass Filter"
+msgstr "Bandpassfilter"
+
+#: A0Exhibit_en.xml:2(p5_hfamp)
+msgid "High Frequency Amplifier"
+msgstr "Hochfrequenzverstärker"
+
+#: A0Exhibit_en.xml:2(p5_fsky)
+msgid "FSKY"
+msgstr "FSKY"
+
+#: A0Exhibit_en.xml:2(p5_mixer)
+msgid "MIXER"
+msgstr "MISCHER"
+
+#: A0Exhibit_en.xml:2(p5_localosc)
+msgid "Local Oscillator"
+msgstr "Lokaloszillator"
+
+#: A0Exhibit_en.xml:2(p5_fskyminus)
+msgid "FSKY - FLO"
+msgstr "FSKY - FLO"
+
+#: A0Exhibit_en.xml:2(p5_ifamp)
+msgid "Intermediate Frequency Amplifier"
+msgstr "Zwischenfrequenz-Verstärker"
+
+#: A0Exhibit_en.xml:2(p5_IF)
+msgid "FIntermediate"
+msgstr "Zwischenfrequenz"
+
+#: A0Exhibit_en.xml:2(p5_adc)
+msgid "Analog to Digital Converter"
+msgstr "Analog-Digitalwandler"
+
+#: A0Exhibit_en.xml:2(p5_pc)
+msgid "PC"
+msgstr "PC"
+
+#: A0Exhibit_en.xml:2(p6_sunleft)
+msgid "The Sun as it appears to the eye. At the time of the picture, two black sunspots could be seen at the centre. "
+msgstr ""
+"Die Sonne, so wie sie mit dem Auge gesehen werden kann. Zum "
+"Beobachtungszeitraum waren zwei schwarze Sonnenflecken zu sehen."
+
+#: A0Exhibit_en.xml:2(p6_sunright)
+msgid "The Sun as it appears in radio emission. The sun spots at the Solar equator are sites of intense radio wave emission (colored red)."
+msgstr ""
+"Die Sonne, wie sie im Radiobereich aussieht. Die Flecken am Sonnenäquator "
+"sind Stellen hoher Radiointensität (rot eingefärbt)"
+
+#: A0Exhibit_en.xml:2(p5_wave)
+msgid "Wavelength"
+msgstr "Wellenlänge"
+
+#: A0Exhibit_en.xml:2(p0_discl)
+msgid "This project has been funded with support from the European Commission. This communication reflects the views only of the author, and the Commission cannot be held responsible for any use which may be made of the information contained therein."
+msgstr ""
+"Dieses Projekt wurde von der Europäischen Kommission unterstützt. Diese "
+"Veröffentlichung gibt ausschließlich die Meinung der Autoren wieder, und die "
+"Kommission haften nicht für jedwede Nutzung der hier enthaltenen "
+"Informationen."
+
+#: A0Exhibit_en.xml:2(p0_coord)
+msgid "European Coordinator of the EU-HOUMW project"
+msgstr "Europäischer Koordinator des EU-HOUMV Projektes"
+
+#: A0Exhibit_en.xml:2(p0_partner)
+msgid "Partner in charge of the dissemination  of this exhibit"
+msgstr "Verantwortlicher Partner für die Verteilung dieser Veröffentlichung"
+
+#: A0Exhibit_en.xml:2(p0_prod)
+msgid "Production and Design: "
+msgstr "Produktion und Design:"
+
+#: A0Exhibit_en.xml:2(p1_astro)
+msgid "Astronomers use λ after the Tera- prefix"
+msgstr "Astronomen benutzen λ nach dem  Tera- Prefix"
+
+#: A0Exhibit_en.xml:2(p6_gcentrecredits)
+msgid "(Credit: NRAO/AUI/NSF/F.Zadeh et al.) This image obtained at the VLA shows the spectacular filamentary structures that appear toward the Galactic center (the bright spot) in centimetre radio wavelengths. This emission originates from plasma flowing along lines of magnetic field, which produces this arc formation that is called the Arches."
+msgstr ""
+"(Quelle: NRAO/AUI/NSF/F.Zadeh et al.) Dieses Bild wurde am VLA gewonnen und "
+"zeigt die spektakuläre, fadenförmige Struktur die in Richtung des "
+"galaktischen Zentrums (der helle Fleck) bei Wellenlängen im cm-Radiobereich "
+"zu sehen sit. Die Emission wird durch Plasma verursacht, welches entlang von "
+"Magnetlinien fließt. Diese bogenförmige Struktur wird Arches genannt."
+
+#: A0Exhibit_en.xml:2(p6_gcentre)
+msgid "The Galactic centre the galactic centre of the Milky Way was the first radio source to be detected by Karl Jansky in 1932. It contains a number of radio sources, including Sagittarius A and the supermassive black hole at Sagittarius A*."
+msgstr ""
+"Das galaktische Zentrum (Zentrum der Milchstraße) war die erste Radioquelle, "
+"die 1932 von Karl Jansky entdeckt wurde. Es enthält mehrere Radioquellen, "
+"darunter Sagittarius A und das supermassiver schwarze Loch bei Sagittarius "
+"A*."
+
+#: A0Exhibit_en.xml:2(p6_cmbcaption)
+msgid "Map of the CMB in millimetre wavelengths. It was obtained by the satellite WMAP"
+msgstr ""
+"Karte der kosmischen Hintergrundstrahlung im Millimeter Bereich. Aufgenommen "
+"durch den Satelliten VMAP"
+
+#: A0Exhibit_en.xml:2(p9_text1)
+msgid "The EU-HOU (Hands-On Universe, Europe) project uses the excitement of doing real astronomy as a vector to boost science education all over Europe. With the use of state-of-the-art astronomy products combined with new technologies, the project aims at renewing the interest of primary and secondary students for sciences. On the website www.euhou.net, pedagogical resources are available in multiple form. It can be hands-on experiment, exercises, as well as real-time observation with telescopes from all over Europe.  With the worldwide Square Kilometre Array and Atacama Large Millimetre Array projects aiming at building the biggest radio observatories ever, radioastronomy is entering a new golden age and will unveil the Universe as never before. In that context, since 2010 the EU-HOU project took a big step towards radio astronomy, by deploying the first European network of radiotelescopes for education, enabling schools to explore the Milky Way through Internet, and IBSE pedagogical resources to be used in the classrooms."
+msgstr ""
+"Das EU-HOU (Hands-On Univers, Europe) Projekt nutzt die Faszination von "
+"direkt erfahrbarer Astronomie als Speerspitze, um naturwisschenschaftliche "
+"Bildung in ganz Europa zu fördern. Mit astronomischen Produkten, die den "
+"Stand der Technik repräsentieren und neuen Teleskop-Technologien will das "
+"Projekt das Interesse von Schülern von Grund- und weiterführenden Schulen "
+"wecken. Auf der Webseite www.euhou.net sind verschiedene pädagogische "
+"Materialien zu finden. Dies können direkt durchführbare Experimente, Übungen "
+"und Real-Time Beobachtungen mit Teleskopen in ganz Europa sein. Mit dem "
+"weltweiten Square Kilometre Array und dem Atama Large Milimetre Array werden "
+"die größten, jemals gebauten Radioteleskope entstehen. Die Radioastronomie "
+"tritt damit in ein goldenes Zeitalter ein und wird unser Universum so wie "
+"bisher nie gesehen darstallen. In diesem Zusammenhang hat das EU-HOU Projekt "
+"einen großen Schritt in Richtung Radioastronomie unternommen, indem es das "
+"erste Europäische Netzwerk von Radiosteleskopen für Schulzwecke "
+"bereitstellt. Dies, zusammen mit den IBSE Unterrichtsmaterialien erlaubt es "
+"den Schulen, die Milchstraße über das Internet zu erforschen."
+
+#: A0Exhibit_en.xml:2(p9_text3)
+msgid "On the picture, from left to right, and from top to bottom: Cecilia Kozma , Maria Loizou , Yannick Libert , F. Miranda , Eleni Chatzichristou , Sotira Trifourki , Krzysztof Chyzy , Rosa Doran , Peter Kalberla , Roger Ferlet , Rodrigo Alvarez , Cezar Lesanu , Radu Constantinescu , Lech Mankiewicz , Anne-Laure Melchior ."
+msgstr ""
+"Auf dem Bild, von links nach rechts und von oben nach unten: Cecilia Kozma , "
+"Maria Loizou , Yannick Libert , F. Miranda , Eleni Chatzichristou , Sotira "
+"Trifourki , Krzysztof Chyzy , Rosa Doran , Peter Kalberla , Roger Ferlet , "
+"Rodrigo Alvarez , Cezar Lesanu , Radu Constantinescu , Lech Mankiewicz , "
+"Anne-Laure Melchior ."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: A0Exhibit_en.xml:0(None)
+msgid "translator-credits"
+msgstr "Übersetzung "

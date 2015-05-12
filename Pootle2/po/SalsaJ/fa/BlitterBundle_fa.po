@@ -1,0 +1,80 @@
+#. extracted from ../templates/BlitterBundle.properties, ../resu/BlitterBundle_fa.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: 2012-10-10 15:52+0200\n"
+"Last-Translator: mohammad <mohammad.heydari-malayeri@obspm.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: Add
+msgid "Add"
+msgstr "افزودن"
+
+#: AND
+msgid "AND"
+msgstr "و"
+
+#: Average
+msgid "Average"
+msgstr "میانگین"
+
+#: Copy
+msgid "Copy"
+msgstr "کپی"
+
+#: Difference
+msgid "Difference"
+msgstr "Difference"
+
+#: Divide
+msgid "Divide"
+msgstr "بخش کردن"
+
+#: Gamma
+msgid "Gamma"
+msgstr "گاما"
+
+# http://dictionary.obspm.fr/
+#: Index
+msgid "index"
+msgstr "دیشن"
+
+#: Max
+msgid "Max"
+msgstr "بیشینه"
+
+#: Min
+msgid "Min"
+msgstr "کمینه"
+
+#: Multiply
+msgid "Multiply"
+msgstr "ضرب کردن"
+
+#: OR
+msgid "OR"
+msgstr "یا"
+
+#: Subtract
+msgid "Subtract"
+msgstr "کاستن"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "کپی یا سفید"
+
+#: Value
+msgid "value"
+msgstr "ارزش، مقدار"
+
+#: XOR
+msgid "XOR"
+msgstr "یای انحصاری"

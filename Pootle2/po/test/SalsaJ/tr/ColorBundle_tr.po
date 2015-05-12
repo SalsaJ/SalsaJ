@@ -1,0 +1,90 @@
+#. extracted from ColorBundle.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-02 10:48+0200\n"
+"PO-Revision-Date: 2012-04-15 22:35+0200\n"
+"Last-Translator: euhoutr <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: BackGColor
+msgid "Background Color"
+msgstr "Arkaplan Rengi"
+
+#: BlackColor
+msgid "black"
+msgstr "siyah"
+
+#: BlueColor
+msgid "blue"
+msgstr "mavi"
+
+#: Clipboard
+msgid "Clipboard"
+msgstr "Pano"
+
+#: ColorNone
+msgid "none"
+msgstr "hiçbiri"
+
+#: ColorRGB
+msgid "R/V/B"
+msgstr "R/V/B"
+
+#: CyanColor
+msgid "cyan"
+msgstr "cyan"
+
+#: DGrayColor
+msgid "dark gray"
+msgstr "koyu gri"
+
+#: ForGColor
+msgid "Foreground Color"
+msgstr "Önplan Rengi"
+
+#: GrayColor
+msgid "gray"
+msgstr "gri"
+
+#: GreenColor
+msgid "green"
+msgstr "yeşil"
+
+#: LGrayColor
+msgid "light gray"
+msgstr "açık gri"
+
+#: MagentaColor
+msgid "magenta"
+msgstr "magenta"
+
+#: OrangeColor
+msgid "orange"
+msgstr "portakal"
+
+#: Ramp
+msgid "Ramp"
+msgstr "Rampa"
+
+#: RedColor
+msgid "red"
+msgstr "kırmızı"
+
+#: SelectionColor
+msgid "Selection Color"
+msgstr "Seçim Rengi"
+
+#: WhiteColor
+msgid "white"
+msgstr "beyaz"
+
+#: YellowColor
+msgid "yellow"
+msgstr "sarı"

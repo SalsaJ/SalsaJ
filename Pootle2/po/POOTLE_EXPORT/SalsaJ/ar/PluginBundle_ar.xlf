@@ -1,0 +1,1504 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="PluginBundle_ar.po" source-language="en-US" datatype="plaintext" target-language="ar">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="pixel">
+        <source>pixel</source>
+        <target state="translated">عنصر صورة</target>
+        <note from="developer">##GLOBAL SECTION</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pixels">
+        <source>pixels</source>
+        <target state="translated">عناصر الصورة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="degrees">
+        <source>degrees</source>
+        <target state="translated">درجات</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open__%04__Open">
+        <source>Open</source>
+        <target state="translated">إفتح</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply">
+        <source>Apply</source>
+        <target state="translated">تطبيق</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Settings">
+        <source>Settings</source>
+        <target state="translated">إعدادات</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Text File...">
+        <source>Open Text File...</source>
+        <target state="translated">فتح جذاذية نص...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Height">
+        <source>Height</source>
+        <target state="translated">ارتفاع</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width">
+        <source>Width</source>
+        <target state="translated">عرض</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create New Window">
+        <source>Create New Window</source>
+        <target state="translated">إنشاء نافذة جديدة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="List">
+        <source>List</source>
+        <target state="translated">لائحة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unit">
+        <source>Unit</source>
+        <target state="translated">وحدة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="none">
+        <source>none</source>
+        <target state="translated">لا شيء</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Left column">
+        <source>Left column</source>
+        <target state="translated">العمود الأيسر</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Right column">
+        <source>Right column</source>
+        <target state="translated">العمود الأيمن</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="values">
+        <source>values</source>
+        <target state="translated">قيم</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File">
+        <source>File</source>
+        <target state="translated">جذاذية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Title">
+        <source>Title</source>
+        <target state="translated">عنوان</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stack required">
+        <source>Stack required</source>
+        <target state="translated">كومة لازمة</target>
+        <note from="developer"># StackEditor</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No images are open.">
+        <source>No images are open.</source>
+        <target state="translated">ما من صور مفتوحة.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="There must be at least two open images.">
+        <source>There must be at least two open images.</source>
+        <target state="translated">يجب أن تكون هناك على الأقل صورتان مفتوحتان.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="None of the open images can go in a stack.">
+        <source>None of the open images can go in a stack.</source>
+        <target state="translated">لا يمكن لأي من الصور المفتوحة أن توضع في الكومة.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="All open images must be the same type.">
+        <source>All open images must be the same type.</source>
+        <target state="translated">يجب أن تكون كل الصور المفتوحة من نفس الصنف.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="All open images must be the same size.">
+        <source>All open images must be the same size.</source>
+        <target state="translated">يجب أن تكون كل الصور المفتوحة من نفس الحجم.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stack">
+        <source>Stack</source>
+        <target state="translated">كومة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Convert to Images?">
+        <source>Convert to Images?</source>
+        <target state="translated">حول إلى صور؟</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to convert this&#10;stack to">
+        <source>Are you sure you want to convert this
+stack to</source>
+        <target state="translated">هل أنت متأكد (ة) أنك تريد تحويل هذه
+ الكومة إلى</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="separate windows?">
+        <source>separate windows?</source>
+        <target state="translated">فصل النوافذ؟</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image Calculator">
+        <source>Image Calculator</source>
+        <target state="translated">حاسبة الصور</target>
+        <note from="developer"># ImageCalculator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No windows are open.">
+        <source>No windows are open.</source>
+        <target state="translated">.ما من نوافذ مفتوحة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Both stacks must have the same number of slices.">
+        <source>Both stacks must have the same number of slices.</source>
+        <target state="translated">.يجب أن يكون لكلتا الكومتان نفس عدد القطع</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Out of memory">
+        <source>Out of memory</source>
+        <target state="translated">ذاكرة غير كافية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image 1:">
+        <source>Image 1:</source>
+        <target state="translated">صورة 1:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image 2:">
+        <source>Image 2:</source>
+        <target state="translated">صورة 2:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Operation:">
+        <source>Operation:</source>
+        <target state="translated">عملية:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Result of">
+        <source>Result of</source>
+        <target state="translated">نتيجة الـ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Result">
+        <source>Result</source>
+        <target state="translated">نتيجة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Add__%04__Add">
+        <source>Add</source>
+        <target state="translated">إضافة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Subtract">
+        <source>Subtract</source>
+        <target state="translated">طرح</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Multiply">
+        <source>Multiply</source>
+        <target state="translated">ضرب</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Divide">
+        <source>Divide</source>
+        <target state="translated">قسمة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AND">
+        <source>AND</source>
+        <target state="translated">و</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="OR">
+        <source>OR</source>
+        <target state="translated">أو</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="XOR">
+        <source>XOR</source>
+        <target state="translated">أو حصري</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Min">
+        <source>Min</source>
+        <target state="translated">صاغر</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Max">
+        <source>Max</source>
+        <target state="translated">كابر</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gamma">
+        <source>Gamma</source>
+        <target state="translated">غاما</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Average">
+        <source>Average</source>
+        <target state="translated">متوسط</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Difference">
+        <source>Difference</source>
+        <target state="translated">فرق</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy">
+        <source>Copy</source>
+        <target state="translated">نسخ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy except White">
+        <source>Copy except White</source>
+        <target state="translated">نقل إلا الأبيض</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="index">
+        <source>index</source>
+        <target state="translated">مؤشر</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value:">
+        <source>Value:</source>
+        <target state="translated">قيمة:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value (binary): ">
+        <source>Value (binary): </source>
+        <target state="translated">قيمة (ثنائية) </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Binary number required">
+        <source>Binary number required</source>
+        <target state="translated">عدد ثنائي لازم</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value (0.1-5.0):">
+        <source>Value (0.1-5.0):</source>
+        <target state="translated">قيمة (0.1-5.0)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gamma must be between 0.1 and 5.0">
+        <source>Gamma must be between 0.1 and 5.0</source>
+        <target state="translated">يجب أن تكون غاما بين 0.1 و 5.0</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Spline">
+        <source>Spline</source>
+        <target state="translated">حدودية مجالية</target>
+        <note from="developer"># Selection</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paste Control">
+        <source>Paste Control</source>
+        <target state="translated">ضبط النقل</target>
+        <note from="developer">## PLUGIN/FRAME
+# PasteController</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Transfer Mode:">
+        <source>Transfer Mode:</source>
+        <target state="translated">نمط التحويل:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brightness &amp; Contrast">
+        <source>Brightness &amp; Contrast</source>
+        <target state="translated">اللمعان و الاختلاف</target>
+        <note from="developer"># ContrastAdjuster</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window &amp; Level">
+        <source>Window &amp; Level</source>
+        <target state="translated">النافذة و المستوى</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ColorTitle__%04__Color">
+        <source>Color</source>
+        <target state="translated">لون</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Minimum">
+        <source>Minimum</source>
+        <target state="translated">دنيا</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maximum">
+        <source>Maximum</source>
+        <target state="translated">قصوى</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brightness">
+        <source>Brightness</source>
+        <target state="translated">لمعان</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Constrast">
+        <source>Constrast</source>
+        <target state="translated">اختلاف</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Level:">
+        <source>Level:</source>
+        <target state="translated">مستوى:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window:">
+        <source>Window:</source>
+        <target state="translated">نافذة:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Auto">
+        <source>Auto</source>
+        <target state="translated">تلقائي</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reset">
+        <source>Reset</source>
+        <target state="translated">رجوع إلى القيم البدئية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set">
+        <source>Set</source>
+        <target state="translated">حدد</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply ">
+        <source>Apply </source>
+        <target state="translated">تطبيق</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Thresh">
+        <source>Thresh</source>
+        <target state="translated">عتبة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Update">
+        <source>Update</source>
+        <target state="translated">تحديث</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Requires an 8-bit grayscale image or an RGB stack">
+        <source>Requires an 8-bit grayscale image or an RGB stack</source>
+        <target state="translated">تستلزم صورة ذات سلم رمادي 8-بت أو RGB كومة </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply LUT to all">
+        <source>Apply LUT to all</source>
+        <target state="translated">طبق جدول الألوان على الكل</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LUT2__%04__slices in the stack?">
+        <source>slices in the stack?</source>
+        <target state="translated">قطع في الكومة؟</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply brightness and contrast settings to all">
+        <source>Apply brightness and contrast settings to all</source>
+        <target state="translated">طبق اللمعان و الاختلاف على الكل</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB2__%04__slices in the stack?">
+        <source>slices in the stack?</source>
+        <target state="translated">قطع في الكومة؟</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Min and Max">
+        <source>Set Min and Max</source>
+        <target state="translated">تحديد القيم القصوى و الدنيا</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Minimum Displayed Value:">
+        <source>Minimum Displayed Value:</source>
+        <target state="translated">أدنى القيم المعروضة:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maximum Displayed Value:">
+        <source>Maximum Displayed Value:</source>
+        <target state="translated">لقيمة المعروضة القصوى:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set W&amp;L">
+        <source>Set W&amp;L</source>
+        <target state="translated">حدد W&amp;L</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window Center (Level):">
+        <source>Window Center (Level):</source>
+        <target state="translated">مركز النافذة(مستوى):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window Width:">
+        <source>Window Width:</source>
+        <target state="translated">عرض النافذة:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No Image">
+        <source>No Image</source>
+        <target state="translated">لا توجد صورة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Measurements">
+        <source>Set Measurements</source>
+        <target state="translated">تحديد القياسات</target>
+        <note from="developer"># Analyser</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="measurements">
+        <source>measurements</source>
+        <target state="translated">قياسات</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Area">
+        <source>Area</source>
+        <target state="translated">مساحة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mean Grey Value">
+        <source>Mean Grey Value</source>
+        <target state="translated">متوسط قيمة الرمادي</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Standard Deviation">
+        <source>Standard Deviation</source>
+        <target state="translated">الانحراف المعياري</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Modal Grey Value">
+        <source>Modal Grey Value</source>
+        <target state="translated">قيمة الرمادي النمطية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Min &amp; Max Grey Value">
+        <source>Min &amp; Max Grey Value</source>
+        <target state="translated">قيمة الرمادي الدنيا و القصوى</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Centroid">
+        <source>Centroid</source>
+        <target state="translated">النقطه الوسطى</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center of Mass">
+        <source>Center of Mass</source>
+        <target state="translated">مركز الكتلة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Perimeter">
+        <source>Perimeter</source>
+        <target state="translated">محيط</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bounding Rectangle">
+        <source>Bounding Rectangle</source>
+        <target state="translated">المستطيل المحد</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Fit Ellipse">
+        <source>Fit Ellipse</source>
+        <target state="needs-translation">إهلليج الموافقة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Circularity">
+        <source>Circularity</source>
+        <target state="translated">دائرية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Feret's Diameter">
+        <source>Feret's Diameter</source>
+        <target state="translated">قطر Feret  </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Limit to Threshold">
+        <source>Limit to Threshold</source>
+        <target state="translated">حد عند العتبة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Display Image Name">
+        <source>Display Image Name</source>
+        <target state="translated">إعرض إسم الصورة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Invert Y Coordinates">
+        <source>Invert Y Coordinates</source>
+        <target state="translated">إعكس الأراتيب</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="DeciPlaces__%04__Decimal Places:">
+        <source>Decimal Places:</source>
+        <target state="translated">الأماكن العشرية:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value">
+        <source>Value</source>
+        <target state="translated">قيمة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Name">
+        <source>Name</source>
+        <target state="translated">إسم</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Angle">
+        <source>Angle</source>
+        <target state="translated">زاوية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Length ">
+        <source>Length </source>
+        <target state="translated">طول </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SD">
+        <source>SD</source>
+        <target state="translated">الانحراف المعياري</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Moy.">
+        <source>Moy.</source>
+        <target state="translated">متوسط.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Threshold">
+        <source>Threshold</source>
+        <target state="translated">عتبة</target>
+        <note from="developer">### ThresholdAdjuster</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Red">
+        <source>Red</source>
+        <target state="translated">أحمر</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Black &amp; White">
+        <source>Black &amp; White</source>
+        <target state="translated">الأبيض و الأسود</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Over/Under">
+        <source>Over/Under</source>
+        <target state="translated">فوق/تحت</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Threshold Levels">
+        <source>Set Threshold Levels</source>
+        <target state="translated">تحديد مستويات العتبة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lower Threshold Level:">
+        <source>Lower Threshold Level:</source>
+        <target state="translated">مستوى العتبة السفلى:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upper Threshold Level:">
+        <source>Upper Threshold Level:</source>
+        <target state="translated">مستوى العتبة العليا:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB images cannot be thresolded.">
+        <source>RGB images cannot be thresolded.</source>
+        <target state="translated">لا يمكن أن يكون لصور RGB عتبة.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Nouveau...">
+        <source>Nouveau...</source>
+        <target state="translated">جديد...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Type">
+        <source>Type</source>
+        <target state="translated">نوع</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Record">
+        <source>Record</source>
+        <target state="translated">تسجيل</target>
+        <note from="developer">##Recorder</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create Macro">
+        <source>Create Macro</source>
+        <target state="translated">إنشاء كلية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create Plugin">
+        <source>Create Plugin</source>
+        <target state="translated">إنشاء برنامج مساعد</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Commands">
+        <source>Commands</source>
+        <target state="translated">طلبات</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Command&#9;Plugin">
+        <source>Command	Plugin</source>
+        <target state="translated">طلب	برنامج مساعد</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Keyboard Shortcuts">
+        <source>Keyboard Shortcuts</source>
+        <target state="translated">طرق مختصرة على لرحة المفاتيح</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hot Key&#9;Command">
+        <source>Hot Key	Command</source>
+        <target state="translated">مفتاح خاص	 لطلب</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Scale">
+        <source>Set Scale</source>
+        <target state="translated">حدد السلم</target>
+        <note from="developer">## ScaleDialog</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Distance in Pixels:">
+        <source>Distance in Pixels:</source>
+        <target state="translated">المسافة بعناصر الصورة:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Real Distance:">
+        <source>Real Distance:</source>
+        <target state="translated">المسافة الحقيقية:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width/Height Ratio:">
+        <source>Width/Height Ratio:</source>
+        <target state="translated">نسبة العرض/الإرتفاع:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unit of Length:">
+        <source>Unit of Length:</source>
+        <target state="translated">وحدة الطول:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale:">
+        <source>Scale:</source>
+        <target state="translated">سلم:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScDiagGlobal__%04__Global">
+        <source>Global</source>
+        <target state="translated">إجمالي</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&lt;No Scale&gt;">
+        <source>&lt;No Scale&gt;</source>
+        <target state="translated">&lt;لا سلم&gt;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Surface Plotter">
+        <source>Surface Plotter</source>
+        <target state="translated">راسم المساحة</target>
+        <note from="developer">## SurfacePlotter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Surface Plot">
+        <source>Surface Plot</source>
+        <target state="translated">رسم المساحة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Drawing slice">
+        <source>Drawing slice</source>
+        <target state="translated">رسم القطعة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Number of samples">
+        <source>Number of samples</source>
+        <target state="translated">عدد العينات</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw wireframe">
+        <source>Draw wireframe</source>
+        <target state="translated">رسم إطار سلكي</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shade">
+        <source>Shade</source>
+        <target state="translated">ظل</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw axis">
+        <source>Draw axis</source>
+        <target state="translated">رسم محور</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Source Background is Lighter">
+        <source>Source Background is Lighter</source>
+        <target state="translated">خلفية المصدر أفتح</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill Plot Background with Black">
+        <source>Fill Plot Background with Black</source>
+        <target state="translated">إملأ خلفية الرسم البياني بالأسود</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill Plot">
+        <source>Fill Plot</source>
+        <target state="translated">إملأ الرسم البياني</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Smooth">
+        <source>Smooth</source>
+        <target state="translated">أملس</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Page Setup">
+        <source>Page Setup</source>
+        <target state="translated">إعداد الصفحة</target>
+        <note from="developer">## Printer</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scaling">
+        <source>Scaling</source>
+        <target state="translated">سلم</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw Border">
+        <source>Draw Border</source>
+        <target state="translated">أرسم الحدود</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Print Title">
+        <source>Print Title</source>
+        <target state="translated">إطبع العنوان</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center on Page">
+        <source>Center on Page</source>
+        <target state="translated">مركز الصفحة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotate">
+        <source>Rotate</source>
+        <target state="translated">دوران</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Interpolate">
+        <source>Interpolate</source>
+        <target state="translated">استكمل</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Angle is invalid.">
+        <source>Angle is invalid.</source>
+        <target state="translated">زاوية غير سليمة.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Miscellaneous Options">
+        <source>Miscellaneous Options</source>
+        <target state="translated">اختيارات متنوعة</target>
+        <note from="developer">## Options</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Real Histogram Bins:">
+        <source>Real Histogram Bins:</source>
+        <target state="translated">عينات مدرج إحصائي حقيقية:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Divide by Zero Value:">
+        <source>Divide by Zero Value:</source>
+        <target state="translated">قسمة على القيمة الصفر:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Use Pointer Cursor">
+        <source>Use Pointer Cursor</source>
+        <target state="translated">استخدم مؤشر الفأرة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale When Converting">
+        <source>Scale When Converting</source>
+        <target state="translated">استعمل السلم عند التحويل</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hide &quot;Process Stack?&quot; Dialog">
+        <source>Hide "Process Stack?" Dialog</source>
+        <target state="translated">إخفاء حوار "معالجة الكومة"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Antialiased Text">
+        <source>Antialiased Text</source>
+        <target state="translated">نص صحيح من التشويه</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Interpolate Images &lt;100%">
+        <source>Interpolate Images &lt;100%</source>
+        <target state="translated">استكمل الصور أقل من 100%</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Images at 100%">
+        <source>Open Images at 100%</source>
+        <target state="translated">إفتح الصور عند 100%</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Debug Mode">
+        <source>Debug Mode</source>
+        <target state="translated">وضعية التنقيح</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Line width:">
+        <source>Line width:</source>
+        <target state="translated">عرض الخط:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="JPEG quality (0-100):">
+        <source>JPEG quality (0-100):</source>
+        <target state="translated"> JPEG جودة (0-100):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mark Width:">
+        <source>Mark Width:</source>
+        <target state="translated">عرض العلامة:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fonts">
+        <source>Fonts</source>
+        <target state="translated">خطوط</target>
+        <note from="developer">## Fonts</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Plain">
+        <source>Plain</source>
+        <target state="translated">مجرد</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bold">
+        <source>Bold</source>
+        <target state="translated">عريض</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Italic">
+        <source>Italic</source>
+        <target state="translated">مائل</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bold+Italic">
+        <source>Bold+Italic</source>
+        <target state="translated">عريض + مائل</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pt">
+        <source>pt</source>
+        <target state="translated">نقط</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Curve Fitter">
+        <source>Curve Fitter</source>
+        <target state="translated">موفق المنحنى</target>
+        <note from="developer">## Fitter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fit...">
+        <source>Fit...</source>
+        <target state="translated">توفيق...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No function available">
+        <source>No function available</source>
+        <target state="translated">لا دالة متوفرة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="First select the image to be transformed">
+        <source>First select the image to be transformed</source>
+        <target state="translated">أولا يجب اختيار الصورة المراد تحويلها</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="-transformed">
+        <source>-transformed</source>
+        <target state="translated">-تم التحويل</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="These commands&#10;do not work with line selections.">
+        <source>These commands
+do not work with line selections.</source>
+        <target state="translated">هذه الطلبات
+لا تعمل مع اختيارات السطور.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Resize">
+        <source>Resize</source>
+        <target state="translated">تغيير الحجم</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Constrain Aspect Ratio">
+        <source>Constrain Aspect Ratio</source>
+        <target state="translated">حد النسبة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="NOTE: Undo is not available">
+        <source>NOTE: Undo is not available</source>
+        <target state="translated">ملاحظة: الإلغاء غير متوفر</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width or height are invalid.">
+        <source>Width or height are invalid.</source>
+        <target state="translated">العرض أو الارتفاع غير سليم.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SalsaJ ran out of memory causing &#10;the last">
+        <source>SalsaJ ran out of memory causing 
+the last</source>
+        <target state="translated">نفذت الذاكرة من SalsaJ مما تسبب في آخر</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="slices to be lost.">
+        <source>slices to be lost.</source>
+        <target state="translated">قطع ستضيع.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Resize Image Canvas">
+        <source>Resize Image Canvas</source>
+        <target state="translated">تغيير قماش الصورة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Resize Stack Canvas">
+        <source>Resize Stack Canvas</source>
+        <target state="translated">تغيير قماش الكومة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Postion">
+        <source>Postion</source>
+        <target state="translated">موضع</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zero Fill">
+        <source>Zero Fill</source>
+        <target state="translated">بدون ملأ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Top-Left ">
+        <source>Top-Left </source>
+        <target state="translated">أعلى اليسار</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Top-Center">
+        <source>Top-Center</source>
+        <target state="translated">أعلى الوسط</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Top-Right">
+        <source>Top-Right</source>
+        <target state="translated">أعلى اليمين</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center-Left">
+        <source>Center-Left</source>
+        <target state="translated">وسط اليسار</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center">
+        <source>Center</source>
+        <target state="translated">وسط</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center-Right">
+        <source>Center-Right</source>
+        <target state="translated">وسط اليمين</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bottom-Left">
+        <source>Bottom-Left</source>
+        <target state="translated">أسفل اليسار</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bottom-Center">
+        <source>Bottom-Center</source>
+        <target state="translated">أسفل الوسط</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bottom-Right">
+        <source>Bottom-Right</source>
+        <target state="translated">أسفل اليمين</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Make Montage">
+        <source>Make Montage</source>
+        <target state="translated">إنشاء تركيب</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Columns">
+        <source>Columns</source>
+        <target state="translated">أعمدة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rows">
+        <source>Rows</source>
+        <target state="translated">صفوف</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale Factor">
+        <source>Scale Factor</source>
+        <target state="translated">عامل السلم</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="First Slice">
+        <source>First Slice</source>
+        <target state="translated">التقطيع الأول</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Last Slice">
+        <source>Last Slice</source>
+        <target state="translated">التقطيع الأخير</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Increment__%04__Increment">
+        <source>Increment</source>
+        <target state="translated">التزايد</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Border Width">
+        <source>Border Width</source>
+        <target state="translated">عرض الحدود</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Label Slices">
+        <source>Label Slices</source>
+        <target state="translated">تسمية القطع</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Use Foreground Color">
+        <source>Use Foreground Color</source>
+        <target state="translated">إستعمال لون الأمامية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Channels">
+        <source>Channels</source>
+        <target state="translated">القنوات</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frames">
+        <source>Frames</source>
+        <target state="translated">الصور</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pixel Width">
+        <source>Pixel Width</source>
+        <target state="translated">عرض عنصر الصورة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pixeln Height">
+        <source>Pixeln Height</source>
+        <target state="translated">ارتفاع عنصر الصورة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Voxel Depth">
+        <source>Voxel Depth</source>
+        <target state="translated">عمق عنصر الحجم</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Frame Interval">
+        <source>Frame Interval</source>
+        <target state="needs-translation">مجال الصور</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Origin (pixels)">
+        <source>Origin (pixels)</source>
+        <target state="translated">الأصل (عانصر الصورة)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Global__%04__Global">
+        <source>Global</source>
+        <target state="translated">إجمالى</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="is not locked">
+        <source>is not locked</source>
+        <target state="translated">غير مقفل</target>
+        <note from="developer">## SimpleCommands</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="is now unlocked">
+        <source>is now unlocked</source>
+        <target state="translated">الآن مفتوح</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rename">
+        <source>Rename</source>
+        <target state="translated">غير الإسم</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New title:">
+        <source>New title:</source>
+        <target state="translated">عنوان جديد:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="-copy">
+        <source>-copy</source>
+        <target state="translated">-نسخ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Duplicate">
+        <source>Duplicate</source>
+        <target state="translated">نسخة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Title:">
+        <source>Title:</source>
+        <target state="translated">عنوان:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Duplicate Entire Stack?">
+        <source>Duplicate Entire Stack?</source>
+        <target state="translated">نسخة كامل الكومة؟</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale">
+        <source>Scale</source>
+        <target state="translated">سلم</target>
+        <note from="developer">## Scaler</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="X Scale">
+        <source>X Scale</source>
+        <target state="translated">سلم الأفاصيل</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Y Scale">
+        <source>Y Scale</source>
+        <target state="translated">سلم الأراتيب</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="X or Y scale are invalid.">
+        <source>X or Y scale are invalid.</source>
+        <target state="translated">.سلم X أو Y غير سليم</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="-rescaled">
+        <source>-rescaled</source>
+        <target state="translated">-أُعيد السلم</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill with Background Color">
+        <source>Fill with Background Color</source>
+        <target state="translated">إملأ بلون الخلفية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScaleBar Plus">
+        <source>ScaleBar Plus</source>
+        <target state="translated">زائد عارضة السلم</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Width in">
+        <source>Width in</source>
+        <target state="needs-translation">عرض الداخل</target>
+        <alt-trans xml:space="preserve" origin="dhassane">
+          <target>العرض في</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Height in pixels">
+        <source>Height in pixels</source>
+        <target state="translated">الارتفاع بعناصر الصورة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Font Size">
+        <source>Font Size</source>
+        <target state="translated">حجم الخط</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScaleBarColor__%04__Color">
+        <source>Color</source>
+        <target state="translated">اللون</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Background">
+        <source>Background</source>
+        <target state="translated">الخلفية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Location">
+        <source>Location</source>
+        <target state="translated">المنطقة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScaleBarBold__%04__Bold Text">
+        <source>Bold Text</source>
+        <target state="translated">خط عريض</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hide Text">
+        <source>Hide Text</source>
+        <target state="translated">إخفاء النص</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Serif Font">
+        <source>Serif Font</source>
+        <target state="translated">خط رقيق</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LookUp Table">
+        <source>LookUp Table</source>
+        <target state="translated">جدول الألوان</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Index&#9;Red&#9;Green&#9;Blue">
+        <source>Index	Red	Green	Blue</source>
+        <target state="translated">مؤشر	 أحمر	 أخضر	 أزرق</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LUT">
+        <source>LUT</source>
+        <target state="translated">جدول الألوان</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB images do not use LUTs.">
+        <source>RGB images do not use LUTs.</source>
+        <target state="translated">صور RGB لا تستعمل جدول الألوان</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Profile Plot Options">
+        <source>Profile Plot Options</source>
+        <target state="needs-translation">خيارات منحنى الجانبية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fixed Y-axis Scale">
+        <source>Fixed Y-axis Scale</source>
+        <target state="translated">سلم محور الأراتيب ثابت</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Do Not Save X-Values">
+        <source>Do Not Save X-Values</source>
+        <target state="translated">لا تحفظ قيم X </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Auto-close">
+        <source>Auto-close</source>
+        <target state="translated">غلق تلقائي</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Vertical Profile">
+        <source>Vertical Profile</source>
+        <target state="translated">جانبية عمودية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Roi Manager">
+        <source>Roi Manager</source>
+        <target state="translated">مسير منطقة الاهتمام</target>
+        <note from="developer">## RoiManager</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiAdd__%04__Add">
+        <source>Add</source>
+        <target state="translated">إجمع</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiAdd&amp;Draw__%04__Delete">
+        <source>Delete</source>
+        <target state="translated">حذف</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiDel__%04__Delete">
+        <source>Delete</source>
+        <target state="translated">إمح</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiOpen__%04__Open">
+        <source>Open</source>
+        <target state="translated">إفتح</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open All">
+        <source>Open All</source>
+        <target state="translated">إفتح الكل</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save">
+        <source>Save</source>
+        <target state="translated">إحفظ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select All">
+        <source>Select All</source>
+        <target state="translated">ظلل الكل</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Measure">
+        <source>Measure</source>
+        <target state="translated">قياس</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw">
+        <source>Draw</source>
+        <target state="translated">إرسم</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill">
+        <source>Fill</source>
+        <target state="translated">إملأ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The active image does not have an ROI.">
+        <source>The active image does not have an ROI.</source>
+        <target state="translated">ليس للصور النشيطة منطقة اهتمام.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The ROI list is empty.">
+        <source>The ROI list is empty.</source>
+        <target state="translated">لائحة مناطق الاهتمام فارغة.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="At least one ROI in the list must be selected.">
+        <source>At least one ROI in the list must be selected.</source>
+        <target state="translated">يجب اختيار منطقة اهتمام واحدة على الأقل من الائحة.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This ROI does not fit the current image.">
+        <source>This ROI does not fit the current image.</source>
+        <target state="translated">منطقة الاهتمام هذه لا تناسب الصورة الحالية.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open ROI...">
+        <source>Open ROI...</source>
+        <target state="translated">إفتح منطقة اهتمام...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select a file in the folder...">
+        <source>Select a file in the folder...</source>
+        <target state="translated">إختر الملف في المجلد...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save ROI...">
+        <source>Save ROI...</source>
+        <target state="translated">إحفظ منطقة اهتمام...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibration Bar">
+        <source>Calibration Bar</source>
+        <target state="translated">عارضة المعايرة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Location:">
+        <source>Location:</source>
+        <target state="translated">موضع:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill Colour:">
+        <source>Fill Colour:</source>
+        <target state="translated">ملأ اللون:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Label Colour:">
+        <source>Label Colour:</source>
+        <target state="needs-translation">لون الملصق</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Number of Labels:">
+        <source>Number of Labels:</source>
+        <target state="translated">عدد الملصقات:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="CaliPlaces__%04__Decimal Places:">
+        <source>Decimal Places:</source>
+        <target state="translated">الأماكن العشرية:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Font Size:">
+        <source>Font Size:</source>
+        <target state="translated">حجم الخط:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zoom Factor:">
+        <source>Zoom Factor:</source>
+        <target state="translated">عامل التكبير:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="CaliBold__%04__Bold Text">
+        <source>Bold Text</source>
+        <target state="translated">نص عريض</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="with bar">
+        <source>with bar</source>
+        <target state="translated">بعمود</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upper Right">
+        <source>Upper Right</source>
+        <target state="translated">أعلى اليمين</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upper Left">
+        <source>Upper Left</source>
+        <target state="translated">أعلى اليسار</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lower Right">
+        <source>Lower Right</source>
+        <target state="translated">أدنى اليمين</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lower Left">
+        <source>Lower Left</source>
+        <target state="translated">أدنى اليسار</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="At Selection">
+        <source>At Selection</source>
+        <target state="translated">عند الاختيار</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Image Sequence...">
+        <source>Open Image Sequence...</source>
+        <target state="translated">إفتح متتالية الصور...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Error:">
+        <source>Import Error:</source>
+        <target state="translated">استورد الخطأ:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This folder does not appear to contain any TIFF,&#10;FITS, JPEG, BMP, GIF, or PGM files.">
+        <source>This folder does not appear to contain any TIFF,
+FITS, JPEG, BMP, GIF, or PGM files.</source>
+        <target state="translated">لا يظهر أن هذا الملف يحتوي على أي نوع من ملفات TIFF 
+FITS أو, JPEG, BMP, GIF, PGM</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="None of the">
+        <source>None of the</source>
+        <target state="translated">لا أحد من</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="files contain  in their name the string">
+        <source>files contain  in their name the string</source>
+        <target state="translated">الملفات تحتوي        في اسمها الكلمة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id=": wrong dimensions">
+        <source>: wrong dimensions</source>
+        <target state="translated">أبعاد خاطئة:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id=": wrong type">
+        <source>: wrong type</source>
+        <target state="translated">صنف خاطئ:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id=": unable to open">
+        <source>: unable to open</source>
+        <target state="translated">عاجز عن الفتح:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sequence Options">
+        <source>Sequence Options</source>
+        <target state="translated">خيارات المتتالية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Number of Images">
+        <source>Number of Images</source>
+        <target state="translated">عدد الصور</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Starting Image">
+        <source>Starting Image</source>
+        <target state="translated">صورة اللبدء</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FoldOpt3__%04__Increment">
+        <source>Increment</source>
+        <target state="translated">الزيادة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File Name Contains">
+        <source>File Name Contains</source>
+        <target state="translated">إسم الملف يحتوي</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Convert to 8-bit Greyscale">
+        <source>Convert to 8-bit Greyscale</source>
+        <target state="translated">حول لسلم رمادي 8-بت </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open 1/2 Size">
+        <source>Open 1/2 Size</source>
+        <target state="translated">إفتح نصف الحجم</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enter URL">
+        <source>Enter URL</source>
+        <target state="translated">أدخل الرابط</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enter the URL of an image to open:">
+        <source>Enter the URL of an image to open:</source>
+        <target state="translated">أدخل رابط الصورة المراد فتحها:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Animation Options">
+        <source>Animation Options</source>
+        <target state="translated">خيارات التنشيط</target>
+        <note from="developer">## Animator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Speed (1-100 fps):">
+        <source>Speed (1-100 fps):</source>
+        <target state="translated">السرعة (1-100 fps)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Loop Back and Forth">
+        <source>Loop Back and Forth</source>
+        <target state="translated">در للأمام و للخلف</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start Animation">
+        <source>Start Animation</source>
+        <target state="translated">إبدأ التنشيط</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Slice">
+        <source>Set Slice</source>
+        <target state="translated">حدد قطعة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slice number">
+        <source>Slice number</source>
+        <target state="translated">رقم القطعة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save As Text">
+        <source>Save As Text</source>
+        <target state="translated">إحفظ كنص</target>
+        <note from="developer">## TextWriter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This command requires a TextWindow">
+        <source>This command requires a TextWindow</source>
+        <target state="translated">هذه الطلب يستلزم نافذة نص</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibrate...">
+        <source>Calibrate...</source>
+        <target state="translated">عاير...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Function:">
+        <source>Function:</source>
+        <target state="translated">دالة:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Global calibration">
+        <source>Global calibration</source>
+        <target state="translated">معايرة إجمالية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibrator:">
+        <source>Calibrator:</source>
+        <target state="translated">معاير:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Please select a function">
+        <source>Please select a function</source>
+        <target state="translated">من فضلك اختر دالة </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibration of 16-bit images, except with straight&#10;line functions, is currently not supported.">
+        <source>Calibration of 16-bit images, except with straight
+line functions, is currently not supported.</source>
+        <target state="translated">معايرة الصور 16-بت, ما عدا ذوات الدوال
+الخطية، فهي غير مستحملة حاليا </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pixel Inverter">
+        <source>Pixel Inverter</source>
+        <target state="translated">عاكس عناصر الصورة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="To create a calibration curve, the left column must&#10;contain a list of measured mean pixel values and the&#10;right column must contain the same number of calibration&#10;standard values.">
+        <source>To create a calibration curve, the left column must
+contain a list of measured mean pixel values and the
+right column must contain the same number of calibration
+standard values.</source>
+        <target state="translated">لإنشاء منحنى معايرة, يحب أن يحتوي العمود الأيسر على
+لائحة قيم متوسطات عناصر الصورة المقاسة و العمود 
+.الأيمن على نفس عدد قيم المعايرة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibration function">
+        <source>Calibration function</source>
+        <target state="translated">دالة المعايرة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Recorder">
+        <source>Recorder</source>
+        <target state="translated">مسجل</target>
+        <note from="developer">#Recorder</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="32-bit float image required">
+        <source>32-bit float image required</source>
+        <target state="translated">صورة حقيقية 32-بت مستلزمة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Last used files:">
+        <source>Last used files:</source>
+        <target state="translated">:/آخر الجذاذيات المستعملة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Files">
+        <source>Files</source>
+        <target state="translated">جذاذيات</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Translate">
+        <source>Translate</source>
+        <target state="needs-translation">إزاحة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation on X">
+        <source>Translation on X</source>
+        <target state="translated">إزاحة على X </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation on Y">
+        <source>Translation on Y</source>
+        <target state="translated">إزاحة على Y </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation on X is invalid">
+        <source>Translation on X is invalid</source>
+        <target state="translated">إزاحة غير سليمة على X </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation en Y est invalide">
+        <source>Translation en Y est invalide</source>
+        <target state="translated">إزاحة غير سليمة على Y </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open/Save Using JFileChooser">
+        <source>Open/Save Using JFileChooser</source>
+        <target state="translated">فتح/حفظ باستعمال JFileChooser </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Horizontal Profile">
+        <source>Horizontal Profile</source>
+        <target state="translated">جانبية أفقية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gaussian fit results">
+        <source>Gaussian fit results</source>
+        <target state="translated">نتائج الموافقة الغوسية</target>
+        <note from="developer">#Spectrum Radio...</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Channel">
+        <source>Channel</source>
+        <target state="translated">قناة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Velocity">
+        <source>Velocity</source>
+        <target state="translated">سرعة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="km/s">
+        <source>km/s</source>
+        <target state="translated">كم/ثا</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frequency">
+        <source>Frequency</source>
+        <target state="translated">تردد</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="MHz">
+        <source>MHz</source>
+        <target state="translated">MHz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Wavelength">
+        <source>Wavelength</source>
+        <target state="translated">طول الموجة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cm">
+        <source>cm</source>
+        <target state="translated">cm</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Intensity">
+        <source>Intensity</source>
+        <target state="translated">الشدة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This does not appear to be a FITS file.">
+        <source>This does not appear to be a FITS file.</source>
+        <target state="translated">لا يظهر أن هذا الملف من نوع FITS .</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="too few points to fit">
+        <source>too few points to fit</source>
+        <target state="translated">نقط أقل من أن توافق</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="singular matrix">
+        <source>singular matrix</source>
+        <target state="translated">مصفوفة مفردة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="choose two intervals">
+        <source>choose two intervals</source>
+        <target state="translated">إختر مجالان</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="first interval">
+        <source>first interval</source>
+        <target state="translated">المجال الأول</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="second interval">
+        <source>second interval</source>
+        <target state="translated">المجال الثاني</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="choose order of baseline fit (0&lt;order&lt;5)">
+        <source>choose order of baseline fit (0&lt;order&lt;5)</source>
+        <target state="translated">إختر درجة موافقة خط القاعدة (ما بين 0 و 5) </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Order">
+        <source>Order</source>
+        <target state="needs-translation">درجة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="display zero line in blue">
+        <source>display zero line in blue</source>
+        <target state="translated">إظهار الخط 0 بالأزرق</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gaussian fit of spectral line">
+        <source>Gaussian fit of spectral line</source>
+        <target state="translated">الموافقة الغوسية لخط طيفي</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose parameters">
+        <source>Choose parameters</source>
+        <target state="translated">إختر الخيارات</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="interval">
+        <source>interval</source>
+        <target state="translated">مجال</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="amplitude">
+        <source>amplitude</source>
+        <target state="translated">وسع</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="center">
+        <source>center</source>
+        <target state="translated">مركز</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="width">
+        <source>width</source>
+        <target state="translated">عرض</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="erase the last">
+        <source>erase the last</source>
+        <target state="translated">إمسح الأخير</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Subtract baseline">
+        <source>Subtract baseline</source>
+        <target state="translated">إطرح خط القاعدة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gaussian fit">
+        <source>Gaussian fit</source>
+        <target state="translated">موافقة غوسية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Baseline">
+        <source>Baseline</source>
+        <target state="translated">خط القاعدة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lambda[A]">
+        <source>Lambda[A]</source>
+        <target state="translated">Lambda[A]</target>
+        <note from="developer">#Optical Spectrum...</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flux[ADU]">
+        <source>Flux[ADU]</source>
+        <target state="translated">تدفق [ADU]</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose language">
+        <source>Choose language</source>
+        <target state="translated">اختر لغة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Dynamic profile">
+        <source>Dynamic profile</source>
+        <target state="translated">مظهر ديناميكي</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Live histogram">
+        <source>Live histogram</source>
+        <target state="translated">الرسم البياني</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Virtual observatories images">
+        <source>Virtual observatories images</source>
+        <target state="translated">صور المراصد الإفتراضية</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="open an image on the Web">
+        <source>open an image on the Web</source>
+        <target state="translated">افتح صورة على الشبكة</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Align R/G/B plans">
+        <source>Align R/G/B plans</source>
+        <target state="translated">ترصيف مستويات RGB</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,1587 @@
+#. extracted from ../templates/PluginBundle.properties, ../resu/PluginBundle_ro.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#. ##GLOBAL SECTION
+#: Pixel
+msgid "pixel"
+msgstr "pixel"
+
+#: Pixels
+msgid "pixels"
+msgstr "pixeli"
+
+#: Degrees
+msgid "degrees"
+msgstr "grade"
+
+#: Open
+msgctxt "Open"
+msgid "Open"
+msgstr "Deschide"
+
+#: MyApply1
+msgid "Apply"
+msgstr "Aplica"
+
+#: Settings
+msgid "Settings"
+msgstr "Setari"
+
+#: OpenText
+msgid "Open Text File..."
+msgstr "Deschide fisierul text"
+
+#: Height
+msgid "Height"
+msgstr "Inaltime"
+
+#: Width
+msgid "Width"
+msgstr "latime"
+
+#: NewWin
+msgid "Create New Window"
+msgstr "Creeza o noua fereastra"
+
+#: List
+msgid "List"
+msgstr "Lista"
+
+#: Unit
+msgid "Unit"
+msgstr "Unitate"
+
+#: None
+msgid "none"
+msgstr "Nici unul"
+
+#: LeftCol
+msgid "Left column"
+msgstr "Coloana stanga"
+
+#: RightCol
+msgid "Right column"
+msgstr "Coloana dreapta"
+
+#: Values
+msgid "values"
+msgstr "valori"
+
+#: File
+msgid "File"
+msgstr "Fisier"
+
+#. ##NEW
+#: Title
+msgid "Title"
+msgstr "Titlu"
+
+#. # StackEditor
+#: StackReqErr
+msgid "Stack required"
+msgstr "Stiva ceruta"
+
+#: NoImgErr
+msgid "No images are open."
+msgstr "Nici o imagine deschisa"
+
+#: OneImgErr
+msgid "There must be at least two open images."
+msgstr "Trebuie sa fie cel putin doua imagini deschise"
+
+#: ImgErr
+msgid "None of the open images can go in a stack."
+msgstr "Nici una dintre imaginile deschise nu poate intra in stiva"
+
+#: ImgTypeErr
+msgid "All open images must be the same type."
+msgstr "Toate imaginile deschise trebuie sa fie de acelasi tip"
+
+#: ImgSizeErr
+msgid "All open images must be the same size."
+msgstr "Toate imaginile deschise trebuie sa fie de aceeasi marime"
+
+#: StackTitle
+msgid "Stack"
+msgstr "Stiva"
+
+#: ConvertTitle
+msgid "Convert to Images?"
+msgstr "Transform in imagini?"
+
+#: Convert1
+msgid ""
+"Are you sure you want to convert this\n"
+"stack to"
+msgstr ""
+"Sunteti sigur ca vreti sa transformati aceasta \n"
+"stiva in"
+
+#: Convert2
+msgid "separate windows?"
+msgstr "ferestra separata?"
+
+#. # ImageCalculator
+#: TitleStr
+msgid "Image Calculator"
+msgstr "Calculator imagine"
+
+#: NoWinErr
+msgid "No windows are open."
+msgstr "Nici o ferestra deschisa"
+
+#: StackSizeErr
+msgid "Both stacks must have the same number of slices."
+msgstr "Ambele stive trebuie sa aibe acelasi numar de parti."
+
+#: OutOfMem
+msgid "Out of memory"
+msgstr "Memorie depasita"
+
+#: Image1
+msgid "Image 1:"
+msgstr "Imaginea 1:"
+
+#: Image2
+msgid "Image 2:"
+msgstr "Imaginea 2:"
+
+#: Operation
+msgid "Operation:"
+msgstr "Operatie:"
+
+#: NewResultTitle
+msgid "Result of"
+msgstr "Rezultatul"
+
+#: ResultTitle
+msgid "Result"
+msgstr "Rezultat"
+
+#: Add
+msgctxt "Add"
+msgid "Add"
+msgstr "Adauga"
+
+#: Subtract
+msgid "Subtract"
+msgstr "Extrage"
+
+#: Multiply
+msgid "Multiply"
+msgstr "Multiplica"
+
+#: Divide
+msgid "Divide"
+msgstr "Divide"
+
+#: AND
+msgid "AND"
+msgstr "Si"
+
+#: OR
+msgid "OR"
+msgstr "Sau"
+
+#: XOR
+msgid "XOR"
+msgstr "XOR"
+
+#: Min
+msgid "Min"
+msgstr "Min"
+
+#: Max
+msgid "Max"
+msgstr "Max"
+
+#: Gamma
+msgid "Gamma"
+msgstr "Gamma"
+
+#: Average
+msgid "Average"
+msgstr "Mediu"
+
+#: Difference
+msgid "Difference"
+msgstr "Diferenta"
+
+#: Copy
+msgid "Copy"
+msgstr "Copiaza"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "Copiaza cu exceptia albului"
+
+#: Index
+msgid "index"
+msgstr "index"
+
+#: Value
+msgid "Value:"
+msgstr "valoare"
+
+#: BinValue
+msgid "Value (binary): "
+msgstr "Valoare (binara):"
+
+#: BinValReqErr
+msgid "Binary number required"
+msgstr "Numar binar cerut"
+
+#: Value01
+msgid "Value (0.1-5.0):"
+msgstr "Valoare (0.1-5.0)"
+
+#: GammaValErr
+msgid "Gamma must be between 0.1 and 5.0"
+msgstr "Gamma trebuie sa fie intre 0.1 si 5.0"
+
+#. # Selection
+#: Spline
+msgid "Spline"
+msgstr "Canelura"
+
+#. ## PLUGIN/FRAME
+#. # PasteController
+#: FrameTitle
+msgid "Paste Control"
+msgstr "Control lipire"
+
+#: TransferMode
+msgid "Transfer Mode:"
+msgstr "Mod de transfer:"
+
+#. # ContrastAdjuster
+#: ContrastTitle
+msgid "Brightness & Contrast"
+msgstr "Stralucire si contrast"
+
+#: WLTitle
+msgid "Window & Level"
+msgstr "Ferestra si nivel"
+
+#: ColorTitle
+msgctxt "ColorTitle"
+msgid "Color"
+msgstr "Culoare"
+
+#: Minimum
+msgid "Minimum"
+msgstr "Minimum"
+
+#: Maximum
+msgid "Maximum"
+msgstr "Maximum"
+
+#: Brightness
+msgid "Brightness"
+msgstr "Stralucire"
+
+#: Contrast
+msgid "Constrast"
+msgstr "Contrast"
+
+#: Level
+msgid "Level:"
+msgstr "Nivel"
+
+#: Window
+msgid "Window:"
+msgstr "Fereastra"
+
+#: Auto
+msgid "Auto"
+msgstr "Auto"
+
+#: Reset
+msgid "Reset"
+msgstr "Resetare"
+
+#: Set
+msgid "Set"
+msgstr "Seteaza"
+
+#: MyApply2
+msgid "Apply "
+msgstr "Aplica"
+
+#: Thresh
+msgid "Thresh"
+msgstr "Baleiaza"
+
+#: Update
+msgid "Update"
+msgstr "Actualizeaza"
+
+#: AdjTypeErr
+msgid "Requires an 8-bit grayscale image or an RGB stack"
+msgstr "Necesita o imagine in scara de griuri de 8 biti sau o stiva RGB"
+
+#: LUT1
+msgid "Apply LUT to all"
+msgstr "Aplica LUT la tot"
+
+#: LUT2
+msgctxt "LUT2"
+msgid "slices in the stack?"
+msgstr "Parti in stiva?"
+
+#: RGB1
+msgid "Apply brightness and contrast settings to all"
+msgstr "Aplica setarile de stralucire si contrast la tot"
+
+#: RGB2
+msgctxt "RGB2"
+msgid "slices in the stack?"
+msgstr "Parti in stiva?"
+
+#: SetMinMaxTitle
+msgid "Set Min and Max"
+msgstr "Seteaza Min si Max"
+
+#: MinVal
+msgid "Minimum Displayed Value:"
+msgstr "Valoarea minima afisata:"
+
+#: MaxVal
+msgid "Maximum Displayed Value:"
+msgstr "Valoarea maxima afisata"
+
+#: SetWLTitle
+msgid "Set W&L"
+msgstr "Seteaza W&L"
+
+#: WinCenter
+msgid "Window Center (Level):"
+msgstr "Centrul ferestrei (Nivel):"
+
+#: WinWidth
+msgid "Window Width:"
+msgstr "Latimea ferestrei:"
+
+#: NoImg
+msgid "No Image"
+msgstr "Lipsa imagine"
+
+#. # Analyser
+#: SetMeasurementsTitle
+msgid "Set Measurements"
+msgstr "Seteaza masuratorile"
+
+#: measurements
+msgid "measurements"
+msgstr "masuratori"
+
+#: Area
+msgid "Area"
+msgstr "Suprafata"
+
+#: MeanGray
+msgid "Mean Grey Value"
+msgstr "Valoarea principala de gri"
+
+#: StDev
+msgid "Standard Deviation"
+msgstr "Deviatie standard"
+
+#: ModalGray
+msgid "Modal Grey Value"
+msgstr "Valoare gri modala"
+
+#: MinMaxGray
+msgid "Min & Max Grey Value"
+msgstr "Min si max valorii de gri"
+
+#: Centroid
+msgid "Centroid"
+msgstr "Centroid"
+
+#: MassCenter
+msgid "Center of Mass"
+msgstr "Centrul masei"
+
+#: Perimeter
+msgid "Perimeter"
+msgstr "Perimetru"
+
+#: Bounds
+msgid "Bounding Rectangle"
+msgstr "Dreptunghi limita/ de separare"
+
+#: FitEllipse
+msgid "Fit Ellipse"
+msgstr "Fieaza elipsa"
+
+#: Circularity
+msgid "Circularity"
+msgstr "Circularitate"
+
+#: FeretDiam
+msgid "Feret's Diameter"
+msgstr "Diametru Feret"
+
+#: ThreshLimit
+msgid "Limit to Threshold"
+msgstr "Limita de prag"
+
+#: ImgName
+msgid "Display Image Name"
+msgstr "Afisaza numele imaginii"
+
+#: InvertY
+msgid "Invert Y Coordinates"
+msgstr "Schimba coordonatele Y"
+
+#: DeciPlaces
+msgctxt "DeciPlaces"
+msgid "Decimal Places:"
+msgstr "Locuri zecimale"
+
+#: Val
+msgid "Value"
+msgstr "Valoare"
+
+#: FileName
+msgid "Name"
+msgstr "Nume"
+
+#: Angle
+msgid "Angle"
+msgstr "Unghi"
+
+#: Length
+msgid "Length "
+msgstr "Lungime"
+
+#. #Shorter labels
+#: SD
+msgid "SD"
+msgstr "SD"
+
+#: Mean
+msgid "Moy."
+msgstr "Moy"
+
+#. ### ThresholdAdjuster
+#: Threshold
+msgid "Threshold"
+msgstr "Prag"
+
+#: RedThresh
+msgid "Red"
+msgstr "Rosu"
+
+#: BWThresh
+msgid "Black & White"
+msgstr "Alb si Negru"
+
+#: OverUnder
+msgid "Over/Under"
+msgstr "Peste/Sub"
+
+#: ThreshLevels
+msgid "Set Threshold Levels"
+msgstr "Seteaza nivelele de prag"
+
+#: LowThreshLevel
+msgid "Lower Threshold Level:"
+msgstr "Nivel de prag mai mic"
+
+#: UpThreshLevel
+msgid "Upper Threshold Level:"
+msgstr "Nivel de prag mai mare"
+
+#: RGBThreshErr
+msgid "RGB images cannot be thresolded."
+msgstr "Imaginile RGB nu pot atinge nivelul de prag"
+
+#. ## NewPlugin
+#: NPTitle
+msgid "Nouveau..."
+msgstr "Nou"
+
+#: Type
+msgid "Type"
+msgstr "Tip"
+
+#. ##Recorder
+#: Record
+msgid "Record"
+msgstr "Inregistrare"
+
+#: CreateMacro
+msgid "Create Macro"
+msgstr "Creeaza Macro"
+
+#: CreatePlugin
+msgid "Create Plugin"
+msgstr "Creeaza Plugin"
+
+#. ## Command Lister
+#: Commands
+msgid "Commands"
+msgstr "Comenzi"
+
+#. # 2 FIELDS SEPARATED BY \t
+#: CommandLabels
+msgid "Command\tPlugin"
+msgstr "Comanda\\Plugin"
+
+#: KbdShortcuts
+msgid "Keyboard Shortcuts"
+msgstr "Scurtaturi pe tastatura"
+
+#. # 2 FIELDS SEPARATED BY \t
+#: KbdShortcutsLabels
+msgid "Hot Key\tCommand"
+msgstr "Tasta rapida\t comanda"
+
+#. ## ScaleDialog
+#: ScDiagTitle
+msgid "Set Scale"
+msgstr "Seteaza scala"
+
+#: ScDiagDistPix
+msgid "Distance in Pixels:"
+msgstr "Distanta in Pixeli"
+
+#: ScDiagDist
+msgid "Real Distance:"
+msgstr "Distanta reala"
+
+#: ScDiagRatio
+msgid "Width/Height Ratio:"
+msgstr "Raport Lungime/Latime"
+
+#: ScDiagUnit
+msgid "Unit of Length:"
+msgstr "Unitate de lungime"
+
+#: ScDiagScale
+msgid "Scale:"
+msgstr "Scala"
+
+#: ScDiagGlobal
+msgctxt "ScDiagGlobal"
+msgid "Global"
+msgstr "Global"
+
+#: ScDiagNoScale
+msgid "<No Scale>"
+msgstr "<lipsa scala>"
+
+#. ## SurfacePlotter
+#: SfcPlTitle
+msgid "Surface Plotter"
+msgstr "Suprafata Plotter"
+
+#: SfcPlImgTitle
+msgid "Surface Plot"
+msgstr "Suprafata grafic"
+
+#: SfcPlDrSlice
+msgid "Drawing slice"
+msgstr "Desenez bucata"
+
+#: SfcPlMult
+msgid "Number of samples"
+msgstr "Numarul modelelor"
+
+#: SfcPlWire
+msgid "Draw wireframe"
+msgstr "Desenez segmentul"
+
+#: SfcPlShade
+msgid "Shade"
+msgstr "umbra"
+
+#: SfcPlAxis
+msgid "Draw axis"
+msgstr "Deseneaza axa"
+
+#: SfcPlInvert
+msgid "Source Background is Lighter"
+msgstr "Fundalul sursa este mai luminat"
+
+#: SfcPlBlack
+msgid "Fill Plot Background with Black"
+msgstr "Completeaza graficul de fundal cu negru"
+
+#: SfcPlPoly
+msgid "Fill Plot"
+msgstr "Completeaza graficul"
+
+#: SfcPlSmooth
+msgid "Smooth"
+msgstr "Neted"
+
+#. ## Printer
+#: PageSetup
+msgid "Page Setup"
+msgstr "Setari de pagina"
+
+#: PrintScaling
+msgid "Scaling"
+msgstr "Scaland"
+
+#: PrintBorder
+msgid "Draw Border"
+msgstr "Deseneaza margine"
+
+#: PrintTitle
+msgid "Print Title"
+msgstr "Listeaza Titlul"
+
+#: PrintCenter
+msgid "Center on Page"
+msgstr "Centreaza pe pagina"
+
+#. ## Rotator
+#: Rotate
+msgid "Rotate"
+msgstr "Roteste"
+
+#: AngleUnity
+msgid "Angle (degrees):"
+msgstr ""
+
+#: GridLines
+msgid "Grid Lines:"
+msgstr ""
+
+#: Interpolate
+msgid "Interpolate"
+msgstr "Interpolat"
+
+#: FillwithBg
+msgctxt "FillwithBg"
+msgid "Fill with Background Color"
+msgstr ""
+
+#: EnlargetoFit
+msgid "Enlarge Image to Fit Result"
+msgstr ""
+
+#: AngleErr
+msgid "Angle is invalid."
+msgstr "Unghi invalid"
+
+#. ## Options
+#: OptMiscTitle
+msgid "Miscellaneous Options"
+msgstr "Optiuni diverse"
+
+#: OptHistBin
+msgid "Real Histogram Bins:"
+msgstr "Histograma reala de acumulatori"
+
+#: OptDivZero
+msgid "Divide by Zero Value:"
+msgstr "Imparte prin valoarea zero"
+
+#: OptCursor
+msgid "Use Pointer Cursor"
+msgstr "Foloseste cursor pointer"
+
+#: OptScale
+msgid "Scale When Converting"
+msgstr "Scaleaza cand transforma"
+
+#: OptStackDiag
+msgid "Hide \"Process Stack?\" Dialog"
+msgstr "Ascunde \"Stiva proces?\" Dialog"
+
+#: OptAntialias
+msgid "Antialiased Text"
+msgstr "Text de anti-lianta"
+
+#: OptInterpolate
+msgid "Interpolate Images <100%"
+msgstr "Imagini interpolate <100%"
+
+#: OptOpen
+msgid "Open Images at 100%"
+msgstr "Deschide Imaginile la 100%"
+
+#: OptDebug
+msgid "Debug Mode"
+msgstr "Mod depanare"
+
+#: OptLine
+msgid "Line width:"
+msgstr "Latimea liniei"
+
+#: OptJpeg
+msgid "JPEG quality (0-100):"
+msgstr "Calitate JPEG (0-100)"
+
+#: OptMark
+msgid "Mark Width:"
+msgstr "Marcheaza latimea"
+
+#. ## Fonts
+#: FontsTitle
+msgid "Fonts"
+msgstr "Fonturi"
+
+#: FontPlain
+msgid "Plain"
+msgstr "Plan"
+
+#: FontBold
+msgid "Bold"
+msgstr "Ingrosat"
+
+#: FontIt
+msgid "Italic"
+msgstr "Inclinat"
+
+#: FontBoldIt
+msgid "Bold+Italic"
+msgstr "Ingrosat+Inclinat"
+
+#: FontPoint
+msgid "pt"
+msgstr "pt"
+
+#. ## Fitter
+#: FitterTitle
+msgid "Curve Fitter"
+msgstr "Fitor de curbura"
+
+#: Fit
+msgid "Fit..."
+msgstr "Fiteaza..."
+
+#: FitFncErr
+msgid "No function available"
+msgstr "Nici o functie disponibila"
+
+#: FitImgErr
+msgid "First select the image to be transformed"
+msgstr "Mai intai selecteaza imaginea pentru conversie"
+
+#: FitterSuffix
+msgid "-transformed"
+msgstr "-transformat"
+
+#. ## Resizer
+#: ResizeRoiErr
+msgid ""
+"These commands\n"
+"do not work with line selections."
+msgstr ""
+"Aceste comenzi \n"
+"nu functioneaza cu selectiile linie."
+
+#: ResizeTitle
+msgid "Resize"
+msgstr "Redimensioneaza"
+
+#: ResizeConstrain
+msgid "Constrain Aspect Ratio"
+msgstr "Raport constrangere aspect"
+
+#: ResizeWarn
+msgid "NOTE: Undo is not available"
+msgstr "NOTA: Anularea nu este posibila"
+
+#: ResizeErr
+msgid "Width or height are invalid."
+msgstr "Inaltimea sau latimea sunt invalide."
+
+#: ResizeLost1
+msgid ""
+"SalsaJ ran out of memory causing \n"
+"the last"
+msgstr ""
+"SalsaJ intampina memorie depasita provocand \n"
+"ultimul"
+
+#: ResizeLost2
+msgid "slices to be lost."
+msgstr "parti ce urmeaza sa fie pierdute"
+
+#. ##CanvasResizer NEW
+#: CanvasResizerTitle1
+msgid "Resize Image Canvas"
+msgstr "Redimensioneaza Tablou Imagine "
+
+#: CanvasResizerTitle2
+msgid "Resize Stack Canvas"
+msgstr "Redimensioneaza Tablou Stiva"
+
+#: Position
+msgid "Postion"
+msgstr "Pozitie"
+
+#: ZeroFile
+msgid "Zero Fill"
+msgstr "Umplere zero"
+
+#: Top-Left
+msgid "Top-Left "
+msgstr "Stanga - Sus"
+
+#: Top-Center
+msgid "Top-Center"
+msgstr "La mijloc - sus"
+
+#: Top-Right
+msgid "Top-Right"
+msgstr "Dreapta - sus"
+
+#: Center-Left
+msgid "Center-Left"
+msgstr "Centru - Stanga"
+
+#: Center
+msgid "Center"
+msgstr "Centru"
+
+#: Center-Right
+msgid "Center-Right"
+msgstr "Centru - Dreapta"
+
+#: Bottom-Left
+msgid "Bottom-Left"
+msgstr "Stanga - Jos"
+
+#: Bottom-Center
+msgid "Bottom-Center"
+msgstr "Centru - Jos"
+
+#: Bottom-Right
+msgid "Bottom-Right"
+msgstr "Dreapta - Jos"
+
+#. ##Montage Maker NEW
+#: MakeMontage
+msgid "Make Montage"
+msgstr "Realizeaza montajul"
+
+#: Columns
+msgid "Columns"
+msgstr "Coloane"
+
+#: Rows
+msgid "Rows"
+msgstr "Linii"
+
+#: ScaleFactor
+msgid "Scale Factor"
+msgstr "Factor Scala"
+
+#: FirstSlice
+msgid "First Slice"
+msgstr "Prima Parte"
+
+#: LastSlice
+msgid "Last Slice"
+msgstr "Ultima Parte"
+
+#: Increment
+msgctxt "Increment"
+msgid "Increment"
+msgstr "Crestere"
+
+#: BorderWidth
+msgid "Border Width"
+msgstr "Bordeaza latimea"
+
+#: LabelSlices
+msgid "Label Slices"
+msgstr "Parti eticheta"
+
+#: UseForegroundColor
+msgid "Use Foreground Color"
+msgstr "Foloseste culoare prim plan"
+
+#. ##ImageProperties NEW
+#: Channels
+msgid "Channels"
+msgstr "Canale"
+
+#: Frames
+msgid "Frames"
+msgstr "Cadre"
+
+#: Pixel_Width
+msgid "Pixel Width"
+msgstr "Latime Pixel"
+
+#: Pixel_Height
+msgid "Pixeln Height"
+msgstr "Inaltime Pixel Intrare"
+
+#: Voxel_Depth
+msgid "Voxel Depth"
+msgstr "Adancime Voxel"
+
+#: FrameInterval
+msgid "Frame Interval"
+msgstr "Interval cadru"
+
+#: Origin
+msgid "Origin (pixels)"
+msgstr "Origine (pixeli)"
+
+#: Global
+msgctxt "Global"
+msgid "Global"
+msgstr "Global"
+
+#. ## SimpleCommands
+#: NotLocked
+msgid "is not locked"
+msgstr "nu este incuiat"
+
+#: Unlocked
+msgid "is now unlocked"
+msgstr "acum este deblocat"
+
+#: Rename
+msgid "Rename"
+msgstr "Redenumeste"
+
+#: RenameName
+msgid "New title:"
+msgstr "Titlu nou:"
+
+#. ## Duplicater
+#: DupliSuffix
+msgid "-copy"
+msgstr "- copiaza"
+
+#: DupliTitle
+msgid "Duplicate"
+msgstr "Dublat"
+
+#: DupliNewName
+msgid "Title:"
+msgstr "Titlu :"
+
+#: DupliStack
+msgid "Duplicate Entire Stack?"
+msgstr "Dublez intreaga stiva?"
+
+#. ## Scaler
+#: ScalerTitle
+msgid "Scale"
+msgstr "Scala"
+
+#: ScalerX
+msgid "X Scale"
+msgstr "Scala X"
+
+#: ScalerY
+msgid "Y Scale"
+msgstr "Scala Y"
+
+#: ScalerErr
+msgid "X or Y scale are invalid."
+msgstr "Scala X sau Y este invalida"
+
+#: ScalerSuffix
+msgid "-rescaled"
+msgstr "- rescalat"
+
+#. ##NEW
+#: ScalerBackground
+msgctxt "ScalerBackground"
+msgid "Fill with Background Color"
+msgstr "Umple cu culoare de fundal"
+
+#. ##ScaleBar ##NEW
+#: ScaleBarTitle
+msgid "ScaleBar Plus"
+msgstr "Bara Scala Plus"
+
+#: ScaleBarWidth
+msgid "Width in"
+msgstr "Latimea in"
+
+#: ScaleBarHeight
+msgid "Height in pixels"
+msgstr "Inaltimea in pixeli"
+
+#: ScaleBarFont
+msgid "Font Size"
+msgstr "Marimea fontului"
+
+#: ScaleBarColor
+msgctxt "ScaleBarColor"
+msgid "Color"
+msgstr "Culoare"
+
+#: ScaleBarBackground
+msgid "Background"
+msgstr "Fundal"
+
+#: ScaleBarLocation
+msgid "Location"
+msgstr "Locatie"
+
+#: ScaleBarBold
+msgctxt "ScaleBarBold"
+msgid "Bold Text"
+msgstr "Text ingrosat"
+
+#: ScaleBarHide
+msgid "Hide Text"
+msgstr "Ascunde text"
+
+#: ScaleBarSerif
+msgid "Serif Font"
+msgstr "Font Serif"
+
+#. ## LutViewer
+#: LUTTitle
+msgid "LookUp Table"
+msgstr "Tabel in vedere"
+
+#. # 4 FIELDS SEPARATED BY \t
+#: LUTHead
+msgid "Index\tRed\tGreen\tBlue"
+msgstr "Index\t Rosu\t Verde\t Albastru"
+
+#: LUTTextTitle
+msgid "LUT"
+msgstr "LUT"
+
+#. ## LutLoader
+#: LutRGBErr
+msgid "RGB images do not use LUTs."
+msgstr "Imaginile RGB nu folosesc LUT"
+
+#. ## Profiler
+#: ProOptTitle
+msgid "Profile Plot Options"
+msgstr "Optiuni grafic profil"
+
+#: ProOptScale
+msgid "Fixed Y-axis Scale"
+msgstr "Scalare fixa pe axa Y"
+
+#: ProOptSave
+msgid "Do Not Save X-Values"
+msgstr "Nu salva valorile X"
+
+#: ProOptAuto
+msgid "Auto-close"
+msgstr "Auto - inchidere"
+
+#: ProOptVert
+msgid "Vertical Profile"
+msgstr "Profil Vertical"
+
+#. ## RoiManager
+#: RoiTitle
+msgid "Roi Manager"
+msgstr "Mamager Roi"
+
+#: RoiAdd
+msgctxt "RoiAdd"
+msgid "Add"
+msgstr "Adauga"
+
+#: RoiAdd&Draw
+msgctxt "RoiAdd&Draw"
+msgid "Delete"
+msgstr "Sterge"
+
+#: RoiDel
+msgctxt "RoiDel"
+msgid "Delete"
+msgstr "Sterge"
+
+#: RoiOpen
+msgctxt "RoiOpen"
+msgid "Open"
+msgstr "Deschide"
+
+#: RoiOpenAll
+msgid "Open All"
+msgstr "Deschide tot"
+
+#: RoiSave
+msgid "Save"
+msgstr "Salveaza"
+
+#: RoiSel
+msgid "Select All"
+msgstr "Selecteaza tot"
+
+#: RoiMeasure
+msgid "Measure"
+msgstr "Masura"
+
+#: RoiDraw
+msgid "Draw"
+msgstr "Deseneaza"
+
+#: RoiFill
+msgid "Fill"
+msgstr "Umple"
+
+#: RoiErr1
+msgid "The active image does not have an ROI."
+msgstr "Imaginea activa nu are un ROI"
+
+#: RoiErr2
+msgid "The ROI list is empty."
+msgstr "Lista ROI este goala"
+
+#: RoiErr3
+msgid "At least one ROI in the list must be selected."
+msgstr "Cel putin un ROI din lista trebuie selectat"
+
+#: RoiErr4
+msgid "This ROI does not fit the current image."
+msgstr "Acest ROI nu corespunde cu imaginea curenta"
+
+#: RoiOpenTitle
+msgid "Open ROI..."
+msgstr "Deschide ROI..."
+
+#: RoiOpenFolder
+msgid "Select a file in the folder..."
+msgstr "Selecteaza un fisier in dosarul..."
+
+#: RoiSaveTitle
+msgid "Save ROI..."
+msgstr "Salveaza ROI..."
+
+#. ## CalibrationBar
+#: CaliTitle
+msgid "Calibration Bar"
+msgstr "Bara calibrare..."
+
+#: CaliLoc
+msgid "Location:"
+msgstr "Locatie"
+
+#: CaliFill
+msgid "Fill Colour:"
+msgstr "Umple Culoarea :"
+
+#: CaliLab
+msgid "Label Colour:"
+msgstr "Culoarea etichetei:"
+
+#: CaliNb
+msgid "Number of Labels:"
+msgstr "Numarul etichetelor"
+
+#: CaliPlaces
+msgctxt "CaliPlaces"
+msgid "Decimal Places:"
+msgstr "Locuri zecimale"
+
+#: CaliSize
+msgid "Font Size:"
+msgstr "Marimea fontului"
+
+#: CaliZoom
+msgid "Zoom Factor:"
+msgstr "Factor zoom"
+
+#: CaliBold
+msgctxt "CaliBold"
+msgid "Bold Text"
+msgstr "Text ingrosat"
+
+#: CaliWithBar
+msgid "with bar"
+msgstr "cu bara"
+
+#: CaliUpR
+msgid "Upper Right"
+msgstr "Dreapta sus"
+
+#: CaliUpL
+msgid "Upper Left"
+msgstr "Stanga mai sus"
+
+#: CaliDoR
+msgid "Lower Right"
+msgstr "Dreapta mai jos"
+
+#: CaliDoL
+msgid "Lower Left"
+msgstr "Stanga mai jos"
+
+#: CaliSel
+msgid "At Selection"
+msgstr "La selectia"
+
+#. ## FolderOpener
+#: FoldOpenTitle
+msgid "Open Image Sequence..."
+msgstr "Deschide Secventa de imagine..."
+
+#: FoldOpenErrTitle
+msgid "Import Error:"
+msgstr "Importa eroare:"
+
+#: FoldOpenErr1
+msgid ""
+"This folder does not appear to contain any TIFF,\n"
+"FITS, JPEG, BMP, GIF, or PGM files."
+msgstr ""
+"Acest dosar nu pare sa contina vreun fisier TIFF, \n"
+"FITS, JPEG, BMP, GIF, sau PGM."
+
+#: FoldOpenErr2
+msgid "None of the"
+msgstr "Niciunul dintre"
+
+#: FoldOpenErr3
+msgid "files contain  in their name the string"
+msgstr "fisierele contin in numele lor sirul"
+
+#: FoldOpenErr4
+msgid ": wrong dimensions"
+msgstr ": dimensiuni gresite"
+
+#: FoldOpenErr5
+msgid ": wrong type"
+msgstr ": tip gresit"
+
+#: FoldOpenErr6
+msgid ": unable to open"
+msgstr ": imposibil de deschis"
+
+#: FoldOptTitle
+msgid "Sequence Options"
+msgstr "Optiuni secventa"
+
+#: FoldOpt1
+msgid "Number of Images"
+msgstr "Numarul imaginilor"
+
+#: FoldOpt2
+msgid "Starting Image"
+msgstr "Porneste Imaginea"
+
+#: FoldOpt3
+msgctxt "FoldOpt3"
+msgid "Increment"
+msgstr "Crestere"
+
+#: FoldOpt4
+msgid "File Name Contains"
+msgstr "Numele fisierului contine"
+
+#: FoldOpt5
+msgid "Convert to 8-bit Greyscale"
+msgstr "Transforma in scara de griuri 8 biti"
+
+#: FoldOpt6
+msgid "Open 1/2 Size"
+msgstr "Deschide marime 1/2"
+
+#. ## URLOpener
+#: URLDiagTitle
+msgid "Enter URL"
+msgstr "Introdu URL"
+
+#: URLDiagLab
+msgid "Enter the URL of an image to open:"
+msgstr "Introdu URL-ul unei imagini pentru deschidere:"
+
+#. ## Animator
+#: AnimOptTitle
+msgid "Animation Options"
+msgstr "Optiuni Animatie"
+
+#: AnimOptSpeed
+msgid "Speed (1-100 fps):"
+msgstr "Viteza (1-100 fps):"
+
+#: AnimOptLoop
+msgid "Loop Back and Forth"
+msgstr "Inchide circuit inainte si inapoi"
+
+#: AnimOptStart
+msgid "Start Animation"
+msgstr "Porneste animatie"
+
+#: AnimSlice
+msgid "Set Slice"
+msgstr "Seteaza partea"
+
+#: AnimNb
+msgid "Slice number"
+msgstr "Numarul partii"
+
+#. ## TextWriter
+#: TWErrTitle
+msgid "Save As Text"
+msgstr "Salveaza ca text"
+
+#: TWErrMsg
+msgid "This command requires a TextWindow"
+msgstr "Aceasta comanda necesita o Fereastra Text"
+
+#. ## Calibrator
+#: CalibrTitle
+msgid "Calibrate..."
+msgstr "Calibreaza..."
+
+#: CalibrFunc
+msgid "Function:"
+msgstr "Functie :"
+
+#: CalibrGlob
+msgid "Global calibration"
+msgstr "Calibrare Globala"
+
+#: Calibrator
+msgid "Calibrator:"
+msgstr "Calibrator :"
+
+#: CalibrErr1
+msgid "Please select a function"
+msgstr "Va rugam selectati o functie:"
+
+#: CalibrErr16b
+msgid ""
+"Calibration of 16-bit images, except with straight\n"
+"line functions, is currently not supported."
+msgstr ""
+"Calibrarea unei imagini 16 biti, cu exceptia functiilor linie dreapta \n"
+", nu este momentan disponibila."
+
+#: CalPixelInverter
+msgid "Pixel Inverter"
+msgstr "Inversorul de pixeli"
+
+#: CalibrMan
+msgid ""
+"To create a calibration curve, the left column must\n"
+"contain a list of measured mean pixel values and the\n"
+"right column must contain the same number of calibration\n"
+"standard values."
+msgstr ""
+"Pentru a crea o curba de calibrare, coloana din stanga trebuie \n"
+"sa contina o lista de valori de pixeli principale masurate si \n"
+"coloana din dreapta trebuie sa contina acelasi numar de valori standard de "
+"calibrare \n"
+"."
+
+#: CalibrFuncTitle
+msgid "Calibration function"
+msgstr "Functie de calibrare"
+
+#. #Recorder
+#: Recorder
+msgid "Recorder"
+msgstr "Inregistrator"
+
+#: 32birReqErr
+msgid "32-bit float image required"
+msgstr "Se cere imagine de tip 'float' 32 biti"
+
+#: OptHistory
+msgid "Last used files:"
+msgstr "Ultimele fisiere folosite"
+
+#: OptFiles
+msgid "Files"
+msgstr "Fisiere"
+
+#: Translate
+msgid "Translate"
+msgstr "Traduce"
+
+#: TX
+msgid "Translation on X"
+msgstr "Traducere pe X"
+
+#: TY
+msgid "Translation on Y"
+msgstr "Traducere pe Y"
+
+#: TxErr
+msgid "Translation on X is invalid"
+msgstr "Traducere pe X invalida"
+
+#: TyErr
+msgid "Translation en Y est invalide"
+msgstr "Traducere pe Y invalida"
+
+#. #OptJFileChooser
+#: OptJFileChooser
+msgid "Open/Save Using JFileChooser"
+msgstr "Deschide/Salveaza folosind alegatorul de fisiere J"
+
+#: ProOptHoriz
+msgid "Horizontal Profile"
+msgstr "Profil orizontal"
+
+#. #Spectrum Radio...
+#: GaussFitResults
+msgid "Gaussian fit results"
+msgstr "Rezultate fitate Gausiene"
+
+#: ChannelRS
+msgid "Channel"
+msgstr "Canal"
+
+#: VelocityRS
+msgid "Velocity"
+msgstr "Viteza"
+
+#: unitsVelocityRS
+msgid "km/s"
+msgstr "Km/s"
+
+#: FrequencyRS
+msgid "Frequency"
+msgstr "Frecventa"
+
+#: unitsFrequencyRS
+msgid "MHz"
+msgstr "Mhz"
+
+#: WavelengthRS
+msgid "Wavelength"
+msgstr "Lungime de unda"
+
+#. # ref wave of chemical element to compute velocity in optical spectrum (default Na=589 nm)
+#: Wave_ref
+msgid "Reference wavelength"
+msgstr ""
+
+#: unitsWavelengthRS
+msgid "cm"
+msgstr "cm"
+
+#: IntensityRS
+msgid "Intensity"
+msgstr "Intensitate"
+
+#: error0
+msgid "This does not appear to be a FITS file."
+msgstr "Nu pare sa fie un fisier FITS."
+
+#: error1
+msgid "too few points to fit"
+msgstr "prea putine puncte pentru fitare"
+
+#: error2
+msgid "singular matrix"
+msgstr "matrice unica"
+
+#: chooseInter
+msgid "choose two intervals"
+msgstr "alege doua intervale"
+
+#: Finter
+msgid "first interval"
+msgstr "primul interval"
+
+#: Sinter
+msgid "second interval"
+msgstr "al doilea interval"
+
+#: chooseOder
+msgid "choose order of baseline fit (0<order<5)"
+msgstr "alege ordinea liniei de baza de fit (0<ordine<5)"
+
+#: order
+msgid "Order"
+msgstr "Ordine"
+
+#: DisplayZero
+msgid "display zero line in blue"
+msgstr "afisaza linie zero in albastru"
+
+#: GaussianfitTitle
+msgid "Gaussian fit of spectral line"
+msgstr "Fitare Gausiana a liniei spectrale"
+
+#: ChooseParam
+msgid "Choose parameters"
+msgstr "Alege parametrii"
+
+#: interval
+msgid "interval"
+msgstr "interval"
+
+#: amplitudeRS
+msgid "amplitude"
+msgstr "amplitudine"
+
+#: centerRS
+msgid "center"
+msgstr "centru"
+
+#: widthRS
+msgid "width"
+msgstr "latime"
+
+#: eraseRS
+msgid "erase the last"
+msgstr "sterge ultimul"
+
+#: subtractRS
+msgid "Subtract baseline"
+msgstr "Extrage linia de baza"
+
+#: GaussianFit
+msgid "Gaussian fit"
+msgstr "Fitare Gausiana"
+
+#: baseline
+msgid "Baseline"
+msgstr "Linia de baza"
+
+#. #Optical Spectrum...
+#: lambdaOS
+msgid "Lambda[A]"
+msgstr "Lambda[A]"
+
+#: fluxOS
+msgid "Flux[ADU]"
+msgstr "Flux[ADU]"
+
+#. #Plugins externes
+#: Chooselanguage
+msgid "Choose language"
+msgstr "Choose language"
+
+#: DynamicProfile
+msgid "Dynamic profile"
+msgstr "Dynamic profile"
+
+#: LiveHistg
+msgid "Live histogram"
+msgstr "Live histogram"
+
+#: OpenStar
+msgid "Virtual observatories images"
+msgstr "Virtual observatories images"
+
+#: ImportURL
+msgid "Open an image on the Web"
+msgstr "open an image on the Web"
+
+#: AlignRGB
+msgid "Align R/G/B planes"
+msgstr "Align R/G/B plans"

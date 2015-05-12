@@ -1,0 +1,1584 @@
+#. extracted from ../templates/PluginBundle.properties, ../resu/PluginBundle_zh_CN.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#. ##GLOBAL SECTION
+#: Pixel
+msgid "pixel"
+msgstr "象素"
+
+#: Pixels
+msgid "pixels"
+msgstr "像素"
+
+#: Degrees
+msgid "degrees"
+msgstr "度"
+
+#: Open
+msgctxt "Open"
+msgid "Open"
+msgstr "打开"
+
+#: MyApply1
+msgid "Apply"
+msgstr "应用"
+
+#: Settings
+msgid "Settings"
+msgstr "设置"
+
+#: OpenText
+msgid "Open Text File..."
+msgstr "打开文本文件..."
+
+#: Height
+msgid "Height"
+msgstr "高度"
+
+#: Width
+msgid "Width"
+msgstr "宽度"
+
+#: NewWin
+msgid "Create New Window"
+msgstr "新建窗口"
+
+#: List
+msgid "List"
+msgstr "列表"
+
+#: Unit
+msgid "Unit"
+msgstr "单位"
+
+#: None
+msgid "none"
+msgstr "无"
+
+#: LeftCol
+msgid "Left column"
+msgstr "左列"
+
+#: RightCol
+msgid "Right column"
+msgstr "右列"
+
+#: Values
+msgid "values"
+msgstr "值"
+
+#: File
+msgid "File"
+msgstr "文件"
+
+#. ##NEW
+#: Title
+msgid "Title"
+msgstr "标题"
+
+#. # StackEditor
+#: StackReqErr
+msgid "Stack required"
+msgstr "必要堆栈"
+
+#: NoImgErr
+msgid "No images are open."
+msgstr "没有图片."
+
+#: OneImgErr
+msgid "There must be at least two open images."
+msgstr "至少打开两个图片."
+
+#: ImgErr
+msgid "None of the open images can go in a stack."
+msgstr "打开的图片中没有能放入堆栈."
+
+#: ImgTypeErr
+msgid "All open images must be the same type."
+msgstr "所有打开图片必须是同一类型."
+
+#: ImgSizeErr
+msgid "All open images must be the same size."
+msgstr "所有打开图片必须是同一尺寸."
+
+#: StackTitle
+msgid "Stack"
+msgstr "堆栈"
+
+#: ConvertTitle
+msgid "Convert to Images?"
+msgstr "转换图像?"
+
+#: Convert1
+msgid ""
+"Are you sure you want to convert this\n"
+"stack to"
+msgstr "确定要转换?"
+
+#: Convert2
+msgid "separate windows?"
+msgstr "分离窗口?"
+
+#. # ImageCalculator
+#: TitleStr
+msgid "Image Calculator"
+msgstr "图像计算器"
+
+#: NoWinErr
+msgid "No windows are open."
+msgstr "没有窗口打开."
+
+#: StackSizeErr
+msgid "Both stacks must have the same number of slices."
+msgstr "这两个堆栈要有相同的部分的编号."
+
+#: OutOfMem
+msgid "Out of memory"
+msgstr "内存以外"
+
+#: Image1
+msgid "Image 1:"
+msgstr "图像 1:"
+
+#: Image2
+msgid "Image 2:"
+msgstr "图像 2:"
+
+#: Operation
+msgid "Operation:"
+msgstr "运算:"
+
+#: NewResultTitle
+msgid "Result of"
+msgstr "结果是"
+
+#: ResultTitle
+msgid "Result"
+msgstr "结果"
+
+#: Add
+msgctxt "Add"
+msgid "Add"
+msgstr "加"
+
+#: Subtract
+msgid "Subtract"
+msgstr "减"
+
+#: Multiply
+msgid "Multiply"
+msgstr "乘"
+
+#: Divide
+msgid "Divide"
+msgstr "除"
+
+#: AND
+msgid "AND"
+msgstr "和"
+
+#: OR
+msgid "OR"
+msgstr "或"
+
+#: XOR
+msgid "XOR"
+msgstr "异或"
+
+#: Min
+msgid "Min"
+msgstr "极小"
+
+#: Max
+msgid "Max"
+msgstr "极大"
+
+#: Gamma
+msgid "Gamma"
+msgstr "Gamma"
+
+#: Average
+msgid "Average"
+msgstr "平均"
+
+#: Difference
+msgid "Difference"
+msgstr "不同"
+
+#: Copy
+msgid "Copy"
+msgstr "拷贝"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "非白色拷贝"
+
+#: Index
+msgid "index"
+msgstr "索引"
+
+#: Value
+msgid "Value:"
+msgstr "值:"
+
+#: BinValue
+msgid "Value (binary): "
+msgstr "值 (二进制): "
+
+#: BinValReqErr
+msgid "Binary number required"
+msgstr "需要二进制数"
+
+#: Value01
+msgid "Value (0.1-5.0):"
+msgstr "值 (0.1-5.0):"
+
+#: GammaValErr
+msgid "Gamma must be between 0.1 and 5.0"
+msgstr "Gamma 必须在 0.1 和 5.0 之间"
+
+#. # Selection
+#: Spline
+msgid "Spline"
+msgstr "Spline"
+
+#. ## PLUGIN/FRAME
+#. # PasteController
+#: FrameTitle
+msgid "Paste Control"
+msgstr "粘贴控制"
+
+#: TransferMode
+msgid "Transfer Mode:"
+msgstr "转变模式:"
+
+#. # ContrastAdjuster
+#: ContrastTitle
+msgid "Brightness & Contrast"
+msgstr "亮度 & 反差"
+
+#: WLTitle
+msgid "Window & Level"
+msgstr "窗口 & 高矮"
+
+#: ColorTitle
+msgctxt "ColorTitle"
+msgid "Color"
+msgstr "颜色"
+
+#: Minimum
+msgid "Minimum"
+msgstr "极小"
+
+#: Maximum
+msgid "Maximum"
+msgstr "极大"
+
+#: Brightness
+msgid "Brightness"
+msgstr "亮度"
+
+#: Contrast
+msgid "Constrast"
+msgstr "反差"
+
+#: Level
+msgid "Level:"
+msgstr "高度:"
+
+#: Window
+msgid "Window:"
+msgstr "窗口:"
+
+#: Auto
+msgid "Auto"
+msgstr "自动"
+
+#: Reset
+msgid "Reset"
+msgstr "重置"
+
+#: Set
+msgid "Set"
+msgstr "设置"
+
+#: MyApply2
+msgid "Apply "
+msgstr "应用"
+
+#: Thresh
+msgid "Thresh"
+msgstr "阈"
+
+#: Update
+msgid "Update"
+msgstr "刷新"
+
+#: AdjTypeErr
+msgid "Requires an 8-bit grayscale image or an RGB stack"
+msgstr "需要一个8-比特的灰度图或者RGB堆栈"
+
+#: LUT1
+msgid "Apply LUT to all"
+msgstr "全部应用到LUT"
+
+#: LUT2
+msgctxt "LUT2"
+msgid "slices in the stack?"
+msgstr "堆栈里有多少切割?"
+
+#: RGB1
+msgid "Apply brightness and contrast settings to all"
+msgstr "全部应用亮度和反差设置"
+
+#: RGB2
+msgctxt "RGB2"
+msgid "slices in the stack?"
+msgstr "堆栈里有多少切割?"
+
+#: SetMinMaxTitle
+msgid "Set Min and Max"
+msgstr "设置最小和最大"
+
+#: MinVal
+msgid "Minimum Displayed Value:"
+msgstr "显示最小值:"
+
+#: MaxVal
+msgid "Maximum Displayed Value:"
+msgstr "显示最大值:"
+
+#: SetWLTitle
+msgid "Set W&L"
+msgstr "设置 W&L"
+
+#: WinCenter
+msgid "Window Center (Level):"
+msgstr "窗口中心 (Level):"
+
+#: WinWidth
+msgid "Window Width:"
+msgstr "窗口宽度:"
+
+#: NoImg
+msgid "No Image"
+msgstr "没有图象"
+
+#. # Analyser
+#: SetMeasurementsTitle
+msgid "Set Measurements"
+msgstr "设置尺寸"
+
+#: measurements
+msgid "measurements"
+msgstr "尺寸"
+
+#: Area
+msgid "Area"
+msgstr "面积"
+
+#: MeanGray
+msgid "Mean Grey Value"
+msgstr "中间灰度值"
+
+#: StDev
+msgid "Standard Deviation"
+msgstr "标准差"
+
+#: ModalGray
+msgid "Modal Grey Value"
+msgstr "标准灰度值"
+
+#: MinMaxGray
+msgid "Min & Max Grey Value"
+msgstr "最小 & 最大灰度值"
+
+#: Centroid
+msgid "Centroid"
+msgstr "质心"
+
+#: MassCenter
+msgid "Center of Mass"
+msgstr "质量中心"
+
+#: Perimeter
+msgid "Perimeter"
+msgstr "周长"
+
+#: Bounds
+msgid "Bounding Rectangle"
+msgstr "矩形边界"
+
+#: FitEllipse
+msgid "Fit Ellipse"
+msgstr "椭圆拟合"
+
+#: Circularity
+msgid "Circularity"
+msgstr "环状"
+
+#: FeretDiam
+msgid "Feret's Diameter"
+msgstr "Feret's 直径"
+
+#: ThreshLimit
+msgid "Limit to Threshold"
+msgstr "阈值限制"
+
+#: ImgName
+msgid "Display Image Name"
+msgstr "显示图象名字"
+
+#: InvertY
+msgid "Invert Y Coordinates"
+msgstr "改变 Y 坐标"
+
+#: DeciPlaces
+msgctxt "DeciPlaces"
+msgid "Decimal Places:"
+msgstr "小数点位置:"
+
+#: Val
+msgid "Value"
+msgstr "值"
+
+#: FileName
+msgid "Name"
+msgstr "名字"
+
+#: Angle
+msgid "Angle"
+msgstr "角"
+
+#: Length
+msgid "Length "
+msgstr "长 "
+
+#. #Shorter labels
+#: SD
+msgid "SD"
+msgstr "SD"
+
+#: Mean
+msgid "Moy."
+msgstr "Moy."
+
+#. ### ThresholdAdjuster
+#: Threshold
+msgid "Threshold"
+msgstr "阈值"
+
+#: RedThresh
+msgid "Red"
+msgstr "红"
+
+#: BWThresh
+msgid "Black & White"
+msgstr "黑 & 白"
+
+#: OverUnder
+msgid "Over/Under"
+msgstr "过度/不足"
+
+#: ThreshLevels
+msgid "Set Threshold Levels"
+msgstr "设置阈值范围"
+
+#: LowThreshLevel
+msgid "Lower Threshold Level:"
+msgstr "最低阈值水平:"
+
+#: UpThreshLevel
+msgid "Upper Threshold Level:"
+msgstr "最高阈值水平:"
+
+#: RGBThreshErr
+msgid "RGB images cannot be thresolded."
+msgstr "RGB images cannot be thresolded."
+
+#. ## NewPlugin
+#: NPTitle
+msgid "Nouveau..."
+msgstr "新的..."
+
+#: Type
+msgid "Type"
+msgstr "类型"
+
+#. ##Recorder
+#: Record
+msgid "Record"
+msgstr "记录"
+
+#: CreateMacro
+msgid "Create Macro"
+msgstr "产生Macro"
+
+#: CreatePlugin
+msgid "Create Plugin"
+msgstr "产生Plugin"
+
+#. ## Command Lister
+#: Commands
+msgid "Commands"
+msgstr "命令"
+
+#. # 2 FIELDS SEPARATED BY \t
+#: CommandLabels
+msgid "Command\tPlugin"
+msgstr "命令\tPlugin"
+
+#: KbdShortcuts
+msgid "Keyboard Shortcuts"
+msgstr "快捷键"
+
+#. # 2 FIELDS SEPARATED BY \t
+#: KbdShortcutsLabels
+msgid "Hot Key\tCommand"
+msgstr "热键\t命令"
+
+#. ## ScaleDialog
+#: ScDiagTitle
+msgid "Set Scale"
+msgstr "设置范围"
+
+#: ScDiagDistPix
+msgid "Distance in Pixels:"
+msgstr "用像素表示的距离:"
+
+#: ScDiagDist
+msgid "Real Distance:"
+msgstr "真实距离:"
+
+#: ScDiagRatio
+msgid "Width/Height Ratio:"
+msgstr "宽/高 比例:"
+
+#: ScDiagUnit
+msgid "Unit of Length:"
+msgstr "长度单元:"
+
+#: ScDiagScale
+msgid "Scale:"
+msgstr "范围:"
+
+#: ScDiagGlobal
+msgctxt "ScDiagGlobal"
+msgid "Global"
+msgstr "总值"
+
+#: ScDiagNoScale
+msgid "<No Scale>"
+msgstr "<No Scale>"
+
+#. ## SurfacePlotter
+#: SfcPlTitle
+msgid "Surface Plotter"
+msgstr "表面画图器"
+
+#: SfcPlImgTitle
+msgid "Surface Plot"
+msgstr "表面画图"
+
+#: SfcPlDrSlice
+msgid "Drawing slice"
+msgstr "画切线"
+
+#: SfcPlMult
+msgid "Number of samples"
+msgstr "采样数"
+
+#: SfcPlWire
+msgid "Draw wireframe"
+msgstr "画线框"
+
+#: SfcPlShade
+msgid "Shade"
+msgstr "阴影"
+
+#: SfcPlAxis
+msgid "Draw axis"
+msgstr "画轴线"
+
+#: SfcPlInvert
+msgid "Source Background is Lighter"
+msgstr "减少源背景"
+
+#: SfcPlBlack
+msgid "Fill Plot Background with Black"
+msgstr "图片背景变为黑色"
+
+#: SfcPlPoly
+msgid "Fill Plot"
+msgstr "填充图片"
+
+#: SfcPlSmooth
+msgid "Smooth"
+msgstr "平滑"
+
+#. ## Printer
+#: PageSetup
+msgid "Page Setup"
+msgstr "页面设置"
+
+#: PrintScaling
+msgid "Scaling"
+msgstr "缩放比例"
+
+#: PrintBorder
+msgid "Draw Border"
+msgstr "有边界"
+
+#: PrintTitle
+msgid "Print Title"
+msgstr "打印标题"
+
+#: PrintCenter
+msgid "Center on Page"
+msgstr "居中"
+
+#. ## Rotator
+#: Rotate
+msgid "Rotate"
+msgstr "旋转"
+
+#: AngleUnity
+msgid "Angle (degrees):"
+msgstr ""
+
+#: GridLines
+msgid "Grid Lines:"
+msgstr ""
+
+#: Interpolate
+msgid "Interpolate"
+msgstr "内插"
+
+#: FillwithBg
+msgctxt "FillwithBg"
+msgid "Fill with Background Color"
+msgstr ""
+
+#: EnlargetoFit
+msgid "Enlarge Image to Fit Result"
+msgstr ""
+
+#: AngleErr
+msgid "Angle is invalid."
+msgstr "角度不可用."
+
+#. ## Options
+#: OptMiscTitle
+msgid "Miscellaneous Options"
+msgstr "杂项选择"
+
+#: OptHistBin
+msgid "Real Histogram Bins:"
+msgstr "真实直方图合并:"
+
+#: OptDivZero
+msgid "Divide by Zero Value:"
+msgstr "除以零值:"
+
+#: OptCursor
+msgid "Use Pointer Cursor"
+msgstr "使用指示器鼠标"
+
+#: OptScale
+msgid "Scale When Converting"
+msgstr "转换尺度"
+
+#: OptStackDiag
+msgid "Hide \"Process Stack?\" Dialog"
+msgstr "隐藏 \"Process Stack?\" 对话框"
+
+#: OptAntialias
+msgid "Antialiased Text"
+msgstr "抗干扰文本"
+
+#: OptInterpolate
+msgid "Interpolate Images <100%"
+msgstr "内插图像 <100%"
+
+#: OptOpen
+msgid "Open Images at 100%"
+msgstr "以100%尺度打开图像"
+
+#: OptDebug
+msgid "Debug Mode"
+msgstr "Debug 模式"
+
+#: OptLine
+msgid "Line width:"
+msgstr "线宽:"
+
+#: OptJpeg
+msgid "JPEG quality (0-100):"
+msgstr "JPEG quality (0-100):"
+
+#: OptMark
+msgid "Mark Width:"
+msgstr "Mark Width:"
+
+#. ## Fonts
+#: FontsTitle
+msgid "Fonts"
+msgstr "字体"
+
+#: FontPlain
+msgid "Plain"
+msgstr "无格式"
+
+#: FontBold
+msgid "Bold"
+msgstr "粗体"
+
+#: FontIt
+msgid "Italic"
+msgstr "斜体"
+
+#: FontBoldIt
+msgid "Bold+Italic"
+msgstr "粗体+斜体"
+
+#: FontPoint
+msgid "pt"
+msgstr "pt"
+
+#. ## Fitter
+#: FitterTitle
+msgid "Curve Fitter"
+msgstr "曲线过滤"
+
+#: Fit
+msgid "Fit..."
+msgstr "拟合..."
+
+#: FitFncErr
+msgid "No function available"
+msgstr "没有可用函数"
+
+#: FitImgErr
+msgid "First select the image to be transformed"
+msgstr "首选可转化的图像"
+
+#: FitterSuffix
+msgid "-transformed"
+msgstr "-转换"
+
+#. ## Resizer
+#: ResizeRoiErr
+msgid ""
+"These commands\n"
+"do not work with line selections."
+msgstr ""
+"这些命令\n"
+"不能与直线选择一起作用."
+
+#: ResizeTitle
+msgid "Resize"
+msgstr "重置大小"
+
+#: ResizeConstrain
+msgid "Constrain Aspect Ratio"
+msgstr "限制可选比例"
+
+#: ResizeWarn
+msgid "NOTE: Undo is not available"
+msgstr "提示:撤消不可用"
+
+#: ResizeErr
+msgid "Width or height are invalid."
+msgstr "不可用的宽度和高度."
+
+#: ResizeLost1
+msgid ""
+"SalsaJ ran out of memory causing \n"
+"the last"
+msgstr ""
+"Eu-HOU 超出了存储的范围 \n"
+"the last"
+
+#: ResizeLost2
+msgid "slices to be lost."
+msgstr "切片丢失."
+
+#. ##CanvasResizer NEW
+#: CanvasResizerTitle1
+msgid "Resize Image Canvas"
+msgstr "调整画布大小"
+
+#: CanvasResizerTitle2
+msgid "Resize Stack Canvas"
+msgstr "调整堆栈大小"
+
+#: Position
+msgid "Postion"
+msgstr "位置"
+
+#: ZeroFile
+msgid "Zero Fill"
+msgstr "填零"
+
+#: Top-Left
+msgid "Top-Left "
+msgstr "左上部份"
+
+#: Top-Center
+msgid "Top-Center"
+msgstr "中间顶部"
+
+#: Top-Right
+msgid "Top-Right"
+msgstr "右上部份"
+
+#: Center-Left
+msgid "Center-Left"
+msgstr "中间偏左"
+
+#: Center
+msgid "Center"
+msgstr "中间部分"
+
+#: Center-Right
+msgid "Center-Right"
+msgstr "中间偏右"
+
+#: Bottom-Left
+msgid "Bottom-Left"
+msgstr "左下部份"
+
+#: Bottom-Center
+msgid "Bottom-Center"
+msgstr "中间下面"
+
+#: Bottom-Right
+msgid "Bottom-Right"
+msgstr "右下部分"
+
+#. ##Montage Maker NEW
+#: MakeMontage
+msgid "Make Montage"
+msgstr "影像制作"
+
+#: Columns
+msgid "Columns"
+msgstr "列"
+
+#: Rows
+msgid "Rows"
+msgstr "行"
+
+#: ScaleFactor
+msgid "Scale Factor"
+msgstr "缩比因子"
+
+#: FirstSlice
+msgid "First Slice"
+msgstr "第一张切片"
+
+#: LastSlice
+msgid "Last Slice"
+msgstr "最后一张切片"
+
+#: Increment
+msgctxt "Increment"
+msgid "Increment"
+msgstr "递增"
+
+#: BorderWidth
+msgid "Border Width"
+msgstr "边框宽度"
+
+#: LabelSlices
+msgid "Label Slices"
+msgstr "切片标签"
+
+#: UseForegroundColor
+msgid "Use Foreground Color"
+msgstr "使用前景色彩"
+
+#. ##ImageProperties NEW
+#: Channels
+msgid "Channels"
+msgstr "通道"
+
+#: Frames
+msgid "Frames"
+msgstr "帧"
+
+#: Pixel_Width
+msgid "Pixel Width"
+msgstr "像素宽度"
+
+#: Pixel_Height
+msgid "Pixeln Height"
+msgstr "像素高度"
+
+#: Voxel_Depth
+msgid "Voxel Depth"
+msgstr "像素深度"
+
+#: FrameInterval
+msgid "Frame Interval"
+msgstr "帧间隔"
+
+#: Origin
+msgid "Origin (pixels)"
+msgstr "原点（像素）"
+
+#: Global
+msgctxt "Global"
+msgid "Global"
+msgstr "全局"
+
+#. ## SimpleCommands
+#: NotLocked
+msgid "is not locked"
+msgstr "没有锁定"
+
+#: Unlocked
+msgid "is now unlocked"
+msgstr "现在解锁"
+
+#: Rename
+msgid "Rename"
+msgstr "重命名"
+
+#: RenameName
+msgid "New title:"
+msgstr "新标题:"
+
+#. ## Duplicater
+#: DupliSuffix
+msgid "-copy"
+msgstr "-拷贝"
+
+#: DupliTitle
+msgid "Duplicate"
+msgstr "复制"
+
+#: DupliNewName
+msgid "Title:"
+msgstr "标题:"
+
+#: DupliStack
+msgid "Duplicate Entire Stack?"
+msgstr "复制整个堆栈?"
+
+#. ## Scaler
+#: ScalerTitle
+msgid "Scale"
+msgstr "标度"
+
+#: ScalerX
+msgid "X Scale"
+msgstr "X 标度"
+
+#: ScalerY
+msgid "Y Scale"
+msgstr "Y 标度"
+
+#: ScalerErr
+msgid "X or Y scale are invalid."
+msgstr "X 或 Y 标度不可用."
+
+#: ScalerSuffix
+msgid "-rescaled"
+msgstr "-重置标度"
+
+#. ##NEW
+#: ScalerBackground
+msgctxt "ScalerBackground"
+msgid "Fill with Background Color"
+msgstr "填充背景颜色"
+
+#. ##ScaleBar ##NEW
+#: ScaleBarTitle
+msgid "ScaleBar Plus"
+msgstr "更多比例尺"
+
+#: ScaleBarWidth
+msgid "Width in"
+msgstr "宽度"
+
+#: ScaleBarHeight
+msgid "Height in pixels"
+msgstr "像素高度"
+
+#: ScaleBarFont
+msgid "Font Size"
+msgstr "字体大小"
+
+#: ScaleBarColor
+msgctxt "ScaleBarColor"
+msgid "Color"
+msgstr "色彩"
+
+#: ScaleBarBackground
+msgid "Background"
+msgstr "背景"
+
+#: ScaleBarLocation
+msgid "Location"
+msgstr "位置"
+
+#: ScaleBarBold
+msgctxt "ScaleBarBold"
+msgid "Bold Text"
+msgstr "加粗文本"
+
+#: ScaleBarHide
+msgid "Hide Text"
+msgstr "隐藏文本"
+
+#: ScaleBarSerif
+msgid "Serif Font"
+msgstr "Serif 字体"
+
+#. ## LutViewer
+#: LUTTitle
+msgid "LookUp Table"
+msgstr "Look-Up 表"
+
+#. # 4 FIELDS SEPARATED BY \t
+#: LUTHead
+msgid "Index\tRed\tGreen\tBlue"
+msgstr "Index\tRed\tGreen\tBlue"
+
+#: LUTTextTitle
+msgid "LUT"
+msgstr "LUT"
+
+#. ## LutLoader
+#: LutRGBErr
+msgid "RGB images do not use LUTs."
+msgstr "RGB 图像不用 LUTs."
+
+#. ## Profiler
+#: ProOptTitle
+msgid "Profile Plot Options"
+msgstr "轮廓图选项"
+
+#: ProOptScale
+msgid "Fixed Y-axis Scale"
+msgstr "固定 Y-轴 尺度"
+
+#: ProOptSave
+msgid "Do Not Save X-Values"
+msgstr "不保存 X-值"
+
+#: ProOptAuto
+msgid "Auto-close"
+msgstr "自动-关闭"
+
+#: ProOptVert
+msgid "Vertical Profile"
+msgstr "垂直轮廓"
+
+#. ## RoiManager
+#: RoiTitle
+msgid "Roi Manager"
+msgstr "Roi 管理器"
+
+#: RoiAdd
+msgctxt "RoiAdd"
+msgid "Add"
+msgstr "添加"
+
+#: RoiAdd&Draw
+msgctxt "RoiAdd&Draw"
+msgid "Delete"
+msgstr "删除"
+
+#: RoiDel
+msgctxt "RoiDel"
+msgid "Delete"
+msgstr "删除"
+
+#: RoiOpen
+msgctxt "RoiOpen"
+msgid "Open"
+msgstr "打开"
+
+#: RoiOpenAll
+msgid "Open All"
+msgstr "打开全部"
+
+#: RoiSave
+msgid "Save"
+msgstr "保存"
+
+#: RoiSel
+msgid "Select All"
+msgstr "选择全部"
+
+#: RoiMeasure
+msgid "Measure"
+msgstr "测量"
+
+#: RoiDraw
+msgid "Draw"
+msgstr "画图"
+
+#: RoiFill
+msgid "Fill"
+msgstr "填充"
+
+#: RoiErr1
+msgid "The active image does not have an ROI."
+msgstr "当前图片没有ROI."
+
+#: RoiErr2
+msgid "The ROI list is empty."
+msgstr "ROI 表是空的."
+
+#: RoiErr3
+msgid "At least one ROI in the list must be selected."
+msgstr "表里至少一个 ROI 要被选择."
+
+#: RoiErr4
+msgid "This ROI does not fit the current image."
+msgstr "这个ROI不符合当前的图像."
+
+#: RoiOpenTitle
+msgid "Open ROI..."
+msgstr "打开ROI..."
+
+#: RoiOpenFolder
+msgid "Select a file in the folder..."
+msgstr "在文件夹里选择一个文件..."
+
+#: RoiSaveTitle
+msgid "Save ROI..."
+msgstr "保存 ROI..."
+
+#. ## CalibrationBar
+#: CaliTitle
+msgid "Calibration Bar"
+msgstr "定标把"
+
+#: CaliLoc
+msgid "Location:"
+msgstr "位置:"
+
+#: CaliFill
+msgid "Fill Colour:"
+msgstr "填充颜色:"
+
+#: CaliLab
+msgid "Label Colour:"
+msgstr "标签颜色:"
+
+#: CaliNb
+msgid "Number of Labels:"
+msgstr "标签数:"
+
+#: CaliPlaces
+msgctxt "CaliPlaces"
+msgid "Decimal Places:"
+msgstr "小数点位置:"
+
+#: CaliSize
+msgid "Font Size:"
+msgstr "字体大小:"
+
+#: CaliZoom
+msgid "Zoom Factor:"
+msgstr "放大参数:"
+
+#: CaliBold
+msgctxt "CaliBold"
+msgid "Bold Text"
+msgstr "粗体文本"
+
+#: CaliWithBar
+msgid "with bar"
+msgstr "带定标把的"
+
+#: CaliUpR
+msgid "Upper Right"
+msgstr "右上"
+
+#: CaliUpL
+msgid "Upper Left"
+msgstr "左上"
+
+#: CaliDoR
+msgid "Lower Right"
+msgstr "右下"
+
+#: CaliDoL
+msgid "Lower Left"
+msgstr "左下"
+
+#: CaliSel
+msgid "At Selection"
+msgstr "待选"
+
+#. ## FolderOpener
+#: FoldOpenTitle
+msgid "Open Image Sequence..."
+msgstr "打开图象序列..."
+
+#: FoldOpenErrTitle
+msgid "Import Error:"
+msgstr "导入错误:"
+
+#: FoldOpenErr1
+msgid ""
+"This folder does not appear to contain any TIFF,\n"
+"FITS, JPEG, BMP, GIF, or PGM files."
+msgstr ""
+"这个文件夹不能显示包括任何TIFF,\n"
+"FITS, JPEG, BMP, GIF, or PGM 的文件."
+
+#: FoldOpenErr2
+msgid "None of the"
+msgstr "不存在"
+
+#: FoldOpenErr3
+msgid "files contain  in their name the string"
+msgstr "包含名称字符的文件"
+
+#: FoldOpenErr4
+msgid ": wrong dimensions"
+msgstr ": 维度错误"
+
+#: FoldOpenErr5
+msgid ": wrong type"
+msgstr ": 错误类型"
+
+#: FoldOpenErr6
+msgid ": unable to open"
+msgstr ": 不能打开"
+
+#: FoldOptTitle
+msgid "Sequence Options"
+msgstr "序列选项"
+
+#: FoldOpt1
+msgid "Number of Images"
+msgstr "图像编号"
+
+#: FoldOpt2
+msgid "Starting Image"
+msgstr "打开图像"
+
+#: FoldOpt3
+msgctxt "FoldOpt3"
+msgid "Increment"
+msgstr "增量"
+
+#: FoldOpt4
+msgid "File Name Contains"
+msgstr "文件名字包括"
+
+#: FoldOpt5
+msgid "Convert to 8-bit Greyscale"
+msgstr "改变成8-比特的灰度"
+
+#: FoldOpt6
+msgid "Open 1/2 Size"
+msgstr "按1/2大小打开"
+
+#. ## URLOpener
+#: URLDiagTitle
+msgid "Enter URL"
+msgstr "输入URL"
+
+#: URLDiagLab
+msgid "Enter the URL of an image to open:"
+msgstr "输入要打开的图像URL:"
+
+#. ## Animator
+#: AnimOptTitle
+msgid "Animation Options"
+msgstr "动画选项"
+
+#: AnimOptSpeed
+msgid "Speed (1-100 fps):"
+msgstr "速度 (1-100 fps):"
+
+#: AnimOptLoop
+msgid "Loop Back and Forth"
+msgstr "后退和前进循环"
+
+#: AnimOptStart
+msgid "Start Animation"
+msgstr "开始动画"
+
+#: AnimSlice
+msgid "Set Slice"
+msgstr "切片设置"
+
+#: AnimNb
+msgid "Slice number"
+msgstr "切片数"
+
+#. ## TextWriter
+#: TWErrTitle
+msgid "Save As Text"
+msgstr "另寸为文本"
+
+#: TWErrMsg
+msgid "This command requires a TextWindow"
+msgstr "这个命令需要文本窗口"
+
+#. ## Calibrator
+#: CalibrTitle
+msgid "Calibrate..."
+msgstr "定标..."
+
+#: CalibrFunc
+msgid "Function:"
+msgstr "函数:"
+
+#: CalibrGlob
+msgid "Global calibration"
+msgstr "总定标"
+
+#: Calibrator
+msgid "Calibrator:"
+msgstr "定标器:"
+
+#: CalibrErr1
+msgid "Please select a function"
+msgstr "请选择一个函数"
+
+#: CalibrErr16b
+msgid ""
+"Calibration of 16-bit images, except with straight\n"
+"line functions, is currently not supported."
+msgstr ""
+"通常不支持16-比特的图象定标\n"
+"除了使用直线和多线."
+
+#: CalPixelInverter
+msgid "Pixel Inverter"
+msgstr "像素反转"
+
+#: CalibrMan
+msgid ""
+"To create a calibration curve, the left column must\n"
+"contain a list of measured mean pixel values and the\n"
+"right column must contain the same number of calibration\n"
+"standard values."
+msgstr ""
+"为了产生一个定标曲线\n"
+"左边列必须是包括测量到的平均像素值的表\n"
+"右边列必须是包括同样的定标数\n"
+"标准值."
+
+#: CalibrFuncTitle
+msgid "Calibration function"
+msgstr "定标函数"
+
+#. #Recorder
+#: Recorder
+msgid "Recorder"
+msgstr "记录器"
+
+#: 32birReqErr
+msgid "32-bit float image required"
+msgstr "需要32-比特的浮点图像"
+
+#: OptHistory
+msgid "Last used files:"
+msgstr "最后用到的文件:"
+
+#: OptFiles
+msgid "Files"
+msgstr "文件"
+
+#: Translate
+msgid "Translate"
+msgstr "转化"
+
+#: TX
+msgid "Translation on X"
+msgstr "在 X 的转化"
+
+#: TY
+msgid "Translation on Y"
+msgstr "在 Y 的转化"
+
+#: TxErr
+msgid "Translation on X is invalid"
+msgstr "在 X 的转化无效"
+
+#: TyErr
+msgid "Translation en Y est invalide"
+msgstr "在 Y 的转化无效"
+
+#. #OptJFileChooser
+#: OptJFileChooser
+msgid "Open/Save Using JFileChooser"
+msgstr "打开/保存 使用 JFileChooser"
+
+#: ProOptHoriz
+msgid "Horizontal Profile"
+msgstr "水平轮廓"
+
+#. #Spectrum Radio...
+#: GaussFitResults
+msgid "Gaussian fit results"
+msgstr "高斯拟合结果"
+
+#: ChannelRS
+msgid "Channel"
+msgstr "通道"
+
+#: VelocityRS
+msgid "Velocity"
+msgstr "速度"
+
+#: unitsVelocityRS
+msgid "km/s"
+msgstr "km/s"
+
+#: FrequencyRS
+msgid "Frequency"
+msgstr "频率"
+
+#: unitsFrequencyRS
+msgid "MHz"
+msgstr "MHz"
+
+#: WavelengthRS
+msgid "Wavelength"
+msgstr "波长"
+
+#. # ref wave of chemical element to compute velocity in optical spectrum (default Na=589 nm)
+#: Wave_ref
+msgid "Reference wavelength"
+msgstr ""
+
+#: unitsWavelengthRS
+msgid "cm"
+msgstr "cm"
+
+#: IntensityRS
+msgid "Intensity"
+msgstr "强度"
+
+#: error0
+msgid "This does not appear to be a FITS file."
+msgstr "这个不能显示为 FITS 文件."
+
+#: error1
+msgid "too few points to fit"
+msgstr "点数太少不足拟合"
+
+#: error2
+msgid "singular matrix"
+msgstr "单数矩阵"
+
+#: chooseInter
+msgid "choose two intervals"
+msgstr "选择两个间隔"
+
+#: Finter
+msgid "first interval"
+msgstr "第一个间隔"
+
+#: Sinter
+msgid "second interval"
+msgstr "第二个间隔"
+
+#: chooseOder
+msgid "choose order of baseline fit (0<order<5)"
+msgstr "选择基线拟合次序 (0<order<5)"
+
+#: order
+msgid "Order"
+msgstr "顺序"
+
+#: DisplayZero
+msgid "display zero line in blue"
+msgstr "零线以蓝色显示"
+
+#: GaussianfitTitle
+msgid "Gaussian fit of spectral line"
+msgstr "谱线的高斯拟合"
+
+#: ChooseParam
+msgid "Choose parameters"
+msgstr "选择参数"
+
+#: interval
+msgid "interval"
+msgstr "间隔"
+
+#: amplitudeRS
+msgid "amplitude"
+msgstr "振幅"
+
+#: centerRS
+msgid "center"
+msgstr "中心"
+
+#: widthRS
+msgid "width"
+msgstr "宽度"
+
+#: eraseRS
+msgid "erase the last"
+msgstr "消除最后"
+
+#: subtractRS
+msgid "Subtract baseline"
+msgstr "减去基线"
+
+#: GaussianFit
+msgid "Gaussian fit"
+msgstr "高斯拟合"
+
+#: baseline
+msgid "Baseline"
+msgstr "基线"
+
+#. #Optical Spectrum...
+#: lambdaOS
+msgid "Lambda[A]"
+msgstr "Lambda[A]"
+
+#: fluxOS
+msgid "Flux[ADU]"
+msgstr "Flux[ADU]"
+
+#. #Plugins externes
+#: Chooselanguage
+msgid "Choose language"
+msgstr "语言选择"
+
+#: DynamicProfile
+msgid "Dynamic profile"
+msgstr "动态轮廓"
+
+#: LiveHistg
+msgid "Live histogram"
+msgstr "实况柱状图"
+
+#: OpenStar
+msgid "Virtual observatories images"
+msgstr "虚拟观测图片"
+
+#: ImportURL
+msgid "Open an image on the Web"
+msgstr "打开网上的图片"
+
+#: AlignRGB
+msgid "Align R/G/B planes"
+msgstr "对齐 红/绿/蓝 示意图"

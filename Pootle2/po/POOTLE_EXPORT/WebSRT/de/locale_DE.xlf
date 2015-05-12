@@ -1,0 +1,707 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="locale_DE.po" source-language="en-US" datatype="plaintext" target-language="de">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="[base]__%04__">
+        <source></source>
+        <target state="translated"> </target>
+        <note from="translator"> Thank you for your help to translate this file. &#13;
+ It corresponds to the Web interface developed to &#13;
+ remotely control the EUHOU-MW SRT network, &#13;
+ actually hosted at http://euhou.obspm.fr</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Home&quot;">
+        <source>"Home"</source>
+        <target state="translated">"Startseite"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Observer&quot;">
+        <source>"Observer"</source>
+        <target state="translated">"Beobachter"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Simulator&quot;">
+        <source>"Simulator"</source>
+        <target state="translated">"Simulator"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Archive&quot;">
+        <source>"Archive"</source>
+        <target state="translated">"Archive"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="credits__%04__&quot;Credits&quot;">
+        <source>"Credits"</source>
+        <target state="translated">"Credits"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;radio telescope&quot;">
+        <source>"radio telescope"</source>
+        <target state="translated">"Radioteleskop"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Username&quot;">
+        <source>"Username"</source>
+        <target state="translated">"Benutzername"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Password&quot;">
+        <source>"Password"</source>
+        <target state="translated">"Passwort"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Password confirmation&quot;">
+        <source>"Password confirmation"</source>
+        <target state="translated">"Passwortbestätigung"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;First name&quot;">
+        <source>"First name"</source>
+        <target state="translated">"Vorname"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Last name&quot;">
+        <source>"Last name"</source>
+        <target state="translated">"Nachname"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Email&quot;">
+        <source>"Email"</source>
+        <target state="translated">"E-Mail"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Country&quot;">
+        <source>"Country"</source>
+        <target state="translated">"Land"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Language&quot;">
+        <source>"Language"</source>
+        <target state="translated">"Sprache"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Status&quot;">
+        <source>"Status"</source>
+        <target state="translated">"Status"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Motivation&quot;">
+        <source>"Motivation"</source>
+        <target state="translated">"Motivation"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;researcher&quot;">
+        <source>"researcher"</source>
+        <target state="translated">"Wissenschaftler"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;teacher&quot;">
+        <source>"teacher"</source>
+        <target state="translated">"Lehrer"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;student&quot;">
+        <source>"student"</source>
+        <target state="translated">"Student"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;other&quot;">
+        <source>"other"</source>
+        <target state="translated">"andere"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Paris 2m (FR)&quot;">
+        <source>"Paris 2m (FR)"</source>
+        <target state="translated">"Paris 2m (FR)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Krakow (PL)&quot;">
+        <source>"Krakow (PL)"</source>
+        <target state="translated">"Krakau (PL)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Craiova (RO)&quot;">
+        <source>"Craiova (RO)"</source>
+        <target state="translated">"Krajowa (RO)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Paris 3m (FR)&quot;">
+        <source>"Paris 3m (FR)"</source>
+        <target state="translated">"Paris 3m (FR)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Madrid (ES)&quot;">
+        <source>"Madrid (ES)"</source>
+        <target state="translated">"Madrid (ES)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Log in&quot;">
+        <source>"Log in"</source>
+        <target state="translated">"Login"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Create your account&quot;">
+        <source>"Create your account"</source>
+        <target state="translated">"Registrieren"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Booking&quot;">
+        <source>"Booking"</source>
+        <target state="translated">"Buchen"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;My informations&quot;">
+        <source>"My informations"</source>
+        <target state="translated">"Meine Informationen"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Administration&quot;">
+        <source>"Administration"</source>
+        <target state="translated">"Administration"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Account Requests&quot;">
+        <source>"Account Requests"</source>
+        <target state="translated">"Kontoabfragen"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Delete time slots&quot;">
+        <source>"Delete time slots"</source>
+        <target state="translated">"Zeitfenster löschen"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Account list&quot;">
+        <source>"Account list"</source>
+        <target state="translated">"Kontoliste"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Webcam&quot;">
+        <source>"Webcam"</source>
+        <target state="translated">"Webcam"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Log out&quot;">
+        <source>"Log out"</source>
+        <target state="translated">"Ausloggen"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Password forgotten&quot;">
+        <source>"Password forgotten"</source>
+        <target state="translated">"Passwort vergessen"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Date&quot;">
+        <source>"Date"</source>
+        <target state="translated">"Datum"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Cancel&quot;">
+        <source>"Cancel"</source>
+        <target state="translated">"Abbrechen"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Enter your email&quot;">
+        <source>"Enter your email"</source>
+        <target state="translated">"E-Mail-Adresse eingeben"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="[info_errors]__%04__">
+        <source></source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;There are # errors&quot;       ; There are 3 errors">
+        <source>"There are # errors"       ; There are 3 errors</source>
+        <target state="translated">"Es sind # Fehler aufgetreten."       ; There is 3 errors</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;cannot be empty&quot;">
+        <source>"cannot be empty"</source>
+        <target state="translated">"darf nicht leer sein"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;doesn't exist&quot;">
+        <source>"doesn't exist"</source>
+        <target state="translated">"existiert nicht"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;must have at least # characters&quot; ; must have at least 8 characters ">
+        <source>"must have at least # characters" ; must have at least 8 characters </source>
+        <target state="translated">"muss wenigstens # Zeichen haben" ; must have 8 characters at least</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;must consist of a-z A-Z 0-9&quot;">
+        <source>"must consist of a-z A-Z 0-9"</source>
+        <target state="translated">"muss a-z A-Z 0-9 sein"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="'cannot contain characters other than letters, numbers and &quot;_&quot;'">
+        <source>'cannot contain characters other than letters, numbers and "_"'</source>
+        <target state="translated">'darf nur Buchstaben, Nummern und "_" enthalten'</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;is not available&quot;">
+        <source>"is not available"</source>
+        <target state="translated">"ist nicht verfügbar"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;is incorrect&quot;">
+        <source>"is incorrect"</source>
+        <target state="translated">"ist falsch"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;must be have the format: toto@tata.net&quot;">
+        <source>"must be have the format: toto@tata.net"</source>
+        <target state="translated">'muss das Format "toto@tata.de" haben'</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;already related to another account&quot;">
+        <source>"already related to another account"</source>
+        <target state="translated">"ist bereits einem anderen Account zugeordnet"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;date cannot be in the past&quot;">
+        <source>"date cannot be in the past"</source>
+        <target state="translated">"darf nicht in der Vergangenheit liegen"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;not available&quot;">
+        <source>"not available"</source>
+        <target state="translated">"nicht verfügbar"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;is not a date&quot;">
+        <source>"is not a date"</source>
+        <target state="translated">"ist kein Datum"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="[index]__%04__">
+        <source></source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Welcome&quot;">
+        <source>"Welcome"</source>
+        <target state="translated">"Willkommen"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;&lt;span class='date'&gt;November 24, 2011&lt;/span&gt; | EU-HOU radio astronomy&lt;br/&gt;Welcome to Hands-On Universe, Europe. The aim of this site is to give remote access to small radio telescopes installed throughout Europe. It is possible to operate these telescopes remotly.  Based on your observations, you will be able to build a map of our galaxy, the Milky Way...&quot;">
+        <source>"&lt;span class='date'&gt;November 24, 2011&lt;/span&gt; | EU-HOU radio astronomy&lt;br/&gt;Welcome to Hands-On Universe, Europe. The aim of this site is to give remote access to small radio telescopes installed throughout Europe. It is possible to operate these telescopes remotly.  Based on your observations, you will be able to build a map of our galaxy, the Milky Way..."</source>
+        <target state="translated">"&lt;span class='date'&gt;19. März 2011&lt;/span&gt; | EU-HOU-Radioastronomie&lt;br/&gt;Willkommen bei Hands-On Universe, Europe. Diese Seite soll euch den Zugriff auf kleine Radioteleskope in ganz Europa ermöglichen. Dazu  können die Teleskope fernbedient werden. Basierend auf euren Beobachtungen werdet ihr imstande sein, eine Karte unserer Galaxie zu erstellen, der Milchstraße..."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Web interface to remotely use the Antenna. A login and password are required to access this facility.&quot;">
+        <source>"Web interface to remotely use the Antenna. A login and password are required to access this facility."</source>
+        <target state="translated">"Web-Interface für die Antennensteuerung. Benutzername und Passwort werden benötigt, um Zugang zu erhalten."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Web interface to access the LAB database and tools to interactively perform the Milky Way-exercise (rotation curve and spiral arms)&quot; ">
+        <source>"Web interface to access the LAB database and tools to interactively perform the Milky Way-exercise (rotation curve and spiral arms)" </source>
+        <target state="translated">"Web-Interface für die LAB-Datenbank und Hilfsmittel für die interaktive Durchführung der MW-Übungen (Rotationskurven und Spiralarme)." </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Database of the all the observations taken with the 5 antennas together with tools to (i) display and download the archived results and (ii) create a map of the Milky Way.&quot;">
+        <source>"Database of the all the observations taken with the 5 antennas together with tools to (i) display and download the archived results and (ii) create a map of the Milky Way."</source>
+        <target state="translated">"Datenbank aller Antennen-Beobachtungen mit Hilfsmitteln, um (i) die archivierten Ergebnisse anzuzeigen/herunterzuladen und (ii) eine Karte der Milchstraße zu erstellen."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;You have been registered; please wait for the comfirmation email&quot;">
+        <source>"You have been registered; please wait for the comfirmation email"</source>
+        <target state="translated">"Du hast dich erfolgreich registriert. Warte auf die E-Mail-Bestätigung."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Don't modify the link&quot;">
+        <source>"Don't modify the link"</source>
+        <target state="translated">"Finger weg von den Parametern."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;You must give a password&quot;">
+        <source>"You must give a password"</source>
+        <target state="translated">"Du musst ein Passwort angeben."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;You must give a login&quot;">
+        <source>"You must give a login"</source>
+        <target state="translated">"Du musst einen Benutzernamen angeben."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Your login or password is incorrect&quot;">
+        <source>"Your login or password is incorrect"</source>
+        <target state="translated">"Dein Benutzername oder Passwort ist falsch."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Your account hasn't been validated yet&quot;">
+        <source>"Your account hasn't been validated yet"</source>
+        <target state="translated">"Dein Konto wurde noch nicht bestätigt."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;you are not allowed to go on this page&quot;">
+        <source>"you are not allowed to go on this page"</source>
+        <target state="translated">"Der Zugriff zu dieser Seite wird dir verweigert."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;you have no reservation for now&quot;">
+        <source>"you have no reservation for now"</source>
+        <target state="translated">"Du hast momentan keine Reservierung."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;You've already validated your email, please wait for the admin validation&quot;">
+        <source>"You've already validated your email, please wait for the admin validation"</source>
+        <target state="translated">"Du hast deine E-Mail-Adresse bereits bestätigt. Bitte warte nun auf die Bestätigung deines Kontos seitens der Administration."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Your account is already valid, you can reserve time slots to observe&quot;">
+        <source>"Your account is already valid, you can reserve time slots to observe"</source>
+        <target state="translated">"Dein Konto wurde bereits bestätigt. Du hast nun die Möglichkeit ein Zeitfenster für deine Beobachtung zu reservieren."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Your account has been deleted. Create another account&quot;">
+        <source>"Your account has been deleted. Create another account"</source>
+        <target state="translated">"Dein Konto wurde gelöscht. Bitte lege ein neues an."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Your e-mail address has been validated. You now need to wait for an administator to validate your account, based on your motivation. You will received an email when your account has been approved and is active&quot;">
+        <source>"Your e-mail address has been validated. You now need to wait for an administator to validate your account, based on your motivation. You will received an email when your account has been approved and is active"</source>
+        <target state="translated">"Du hast deine E-Mail-Adresse bereits bestätigt. Bitte warte nun auf die Bestätigung deines Kontos seitens der Administration. Du erhälst dann eine entsprechende E-Mail von uns."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Sorry, it did not work. Please create a new account&quot;">
+        <source>"Sorry, it did not work. Please create a new account"</source>
+        <target state="translated">"Tut uns leid, etwas ist schief gelaufen. Bitte erstelle ein neues Konto."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="[login]__%04__">
+        <source></source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Enter your login and password&quot;">
+        <source>"Enter your login and password"</source>
+        <target state="translated">"Gib deinen Benutzernamen und dein Passwort ein."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="[register]__%04__">
+        <source></source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Create an account to make a reservation and observe&quot;">
+        <source>"Create an account to make a reservation and observe"</source>
+        <target state="translated">"Lege ein Konto an, um Reservierungen vorzunehmen und zu beobachten."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="[booking]__%04__">
+        <source></source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Scheduler&quot;">
+        <source>"Scheduler"</source>
+        <target state="translated">"Arbeitsplaner"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Date of reservation (UTC)&quot;">
+        <source>"Date of reservation (UTC)"</source>
+        <target state="translated">"Datum der Reservierung (UTC)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Duration&quot;">
+        <source>"Duration"</source>
+        <target state="translated">"Dauer"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Reserve&quot;">
+        <source>"Reserve"</source>
+        <target state="translated">"Reserve"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;this week&quot;">
+        <source>"this week"</source>
+        <target state="translated">"diese Woche"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;date (UTC)&quot;">
+        <source>"date (UTC)"</source>
+        <target state="translated">"Datum (UTC)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="[userPage]__%04__">
+        <source></source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;My information&quot;">
+        <source>"My information"</source>
+        <target state="translated">"Meine Informationen"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;My slots&quot;">
+        <source>"My slots"</source>
+        <target state="translated">"Meine Zeitfenster"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;My data&quot;">
+        <source>"My data"</source>
+        <target state="translated">"Meine Daten"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;You have no future reservations&quot;">
+        <source>"You have no future reservations"</source>
+        <target state="translated">"Du hast keine weiteren Reservierungen."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Edit&quot;">
+        <source>"Edit"</source>
+        <target state="translated">"Bearbeiten"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Valid change&quot;">
+        <source>"Valid change"</source>
+        <target state="translated">"Gültigkeit ändern"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Delete my account&quot;">
+        <source>"Delete my account"</source>
+        <target state="translated">"Mein Konto löschen"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;delete&quot;">
+        <source>"delete"</source>
+        <target state="translated">"löschen"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="[credits]__%04__">
+        <source></source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="credits_title__%04__&quot;Credits&quot;">
+        <source>"Credits"</source>
+        <target state="translated">"Credits"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;This project has been funded with support from the European Commission.&quot;">
+        <source>"This project has been funded with support from the European Commission."</source>
+        <target state="translated">"Dieses Projekt wurde mit Unterstützung der Europäischen Kommission finanziert."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;This publication [communication] reflects the views only of the author,&quot;">
+        <source>"This publication [communication] reflects the views only of the author,"</source>
+        <target state="translated">"Diese Publikation [Mitteilung] gibt lediglich die Sicht des Autors wieder,"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;and the Commission cannot be held responsible for any use which may be made of the information contained therein.&quot;">
+        <source>"and the Commission cannot be held responsible for any use which may be made of the information contained therein."</source>
+        <target state="translated">"und die Kommission kann nicht für die weitere Nutzung der darin enthalten Informationen verantwortlich gemacht werden."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Images and data from:&quot;">
+        <source>"Images and data from:"</source>
+        <target state="translated">"Bilder und Daten von:"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Kalberla, P.M.W. et al., 2005, A&amp;A, 440, 775&quot;">
+        <source>"Kalberla, P.M.W. et al., 2005, A&amp;A, 440, 775"</source>
+        <target state="translated">"Kalberla, P.M.W. et al., 2005, A&amp;A, 440, 775"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Mellinger, A., 2009, PASP, 121, 1180&quot;">
+        <source>"Mellinger, A., 2009, PASP, 121, 1180"</source>
+        <target state="translated">"Mellinger, A., 2009, PASP, 121, 1180"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Schlegel, D.J., 1998, ApJ, 500, 525&quot;">
+        <source>"Schlegel, D.J., 1998, ApJ, 500, 525"</source>
+        <target state="translated">"Schlegel, D.J., 1998, ApJ, 500, 525"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="credits_text[5]__%04__&quot;&quot;">
+        <source>""</source>
+        <target state="translated">""</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Site optimized for Firefox / Chrome / Safari&quot;">
+        <source>"Site optimized for Firefox / Chrome / Safari"</source>
+        <target state="translated">"Seite optimiert für Firefox / Chrome / Safari"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Contact&quot;">
+        <source>"Contact"</source>
+        <target state="translated">"Kontakt"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;copyright@EU-HOU - Design/Conception Antoine Radiguet - Philippe Salomé&quot;">
+        <source>"copyright@EU-HOU - Design/Conception Antoine Radiguet - Philippe Salomé"</source>
+        <target state="translated">"Copyright@EU-HOU - Design/Konzeption Antoine Radiguet - Philippe Salomé"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="[mail]__%04__">
+        <source></source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Hello #,&quot; ; Hello Login">
+        <source>"Hello #," ; Hello Login</source>
+        <target state="translated">"Hallo #," ; Hello Login</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hello_user[2]__%04__&quot;&quot;">
+        <source>""</source>
+        <target state="translated">""</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="thank_user[1]__%04__&quot;&quot;">
+        <source>""</source>
+        <target state="translated">""</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Thank you&quot;">
+        <source>"Thank you"</source>
+        <target state="translated">"Danke"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;The observatory team&quot;">
+        <source>"The observatory team"</source>
+        <target state="translated">"Das Team vom Observatorium"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Email confirmation&quot;">
+        <source>"Email confirmation"</source>
+        <target state="translated">"E-Mail-Bestätigung"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Thank you for creating your account&quot;">
+        <source>"Thank you for creating your account"</source>
+        <target state="translated">"Danke für die Erstellung deines Kontos!"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;To validate your email, please click on the link below&quot;">
+        <source>"To validate your email, please click on the link below"</source>
+        <target state="translated">"Um deine E-Mail-Adresse zu bestätigen, klicke bitte auf nachfolgenden Link"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="'&lt;a href=&quot;http://euhou.obspm.fr/public/validEmail.php?login=#&amp;validation=#&quot;&gt;Validation link&lt;/a&gt;' ; Translate only  &quot;Validation link&quot; ">
+        <source>'&lt;a href="http://euhou.obspm.fr/public/validEmail.php?login=#&amp;validation=#"&gt;Validation link&lt;/a&gt;' ; Translate only  "Validation link" </source>
+        <target state="translated">'&lt;a href="http://euhou.obspm.fr/public/validEmail.php?login=#&amp;validation=#"&gt;Bestätigungslink&lt;/a&gt;' ; Translate only  "Validation link" </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Reservation confirmation&quot;">
+        <source>"Reservation confirmation"</source>
+        <target state="translated">"Reservierungsbestätigung"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Your reservation have been saved&quot;">
+        <source>"Your reservation have been saved"</source>
+        <target state="translated">"Deine Reservierung wurde gespeichert."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;You can use the # radio telescope at # for # hour(s)&quot; ; You can use the Paris radiotelescope at 16h30 for 2 hour(s)">
+        <source>"You can use the # radio telescope at # for # hour(s)" ; You can use the Paris radiotelescope at 16h30 for 2 hour(s)</source>
+        <target state="translated">"Du kannst das Radioteleskop in # um # für # Stunde(n) nutzen." ; You can use the Paris radiotelescope at 16h30 for 2 hour(s)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Password recovery&quot;">
+        <source>"Password recovery"</source>
+        <target state="translated">"Passwort-Wiederherstellung"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Forgot your password?&quot;">
+        <source>"Forgot your password?"</source>
+        <target state="translated">"Passwort vergessen?"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;To recover your account, please click on the link below&quot;">
+        <source>"To recover your account, please click on the link below"</source>
+        <target state="translated">"Um deine Konto wiederherzustellen, klicke bitte auf nachfolgenden Link"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="'&lt;a href=&quot;http://euhou.obspm.fr/public/passwordRecover.php?login=#&amp;validation=#&quot;&gt;recover link&lt;/a&gt;'; Translate only  &quot;Recover link&quot; ">
+        <source>'&lt;a href="http://euhou.obspm.fr/public/passwordRecover.php?login=#&amp;validation=#"&gt;recover link&lt;/a&gt;'; Translate only  "Recover link" </source>
+        <target state="translated">'&lt;a href="http://euhou.obspm.fr/public/passwordRecover.php?login=#&amp;validation=#"&gt;Link für die Wiederherstellung&lt;/a&gt;'; Translate only  "Recover link" </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="password_recovery_mail[4]__%04__&quot;&quot;">
+        <source>""</source>
+        <target state="translated">""</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;If you haven't ask for password recovery, please contact the administrator&quot;">
+        <source>"If you haven't ask for password recovery, please contact the administrator"</source>
+        <target state="translated">"Sofern du keine Passwortwiederherstellung angefordert hast, kontaktiere bitte den Administrator."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;User registration&quot;">
+        <source>"User registration"</source>
+        <target state="translated">"Benutzer-Registrierung"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Hello Admin&quot;">
+        <source>"Hello Admin"</source>
+        <target state="translated">"Hallo Administrator"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="user_registration_admin_notification_mail[2]__%04__&quot;&quot;">
+        <source>""</source>
+        <target state="translated">""</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;A user has just registered&quot;">
+        <source>"A user has just registered"</source>
+        <target state="translated">"Ein Benutzer hat sich soeben registriert."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;&lt;br/&gt;&lt;a href='http://euhou.obspm.fr/public/validUserList.php' &gt;link&lt;/a&gt;&quot;; Translate only  &quot;link&quot; ">
+        <source>"&lt;br/&gt;&lt;a href='http://euhou.obspm.fr/public/validUserList.php' &gt;link&lt;/a&gt;"; Translate only  "link" </source>
+        <target state="translated">"&lt;br/&gt;&lt;a href='http://euhou.obspm.fr/public/validUserList.php' &gt;Link&lt;/a&gt;"; Translate only  "link" </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="account_validated_subject__%04__&quot;Your account has been validated&quot;">
+        <source>"Your account has been validated"</source>
+        <target state="translated">"Dein Konto wurde bestätigt."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="account_validated_mail[1]__%04__&quot;Your account has been validated&quot;">
+        <source>"Your account has been validated"</source>
+        <target state="translated">"Dein Konto wurde bestätigt."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;You can reserve a time slot to observe&quot;">
+        <source>"You can reserve a time slot to observe"</source>
+        <target state="translated">"Du kannst ein Zeitfenster für deine Beobachtung zu reservieren."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Your reservation(s) have been deleted&quot;">
+        <source>"Your reservation(s) have been deleted"</source>
+        <target state="translated">"Deine Reservierung(en) wurde(n) gelöscht."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Your reservation for the # radio telescope from # to # has been deleted by an admin of the website.&quot; ;Your reservation in the Paris radiotelescope from 16h30 to 17h30 has been deleted by an administrator of the website.&quot;">
+        <source>"Your reservation for the # radio telescope from # to # has been deleted by an admin of the website." ;Your reservation in the Paris radiotelescope from 16h30 to 17h30 has been deleted by an administrator of the website."</source>
+        <target state="translated">"Deine Reservierung des Radioteleskops in # von # bis # wurde vom Administrator der Webseite gelöscht." ;Your reservation in the Paris radiotelescope from 16h30 to 17h30 have been deleted by an admin of the website."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Your reservations in the # radio telescope from :&quot; ; Your reservations in the Paris radio telescope from:">
+        <source>"Your reservations in the # radio telescope from :" ; Your reservations in the Paris radio telescope from:</source>
+        <target state="translated">"Deine Reservierungen des Radioteleskops in # von:" ; Your reservations in the Paris radiotelescope from:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;# to #;&quot; ; 16h30 to 17h30">
+        <source>"# to #;" ; 16h30 to 17h30</source>
+        <target state="translated">"# bis #;" ; 16h30 to 17h30</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;have been deleted by an administrator of the website.&quot;">
+        <source>"have been deleted by an administrator of the website."</source>
+        <target state="translated">"wurden vom Administrator der Webseite gelöscht."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;for more information, please contact the administrator.&quot;">
+        <source>"for more information, please contact the administrator."</source>
+        <target state="translated">"Wende dich bitte an den Administrator ,um mehr Informationen darüber zu erhalten."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="[archives]__%04__">
+        <source></source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Comenius archives&quot;">
+        <source>"Comenius archives"</source>
+        <target state="translated">"Comenius-Archive"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Id&quot;">
+        <source>"Id"</source>
+        <target state="translated">"ID"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;User&quot;">
+        <source>"User"</source>
+        <target state="translated">"Benutzer"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;All&quot;">
+        <source>"All"</source>
+        <target state="translated">"Alle"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Num&quot;">
+        <source>"Num"</source>
+        <target state="translated">"Nummer"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;download selected Fits&quot;">
+        <source>"download selected Fits"</source>
+        <target state="translated">"Herunterladen ausgewählter Fits"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;download selected CSV&quot;">
+        <source>"download selected CSV"</source>
+        <target state="translated">"Herunterladen ausgewählter CSV"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="[simulator]__%04__">
+        <source></source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Comenius-Simulator&quot;">
+        <source>"Comenius-Simulator"</source>
+        <target state="translated">"Comenius-Simulator"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="[observator]__%04__">
+        <source></source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Command&quot;">
+        <source>"Command"</source>
+        <target state="translated">"Kommando"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Results&quot;">
+        <source>"Results"</source>
+        <target state="translated">"Ergebnisse"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;freq&quot;">
+        <source>"freq"</source>
+        <target state="translated">"Frequenz"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Time&quot;">
+        <source>"Time"</source>
+        <target state="translated">"Zeit"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Observe&quot;">
+        <source>"Observe"</source>
+        <target state="translated">"Beobachte"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;End of session&quot;">
+        <source>"End of session"</source>
+        <target state="translated">"Ende der Sitzung"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;base&quot;">
+        <source>"base"</source>
+        <target state="translated">"Basis"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="[application]__%04__">
+        <source></source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Radio H21&quot;">
+        <source>"Radio H21"</source>
+        <target state="translated">"Radio H21"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Optics&quot;">
+        <source>"Optics"</source>
+        <target state="translated">"Optisch"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Infrared&quot;">
+        <source>"Infrared"</source>
+        <target state="translated">"Infrarot"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Visibility&quot;">
+        <source>"Visibility"</source>
+        <target state="translated">"Sichtbarkeit"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;T [K] .vs. V [km/s]&quot;">
+        <source>"T [K] .vs. V [km/s]"</source>
+        <target state="translated">"T [K] .vs. V [km/s]"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;send max&quot;">
+        <source>"send max"</source>
+        <target state="translated">"sende max."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;clean&quot;">
+        <source>"clean"</source>
+        <target state="translated">"leeren"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Lon&quot;">
+        <source>"Lon"</source>
+        <target state="translated">"Lon"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Lat&quot;">
+        <source>"Lat"</source>
+        <target state="translated">"Lat"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Simulate&quot;">
+        <source>"Simulate"</source>
+        <target state="translated">"Simulate"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Rotation Curve&quot;">
+        <source>"Rotation Curve"</source>
+        <target state="translated">"Rotationskurve"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Galaxy map&quot;">
+        <source>"Galaxy map"</source>
+        <target state="translated">"Galaxie-Karte"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Clean all&quot;">
+        <source>"Clean all"</source>
+        <target state="translated">"Leere alle"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Clean last&quot;">
+        <source>"Clean last"</source>
+        <target state="translated">"Leere letztes"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Rotation curves V [km/s] .vs. R [kpc]&quot;">
+        <source>"Rotation curves V [km/s] .vs. R [kpc]"</source>
+        <target state="translated">"Rotationskurven V [km/s] .vs. R [kpc]"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Map of the Milky Way X [kpc] , Y [kpc]&quot;">
+        <source>"Map of the Milky Way X [kpc] , Y [kpc]"</source>
+        <target state="translated">"Karte der Milchstraße X [kpc] , Y [kpc]"</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

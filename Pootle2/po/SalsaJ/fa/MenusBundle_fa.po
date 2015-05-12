@@ -1,0 +1,1114 @@
+#. # MENU COMMANDS
+#. extracted from ../templates/MenusBundle.properties, ../resu/MenusBundle_fa.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: 2012-10-31 15:25+0200\n"
+"Last-Translator: mohammad <mohammad.heydari-malayeri@obspm.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#. ###
+#: Value
+msgid "Value"
+msgstr "ارزش، مقدار"
+
+#: Count
+msgctxt "Count"
+msgid "Count"
+msgstr "شمارش، شماردن"
+
+#: Mean
+msgid "Mean"
+msgstr "میانگین"
+
+#: StdDev
+msgid "StdDev"
+msgstr "کژرفت استانده"
+
+#: Mode
+msgid "Mode"
+msgstr "وجه"
+
+#: Min
+msgid "Min"
+msgstr "کمینه"
+
+#: Max
+msgid "Max"
+msgstr "بیشینه"
+
+#: Bins
+msgid "Bins"
+msgstr "بین ها"
+
+#: BinWidth
+msgid "Bin Width"
+msgstr "پهنای بین"
+
+#: Name
+msgid "Name"
+msgstr "نام"
+
+#: Width
+msgid "Width"
+msgstr "پهنا"
+
+#: Height
+msgid "Height"
+msgstr "بلندی"
+
+#: Pixels
+msgid "pixels"
+msgstr "پیکسل ها"
+
+#: Slices
+msgid "Slices"
+msgstr "قارچ ها"
+
+#: Untitled
+msgid "Untitled"
+msgstr "بی عنوان"
+
+#. ###Menu Plus
+#: ClearOutside
+msgid "Clear Outside"
+msgstr "بیرون روشن"
+
+#: Fill
+msgid "Fill"
+msgstr "پر کردن"
+
+#: Draw
+msgid "Draw"
+msgstr "کشیدن"
+
+#: Invert
+msgid "Invert"
+msgstr "وارون کردن"
+
+#: OpenNext
+msgid "Open Next"
+msgstr "باز کنید بعدی را"
+
+#: PasteControl
+msgid "Paste Control..."
+msgstr "کنترول چسباندن تصویر"
+
+#: Selection
+msgid "Selection"
+msgstr "گزینش"
+
+#: Options
+msgid "Options"
+msgstr "گزینه ها"
+
+#: AnalyzeParticles
+msgid "Analyze Particles..."
+msgstr "تحلیل ذره ها"
+
+#: Summarize
+msgid "Summarize"
+msgstr "خلاصه"
+
+#: Distribution
+msgid "Distribution"
+msgstr "توزیع، واباژش"
+
+#: Label
+msgid "Label"
+msgstr "بزچسب"
+
+#: ClearResults
+msgid "Clear Results"
+msgstr "نتیجه ها را پاک کنید"
+
+#: SetMeasurements
+msgid "Set Measurements..."
+msgstr "اندازه ها را وارد کنید"
+
+#: SetScale
+msgid "Set Scale..."
+msgstr "مقیاس را وارد کنید"
+
+#: Calibrate
+msgid "Calibrate..."
+msgstr "کبیزش، کالیبراسیون"
+
+#: Smooth
+msgid "Smooth"
+msgstr "هموارکردن"
+
+#: Sharpen
+msgid "Sharpen"
+msgstr " تیگیدن، تیز کردن"
+
+#: FindEdges
+msgid "Find Edges"
+msgstr "تشخیص پیرامون یا دوره"
+
+#: EnhanceContrast
+msgid "Enhance Contrast"
+msgstr "پادسانی ِ رنگ را بیشتر کنید"
+
+#: Noise
+msgid "Noise"
+msgstr "نوفه"
+
+#: Shadows
+msgid "Shadows"
+msgstr "سایه ها"
+
+#: Binary
+msgid "Binary"
+msgstr "دودویی، درین"
+
+#: Operations
+msgid "Operations"
+msgstr "عملیات"
+
+#: Math
+msgid "Single Image Operators"
+msgstr "اپراتورهای تصویر تک"
+
+#: Import
+msgid "Import"
+msgstr "وارد کردن"
+
+#: SubtractBackground
+msgid "Subtract Background..."
+msgstr "زمینه را بکاهید"
+
+#: Filters
+msgid "Filters"
+msgstr "پالایه ها"
+
+#: Photometer
+msgid "Photometry"
+msgstr "شیدسنجی"
+
+#: PhotometrySettings
+msgid "Photometry Settings"
+msgstr "پارامترهای شیدسنجی"
+
+#: ClearPhotometer
+msgid "Clear Photometry Results"
+msgstr "نتیجه های شیدسنجی را پاک کنید"
+
+#: Radio_Spectrum
+msgid "Radio Spectrum..."
+msgstr "بیناب (طیف) رادیویی"
+
+#: Optical_Spectrum
+msgid "Optical Spectrum..."
+msgstr "بیناب (طیف) نوری"
+
+#: Webcam
+msgid "Webcam"
+msgstr "وبکم"
+
+#: ImageJ
+msgid "SalsaJ [enter]"
+msgstr "SalsaJ"
+
+#. ### real menu entries
+#: File
+msgid "File"
+msgstr "پرونده"
+
+#: New
+msgid "New"
+msgstr "نو"
+
+#: Open
+msgid "Open"
+msgstr "باز کنید"
+
+#. ##NEW
+#: OpenRecent
+msgid "Open Recent"
+msgstr "Open Recent"
+
+#: Close
+msgid "Close"
+msgstr "ببندید"
+
+#: Save
+msgctxt "Save"
+msgid "Save"
+msgstr "نگه دارید"
+
+#: SaveAs
+msgid "Save As"
+msgstr "نگه دارید به صورت"
+
+#: Revert
+msgid "Revert"
+msgstr "برگشت بی حفظ عملیات"
+
+#: PageSetup
+msgid "Page Setup..."
+msgstr "پارامترهای صفحه"
+
+#: Print
+msgid "Print..."
+msgstr "چاپ"
+
+#: Quit
+msgid "Quit"
+msgstr "ترک کنید"
+
+#: QuitMessage
+msgid "Are you sure you want to quit?"
+msgstr ""
+
+#: Edit
+msgid "Edit"
+msgstr "ویرایش"
+
+#: Undo
+msgid "Undo"
+msgstr "باطل کنید"
+
+#: Cut
+msgid "Cut"
+msgstr "ببرید"
+
+#: Copy
+msgid "Copy"
+msgstr "مپی کنید"
+
+#: Paste
+msgid "Paste"
+msgstr "بچسبانید"
+
+#: Clear
+msgid "Clear"
+msgstr "پاک کنید"
+
+#: Crop
+msgid "Crop"
+msgstr "سرچین کنید"
+
+#. ##NEW
+#: CaptureScreen
+msgid "Capture Screen"
+msgstr "ضبط پرده"
+
+#: RepeatCommand
+msgid "Repeat Command"
+msgstr "فرمان تکرار"
+
+#: Image
+msgid "Image"
+msgstr "تصویر"
+
+#: Type
+msgid "Type"
+msgstr "گونه"
+
+#: 8-bit
+msgid "8-bit"
+msgstr "8-بیت"
+
+#: 16-bit
+msgid "16-bit"
+msgstr "16-بیت"
+
+#: 32-bit
+msgid "32-bit"
+msgstr "32-بیت"
+
+#: RGBColor
+msgid "RGB Colour "
+msgstr "رنگ سرخ-سبز-آبی"
+
+#: Adjust
+msgid "Adjust"
+msgstr "تطبیق بدهید"
+
+#: ShowInfo
+msgid "Show Info..."
+msgstr "اطلاعات را نشان دهید"
+
+#: Properties
+msgid "Properties..."
+msgstr "ویژگی ها"
+
+#: Prop
+msgid "Axis properties"
+msgstr "ویژ گی های محور"
+
+#: Color
+msgid "Color"
+msgstr "رنگ"
+
+#: ColorsWindow
+msgid "Colors Sample..."
+msgstr "نمونه ی رنگها"
+
+#: Stacks
+msgid "Stacks"
+msgstr "پشته"
+
+#: Duplicate
+msgid "Duplicate..."
+msgstr "رونوشت کنید"
+
+#: Rename
+msgid "Rename..."
+msgstr "نام تازه"
+
+#: Scale
+msgid "Scale..."
+msgstr "مقیاس"
+
+#: Lookup
+msgid "Lookup Tables"
+msgstr "نمونه های رنگ"
+
+#: ShowLUT
+msgid "Show LUT"
+msgstr "نمونه های رنگ را نشان دهید"
+
+#: InvertLUT
+msgid "Invert LUT"
+msgstr "نمونه های رنگ را وارونه کنید"
+
+#: Process
+msgid "Process"
+msgstr "آمودن"
+
+#: ImageCalculator
+msgid "Image Calculator..."
+msgstr "عملیات میان تصویرها"
+
+#: Rotate
+msgid "Rotate"
+msgstr "چرخیدن، چرخاندن"
+
+#: Zoom
+msgid "Zoom"
+msgstr "زوم"
+
+#: Analyze
+msgid "Analyze"
+msgstr "واکاوی"
+
+#: Measure
+msgid "Measure"
+msgstr "اندازه"
+
+#: Set_Scale
+msgid "Set Scale"
+msgstr "مقیاس را تعیین کنید"
+
+#: ScaleBar
+msgid "Scale Bar"
+msgstr "میله ی مقیاس"
+
+#: CalibrationBar
+msgid "Calibration Bar"
+msgstr "میله ی کبیزش"
+
+#: Histogram
+msgid "Histogram"
+msgstr "نمودار ستونی"
+
+#: PlotProfile
+msgid "Plot Profile"
+msgstr "برش"
+
+#: SurfacePlot
+msgid "Surface Plot..."
+msgstr "منحنی "
+
+#: Tools
+msgid "Tools"
+msgstr "افزارها"
+
+#: Window
+msgid "Window"
+msgstr "پنجره"
+
+#: ShowAll
+msgid "Show All"
+msgstr "نمایش کلی"
+
+#: PutBehind
+msgid "Put Behind [tab]"
+msgstr "گذاشتن پشت [tab]  "
+
+#: Cascade
+msgid "Cascade"
+msgstr "جابجایی همگانی"
+
+#: Tile
+msgid "Tile"
+msgstr "تفکیک"
+
+#: Help
+msgid "Help"
+msgstr "کمک"
+
+#: About
+msgid "About Plugins"
+msgstr "درباره ی پلاگین ها"
+
+#: IJWebSite
+msgid "EU-HOU Web Site..."
+msgstr "وبگاه EU-HOU"
+
+#: OnlineDocs
+msgid "Online Docs..."
+msgstr "سندهای بر-خط"
+
+#: AboutIJ
+msgid "About SalsaJ..."
+msgstr "درباره ی SalsaJ"
+
+#. ##Photometry
+#: DisablePhotometer
+msgid "Stop Photometry"
+msgstr "توقف شیدسنجی"
+
+#: PhotometryError
+msgid "An error occured."
+msgstr "اشتباهی روی داد"
+
+#: PhotomCoord
+msgid "Coordinates of Star's Center :"
+msgstr "Star's Center :"
+
+#: Auto
+msgctxt "Auto"
+msgid "Auto"
+msgstr "به طور خودکار"
+
+#: Manual
+msgid "Forced Coordinates"
+msgstr "مختصات را با دست وارد کنید"
+
+#: SkyParam
+msgid "Sky :"
+msgstr "آسمان"
+
+#: AutoFWHM
+msgctxt "AutoFWHM"
+msgid "Auto"
+msgstr "به طور خودکار"
+
+#: AutoSky
+msgctxt "AutoSky"
+msgid "Auto"
+msgstr "به طور خودکار"
+
+#: ManStarRad
+msgid "Forced Star Raduis"
+msgstr "شعاع ستاره را با دست وارد کنید"
+
+#: ManSkyRad
+msgid "Forced Sky Radius"
+msgstr "شعاع آسمان را با دست وارد کنید"
+
+#: Skyval
+msgid "Forced Sky Value"
+msgstr "ارزش آسمان را با دست وارد کنید"
+
+#: StarRad
+msgid "Star Radius :"
+msgstr "شعاع ستاره"
+
+#. ##Popmenu
+#. ##NEW
+#: StraightLines
+msgid "Straight Lines"
+msgstr "خطهای راست"
+
+#. ##NEW
+#: SegmentedLines
+msgid "Segmented Lines"
+msgstr "خطهای تکه تکه"
+
+#. ##NEW
+#: FreehandLines
+msgid "Freehand Lines"
+msgstr "منحنی"
+
+#. ##NEW
+#: ProfileLines
+msgid "Profile Lines"
+msgstr "خطهای پروفیل"
+
+#. ##NEW
+#: Rectangle
+msgid "Rectangle"
+msgstr "راستگوشه"
+
+#. ##NEW
+#: Oval
+msgid "Oval"
+msgstr "خاگی"
+
+#. ##NEW
+#: Polygon
+msgid "Polygon"
+msgstr "چند بر"
+
+#. ### STUFF FROM THE Plugins MENU not in EHOUProps
+#: Plugins
+msgid "Plugins"
+msgstr "پلاگین ها"
+
+#: Macros
+msgid "Macros"
+msgstr "ماکرو"
+
+#: Shortcuts
+msgid "Shortcuts"
+msgstr "میان بر"
+
+#: Utilities
+msgid "Utilities"
+msgstr "هوده مندها"
+
+#. ### COMMANDS END HERE
+#. #### ERROR MESSAGES
+#: MenuPlugFoldErr
+msgid "Plugins folder not found at"
+msgstr "پرونده ی پلاگین وجود ندارد"
+
+#: UnrecCmdErr
+msgid "Unrecognized command:"
+msgstr "فرمان ناشناخته"
+
+#: SelReqErr
+msgid "Selection required."
+msgstr "گزینش لازم است"
+
+#: StackReqErr
+msgid "Stack required."
+msgstr "توده ی تصویر لازم است"
+
+#: NoStackCmdErr
+msgid "This operation is impossible with a stack."
+msgstr "این عمل با توده ی تصویر ناممکن است"
+
+#: TypeReqErr
+msgid "This command requires an image of type:"
+msgstr " این فرمان به تصویری نیاز دارد از گونه ی:"
+
+#: NoImgErr
+msgid "There are no images open."
+msgstr "هیچ تصویری باز نیست."
+
+#: MinVerErr
+msgid "This plugin or macro requires a newer SalsaJ"
+msgstr "این پلاگین یا ماکرو به SalsaJ جدیدتری نیاز دارد"
+
+#: PlugNotFoundErr
+msgid "Plugin not found:"
+msgstr " پلاگین یافته نشد"
+
+#: ImgNotFoundErr1
+msgid "Image not found: "
+msgstr " تصویر یافته نشد"
+
+#: ImgNotFoundErr2
+msgid "or no images are open."
+msgstr "یا هیچ تصویری باز نیست."
+
+#: WinTitleErr
+msgid "Unable to find window with the title:"
+msgstr "ناتوان از یافتن پنجره ای با عنوان:"
+
+#: LineOrRectSelReqErr
+msgid "Line or rectangular selection required."
+msgstr "نیاز به گزینش خط یا سه بر"
+
+#: Ploy2SelReqErr
+msgid "Polygon or 'polyline' selection required."
+msgstr "نیاز به گزینش چندبر یا چندخط."
+
+#: CalibrErr
+msgid "Uncalibrated image required."
+msgstr "نیاز به تصویرناکبیزیده (ناکالیبره)"
+
+#: CalibrBothErr
+msgid ""
+"Both images must have same calibration.\n"
+"Try to convert images into 32-bits image type."
+msgstr "هردوتصویرباید دارای یک کبیزش باشند. تصویرها رابه 32 بیت تبدیل کنید."
+
+#: NoRGBTypeErr
+msgid "RGB images are unsupported."
+msgstr ""
+
+#: HorizLineSelReqErr
+msgid "The selection must be a horizontal line"
+msgstr " گزینش باید خط راست باشد"
+
+#. # modifie par Nicolas le 15/09/06
+#: Clear_Outside
+msgid "Clear Outside does not work with line selections."
+msgstr "پاک کردن بیرون با گزینش ها جور درنمی آید."
+
+#. #### OTHER
+#: Grayscale
+msgid "grayscale"
+msgstr "تراز خاکستری"
+
+#: PixPerSec
+msgid "pixels/second"
+msgstr "پیکسل در ثانیه"
+
+#: MPixPerSec
+msgid "million pixels/second"
+msgstr "میلیون پیکسل در ثانیه"
+
+#: Secs
+msgid "seconds"
+msgstr " ثانیه"
+
+#: Distance
+msgid "Distance"
+msgstr "فاصله"
+
+#: MilliSecs
+msgid "milliseconds"
+msgstr "میلی ثانیه"
+
+#: PercentDone
+msgid "% done"
+msgstr "% انجام شد"
+
+#: DoneIn
+msgid "done in"
+msgstr " انجام شد در"
+
+#: Results
+msgid "Results"
+msgstr "نتیجه ها"
+
+#: ErrorTitle
+msgid "Error!"
+msgstr "خطا"
+
+#: MsgTitle
+msgid "Message"
+msgstr "پیام"
+
+#: ProcStackTitle
+msgid "Process Stack?"
+msgstr "توجه!"
+
+#: PlotWinTitle
+msgid "Plot of"
+msgstr "نمودارِ"
+
+#: Memory
+msgid "Memory:"
+msgstr "حافظه"
+
+#: ProcStack1
+msgid "Process all"
+msgstr "آمایش کلی"
+
+#: ProcStack2
+msgid "Slices?"
+msgstr "تصویر؟"
+
+#: NoUndoConfirm
+msgid "There is NO Undo possible afterwards"
+msgstr "پس از این عمل «حذف» ناممکن خواهد بود"
+
+#: YNCDialYes
+msgid "Ok"
+msgstr "خوب"
+
+#: YNCDialNo
+msgid "No"
+msgstr "نه"
+
+#: YNCDialCan
+msgid "Cancel"
+msgstr "حذف"
+
+#: SameTypeImgs
+msgid "Images must be the same type."
+msgstr " تصویرها باید از یک گونه باشند"
+
+#: ImgTooLarge
+msgid "Image is too large to paste."
+msgstr " تصویر بسیار بزرگ است. "
+
+#: InProgress
+msgid "in progress..."
+msgstr "در جریان"
+
+#: Clipboard
+msgid "Clipboard"
+msgstr "تخته‌ی گیره‌دار"
+
+#: EmptyClipErr
+msgid "Clipboard is empty."
+msgstr "تخته‌ی گیره‌دارخالی است."
+
+#: ClipCopyErr
+msgid "Unable to copy to Clipboard."
+msgstr "کپی به تخته‌ی گیره‌دار ممکن نیست."
+
+#: List
+msgid "List"
+msgstr "لیست"
+
+#: PlotValues
+msgid "Plot Values"
+msgstr "ارزش های منحنی"
+
+#: CopyPlotValues
+msgid "Copying plot values..."
+msgstr "کپی ارزش های منحنی"
+
+#: SavePlotValues
+msgid "Saving plot values..."
+msgstr "حفظ ارزش های منحنی"
+
+#: CharCopied
+msgid "characters copied to Clipboard"
+msgstr "کپی کاراکتربه تخته‌ی گیره‌دار"
+
+#. ## TEXT CANVAS POPUP & TEXT WINDOW MENU
+#: SelectAll
+msgid "Select All"
+msgstr "گزینش همه"
+
+#: CopyAll
+msgid "Copy All"
+msgstr "کپی همه"
+
+#: SaveAsText
+msgid "Save As Text"
+msgstr "حفظ کنید به صورت متن"
+
+#: LinesCopied
+msgid "lines copied to clipboard"
+msgstr "کپی خطها ربه تخته‌ی گیره‌دار"
+
+#: OpenText
+msgid "Open Text File..."
+msgstr "پرونده ی متن را باز کنید."
+
+#: Opening
+msgid "Opening:"
+msgstr "بازکردن"
+
+#: OpenTextImage
+msgid "Open Text Image"
+msgstr "متن تصویر را باز کنید"
+
+#. # 8 FIELDS SEPARATED BY \t
+#: PhotometerLabels
+msgid ""
+"Index\tImage\tX\tY\tStar's intensity\tStar's radius\tSky's intensity\tSky's "
+"radiusMessage"
+msgstr ""
+"Index\tImage\tX\tY\tStar's intensity\tStar's radius\tSky's intensity\tSky's radius\t"
+"Message"
+
+#: PhotometerWarningMesure
+msgid "Unreliable value"
+msgstr "ارزش نامطمءن"
+
+#. ## SaveChangesDialog
+#: DoSave
+msgid "Save ?"
+msgstr "حفظ؟"
+
+#: SaveCmd
+msgctxt "SaveCmd"
+msgid "Save"
+msgstr "حفظ کنید"
+
+#: SaveChanges
+msgid "Save changes to"
+msgstr "حفظ کنید تغییرهای "
+
+#. ## TextRoi
+#: TextRoi1
+msgid "Type, then"
+msgstr "تایپ کنید، سپس"
+
+#: TextRoi2
+msgid "Ctrl-D"
+msgstr "Ctrl-D"
+
+#. ## CurveFitter
+#: Curve1
+msgid "Straight Line"
+msgstr "خط راست"
+
+#: Curve2
+msgid "2nd Degree Polynomial"
+msgstr "چندجمله ای درجه ی 2"
+
+#: Curve3
+msgid "3rd Degree Polynomial"
+msgstr "چندجمله ای درجه ی 3"
+
+#: Curve4
+msgid "4th Degree Polynomial"
+msgstr "چندجمله ای درجه ی 4"
+
+#: Curve5
+msgid "Exponential"
+msgstr " نمایی"
+
+#: Curve6
+msgid "Power"
+msgstr "توان"
+
+#: Curve7
+msgid "log"
+msgstr "لوگ"
+
+#: Curve8
+msgid "Rodbard"
+msgstr "Rodbard"
+
+#: Curve9
+msgid "Gamma Variate"
+msgstr "تغییر گاما"
+
+#: CurveDiagTitle
+msgid "Simplex Fitting Options"
+msgstr "گزینه های اندریابش"
+
+#: CurveDiagName
+msgid "Function name:"
+msgstr "نام تابع"
+
+#: CurveDiagForm
+msgid "Formula:"
+msgstr "دیسول (فرمول)"
+
+#: CurveDiagInit
+msgid "Initial"
+msgstr "آغازین"
+
+#: CurveDiagIter
+msgid "Maximum iterations:"
+msgstr "بیشینه ی ایتراسیون"
+
+#: CurveDiagRestart
+msgid "Number of restarts:"
+msgstr "تعداد بازآغاز"
+
+#: CurveDiagToler
+msgid "Error tolerance [1*10^(-x)]:"
+msgstr "دقت [1*10^(-x)]  "
+
+#: CurveDiagErr
+msgid ""
+"Parameter setting canceled.\n"
+"Using default parameters."
+msgstr "اشکال گزینش پارامتر. استفاده از پارامتر خودکار."
+
+#: CurveResIter
+msgid ""
+"\n"
+"Number of iterations:"
+msgstr ""
+"\n"
+" شمار ایتراسیون ها"
+
+#: CurveResMax
+msgid ""
+"\n"
+"Maximum number of iterations:"
+msgstr ""
+"\n"
+"شماربیشینه ی ایتراسیون ها"
+
+#: CurveResSum
+msgid ""
+"\n"
+"Sum of residuals squared:"
+msgstr "مربع جمع مانده ها"
+
+#: CurveResStd
+msgid ""
+"\n"
+"Standard deviation:"
+msgstr "انحراف استانده"
+
+#: CurveResGood
+msgid ""
+"\n"
+"Goodness of fit:"
+msgstr "خوبی سز (فیت)"
+
+#: CurveResParam
+msgid ""
+"\n"
+"Parameters:"
+msgstr "پارامترها"
+
+#. ##Histogram
+#: HistoTitle
+msgid "Histogram of"
+msgstr "نمودار ستونی"
+
+#. ##NEW
+#: Histo
+msgid "Histogramme"
+msgstr "نمودار ستونی"
+
+#: HistoLog
+msgid "Log"
+msgstr "لوگ"
+
+#: HistoCount
+msgctxt "HistoCount"
+msgid "Count"
+msgstr "حساب"
+
+#. ##NEW
+#: HistoXmin
+msgid "X min"
+msgstr "X کمینه"
+
+#. ##NEW
+#: HistoXmax
+msgid "X max"
+msgstr "X بیشینه"
+
+#. ##NEW
+#: HistoYmax
+msgid "Y max"
+msgstr "Y بیشینه"
+
+#. # 2 FIELDS SEPARATED BY \t
+#: HistoHead
+msgid "value\tcount"
+msgstr "ارزش \t شماره"
+
+#: HistoCopyVal
+msgid "Copying Histogram values"
+msgstr "کپی ارزشهای نمودار ستونی"
+
+#. ##NEW
+#: HistoMinMax
+msgid "Use min/max or"
+msgstr "به کار برید کمینه/بیشینه یا"
+
+#: NewFill
+msgid "Fill With"
+msgstr "سز کنید با"
+
+#: CalGrayVal
+msgid "Grey Value"
+msgstr "درجه ی رنگ"
+
+#: About1
+msgid "University Pierre et Marie Curie (Paris)"
+msgstr "دانشگاه پیر و ماری کوری (پاریس)"
+
+#: About2
+msgid "Based on ImageJ (W. Rasband - NIH)"
+msgstr "برپایه ی تصویر J (W. Rasband - NIH)"
+
+#: About3
+msgid "PUBLIC DOMAIN"
+msgstr "عرصه ی عمومی"
+
+#: Translation
+msgid "Translation"
+msgstr "انتقال"
+
+#: Cmd
+msgid "commands,"
+msgstr "فرمانها"
+
+#: Version
+msgid "Version "
+msgstr "گرداک، روایت"
+
+#: Mak
+msgid "macro"
+msgstr "ماکرو"
+
+#: Credits
+msgid "Credits"
+msgstr "ارج گذاری"
+
+#: Ack
+msgid "credits_SalsaJ_uk.html"
+msgstr "ارج گذاری _SalsaJ_uk.html"
+
+#: Online
+msgid "http://www.euhou.net/docupload/files/software/manuel/Documentation.html"
+msgstr "http://www.euhou.net/docupload/files/software/manuel/Documentation.html"
+
+#. #http://fhou.cicrp.jussieu.fr/beta/euhouman_en.pdf
+#: MsgErr
+msgid ""
+"File can't be found or is not in TIFF, JPEG, GIF, BMP, DICOM, FITS, PGM,\n"
+"ZIP, LUT, ROI or text format."
+msgstr "پرونده یافته نمی شود"
+
+#: GetPosition
+msgid "Get cross-hair position"
+msgstr "ثبت جای تاربست"
+
+#: GetPositionLabels
+msgid "x\t\ty"
+msgstr "x\t\ty"
+
+#. #FITS
+#: OBJECT
+msgid "Object"
+msgstr "برآخت، شیء"
+
+#: TELESCOP
+msgid "Telescope"
+msgstr "دوربین، تلسکوپ"
+
+#: INSTRUM
+msgid "Instrument"
+msgstr "سازال، وسیله"
+
+#: OBSERVER
+msgid "Observer"
+msgstr "نپاهنده، نپاهگر"
+
+#: EXPTIME
+msgid "Exposure time"
+msgstr "زمان نورداد"
+
+#: DATE-OBS
+msgid "Date of observation"
+msgstr "تاریخ نپاهش"
+
+#: FILTER
+msgid "Filter"
+msgstr "پالایه"
+
+#: DEC
+msgid "Declination"
+msgstr "میل"
+
+#: RA
+msgid "Right Ascension"
+msgstr "بعد"
+
+#: UT
+msgid "Universal Time"
+msgstr "زمان جهانی"

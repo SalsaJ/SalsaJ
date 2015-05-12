@@ -1,0 +1,1495 @@
+#. extracted from PluginBundle.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-02 10:50+0200\n"
+"PO-Revision-Date: 2010-10-28 13:38+0200\n"
+"Last-Translator: Olivier <marco@euhou.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.3\n"
+
+#: Pixel
+msgid "pixel"
+msgstr "Pixel"
+
+#: Pixels
+msgid "pixels"
+msgstr "Pixel"
+
+#: Degrees
+msgid "degrees"
+msgstr "Grad"
+
+#: Open
+msgctxt "Open"
+msgid "Open"
+msgstr "Öffnen"
+
+#: MyApply1
+msgid "Apply"
+msgstr "Anwenden"
+
+#: Settings
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: OpenText
+msgid "Open Text File..."
+msgstr "Textdatei öffnen..."
+
+#: Height
+msgid "Height"
+msgstr "Höhe"
+
+#: Width
+msgid "Width"
+msgstr "Breite"
+
+#: NewWin
+msgid "Create New Window"
+msgstr "Neues Fenster erstellen"
+
+#: List
+msgid "List"
+msgstr "Liste"
+
+#: Unit
+msgid "Unit"
+msgstr "Einheit"
+
+#: None
+msgid "none"
+msgstr "keine"
+
+#: LeftCol
+msgid "Left column"
+msgstr "Linke Spalte"
+
+#: RightCol
+msgid "Right column"
+msgstr "Rechte Spalte"
+
+#: Values
+msgid "values"
+msgstr "Werte"
+
+#: File
+msgid "File"
+msgstr "Datei"
+
+#: Title
+msgid "Title"
+msgstr "Titel"
+
+#: StackReqErr
+msgid "Stack required"
+msgstr "Stapel notwendig"
+
+#: NoImgErr
+msgid "No images are open."
+msgstr "Keine Bilder geöffnet."
+
+#: OneImgErr
+msgid "There must be at least two open images."
+msgstr "Zumindest zwei Bilder müssen geöffnet sein."
+
+#: ImgErr
+msgid "None of the open images can go in a stack."
+msgstr "Keines der geöffneten Bilder kann in einen Stapel gesteckt werden."
+
+#: ImgTypeErr
+msgid "All open images must be the same type."
+msgstr "Alle geöffneten Bilder müssen vom selben Typ sein."
+
+#: ImgSizeErr
+msgid "All open images must be the same size."
+msgstr "Alle geöffneten Bilder müssen dieselbe Größe haben."
+
+#: StackTitle
+msgid "Stack"
+msgstr "Stapel"
+
+#: ConvertTitle
+msgid "Convert to Images?"
+msgstr "In Bilder umwandeln?"
+
+#: Convert1
+msgid ""
+"Are you sure you want to convert this\n"
+"stack to"
+msgstr ""
+"Wollen Sie das wirklich umwandeln?\n"
+"Stapel zu"
+
+#: Convert2
+msgid "separate windows?"
+msgstr "Getrennte Fenster?"
+
+#: TitleStr
+msgid "Image Calculator"
+msgstr "Bilderrechner"
+
+#: NoWinErr
+msgid "No windows are open."
+msgstr "Keine Fenster geöffnet."
+
+#: StackSizeErr
+msgid "Both stacks must have the same number of slices."
+msgstr "Beide Stapel müssen dieselbe Anzahl an Elementen haben."
+
+#: OutOfMem
+msgid "Out of memory"
+msgstr "Speichermangel"
+
+#: Image1
+msgid "Image 1:"
+msgstr "Bild 1:"
+
+#: Image2
+msgid "Image 2:"
+msgstr "Bild 2:"
+
+#: Operation
+msgid "Operation:"
+msgstr "Operation:"
+
+#: NewResultTitle
+msgid "Result of"
+msgstr "Ergebnis von"
+
+#: ResultTitle
+msgid "Result"
+msgstr "Ergebnis"
+
+#: Add
+msgctxt "Add"
+msgid "Add"
+msgstr "Addieren"
+
+#: Subtract
+msgid "Subtract"
+msgstr "Subtrahieren"
+
+#: Multiply
+msgid "Multiply"
+msgstr "Multiplizieren"
+
+#: Divide
+msgid "Divide"
+msgstr "Dividieren"
+
+#: AND
+msgid "AND"
+msgstr "UND"
+
+#: OR
+msgid "OR"
+msgstr "ODER"
+
+#: XOR
+msgid "XOR"
+msgstr "auschließendes ODER"
+
+#: Min
+msgid "Min"
+msgstr "Min"
+
+#: Max
+msgid "Max"
+msgstr "Max"
+
+#: Gamma
+msgid "Gamma"
+msgstr "Gamma"
+
+#: Average
+msgid "Average"
+msgstr "Durchschnitt"
+
+#: Difference
+msgid "Difference"
+msgstr "Unterschied"
+
+#: Copy
+msgid "Copy"
+msgstr "Kopieren"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "Ohne Weiß kopieren"
+
+#: Index
+msgid "index"
+msgstr "Index"
+
+#: Value
+msgid "Value:"
+msgstr "Wert:"
+
+#: BinValue
+msgid "Value (binary): "
+msgstr "Wert (binär):"
+
+#: BinValReqErr
+msgid "Binary number required"
+msgstr "Binärzahl notwendig"
+
+#: Value01
+msgid "Value (0.1-5.0):"
+msgstr "Wert (0.1-5.0):"
+
+#: GammaValErr
+msgid "Gamma must be between 0.1 and 5.0"
+msgstr "Gamma muss zwischen 0.1 und 5.0 sein"
+
+#: Spline
+msgid "Spline"
+msgstr "Spline"
+
+#: FrameTitle
+msgid "Paste Control"
+msgstr "Einfügeeinstellungen"
+
+#: TransferMode
+msgid "Transfer Mode:"
+msgstr "Übertragungsmodus:"
+
+#: ContrastTitle
+msgid "Brightness & Contrast"
+msgstr "Helligkeit & Kontrast"
+
+#: WLTitle
+msgid "Window & Level"
+msgstr "Fenster & Bereich"
+
+#: ColorTitle
+msgctxt "ColorTitle"
+msgid "Color"
+msgstr "Farbe"
+
+#: Minimum
+msgid "Minimum"
+msgstr "Minimum"
+
+#: Maximum
+msgid "Maximum"
+msgstr "Maximum"
+
+#: Brightness
+msgid "Brightness"
+msgstr "Helligkeit"
+
+#: Contrast
+msgid "Constrast"
+msgstr "Kontrast"
+
+#: Level
+msgid "Level:"
+msgstr "Ebene:"
+
+#: Window
+msgid "Window:"
+msgstr "Fenster:"
+
+#: Auto
+msgid "Auto"
+msgstr "Auto"
+
+#: Reset
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: Set
+msgid "Set"
+msgstr "Setzen"
+
+#: MyApply2
+msgid "Apply "
+msgstr "Anwenden"
+
+#: Thresh
+msgid "Thresh"
+msgstr "Grenze"
+
+#: Update
+msgid "Update"
+msgstr "Update"
+
+#: AdjTypeErr
+msgid "Requires an 8-bit grayscale image or an RGB stack"
+msgstr "Benötigt ein 8-bit Graustufenbild oder einen RGB-Stack"
+
+#: LUT1
+msgid "Apply LUT to all"
+msgstr "LUT auf alles anwenden"
+
+#: LUT2
+msgctxt "LUT2"
+msgid "slices in the stack?"
+msgstr "Elemente im Stapel?"
+
+#: RGB1
+msgid "Apply brightness and contrast settings to all"
+msgstr "Helligkeit und Kontrast Einstellungen auf alle anwenden"
+
+#: RGB2
+msgctxt "RGB2"
+msgid "slices in the stack?"
+msgstr "Elemente im Stapel?"
+
+#: SetMinMaxTitle
+msgid "Set Min and Max"
+msgstr "Min und Max einstellen"
+
+#: MinVal
+msgid "Minimum Displayed Value:"
+msgstr "Kleinster angezeigter Wert:"
+
+#: MaxVal
+msgid "Maximum Displayed Value:"
+msgstr "Größter angezeigter Wert:"
+
+#: SetWLTitle
+msgid "Set W&L"
+msgstr "F & E setzen"
+
+#: WinCenter
+msgid "Window Center (Level):"
+msgstr "Fenstermitte (Ebene):"
+
+#: WinWidth
+msgid "Window Width:"
+msgstr "Fenstergröße:"
+
+#: NoImg
+msgid "No Image"
+msgstr "Kein Bild"
+
+#: SetMeasurementsTitle
+msgid "Set Measurements"
+msgstr "Messungen einrichten"
+
+#: measurements
+msgid "measurements"
+msgstr "Messungen"
+
+#: Area
+msgid "Area"
+msgstr "Bereich"
+
+#: MeanGray
+msgid "Mean Grey Value"
+msgstr "Mittlerer Grauwert"
+
+#: StDev
+msgid "Standard Deviation"
+msgstr "Standardabweichung"
+
+#: ModalGray
+msgid "Modal Grey Value"
+msgstr "Modus Grauwert"
+
+#: MinMaxGray
+msgid "Min & Max Grey Value"
+msgstr "Min & Max Grauwert"
+
+#: Centroid
+msgid "Centroid"
+msgstr "Schwerpunkt"
+
+#: MassCenter
+msgid "Center of Mass"
+msgstr "Massenzentrum"
+
+#: Perimeter
+msgid "Perimeter"
+msgstr "Perimeter"
+
+#: Bounds
+msgid "Bounding Rectangle"
+msgstr "eingrenzendes Rechteck"
+
+#: FitEllipse
+msgid "Fit Ellipse"
+msgstr "Ellipsennäherung"
+
+#: Circularity
+msgid "Circularity"
+msgstr "Rundheit"
+
+#: FeretDiam
+msgid "Feret's Diameter"
+msgstr "Feret-Durchmesser"
+
+#: ThreshLimit
+msgid "Limit to Threshold"
+msgstr "Grenzwert der Begrenzung"
+
+#: ImgName
+msgid "Display Image Name"
+msgstr "Zeige Bildname"
+
+#: InvertY
+msgid "Invert Y Coordinates"
+msgstr "Y-Koordinate invertieren"
+
+#: DeciPlaces
+msgctxt "DeciPlaces"
+msgid "Decimal Places:"
+msgstr "Dezimalorte:"
+
+#: Val
+msgid "Value"
+msgstr "Wert"
+
+#: FileName
+msgid "Name"
+msgstr "Name"
+
+#: Angle
+msgid "Angle"
+msgstr "Winkel"
+
+#: Length
+msgid "Length "
+msgstr "Länge"
+
+#: SD
+msgid "SD"
+msgstr ""
+"SD\n"
+"SD"
+
+#: Mean
+msgid "Moy."
+msgstr "Moy."
+
+#: Threshold
+msgid "Threshold"
+msgstr "Grenzwert"
+
+#: RedThresh
+msgid "Red"
+msgstr "Rot"
+
+#: BWThresh
+msgid "Black & White"
+msgstr "Schwarz & Weiß"
+
+#: OverUnder
+msgid "Over/Under"
+msgstr "Oben/Unten"
+
+#: ThreshLevels
+msgid "Set Threshold Levels"
+msgstr "Grenzwertbereiche einstellen"
+
+#: LowThreshLevel
+msgid "Lower Threshold Level:"
+msgstr "Unterer Grenzwertbereich:"
+
+#: UpThreshLevel
+msgid "Upper Threshold Level:"
+msgstr "Oberer Grenzwertbereich:"
+
+#: RGBThreshErr
+msgid "RGB images cannot be thresolded."
+msgstr "RGB-Bilder können nicht eingegrenzt werden."
+
+#: NPTitle
+msgid "Nouveau..."
+msgstr "Neu..."
+
+#: Type
+msgid "Type"
+msgstr "Typ:"
+
+#: Record
+msgid "Record"
+msgstr "Aufzeichnen"
+
+#: CreateMacro
+msgid "Create Macro"
+msgstr "Makro erstellen"
+
+#: CreatePlugin
+msgid "Create Plugin"
+msgstr "Plugin erstellen"
+
+#: Commands
+msgid "Commands"
+msgstr "Anweisungen"
+
+#: CommandLabels
+msgid "Command\tPlugin"
+msgstr "Anweisungsplugin"
+
+#: KbdShortcuts
+msgid "Keyboard Shortcuts"
+msgstr "Tastaturkürzel"
+
+#: KbdShortcutsLabels
+msgid "Hot Key\tCommand"
+msgstr "Tastenanweisungen"
+
+#: ScDiagTitle
+msgid "Set Scale"
+msgstr "Maßstab setzen"
+
+#: ScDiagDistPix
+msgid "Distance in Pixels:"
+msgstr "Abstand in Pixel:"
+
+#: ScDiagDist
+msgid "Real Distance:"
+msgstr "Wirkliche Abstände:"
+
+#: ScDiagRatio
+msgid "Width/Height Ratio:"
+msgstr "Breite/Höhe-Verhältnis:"
+
+#: ScDiagUnit
+msgid "Unit of Length:"
+msgstr "Längeneinheit:"
+
+#: ScDiagScale
+msgid "Scale:"
+msgstr "Maßstab:"
+
+#: ScDiagGlobal
+msgctxt "ScDiagGlobal"
+msgid "Global"
+msgstr "Global"
+
+#: ScDiagNoScale
+msgid "<No Scale>"
+msgstr "<kein Maßstab>"
+
+#: SfcPlTitle
+msgid "Surface Plotter"
+msgstr "Oberflächenplotter"
+
+#: SfcPlImgTitle
+msgid "Surface Plot"
+msgstr "Oberflächenplot"
+
+#: SfcPlDrSlice
+msgid "Drawing slice"
+msgstr "Zeichne Element"
+
+#: SfcPlMult
+msgid "Number of samples"
+msgstr "Anzahl der Beispiele"
+
+#: SfcPlWire
+msgid "Draw wireframe"
+msgstr "Zeichne Drahtrahmen"
+
+#: SfcPlShade
+msgid "Shade"
+msgstr "Schatten"
+
+#: SfcPlAxis
+msgid "Draw axis"
+msgstr "Zeichenachse"
+
+#: SfcPlInvert
+msgid "Source Background is Lighter"
+msgstr "Hintergrund der Quelle ist heller"
+
+#: SfcPlBlack
+msgid "Fill Plot Background with Black"
+msgstr "Plothintergrund mit Schwarz füllen"
+
+#: SfcPlPoly
+msgid "Fill Plot"
+msgstr "Plot ausfüllen"
+
+#: SfcPlSmooth
+msgid "Smooth"
+msgstr "Glätten"
+
+#: PageSetup
+msgid "Page Setup"
+msgstr "Seiteneinrichtung"
+
+#: PrintScaling
+msgid "Scaling"
+msgstr "Anpassen"
+
+#: PrintBorder
+msgid "Draw Border"
+msgstr "Zeichne Rand"
+
+#: PrintTitle
+msgid "Print Title"
+msgstr "Drucktitel"
+
+#: PrintCenter
+msgid "Center on Page"
+msgstr "Auf Seite zentrieren"
+
+#: Rotate
+msgid "Rotate"
+msgstr "Drehen"
+
+#: Interpolate
+msgid "Interpolate"
+msgstr "Interpolieren"
+
+#: AngleErr
+msgid "Angle is invalid."
+msgstr "Winkel ist ungültig."
+
+#: OptMiscTitle
+msgid "Miscellaneous Options"
+msgstr "Verschiedene Optionen"
+
+#: OptHistBin
+msgid "Real Histogram Bins:"
+msgstr "Wirkliche Histogrammklassen:"
+
+#: OptDivZero
+msgid "Divide by Zero Value:"
+msgstr "Division durch Null Wert:"
+
+#: OptCursor
+msgid "Use Pointer Cursor"
+msgstr "Verwende Zeigercursor"
+
+#: OptScale
+msgid "Scale When Converting"
+msgstr "Anpassen bei Konvertierung"
+
+#: OptStackDiag
+msgid "Hide \"Process Stack?\" Dialog"
+msgstr "\"Prozessstapel?\"-Dialog verbergen"
+
+#: OptAntialias
+msgid "Antialiased Text"
+msgstr "Gesperrter Text"
+
+#: OptInterpolate
+msgid "Interpolate Images <100%"
+msgstr "Bilder <100% interpolieren"
+
+#: OptOpen
+msgid "Open Images at 100%"
+msgstr "Bilder mit 100% öffnen"
+
+#: OptDebug
+msgid "Debug Mode"
+msgstr "Fehlersuchmodus"
+
+#: OptLine
+msgid "Line width:"
+msgstr "Linienbreite:"
+
+#: OptJpeg
+msgid "JPEG quality (0-100):"
+msgstr "JPEG-Qualität (0-100):"
+
+#: OptMark
+msgid "Mark Width:"
+msgstr "Breite markieren:"
+
+#: FontsTitle
+msgid "Fonts"
+msgstr "Schriftsätze"
+
+#: FontPlain
+msgid "Plain"
+msgstr "Flach"
+
+#: FontBold
+msgid "Bold"
+msgstr "Fett"
+
+#: FontIt
+msgid "Italic"
+msgstr "Kursiv"
+
+#: FontBoldIt
+msgid "Bold+Italic"
+msgstr "Fett+Kursiv"
+
+#: FontPoint
+msgid "pt"
+msgstr "pt"
+
+#: FitterTitle
+msgid "Curve Fitter"
+msgstr "Kurvenanpassung"
+
+#: Fit
+msgid "Fit..."
+msgstr "anpassen..."
+
+#: FitFncErr
+msgid "No function available"
+msgstr "Keine Funktion verfügbar"
+
+#: FitImgErr
+msgid "First select the image to be transformed"
+msgstr "Zuerst das zu transformierende Bild auswählen"
+
+#: FitterSuffix
+msgid "-transformed"
+msgstr "-transformiert"
+
+#: ResizeRoiErr
+msgid ""
+"These commands\n"
+"do not work with line selections."
+msgstr ""
+"Diese Anweisungen\n"
+"arbeiten nicht mit Zeilenauswahl"
+
+#: ResizeTitle
+msgid "Resize"
+msgstr "Größe ändern"
+
+#: ResizeConstrain
+msgid "Constrain Aspect Ratio"
+msgstr "Bildformat einschränken"
+
+#: ResizeWarn
+msgid "NOTE: Undo is not available"
+msgstr "Achtung: Rückgängig kann nicht durchgeführt werden"
+
+#: ResizeErr
+msgid "Width or height are invalid."
+msgstr "Breite oder Höhe ist ungültig."
+
+#: ResizeLost1
+msgid ""
+"SalsaJ ran out of memory causing \n"
+"the last"
+msgstr ""
+"SalsaJ hat zuwenig Speicher was\n"
+"das letzte verursacht hat"
+
+#: ResizeLost2
+msgid "slices to be lost."
+msgstr "Elemente werden verloren."
+
+#: CanvasResizerTitle1
+msgid "Resize Image Canvas"
+msgstr "Leinwandbildgröße ändern"
+
+#: CanvasResizerTitle2
+msgid "Resize Stack Canvas"
+msgstr "Leinwandstapelgröße ändern"
+
+#: Position
+msgid "Postion"
+msgstr "Position"
+
+#: ZeroFile
+msgid "Zero Fill"
+msgstr "Nullfüllung"
+
+#: Top-Left
+msgid "Top-Left "
+msgstr "Oben links"
+
+#: Top-Center
+msgid "Top-Center"
+msgstr "Oben Mitte"
+
+#: Top-Right
+msgid "Top-Right"
+msgstr "Oben rechts"
+
+#: Center-Left
+msgid "Center-Left"
+msgstr "Mitte Links"
+
+#: Center
+msgid "Center"
+msgstr "Mitte"
+
+#: Center-Right
+msgid "Center-Right"
+msgstr "Mitte rechts"
+
+#: Bottom-Left
+msgid "Bottom-Left"
+msgstr "Unten links"
+
+#: Bottom-Center
+msgid "Bottom-Center"
+msgstr "Unten Mitte"
+
+#: Bottom-Right
+msgid "Bottom-Right"
+msgstr "Unten rechts"
+
+#: MakeMontage
+msgid "Make Montage"
+msgstr "Montage machen"
+
+#: Columns
+msgid "Columns"
+msgstr "Spalten"
+
+#: Rows
+msgid "Rows"
+msgstr "Zeilen"
+
+#: ScaleFactor
+msgid "Scale Factor"
+msgstr "Skalierungsfaktor"
+
+#: FirstSlice
+msgid "First Slice"
+msgstr "Erstes Element"
+
+#: LastSlice
+msgid "Last Slice"
+msgstr "Letztes Element"
+
+#: Increment
+msgctxt "Increment"
+msgid "Increment"
+msgstr "Inkrement"
+
+#: BorderWidth
+msgid "Border Width"
+msgstr "Randbreite"
+
+#: LabelSlices
+msgid "Label Slices"
+msgstr "Elemente benennen"
+
+#: UseForegroundColor
+msgid "Use Foreground Color"
+msgstr "Vordergrundfarbe verwenden"
+
+#: Channels
+msgid "Channels"
+msgstr "Kanäle"
+
+#: Frames
+msgid "Frames"
+msgstr "Rahmen"
+
+#: Pixel_Width
+msgid "Pixel Width"
+msgstr "Pixelbreite"
+
+#: Pixel_Height
+msgid "Pixeln Height"
+msgstr "Pixelhöhe"
+
+#: Voxel_Depth
+msgid "Voxel Depth"
+msgstr "Voxeltiefe"
+
+#: FrameInterval
+msgid "Frame Interval"
+msgstr "Rahmenintervall"
+
+#: Origin
+msgid "Origin (pixels)"
+msgstr "Ursprung (Pixel)"
+
+#: Global
+msgctxt "Global"
+msgid "Global"
+msgstr "Global"
+
+#: NotLocked
+msgid "is not locked"
+msgstr "ist nicht gesperrt"
+
+#: Unlocked
+msgid "is now unlocked"
+msgstr "ist jetzt gesperrt"
+
+#: Rename
+msgid "Rename"
+msgstr "umbenennen"
+
+#: RenameName
+msgid "New title:"
+msgstr "Neuer Titel:"
+
+#: DupliSuffix
+msgid "-copy"
+msgstr "-kopieren"
+
+#: DupliTitle
+msgid "Duplicate"
+msgstr "Dupizieren"
+
+#: DupliNewName
+msgid "Title:"
+msgstr "Titel:"
+
+#: DupliStack
+msgid "Duplicate Entire Stack?"
+msgstr "Gesamten Stapel duplizieren?"
+
+#: ScalerTitle
+msgid "Scale"
+msgstr "Maßstab"
+
+#: ScalerX
+msgid "X Scale"
+msgstr "X Maßstab"
+
+#: ScalerY
+msgid "Y Scale"
+msgstr "Y Maßstab"
+
+#: ScalerErr
+msgid "X or Y scale are invalid."
+msgstr "X oder Y sind ungültig."
+
+#: ScalerSuffix
+msgid "-rescaled"
+msgstr "-skalierung erneut durchgeführt"
+
+#: ScalerBackground
+msgid "Fill with Background Color"
+msgstr "Mit Hintergrundfarbe ausfüllen"
+
+#: ScaleBarTitle
+msgid "ScaleBar Plus"
+msgstr "Skalierungsanzeige Plus"
+
+#: ScaleBarWidth
+msgid "Width in"
+msgstr "Breite in"
+
+#: ScaleBarHeight
+msgid "Height in pixels"
+msgstr "Höhe in Pixel"
+
+#: ScaleBarFont
+msgid "Font Size"
+msgstr "Schriftgröße"
+
+#: ScaleBarColor
+msgctxt "ScaleBarColor"
+msgid "Color"
+msgstr "Farbe"
+
+#: ScaleBarBackground
+msgid "Background"
+msgstr "Hintergrund"
+
+#: ScaleBarLocation
+msgid "Location"
+msgstr "Ort"
+
+#: ScaleBarBold
+msgctxt "ScaleBarBold"
+msgid "Bold Text"
+msgstr "Fettdruck"
+
+#: ScaleBarHide
+msgid "Hide Text"
+msgstr "Text verbergen"
+
+#: ScaleBarSerif
+msgid "Serif Font"
+msgstr "Serifschriftart"
+
+#: LUTTitle
+msgid "LookUp Table"
+msgstr "LookUp Tabelle"
+
+#. ### 4 FIELDS SEPARATED BY \t
+#: LUTHead
+msgid "Index\tRed\tGreen\tBlue"
+msgstr "Index\tRot\tGrün\tBlau"
+
+#: LUTTextTitle
+msgid "LUT"
+msgstr "LUT"
+
+#: LutRGBErr
+msgid "RGB images do not use LUTs."
+msgstr "RGB-Bilder verwenden keine LUTs."
+
+#: ProOptTitle
+msgid "Profile Plot Options"
+msgstr "Profilploteinstellungen"
+
+#: ProOptScale
+msgid "Fixed Y-axis Scale"
+msgstr "Fester Y-Achsenmaßstab"
+
+#: ProOptSave
+msgid "Do Not Save X-Values"
+msgstr "X-Werte nicht sichern"
+
+#: ProOptAuto
+msgid "Auto-close"
+msgstr "Auto-Schließen"
+
+#: ProOptVert
+msgid "Vertical Profile"
+msgstr "Vertikales Profil"
+
+#: RoiTitle
+msgid "Roi Manager"
+msgstr "Roi Manager"
+
+#: RoiAdd
+msgctxt "RoiAdd"
+msgid "Add"
+msgstr "Addieren"
+
+#: RoiAdd&Draw
+msgctxt "RoiAdd&Draw"
+msgid "Delete"
+msgstr "Löschen"
+
+#: RoiDel
+msgctxt "RoiDel"
+msgid "Delete"
+msgstr "Löschen"
+
+#: RoiOpen
+msgctxt "RoiOpen"
+msgid "Open"
+msgstr "Öffnen"
+
+#: RoiOpenAll
+msgid "Open All"
+msgstr "Alle öffnen"
+
+#: RoiSave
+msgid "Save"
+msgstr "Speichern"
+
+#: RoiSel
+msgid "Select All"
+msgstr "Alle auswählen"
+
+#: RoiMeasure
+msgid "Measure"
+msgstr "Messen"
+
+#: RoiDraw
+msgid "Draw"
+msgstr "Zeichnen"
+
+#: RoiFill
+msgid "Fill"
+msgstr "Ausfüllen"
+
+#: RoiErr1
+msgid "The active image does not have an ROI."
+msgstr "Das aktive Bild hat kein ROI."
+
+#: RoiErr2
+msgid "The ROI list is empty."
+msgstr "Die ROI-Liste ist leer."
+
+#: RoiErr3
+msgid "At least one ROI in the list must be selected."
+msgstr "Es muss mindestens ein ROI in der Liste ausgewählt werden."
+
+#: RoiErr4
+msgid "This ROI does not fit the current image."
+msgstr "Diese ROI passt nicht zum gegenwärtigen Bild."
+
+#: RoiOpenTitle
+msgid "Open ROI..."
+msgstr "ROI öffnen..."
+
+#: RoiOpenFolder
+msgid "Select a file in the folder..."
+msgstr "Eine Datei im Verzeichnis auswählen..."
+
+#: RoiSaveTitle
+msgid "Save ROI..."
+msgstr "ROI speichern..."
+
+#: CaliTitle
+msgid "Calibration Bar"
+msgstr "Kalibrierungsbalken"
+
+#: CaliLoc
+msgid "Location:"
+msgstr "Ort:"
+
+#: CaliFill
+msgid "Fill Colour:"
+msgstr "Füllfarbe:"
+
+#: CaliLab
+msgid "Label Colour:"
+msgstr "Beschriftungsfarbe:"
+
+#: CaliNb
+msgid "Number of Labels:"
+msgstr "Anzahl der Beschriftungen:"
+
+#: CaliPlaces
+msgctxt "CaliPlaces"
+msgid "Decimal Places:"
+msgstr "Dezimalorte:"
+
+#: CaliSize
+msgid "Font Size:"
+msgstr "Schriftgröße:"
+
+#: CaliZoom
+msgid "Zoom Factor:"
+msgstr "Zoomfaktor:"
+
+#: CaliBold
+msgctxt "CaliBold"
+msgid "Bold Text"
+msgstr "Fettdruck"
+
+#: CaliWithBar
+msgid "with bar"
+msgstr "mit Balken"
+
+#: CaliUpR
+msgid "Upper Right"
+msgstr "Oben rechts"
+
+#: CaliUpL
+msgid "Upper Left"
+msgstr "Oben links"
+
+#: CaliDoR
+msgid "Lower Right"
+msgstr "Unten rechts"
+
+#: CaliDoL
+msgid "Lower Left"
+msgstr "Unten links"
+
+#: CaliSel
+msgid "At Selection"
+msgstr "Bei der Auswahl"
+
+#: FoldOpenTitle
+msgid "Open Image Sequence..."
+msgstr "Bildsequenz öffnen..."
+
+#: FoldOpenErrTitle
+msgid "Import Error:"
+msgstr "Importfehler:"
+
+#: FoldOpenErr1
+msgid ""
+"This folder does not appear to contain any TIFF,\n"
+"FITS, JPEG, BMP, GIF, or PGM files."
+msgstr ""
+"Dieses Verzeichnis scheint keine TIFF-,\n"
+"FITS-, JPEG-, BMP-, GIF- oder PGM-Dateien zu enthalten"
+
+#: FoldOpenErr2
+msgid "None of the"
+msgstr "Keine der"
+
+#: FoldOpenErr3
+msgid "files contain  in their name the string"
+msgstr "Dateien enthalten in ihrem Namen die Zeichenkette"
+
+#: FoldOpenErr4
+msgid ": wrong dimensions"
+msgstr ": falsche Dimensionen"
+
+#: FoldOpenErr5
+msgid ": wrong type"
+msgstr ": falscher Typ"
+
+#: FoldOpenErr6
+msgid ": unable to open"
+msgstr ": kann nicht geöffnet werden"
+
+#: FoldOptTitle
+msgid "Sequence Options"
+msgstr "Sequenzeinstellungen"
+
+#: FoldOpt1
+msgid "Number of Images"
+msgstr "Bilderzahl"
+
+#: FoldOpt2
+msgid "Starting Image"
+msgstr "Anfangsbild"
+
+#: FoldOpt3
+msgctxt "FoldOpt3"
+msgid "Increment"
+msgstr "Inkrement"
+
+#: FoldOpt4
+msgid "File Name Contains"
+msgstr "Dateiname enthält"
+
+#: FoldOpt5
+msgid "Convert to 8-bit Greyscale"
+msgstr "In 8-bit-Graustufen umwandeln"
+
+#: FoldOpt6
+msgid "Open 1/2 Size"
+msgstr "in 1/2 Größe öffnen"
+
+#: URLDiagTitle
+msgid "Enter URL"
+msgstr "URL eingeben"
+
+#: URLDiagLab
+msgid "Enter the URL of an image to open:"
+msgstr "URL eines zu öffnenden Bildes eingeben:"
+
+#: AnimOptTitle
+msgid "Animation Options"
+msgstr "Animationseinstellungen"
+
+#: AnimOptSpeed
+msgid "Speed (1-100 fps):"
+msgstr "Geschwindigkeit (1-100 fps):"
+
+#: AnimOptLoop
+msgid "Loop Back and Forth"
+msgstr "Schleife zurück und vorwärts"
+
+#: AnimOptStart
+msgid "Start Animation"
+msgstr "Animation starten"
+
+#: AnimSlice
+msgid "Set Slice"
+msgstr "Elemente setzen"
+
+#: AnimNb
+msgid "Slice number"
+msgstr "Elementnummer"
+
+#: TWErrTitle
+msgid "Save As Text"
+msgstr "Als Text speichern"
+
+#: TWErrMsg
+msgid "This command requires a TextWindow"
+msgstr "Diese Anweisung benötigt ein Textfenster"
+
+#: CalibrTitle
+msgid "Calibrate..."
+msgstr "Kalibrieren..."
+
+#: CalibrFunc
+msgid "Function:"
+msgstr "Funktion:"
+
+#: CalibrGlob
+msgid "Global calibration"
+msgstr "Globale Kalibrierung"
+
+#: Calibrator
+msgid "Calibrator:"
+msgstr "Kalibrierer:"
+
+#: CalibrErr1
+msgid "Please select a function"
+msgstr "Bitte eine Funktion auswählen"
+
+#: CalibrErr16b
+msgid ""
+"Calibration of 16-bit images, except with straight\n"
+"line functions, is currently not supported."
+msgstr ""
+"Kalibrierung von 16-bit-Bildern, ausgenommen mit geraden\n"
+"Linienfunktionen, wird derzeit nicht unterstützt"
+
+#: CalPixelInverter
+msgid "Pixel Inverter"
+msgstr "Pixelinverter"
+
+#: CalibrMan
+msgid ""
+"To create a calibration curve, the left column must\n"
+"contain a list of measured mean pixel values and the\n"
+"right column must contain the same number of calibration\n"
+"standard values."
+msgstr ""
+"Um eine Kalibrierungskurve zu erzeugen muss die linke Spalte\n"
+"eine Liste gemessener Pixelmittelwerte enthalten und die\n"
+"rechte Spalte die selbe Anzahl an Kalibrierungsstandardwerten."
+
+#: CalibrFuncTitle
+msgid "Calibration function"
+msgstr "Kalibrierungsfunktion"
+
+#: Recorder
+msgid "Recorder"
+msgstr "Aufzeichnen"
+
+#: 32birReqErr
+msgid "32-bit float image required"
+msgstr "32-bit Fließbild erforderlich"
+
+#: OptHistory
+msgid "Last used files:"
+msgstr "Zuletzt verwendete Dateien:"
+
+#: OptFiles
+msgid "Files"
+msgstr "Dateien"
+
+#: Translate
+msgid "Translate"
+msgstr "Übersetzen"
+
+#: TX
+msgid "Translation on X"
+msgstr "Übersetzen in X"
+
+#: TY
+msgid "Translation on Y"
+msgstr "Übersetzen in Y"
+
+#: TxErr
+msgid "Translation on X is invalid"
+msgstr "Übersetzung in X ist ungültig"
+
+#: TyErr
+msgid "Translation en Y est invalide"
+msgstr "Übersetzung in Y ist ungültig"
+
+#: OptJFileChooser
+msgid "Open/Save Using JFileChooser"
+msgstr "Öffnen/Speichern mit JFileChooser"
+
+#: ProOptHoriz
+msgid "Horizontal Profile"
+msgstr "Horizontalprofil"
+
+#: GaussFitResults
+msgid "Gaussian fit results"
+msgstr "Ergebnisse der Gausssche Näherung"
+
+#: ChannelRS
+msgid "Channel"
+msgstr "Kanal"
+
+#: VelocityRS
+msgid "Velocity"
+msgstr "Geschwindigkeit"
+
+#: unitsVelocityRS
+msgid "km/s"
+msgstr "km/s"
+
+#: FrequencyRS
+msgid "Frequency"
+msgstr "Frequenz"
+
+#: unitsFrequencyRS
+msgid "MHz"
+msgstr "MHz"
+
+#: WavelengthRS
+msgid "Wavelength"
+msgstr "Wellenlänge"
+
+#: unitsWavelengthRS
+msgid "cm"
+msgstr "cm"
+
+#: IntensityRS
+msgid "Intensity"
+msgstr "Intensität"
+
+#: error0
+msgid "This does not appear to be a FITS file."
+msgstr "Das scheint keine FITS-Datei zu sein."
+
+#: error1
+msgid "too few points to fit"
+msgstr "Zuwenige Punkte zum Einpassen."
+
+#: error2
+msgid "singular matrix"
+msgstr "Singuläre Matrix"
+
+#: chooseInter
+msgid "choose two intervals"
+msgstr "Zwei Intervalle auswählen"
+
+#: Finter
+msgid "first interval"
+msgstr "Erstes Intervall"
+
+#: Sinter
+msgid "second interval"
+msgstr "Zweites Intervall"
+
+#: chooseOder
+msgid "choose order of baseline fit (0<order<5)"
+msgstr "Ordnung der Grundlinienanpassung auswählen (0<Ordnung<5)"
+
+#: order
+msgid "Order"
+msgstr "Ordnung"
+
+#: DisplayZero
+msgid "display zero line in blue"
+msgstr "Nulllinie in Blau anzeigen"
+
+#: GaussianfitTitle
+msgid "Gaussian fit of spectral line"
+msgstr "Gaussausgleichrechnung der Spektrallinie"
+
+#: ChooseParam
+msgid "Choose parameters"
+msgstr "Parameter wählen"
+
+#: interval
+msgid "interval"
+msgstr "Intervall"
+
+#: amplitudeRS
+msgid "amplitude"
+msgstr "Amplitude"
+
+#: centerRS
+msgid "center"
+msgstr "Mitte"
+
+#: widthRS
+msgid "width"
+msgstr "Breite"
+
+#: eraseRS
+msgid "erase the last"
+msgstr "Letzes löschen"
+
+#: subtractRS
+msgid "Subtract baseline"
+msgstr "Grundlinie subtrahieren"
+
+#: GaussianFit
+msgid "Gaussian fit"
+msgstr "Gaussche Ausgleichsrechnung"
+
+#: baseline
+msgid "Baseline"
+msgstr "Grundlinie"
+
+#: lambdaOS
+msgid "Lambda[A]"
+msgstr "Lambda[A]"
+
+#: fluxOS
+msgid "Flux[ADU]"
+msgstr "Fluss[ADU]"

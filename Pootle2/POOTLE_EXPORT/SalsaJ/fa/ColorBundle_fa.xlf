@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="ColorBundle_fa.po" source-language="en-US" datatype="plaintext" target-language="fa">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Background Color">
+        <source>Background Color</source>
+        <target state="translated">رنگ زمینه</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="black">
+        <source>black</source>
+        <target state="translated">سیاه</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="blue">
+        <source>blue</source>
+        <target state="translated">آبی</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clipboard">
+        <source>Clipboard</source>
+        <target state="translated">تخته‌ی گیره‌دار</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="none">
+        <source>none</source>
+        <target state="translated">هیچ یک</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="R/G/B">
+        <source>R/G/B</source>
+        <target state="translated">سرخ\سبز\آبی</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cyan">
+        <source>cyan</source>
+        <target state="translated">سیان</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="dark gray">
+        <source>dark gray</source>
+        <target state="translated">خاکستری تیره</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Foreground Color">
+        <source>Foreground Color</source>
+        <target state="translated">رنگ پیش زمینه</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="gray">
+        <source>gray</source>
+        <target state="translated">خاکستری</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="green">
+        <source>green</source>
+        <target state="translated">سبز</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="light gray">
+        <source>light gray</source>
+        <target state="translated">خاکستری روشن</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="magenta">
+        <source>magenta</source>
+        <target state="translated">مجنتا، سرخابی</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="orange">
+        <source>orange</source>
+        <target state="translated">نارنجی</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ramp">
+        <source>Ramp</source>
+        <target state="translated">شیب</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="red">
+        <source>red</source>
+        <target state="translated">سرخ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Selection Color">
+        <source>Selection Color</source>
+        <target state="translated">گرینش رنگ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="white">
+        <source>white</source>
+        <target state="translated">سفید</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="yellow">
+        <source>yellow</source>
+        <target state="translated">زرد</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

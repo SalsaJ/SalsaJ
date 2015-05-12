@@ -1,0 +1,810 @@
+#. extracted from files/locale.properties, files/locale_EN.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-24 19:26+0200\n"
+"PO-Revision-Date: 2012-10-22 04:33+0200\n"
+"Last-Translator: Avivah <avivahy@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#; Thank you for your help to translate this file. 
+#; It corresponds to the Web interface developped to 
+#; remotely control the EUHOU-MW SRT network, 
+#; actually hosted at http://euhou.obspm.fr
+#: [base]
+msgctxt "[base]"
+msgid ""
+msgstr ""
+
+#: home
+msgid "\"Home\""
+msgstr "\"Beranda\""
+
+#: observer
+msgid "\"Observer\""
+msgstr "\"Pengamat\""
+
+#: simulator
+msgid "\"Simulator\""
+msgstr "\"Simulator\""
+
+#: archive
+msgid "\"Archive\""
+msgstr "\"Arsip\""
+
+#: credits
+msgctxt "credits"
+msgid "\"Credits\""
+msgstr "\"Kredit\""
+
+#: radioTelescope
+msgid "\"radio telescope\""
+msgstr "\"teleskop radio\""
+
+#: login
+msgid "\"Username\""
+msgstr "\"Nama Pengguna\""
+
+#: password
+msgid "\"Password\""
+msgstr "\"Kata Kunci\""
+
+#: password_confirmation
+msgid "\"Password confirmation\""
+msgstr "\"Konfirmasi Kata Kunci\""
+
+#: first_name
+msgid "\"First name\""
+msgstr "\"Nama Pertama\""
+
+#: last_name
+msgid "\"Last name\""
+msgstr "\"Nama Belakang\""
+
+#: email
+msgid "\"Email\""
+msgstr "\"Surel\""
+
+#: country
+msgid "\"Country\""
+msgstr "\"Negara\""
+
+#: language
+msgid "\"Language\""
+msgstr "\"Bahasa\""
+
+#: status
+msgid "\"Status\""
+msgstr "\"Status\""
+
+#: motivation
+msgid "\"Motivation\""
+msgstr "\"Motivasi\""
+
+#: status_1
+msgid "\"researcher\""
+msgstr "\"peneliti\""
+
+#: status_2
+msgid "\"teacher\""
+msgstr "\"guru\""
+
+#: status_3
+msgid "\"student\""
+msgstr "\"pelajar\""
+
+#: status_4
+msgid "\"other\""
+msgstr "\"lainnya\""
+
+#: Paris
+msgid "\"Paris 2m (FR)\""
+msgstr "\"Paris 2m (FR)\""
+
+#: Cracovie
+msgid "\"Krakow (PL)\""
+msgstr "\"Krakow (PL)\""
+
+#: Craiova
+msgid "\"Craiova (RO)\""
+msgstr "\"Craiova (RO)\""
+
+#: Paris2
+msgid "\"Paris 3m (FR)\""
+msgstr "\"Paris 3m (FR)\""
+
+#: Madrid
+msgid "\"Madrid (ES)\""
+msgstr "\"Paris 3m (FR)\""
+
+#: to_login
+msgid "\"Log in\""
+msgstr "\"Log masuk\""
+
+#: register
+msgid "\"Create your account\""
+msgstr "\"Buat akun anda\""
+
+#: booking
+msgid "\"Booking\""
+msgstr "\"Pesan\""
+
+#: myInformation
+msgid "\"My informations\""
+msgstr "\"Informasi Saya\""
+
+#: administration
+msgid "\"Administration\""
+msgstr "\"Administrasi\""
+
+#: account_requests
+msgid "\"Account Requests\""
+msgstr "\"Permintaan Akun\""
+
+#: delete_time_slots
+msgid "\"Delete time slots\""
+msgstr "\"Hapus Slot Waktu\""
+
+#: account_list
+msgid "\"Account list\""
+msgstr "\"Daftar Akun\""
+
+#: webcam
+msgid "\"Webcam\""
+msgstr "\"Webcam\""
+
+#: logout
+msgid "\"Log out\""
+msgstr "\"Log keluar\""
+
+#: forgotten_password
+msgid "\"Password forgotten\""
+msgstr "\"Lupa Kata Kunci\""
+
+#: date
+msgid "\"Date\""
+msgstr "\"Tanggal\""
+
+#: cancel_button
+msgid "\"Cancel\""
+msgstr "\"Batal\""
+
+#: enter_your_email
+msgid "\"Enter your email\""
+msgstr "\"Masukkan surel anda\""
+
+#: [info_errors]
+msgctxt "[info_errors]"
+msgid ""
+msgstr ""
+
+#: error_title
+msgid "\"There are # errors\"       ; There are 3 errors"
+msgstr "\"Terdapat # kesalahan\" ; Terdapat 3 kesalahan"
+
+#: empty_parameter_error
+msgid "\"cannot be empty\""
+msgstr "\"tidak bisa dibiarkan kosong\""
+
+#: dont_exist
+msgid "\"doesn't exist\""
+msgstr "\"tidak tersedia\""
+
+#: too_short_parameter_error
+msgid "\"must have at least # characters\" ; must have at least 8 characters "
+msgstr ""
+"\"harus memiliki setidaknya # karakter\" ; harus memiliki setidaknya 8 "
+"karakter"
+
+#: login_cararcter_restraint_error
+msgid "\"must consist of a-z A-Z 0-9\""
+msgstr "\"harus memuat a-z A-Z 0-9\""
+
+#: name_cararcter_restraint_error
+msgid "'cannot contain characters other than letters, numbers and \"_\"'"
+msgstr "'tidak memuat karakter selain huruf, angka dan \"_\"'"
+
+#: login_not_available_error
+msgid "\"is not available\""
+msgstr "\"tidak tersedia\""
+
+#: incorrect_password_error
+msgid "\"is incorrect\""
+msgstr "\"adalah tidak benar\""
+
+#: mail_incorrect_shape_error
+msgid "\"must be have the format: toto@tata.net\""
+msgstr "\"harus memiliki format: toto@tata.net\""
+
+#: mail_not_available_error
+msgid "\"already related to another account\""
+msgstr "\"sudah terhubung dengan akun lainnya\""
+
+#: date_in_the_past_error
+msgid "\"date cannot be in the past\""
+msgstr "\"tidak bisa menggunakan tanggal yang lalu\""
+
+#: radiotelescope_not_available_error
+msgid "\"not available\""
+msgstr "\"tidak tersedia\""
+
+#: is_not_a_date_error
+msgid "\"is not a date\""
+msgstr "\"bukanlah sebuah tanggal\""
+
+#: [index]
+msgctxt "[index]"
+msgid ""
+msgstr ""
+
+#: welcome
+msgid "\"Welcome\""
+msgstr "\"Selamat Datang\""
+
+#: welcome_txt
+msgid ""
+"\"<span class='date'>November 24, 2011</span> | EU-HOU radio "
+"astronomy<br/>Welcome to Hands-On Universe, Europe. The aim of this site is "
+"to give remote access to small radio telescopes installed throughout Europe. "
+"It is possible to operate these telescopes remotly.  Based on your "
+"observations, you will be able to build a map of our galaxy, the Milky "
+"Way...\""
+msgstr ""
+"\"<span class='date'>24 November  2011</span> | Radio Astronomi EU-"
+"HOU<br/>Selamat Datang di Hands-On Universe, Europa. Tujuan situs ini untuk "
+"memberikan akses jarak jauh ke teleskop radio kecil yang dipasang di Eropa. "
+"Teleskop-teleskop tersebut dapat dikendalikan dari jarak jauh. Dan "
+"berdasarkan hasil pengamatanmu, kamu bisa membuat peta galaksi kita, Bima "
+"Sakti...\""
+
+#: observer_txt
+msgid ""
+"\"Web interface to remotely use the Antenna. A login and password are "
+"required to access this facility.\""
+msgstr ""
+"\"Antarmuka web untuk mengendalikan Antena. Log masuk dan kata kunci "
+"diperlukan untuk mengakses fasilitas ini.\""
+
+#: simulator_txt
+msgid ""
+"\"Web interface to access the LAB database and tools to interactively perform "
+"the Milky Way-exercise (rotation curve and spiral arms)\" "
+msgstr ""
+"\"Antarmuka web untuk mengakses basis data LAB dan alat untuk mengerjakan "
+"latihan Bima Sakti secara interaktif (kurva rotasi dan lengan spiral)\""
+
+#: archive_txt
+msgid ""
+"\"Database of the all the observations taken with the 5 antennas together "
+"with tools to (i) display and download the archived results and (ii) create "
+"a map of the Milky Way.\""
+msgstr ""
+"\"Basis data seluruh pengamatan diambil dengan 5 antena secara bersama yang "
+"menggunakan alat untuk (i) menampilkan dan mengunduh arsip hasil dan (ii) "
+"membuat peta Bima Sakti"
+
+#: msg_registred
+msgid "\"You have been registered; please wait for the comfirmation email\""
+msgstr "\"Anda sudah terdaftar; silahkan tunggu surel konfirmasi\""
+
+#: msg_dont_touch_parameters
+msgid "\"Don't modify the link\""
+msgstr "\"Jangan modifikasi taut\""
+
+#: msg_need_a_password
+msgid "\"You must give a password\""
+msgstr "\"Anda harus memasukkan kata kunci\""
+
+#: msg_need_a_login
+msgid "\"You must give a login\""
+msgstr "\"Anda harus memberi log masuk\""
+
+#: msg_login_password_incorrect
+msgid "\"Your login or password is incorrect\""
+msgstr "\"Log masuk dan kata kunci yang anda masukkan salah\""
+
+#: msg_not_valid_account
+msgid "\"Your account hasn't been validated yet\""
+msgstr "\"Akun anda belum disahkan\""
+
+#: msg_not_allowed
+msgid "\"you are not allowed to go on this page\""
+msgstr "\"Anda tidak diijinkan untuk memasuki laman ini\""
+
+#: msg_not_reserved
+msgid "\"you have no reservation for now\""
+msgstr "\"anda tidak memiliki reservasi saat ini\""
+
+#: msg_wait_for_validation
+msgid ""
+"\"You've already validated your email, please wait for the admin validation\""
+msgstr "\"Anda sudah mengesahkan surel, silahkah tunggu pengesahan admin\""
+
+#: msg_already_valid
+msgid "\"Your account is already valid, you can reserve time slots to observe\""
+msgstr ""
+"\"Akun anda sudah sah, sekarang anda sudah dapat memesan slot waktu untuk "
+"pengamatan\""
+
+#: msg_deleted_account
+msgid "\"Your account has been deleted. Create another account\""
+msgstr "\"Akun anda sudah dihaous. Buatlah akun yang baru\""
+
+#: msg_validated_account
+msgid ""
+"\"Your e-mail address has been validated. You now need to wait for an "
+"administator to validate your account, based on your motivation. You will "
+"received an email when your account has been approved and is active\""
+msgstr ""
+"\"Alamat surel sudah disahkan. Silahkan tunggu pengesahan akun anda oleh "
+"administrator, berdasarkan motivasi yang anda masukkan. Anda akan menerima "
+"surel saat akun anda disetujui dan diaktifkan\" "
+
+#: msg_broken_link
+msgid "\"Sorry, it did not work. Please create a new account\""
+msgstr "\"Maaf, akun tidak dapat digunakan. Sila buat akun baru\""
+
+#: [login]
+msgctxt "[login]"
+msgid ""
+msgstr ""
+
+#: enter_login_password
+msgid "\"Enter your login and password\""
+msgstr "\"Masukkan log masuk dan kata kunci anda\""
+
+#: [register]
+msgctxt "[register]"
+msgid ""
+msgstr ""
+
+#: register_title
+msgid "\"Create an account to make a reservation and observe\""
+msgstr "\"Buatlah akun untuk dapat membuat pemesanan dan pengamatan\""
+
+#: [booking]
+msgctxt "[booking]"
+msgid ""
+msgstr ""
+
+#: scheduler_title
+msgid "\"Scheduler\""
+msgstr "\"Penjadwalan\""
+
+#: date_of_reservation
+msgid "\"Date of reservation (UTC)\""
+msgstr "\"Tanggal yang dipesan (UTC)\""
+
+#: duration
+msgid "\"Duration\""
+msgstr "\"Durasi\""
+
+#: reserve
+msgid "\"Reserve\""
+msgstr "\"Pesan\""
+
+#: this_week
+msgid "\"this week\""
+msgstr "\"minggu ini\""
+
+#: date_UTC
+msgid "\"date (UTC)\""
+msgstr "\"tanggal (UTC)\""
+
+#: [userPage]
+msgctxt "[userPage]"
+msgid ""
+msgstr ""
+
+#: user_page_title
+msgid "\"My information\""
+msgstr "\"Informasi Saya\""
+
+#: my_slot
+msgid "\"My slots\""
+msgstr "\"Slot Saya\""
+
+#: my_data
+msgid "\"My data\""
+msgstr "\"Data Saya\""
+
+#: no_futur_reservation_message
+msgid "\"You have no future reservations\""
+msgstr "\"Anda tidak mempunyai pengamatan di masa depan\""
+
+#: change_button
+msgid "\"Edit\""
+msgstr "\"Sunting\""
+
+#: valid_change_button
+msgid "\"Valid change\""
+msgstr "\"Sahkan perubahan\""
+
+#: delete_account_button
+msgid "\"Delete my account\""
+msgstr "\"Hapus akun saya\""
+
+#: delete_time_slote
+msgid "\"delete\""
+msgstr "\"hapus\""
+
+#: [credits]
+msgctxt "[credits]"
+msgid ""
+msgstr ""
+
+#: credits_title
+msgctxt "credits_title"
+msgid "\"Credits\""
+msgstr "\"Kredit\""
+
+#: credits_disclaimer[1]
+msgid ""
+"\"This project has been funded with support from the European Commission.\""
+msgstr "\"Proyek ini didanai dan didukung oleh Komisi Eropa\""
+
+#: credits_disclaimer[2]
+msgid ""
+"\"This publication [communication] reflects the views only of the author,\""
+msgstr "\"Publikasi [komunikasi] hanya mencerminkan pandangan penulis.\""
+
+#: credits_disclaimer[3]
+msgid ""
+"\"and the Commission cannot be held responsible for any use which may be made "
+"of the information contained therein.\""
+msgstr ""
+"\"dan Komisi tidak bertanggung jawab atas penggunaan dalam bentuk apapun atas "
+"informasi yang dimuat.\""
+
+#: credits_text[1]
+msgid "\"Images and data from:\""
+msgstr "\"Citra dan data dari,\""
+
+#: credits_text[2]
+msgid "\"Kalberla, P.M.W. et al., 2005, A&A, 440, 775\""
+msgstr "\"Kalberla, P.M.W. et al., 2005, A&A, 440, 775\""
+
+#: credits_text[3]
+msgid "\"Mellinger, A., 2009, PASP, 121, 1180\""
+msgstr "\"Mellinger, A., 2009, PASP, 121, 1180\""
+
+#: credits_text[4]
+msgid "\"Schlegel, D.J., 1998, ApJ, 500, 525\""
+msgstr "\"Schlegel, D.J., 1998, ApJ, 500, 525\""
+
+#: credits_text[5]
+msgctxt "credits_text[5]"
+msgid "\"\""
+msgstr "\"\""
+
+#: credits_text[6]
+msgid "\"Site optimized for Firefox / Chrome / Safari\""
+msgstr "\"Situs dioptimisasi untuk Firefox / Chrome / Safari\""
+
+#: credits_contact
+msgid "\"Contact\""
+msgstr "\"Kontak\""
+
+#: credits_copyright
+msgid ""
+"\"copyright@EU-HOU - Design/Conception Antoine Radiguet - Philippe Salomé\""
+msgstr "\"hak cipta@EU-HOU - Desain/Konsep Antoine Radiguet - Philippe Salomé\""
+
+#: [mail]
+msgctxt "[mail]"
+msgid ""
+msgstr ""
+
+#: hello_user[1]
+msgid "\"Hello #,\" ; Hello Login"
+msgstr "\"Hello #,\" ; Hello Logmasuk"
+
+#: hello_user[2]
+msgctxt "hello_user[2]"
+msgid "\"\""
+msgstr "\"\""
+
+#: thank_user[1]
+msgctxt "thank_user[1]"
+msgid "\"\""
+msgstr "\"\""
+
+#: thank_user[2]
+msgid "\"Thank you\""
+msgstr "\"Terimakasih\""
+
+#: thank_user[3]
+msgid "\"The observatory team\""
+msgstr "\"Tim pengamat\""
+
+#: email_validation_subject
+msgid "\"Email confirmation\""
+msgstr "\"Konfirmasi Surel\""
+
+#: email_validation_mail[1]
+msgid "\"Thank you for creating your account\""
+msgstr "\"terimakasih sudah membuat akun\""
+
+#: email_validation_mail[2]
+msgid "\"To validate your email, please click on the link below\""
+msgstr "\"Untuk mensahkan surel anda, sila klik taut di bawah\""
+
+#: email_validation_mail[3]
+msgid ""
+"'<a href=\"http://euhou.obspm.fr/public/validEmail.php?login=#&validation=#\">"
+"Validation link</a>' ; Translate only  \"Validation link\" "
+msgstr ""
+"'<a "
+"href=\"http://euhou.obspm.fr/public/validEmail.php?login=#&validation=#\">Taut "
+"Pengesahan</a>' ; Translate only \"Validation link\" "
+
+#: time_confirmation_subject
+msgid "\"Reservation confirmation\""
+msgstr "\"Konfirmasi Pemesanan\""
+
+#: time_confirmation_mail[1]
+msgid "\"Your reservation have been saved\""
+msgstr "\"Reservasi anda sudah disimpan\""
+
+#: time_confirmation_mail[2]
+msgid ""
+"\"You can use the # radio telescope at # for # hour(s)\" ; You can use the "
+"Paris radiotelescope at 16h30 for 2 hour(s)"
+msgstr ""
+"\"Anda dapat menggunakan teleskop radio di # pada jam # selama # jam\" ; Anda "
+"dapat menggunakan teleskopradio di Paris pada jam 16h30 selama 2 jam"
+
+#: password_recovery_subject
+msgid "\"Password recovery\""
+msgstr "\"Pemulihan Kata Kunci\""
+
+#: password_recovery_mail[1]
+msgid "\"Forgot your password?\""
+msgstr "\"Lupa kata kunci?\""
+
+#: password_recovery_mail[2]
+msgid "\"To recover your account, please click on the link below\""
+msgstr "\"Untuk memulihkan akun anda, sila klik taut di bawah\""
+
+#: password_recovery_mail[3]
+msgid ""
+"'<a href=\"http://euhou.obspm.fr/public/passwordRecover.php?login=#&validatio"
+"n=#\">recover link</a>'; Translate only  \"Recover link\" "
+msgstr ""
+"'<a href=\"http://euhou.obspm.fr/public/passwordRecover.php?login=#&validatio"
+"n=#\">Taut Pemulihan</a>'; Translate only \"Recover link\" "
+
+#: password_recovery_mail[4]
+msgctxt "password_recovery_mail[4]"
+msgid "\"\""
+msgstr "\"\""
+
+#: password_recovery_mail[5]
+msgid ""
+"\"If you haven't ask for password recovery, please contact the administrator\""
+msgstr ""
+"\"Jika anda belum meminta pemulihan kata kunci. Sila kontak administrator\""
+
+#: user_registration_admin_notification_subject
+msgid "\"User registration\""
+msgstr "\"Pendaftaran pengguna\""
+
+#: user_registration_admin_notification_mail[1]
+msgid "\"Hello Admin\""
+msgstr "\"Halo Admin\""
+
+#: user_registration_admin_notification_mail[2]
+msgctxt "user_registration_admin_notification_mail[2]"
+msgid "\"\""
+msgstr "\"\""
+
+#: user_registration_admin_notification_mail[3]
+msgid "\"A user has just registered\""
+msgstr "\"Pengguna baru saja didaftarkan\""
+
+#: user_registration_admin_notification_mail[4]
+msgid ""
+"\"<br/><a href='http://euhou.obspm.fr/public/validUserList.php' >link</a>\"; "
+"Translate only  \"link\" "
+msgstr ""
+"\"<br/><a href='http://euhou.obspm.fr/public/validUserList.php' >taut</a>\"; "
+"Translate only \"link\" "
+
+#: account_validated_subject
+msgctxt "account_validated_subject"
+msgid "\"Your account has been validated\""
+msgstr "\"Akun anda sudah disahkan\""
+
+#: account_validated_mail[1]
+msgctxt "account_validated_mail[1]"
+msgid "\"Your account has been validated\""
+msgstr "\"Akun anda sudah disahkan\""
+
+#: account_validated_mail[2]
+msgid "\"You can reserve a time slot to observe\""
+msgstr "\"Anda dapat memesan slot waktu pengamatan\""
+
+#: delete_reservation_subject
+msgid "\"Your reservation(s) have been deleted\""
+msgstr "\"Pesanan anda sudah dihapus\""
+
+#: delete_reservation_notification
+msgid ""
+"\"Your reservation for the # radio telescope from # to # has been deleted by "
+"an admin of the website.\" ;Your reservation in the Paris radiotelescope from "
+"16h30 to 17h30 has been deleted by an administrator of the website.\""
+msgstr ""
+"\"Pesanan anda untuk teleskop radio di # dari # sampai # sudah dihapus oleh "
+"administrator situs web\"  ;Pesanan anda di radioteleskop Paris dari 16h30 "
+"sampai 17h30 sudah dihapus oleh administrator situs web\""
+
+#: delete_reservations_notification
+msgid ""
+"\"Your reservations in the # radio telescope from :\" ; Your reservations in "
+"the Paris radio telescope from:"
+msgstr ""
+"\"Pesanan anda untuk teleskop radio di # dari:\" ; Pesanan anda di teleskop "
+"radio Paris dari:"
+
+#: delete_reservations_list
+msgid "\"# to #;\" ; 16h30 to 17h30"
+msgstr "\"# sampai #;\" ; 16h30 sampai 17h30"
+
+#: delete_reservations_deleted
+msgid "\"have been deleted by an administrator of the website.\""
+msgstr "\"telah dihapus oleh administrator situs web\""
+
+#: delete_reservations_contact
+msgid "\"for more information, please contact the administrator.\""
+msgstr "\"untuk informasi lebih lanjut, sila kontak administrator.\""
+
+#: [archives]
+msgctxt "[archives]"
+msgid ""
+msgstr ""
+
+#: archives_title
+msgid "\"Comenius archives\""
+msgstr "\"Arsip Comenius\""
+
+#: id
+msgid "\"Id\""
+msgstr "\"Id\""
+
+#: user
+msgid "\"User\""
+msgstr "\"Pengguna\""
+
+#: all
+msgid "\"All\""
+msgstr "\"Semua\""
+
+#: num
+msgid "\"Num\""
+msgstr "\"No\""
+
+#: download_selected_fits
+msgid "\"download selected Fits\""
+msgstr "\"unduh Fits yang dipilih\""
+
+#: download_selected_CSV
+msgid "\"download selected CSV\""
+msgstr "\"unduh CSV yang dipilih\""
+
+#: [simulator]
+msgctxt "[simulator]"
+msgid ""
+msgstr ""
+
+#: simulator_title
+msgid "\"Comenius-Simulator\""
+msgstr "\"Simulator-Comenius\""
+
+#: [observator]
+msgctxt "[observator]"
+msgid ""
+msgstr ""
+
+#: command
+msgid "\"Command\""
+msgstr "\"Perintah\""
+
+#: results
+msgid "\"Results\""
+msgstr "\"Hasil\""
+
+#: freq
+msgid "\"freq\""
+msgstr "\"frek\""
+
+#: time
+msgid "\"Time\""
+msgstr "\"Waktu\""
+
+#: observe
+msgid "\"Observe\""
+msgstr "\"Pengamatan\""
+
+#: end_of_session
+msgid "\"End of session\""
+msgstr "\"Sesi sudah berakhir\""
+
+#: base
+msgid "\"base\""
+msgstr "\"basis\""
+
+#: [application]
+msgctxt "[application]"
+msgid ""
+msgstr ""
+
+#: galaxie_plan_radio
+msgid "\"Radio H21\""
+msgstr "\"Radio H21\""
+
+#: galaxie_plan_optic
+msgid "\"Optics\""
+msgstr "\"Optik\""
+
+#: galaxie_plan_infrarouge
+msgid "\"Infrared\""
+msgstr "\"Inframerah\""
+
+#: visibility
+msgid "\"Visibility\""
+msgstr "\"Kenampakan\""
+
+#: spectrum_legend
+msgid "\"T [K] .vs. V [km/s]\""
+msgstr "\"T [K] .vs. V [km/det]\""
+
+#: spectrum_send_max
+msgid "\"send max\""
+msgstr "\"maks kirim\""
+
+#: spectrum_clean
+msgid "\"clean\""
+msgstr "\"bersihkan\""
+
+#: control_longitude
+msgid "\"Lon\""
+msgstr "\"Bujur\""
+
+#: control_latitude
+msgid "\"Lat\""
+msgstr "\"Lintang\""
+
+#: simulate
+msgid "\"Simulate\""
+msgstr "\"Simulasikan\""
+
+#: rotation_curve
+msgid "\"Rotation Curve\""
+msgstr "\"Kurva Rotasi\""
+
+#: galaxie_map
+msgid "\"Galaxy map\""
+msgstr "\"Peta Galaksi\""
+
+#: clean_all
+msgid "\"Clean all\""
+msgstr "\"Bersihkan semua\""
+
+#: clean_last
+msgid "\"Clean last\""
+msgstr "\"Bersihkan yang terakhir\""
+
+#: rotation_curve_title
+msgid "\"Rotation curves V [km/s] .vs. R [kpc]\""
+msgstr "\"Kurva rotasi V [km/det] .vs. R [kpc]\""
+
+#: galaxie_map_title
+msgid "\"Map of the Milky Way X [kpc] , Y [kpc]\""
+msgstr "\"Peta Bima Sakti X [kpc] , Y [kpc]\""

@@ -1,0 +1,628 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="panneaux_fr.po" source-language="en-US" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Imagine light as a superposition of many individual waves that have different wavelengths (a wavelength is the distance over which the wave’s pattern repeats). For the light visible by human eyes, each wavelength can be associated with a colour. Have you ever tried illuminating a prism with a lamp? You obtain a beautiful rainbow, which is revealing the decomposition of the visible light into its single colours (or single wavelengths).  For a human eye, the visible range of wavelength lies between 400 and 700 nanometres (0.000000001 metres). We can see 400 nm as blue, and 700 nm as red.  But there are more wavelengths that our eyes cannot see: some shorter than blue, and some longer than red.">
+        <source>Imagine light as a superposition of many individual waves that have different wavelengths (a wavelength is the distance over which the wave’s pattern repeats). For the light visible by human eyes, each wavelength can be associated with a colour. Have you ever tried illuminating a prism with a lamp? You obtain a beautiful rainbow, which is revealing the decomposition of the visible light into its single colours (or single wavelengths).  For a human eye, the visible range of wavelength lies between 400 and 700 nanometres (0.000000001 metres). We can see 400 nm as blue, and 700 nm as red.  But there are more wavelengths that our eyes cannot see: some shorter than blue, and some longer than red.</source>
+        <target state="translated">Imaginez que la lumière est une superposition de plusieurs ondes qui ont différentes longueurs d'onde (une longueur d'onde est la distance entre deux maximum d'une onde). Pour la lumière visible à l'oeil humain, chaque longueur d'onde peut être associées à une couleur. Avez-vous déjà essayé d'éclairer un prisme avec une lampe ? Vous obtiendrez un bel arc-en-ciel, qui est en fait la décomposition de la lumière visible en ses couleurs élémentaires (chacune associées à une longueur d'onde). Pour un oeil humain, le domaine visible de longueurs d'onde se situe entre 400 et 700 nanomètres (0.000000001 mètres). Nous voyons 400 nm en bleu, et 700 nm en rouge. Mais il y a plus de longueurs d'onde invisible à l'oeil nu: celles plus courtes que le bleu, et celles plus longues que le rouge.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="visible">
+        <source>visible</source>
+        <target state="translated">visible</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What is a radio signal? ">
+        <source>What is a radio signal? </source>
+        <target state="translated">Qu'est ce qu'un signal radio ?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Light is a wave...">
+        <source>Light is a wave...</source>
+        <target state="translated">La lumière est une onde...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sunlight">
+        <source>sunlight</source>
+        <target state="translated">lumière du soleil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="intensity">
+        <source>intensity</source>
+        <target state="translated">intensité</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Red">
+        <source>Red</source>
+        <target state="translated">Rouge</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Orange">
+        <source>Orange</source>
+        <target state="translated">Orange</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Yellow">
+        <source>Yellow</source>
+        <target state="translated">Jaune</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Green">
+        <source>Green</source>
+        <target state="translated">Vert</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Blue">
+        <source>Blue</source>
+        <target state="translated">Bleu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Indigo">
+        <source>Indigo</source>
+        <target state="translated">Indigo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Violet">
+        <source>Violet</source>
+        <target state="translated">Violet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="(Newton’s primary colours defined in 1672)">
+        <source>(Newton’s primary colours defined in 1672)</source>
+        <target state="translated">(les couleurs primaires définies par Newton en 1672)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AM">
+        <source>AM</source>
+        <target state="translated">AM</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FM">
+        <source>FM</source>
+        <target state="translated">FM</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="VHF">
+        <source>VHF</source>
+        <target state="translated">VHF</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="UHF">
+        <source>UHF</source>
+        <target state="translated">UHF</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="microwaves">
+        <source>microwaves</source>
+        <target state="translated">micro-ondes</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cell phone">
+        <source>cell phone</source>
+        <target state="translated">téléphone portable</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Wifi Bluetooth">
+        <source>Wifi Bluetooth</source>
+        <target state="translated">Wifi Bluetooth</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="radars">
+        <source>radars</source>
+        <target state="translated">radars</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="atomic hydrogen line">
+        <source>atomic hydrogen line</source>
+        <target state="translated">raie de l'hydrogène atomique</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="CO emission line">
+        <source>CO emission line</source>
+        <target state="translated">raie d'émission du CO</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="thermographic camera">
+        <source>thermographic camera</source>
+        <target state="translated">caméra thermique</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="TV remote control">
+        <source>TV remote control</source>
+        <target state="translated">télécommande TV</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="UV desinfectant">
+        <source>UV desinfectant</source>
+        <target state="translated">désinfectant UV</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radiography (here, Radio is for Radiation!)">
+        <source>Radiography (here, Radio is for Radiation!)</source>
+        <target state="translated">Radiographie (ici Radio vient de Radiation!)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Dr. Banner’s experiments">
+        <source>Dr. Banner’s experiments</source>
+        <target state="translated">Expériences du Dr. Banner</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RADIO">
+        <source>RADIO</source>
+        <target state="translated">RADIO</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="IR">
+        <source>IR</source>
+        <target state="translated">IR</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="UV">
+        <source>UV</source>
+        <target state="translated">UV</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="X-RAY">
+        <source>X-RAY</source>
+        <target state="translated">Rayons X</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="GAMMA RAY">
+        <source>GAMMA RAY</source>
+        <target state="translated">Rayons GAMMA</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="visible light">
+        <source>visible light</source>
+        <target state="translated">lumière visible</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Light also carries energy, and the amount of energy depends on the wavelength: the shorter the wavelength, the more energetic the light beam is. Take short wavelength UV light for example: a little is good for the tan, but too much can cause sunburns! Conversely, longer wavelengths are associated with weaker energies. FM radio emissions for example, are harmless to us. In the Universe at large, energetic phenomenon like supernovae emits lots of X-Rays and Gamma Ray which are even more energetic than UV. But the cold gas lying in between stars, or some cold dust particles for example, emit low energy radiations at long wavelengths that fall into the Radio domain.">
+        <source>Light also carries energy, and the amount of energy depends on the wavelength: the shorter the wavelength, the more energetic the light beam is. Take short wavelength UV light for example: a little is good for the tan, but too much can cause sunburns! Conversely, longer wavelengths are associated with weaker energies. FM radio emissions for example, are harmless to us. In the Universe at large, energetic phenomenon like supernovae emits lots of X-Rays and Gamma Ray which are even more energetic than UV. But the cold gas lying in between stars, or some cold dust particles for example, emit low energy radiations at long wavelengths that fall into the Radio domain.</source>
+        <target state="translated">La lumière véhicule aussi de l'énergie, et la quantité d'énergie dépend de la longueur d'onde: plus la longueur d'onde est petite, et plus l'énergie associée est grande. Prenez par exemple la lumière UV (courte longueur d'onde): un peu c'est bon pour le tain, mais trop c'est le coup de soleil assuré! A l'inverse, les longues longueurs d'onde sont associées à des énergies plus faibles. Par example, les émissions radio FM sont inoffensives pour nous. Dans l'Univers, des phénomènes énergétiques comme les supernovae émettent beaucoup de rayons X et de rayons Gamma, encore plus énergétiques que l'UV. Mais le gas froid entre les étoiles, ou la poussière froide par exemple, émettent des énergies faibles, à des longueurs d'ondes longues qui tombent dans le domaine Radio</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Why is this gas cold? There are stars everywhere, so shouldn’t it be very hot?! Well, it’s true that a galaxy can contain something like a hundred billion of stars. But the distance between them is huge! For example, Proxima Centauri is the closest star from the Sun. It’s at 4.2 light-years from us. That means 40,000,000,000,000 km! At those kinds of distances, the stars do not heat the gas very much!  That’s why astronomers observe the interstellar gas in radio!">
+        <source>Why is this gas cold? There are stars everywhere, so shouldn’t it be very hot?! Well, it’s true that a galaxy can contain something like a hundred billion of stars. But the distance between them is huge! For example, Proxima Centauri is the closest star from the Sun. It’s at 4.2 light-years from us. That means 40,000,000,000,000 km! At those kinds of distances, the stars do not heat the gas very much!  That’s why astronomers observe the interstellar gas in radio!</source>
+        <target state="translated">Pourquoi le gas est-il froid ? Il y a des étoiles partout, donc il devrait être très chaud ! Et bien il est vrai qu'une galaxy peut contenir quelque chose comme des centaines de milliards d'étoiles. Mais les distances entre elles sont énormes ! Par exemple, Proxima Centauri est la plus proche étoile du Soleil. Elle est à 4.2 années lumière. Soit 40,000,000,000,000 km ! A des distances comme celle-là, les étoiles ne chauffent pas beaucoup le gas ! C'est pour cela que les astronomes observent le gas interstellaire en radio !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Light can be considered as a wave, and also as a particle. Like a wave, it can create interference patterns, like two water waves hitting each other. But it can also be emitted photon by photon, and the photons can be counted in a receiver! Difficult to imagine? Well, take a cylinder. If you illuminate it on its side, its shadow is a square. But illuminate its face, and its shadow becomes a sphere!">
+        <source>Light can be considered as a wave, and also as a particle. Like a wave, it can create interference patterns, like two water waves hitting each other. But it can also be emitted photon by photon, and the photons can be counted in a receiver! Difficult to imagine? Well, take a cylinder. If you illuminate it on its side, its shadow is a square. But illuminate its face, and its shadow becomes a sphere!</source>
+        <target state="translated">La lumière peut être considérée comme une onde, mais aussi comme une particule. Comme une onde, elle peut créer des interférences, comme deux vagues qui se brisent l'une contre l'autre. Mais elle peut aussi être émise photon par photon, et ces photons peuvent être comptés dans un récepteur ! Un paradoxe difficile à imaginer ? Et bien prenez un cylindre. Si vous en illuminez le coté, l'ombre du cylindre est un rectangle. Mais illuminez le de face, et son ombre devient une sphère !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Did you know?">
+        <source>Did you know?</source>
+        <target state="translated">Le saviez-vous ?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="So radio waves are just a kind of light. ">
+        <source>So radio waves are just a kind of light. </source>
+        <target state="translated">Les ondes radio sont donc de la lumière.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What do we use them for?">
+        <source>What do we use them for?</source>
+        <target state="translated">Pourquoi s'en sert-on ?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="On Earth, we use radio waves mainly for communication purpose. Why? Because they propagate easily through the atmosphere, and even under water.  The radio domain is a wide range of wavelengths, extending from kilometres to millimetres. The way they propagate strongly depends on their wavelength, and we take advantage of these different modes of propagation to create our very complex and diverse communication system:">
+        <source>On Earth, we use radio waves mainly for communication purpose. Why? Because they propagate easily through the atmosphere, and even under water.  The radio domain is a wide range of wavelengths, extending from kilometres to millimetres. The way they propagate strongly depends on their wavelength, and we take advantage of these different modes of propagation to create our very complex and diverse communication system:</source>
+        <target state="translated">Sur Terre, on utilise les ondes radio principalement pour communiquer. Pourquoi ? Parce qu'elles se propagent facilement à travers l'atmosphère, et même sous l'eau. Le domaine radio est un large domaine de longueurs d'onde, s'étendant du kilomètre au millimètre. La façon dont elles se propagent dépend fortement de leur longueur d'onde, et nous nous servons de ces différents modes de propagation pour creer notre système de communication :</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Kilometre wavelengths propagate through surface waves and follow the curvature of the Earth. With enough emission power, they can reach up to 1000 km. They also propagate under water, that’s why they are often used by submarines. Be careful though, it’s not Sonar! Sonar stands for SOund Navigation And Ranging. It’s a technique that uses sound propagation underwater, not light!  Amateur radio operators use decametre wavelengths. These wavelengths are very interesting because they are reflected by the Earth’s ionosphere. This means that an amateur radio signal sent to the sky bounces onto the ionosphere back to Earth, and propagates very far. Sometimes it can even reach the antipodes! Why sometimes? Well the reflection processes depends on the state of the ionosphere.  Wavelengths below about a metre propagate directly in straight lines from the emitter, almost like visible light. It’s the domain of FM broadcasting, TV emission, Wi-Fi, Bluetooth, etc. These wavelengths are less affected by the ionosphere, that’s why we need satellites to relay them and send them back to Earth.">
+        <source>Kilometre wavelengths propagate through surface waves and follow the curvature of the Earth. With enough emission power, they can reach up to 1000 km. They also propagate under water, that’s why they are often used by submarines. Be careful though, it’s not Sonar! Sonar stands for SOund Navigation And Ranging. It’s a technique that uses sound propagation underwater, not light!  Amateur radio operators use decametre wavelengths. These wavelengths are very interesting because they are reflected by the Earth’s ionosphere. This means that an amateur radio signal sent to the sky bounces onto the ionosphere back to Earth, and propagates very far. Sometimes it can even reach the antipodes! Why sometimes? Well the reflection processes depends on the state of the ionosphere.  Wavelengths below about a metre propagate directly in straight lines from the emitter, almost like visible light. It’s the domain of FM broadcasting, TV emission, Wi-Fi, Bluetooth, etc. These wavelengths are less affected by the ionosphere, that’s why we need satellites to relay them and send them back to Earth.</source>
+        <target state="translated">Les longueurs d'onde kilométriques se propagent par des ondes de surface et suivent la courbure de la Terre. Avec assez de puissance, elles peuvent atteindre jusqu'à 1000 km. Elles se propagent aussi sous l'eau, c'est pour cela qu'elles sont souvent utilisées par les  sous-marins. Mais attention ! Ce n'est pas un Sonar ! Sonar veut dire SOund Navigation And Ranging. C'est une technique qui utilise la propagation du son dans l'eau. Du son, pas de la lumière ! Les radio amateurs utilisent les longueurs d'onde décamétriques. Elles sont très intéressantes car elles sont réfléchies par l'ionosphère de la Terre. Cela veut dire qu'un signal radio envoyé par un radio amateur rebondi sur la ionosphère vers la Terre, ce qui lui fait parcourir plus de distance. Parfois elles se propagent même jusqu'aux antipodes ! Pourquoi parfois ? Et bien parce que les processus de reflection dépendent de l'état de l'ionosphère. Les longueurs d'onde radio en dessous d'un mètre se propagent directement en ligne droite, presque comme la lumière visible. C'est le domaine de la bande FM, des signaux TV, du Wi-Fi, du Bluetooth, etc. Ces longueurs d'ondes ne sont plus affectées par l'ionosphère, c'est pourquoi nous avons besoin de satellites pour les relayer sur Terre.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ionosphere">
+        <source>ionosphere</source>
+        <target state="translated">ionosphère</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="KILOMETER wavelenghts">
+        <source>KILOMETER wavelenghts</source>
+        <target state="translated">Longueurs d'onde KILOMETRIQUES</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="DECAMETER wavelenghts">
+        <source>DECAMETER wavelenghts</source>
+        <target state="translated">Longueurs d'onde DECAMETRIQUES</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="METER wavelenghts">
+        <source>METER wavelenghts</source>
+        <target state="translated">Longueurs d'onde METRIQUES</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="So radio waves are light, not sound. How come I can listen to my favourite songs with my radio? Well, suppose you want to share a song with your friend, 100m away from you. You could shout it very loudly but it would require a huge amount of energy to be heard, which would most likely result in a sore throat and some angry neighbours… Instead you could use your flashlight, translate it into Morse code and send it to your friend. By doing that, you have solved the problem of energy and distance, but you have lost a lot of information in the process. To keep all the information, you have to code the light you are sending in a specific way, so that your friend can receive and decode it easily.  This is called signal processing. Frequency Modulation (FM yes, like in FM radio!) is a kind of signal processing that is very easy and cheap to implement. You just modulate the light signal you are sending (the carrier wave) by varying its instantaneous frequency according to that of your message (your song for example). The signal is sent «modulated», and your radio «demodulates» it back to its original form and transmits it to its speakers, thus converting light back into sound!">
+        <source>So radio waves are light, not sound. How come I can listen to my favourite songs with my radio? Well, suppose you want to share a song with your friend, 100m away from you. You could shout it very loudly but it would require a huge amount of energy to be heard, which would most likely result in a sore throat and some angry neighbours… Instead you could use your flashlight, translate it into Morse code and send it to your friend. By doing that, you have solved the problem of energy and distance, but you have lost a lot of information in the process. To keep all the information, you have to code the light you are sending in a specific way, so that your friend can receive and decode it easily.  This is called signal processing. Frequency Modulation (FM yes, like in FM radio!) is a kind of signal processing that is very easy and cheap to implement. You just modulate the light signal you are sending (the carrier wave) by varying its instantaneous frequency according to that of your message (your song for example). The signal is sent «modulated», and your radio «demodulates» it back to its original form and transmits it to its speakers, thus converting light back into sound!</source>
+        <target state="translated">Les ondes radio sont donc de la lumière, pas du son. Alors comment expliquer que je peux écouter mes chansons favorites à la radio ? Et bien supposons que vous voulez partager une chanson avec un ami, à 100m de vous. Vous pourriez lui hurler la chanson, ce qui demanderait pas mal d'énergie pour être entendu, et résulterait probablement en un bon mal de gorge et des voisins pas très contents... A la place, vous pourriez utiliser une lampe, traduire la chanson en Morse, et l'envoyer à votre ami. En faisant cela, vous avez résolu le problème de l'énergie et de la distance, mais vous avez perdu beaucoup d'information en route. Pour garder toute l'information, you devrez coder la lumière que vous envoyez d'une manière plus spécifique, pour que votre ami puisse la recevoir et la décoder facilement. Cela s'appelle du traitement du signal. La modulation de fréquence (oui FM, comme la radio FM !) est un type de traitement du signal qui est très facile et peu couteux à mettre en place. Il suffit de moduler la lumière envoyée (la porteuse) en faisant varier sa fréquence en fonction de la fréquence du signal de votre message (votre chanson par exemple). Le signal est envoyé modulé, et votre radio le démodule à sa forme original et le transmet aux enceintes, convertissant ainsi la lumière en son !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Other signal processing methods are used, like Amplitude Modulation (AM) or Phase Modulation (PM) to transmit information. Wi-Fi, for example, uses a combination of FM and PM.">
+        <source>Other signal processing methods are used, like Amplitude Modulation (AM) or Phase Modulation (PM) to transmit information. Wi-Fi, for example, uses a combination of FM and PM.</source>
+        <target state="translated">D'autre méthodes de traitement du signal sont utilisés, comme la modulation d'amplitude (AM) ou la modulation de phase (PM). Le Wi-Fi, par exemple, utilise une combinaison entre FM et PM.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The ionosphere is a layer of electrons and other electrically charged particles in the upper atmosphere. It starts at around 80 km from the ground. At this altitude, the atmosphere is too thin to shield the particles from the Solar radiation. Atoms and molecules are hit directly with very energetic light like UV and X-Ray, and this causes them to break and lose some electrons. Their neutral balance is disturbed and they become electrically charged. The resulting mixture of electrons and charged particles is called plasma, and it is responsible for the reflection power of the ionosphere at decametre wavelengths.  During the day, Sunbeams hit the ionosphere and produce a lot of charged particles; the ionosphere becomes unstable and cannot reflect the radio signals very efficiently. But at night, the ionosphere is less perturbed and almost acts as a smooth mirror. This is why amateur radio operators prefer to send their long-distance call during the night!">
+        <source>The ionosphere is a layer of electrons and other electrically charged particles in the upper atmosphere. It starts at around 80 km from the ground. At this altitude, the atmosphere is too thin to shield the particles from the Solar radiation. Atoms and molecules are hit directly with very energetic light like UV and X-Ray, and this causes them to break and lose some electrons. Their neutral balance is disturbed and they become electrically charged. The resulting mixture of electrons and charged particles is called plasma, and it is responsible for the reflection power of the ionosphere at decametre wavelengths.  During the day, Sunbeams hit the ionosphere and produce a lot of charged particles; the ionosphere becomes unstable and cannot reflect the radio signals very efficiently. But at night, the ionosphere is less perturbed and almost acts as a smooth mirror. This is why amateur radio operators prefer to send their long-distance call during the night!</source>
+        <target state="translated">L'ionosphère est une couche d'électrons et autres particules chargées dans la haute atmosphère. Elle commence à environ 80 km du sol. A cette altitude, l'atmosphère est trop mince pour protéger ces particules des radiations Solaires. Les atomes et les molécules sont percutées par de la lumière très énergétique, comme l'UV et les rayons X. Cela les cassent et leur fait perdre des électrons. Leur balance électronique est perturbées et ils deviennent chargés. Le mélange d'électrons et de particules chargées et appelé plasma, c'est lui qui est responsable de la reflection des ondes décamétriques. Durant le jour, les rayons du soleil tapent sur l'ionosphère et produisent des particules chargées; l'ionosphère devient alors instable et ne réfléchit pas les signaux radio très efficacement. Mais la nuit, l'ionosphère est beaucoup moins perturbée et agit presque comme un miroir. C'est pour cela que les radio amateurs préfèrent envoyer leurs communications pendant la nuit !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frequency Modulation (F.M.)">
+        <source>Frequency Modulation (F.M.)</source>
+        <target state="translated">Modulation de fréquence (F.M.)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What is the ionosphere?">
+        <source>What is the ionosphere?</source>
+        <target state="translated">Qu'est-ce que l'ionosphère ?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="While light can propagate in empty spaces, sound cannot. This is because sound waves need a medium they can vibrate into. You can listen to a piano melody because each time the pianist presses a key, a small hammer hits a string and makes it vibrate. The vibration then propagates into the air, until it reaches a receiver like a human ear for example. The ear is in fact a small vibrating membrane (the ear-drum) connected to small bones that transmits the vibration to our nervous system.">
+        <source>While light can propagate in empty spaces, sound cannot. This is because sound waves need a medium they can vibrate into. You can listen to a piano melody because each time the pianist presses a key, a small hammer hits a string and makes it vibrate. The vibration then propagates into the air, until it reaches a receiver like a human ear for example. The ear is in fact a small vibrating membrane (the ear-drum) connected to small bones that transmits the vibration to our nervous system.</source>
+        <target state="translated">Si la lumière peut se propager dans un espace vide, le son, lui, ne peut pas. C'est parce que le son a besoin d'un milieu dans lequel il peut se propager en vibrant. Vous pouvez entendre la mélodie d'un piano parce qu'à chaque fois que le pianiste appuie sur une touche, un petit marteau frappe une corde et la fait vibrer. La vibration se propage dans l'air, jusqu'à ce qu'elle rencontre un récepteur, comme une oreille humaine par exemple. L'oreille, c'est juste une petite membrane vibrante (le tympan) connectée à des petits os qui transmettent la vibration à notre système nerveux.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Light and sound are both waves, but their nature is very different.">
+        <source>Light and sound are both waves, but their nature is very different.</source>
+        <target state="translated">La lumière et le son sont tous les deux des ondes, mais leur nature est très différente.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Why do astronomers use ">
+        <source>Why do astronomers use </source>
+        <target state="translated">Pourquoi les astronomes utilisent</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="very big telescopes?">
+        <source>very big telescopes?</source>
+        <target state="translated">de très grands télescopes ?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="One crucial parameter when observing the sky is the spatial resolution. The spatial resolution is the smallest detail a telescope can observe. The smaller it is, the more details you will observe on your source. The resolution of a telescope, Θ, is proportional to the wavelength, λ, at which you are observing, and inversely proportional to the diameter of the telescope, Φ. Or simply put:   So, the more precision we want, the bigger the telescope must be, especially at high wavelengths.  How big? Well, let’s do the maths. Let say I want to see someone standing on the Moon with an optical telescope., and to see him with a bit of detail, I want to make an image of him that has a height of 10 pixels. The man on the Moon is 2m tall.  First, let’s calculate his apparent size. The apparent size is the angle δ under which an object of size d is seen at a distance D. Using trigonometric relations, it’s fairly easy to find that sin(δ) = d/D. As δ is very small, this simplifies to δ ≈ d/D.  ">
+        <source>One crucial parameter when observing the sky is the spatial resolution. The spatial resolution is the smallest detail a telescope can observe. The smaller it is, the more details you will observe on your source. The resolution of a telescope, Θ, is proportional to the wavelength, λ, at which you are observing, and inversely proportional to the diameter of the telescope, Φ. Or simply put:   So, the more precision we want, the bigger the telescope must be, especially at high wavelengths.  How big? Well, let’s do the maths. Let say I want to see someone standing on the Moon with an optical telescope., and to see him with a bit of detail, I want to make an image of him that has a height of 10 pixels. The man on the Moon is 2m tall.  First, let’s calculate his apparent size. The apparent size is the angle δ under which an object of size d is seen at a distance D. Using trigonometric relations, it’s fairly easy to find that sin(δ) = d/D. As δ is very small, this simplifies to δ ≈ d/D.  </source>
+        <target state="translated">Un paramètre crucial à prendre en compte quand on observe le ciel est la résolution spatiale. La résolution spatiale est le plus petit détail qu'un télescope peut observer. Plus elle est petite et plus on peut observer des détails dans la source. La résolution d'un télescope, Θ, est proportionnelle à la longueur d'onde, λ, à laquelle on observe, et inversement proportionnelle au diamètre du télescope. Ou plus simplement : Donc plus on veut être précis, et plus le télescope doit être grand, surtout aux grandes longueurs d'onde. Grand comment ? Et bien faisons le calcul. Disons que je veux voir quelqu'un sur la Lune avec un télescope optique, et pour le voir avec un peu de détails, je voudrais en faire un image de 10 pixels de haut. La personne sur la Lune fait 2m. Premièrement, calculons sa taille apparente. La taille apparente est l'angle δ sous lequel est vu un objet de taille d à une distance D. Un peu de trigonomètrie, et l'on peut trouver assez facilement que sin(δ) = d/D. Comme δ est très petit, on peut simplifier : δ ≈ d/D.  </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Diameter">
+        <source>Diameter</source>
+        <target state="translated">Diamètre</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Here, D is the distance to the Moon, which is hidden somewhere in this poster. If you want to calculate δ be careful that d and D are in the same units! You obtain δ in radian.  Now, we said we need 10 pixels to sample our image of the man, so our spatial resolution Θ should be equal to δ/10  Using the formula of the spatial resolution, and the center wavelength of the visible spectrum (it’s probably somewhere on another poster, you will have to look for it – again: be careful with the units!), you can now calculate the diameter of the telescope you will have to build.  You have it? Here’s a hint: it’s roughly the width of Central park in New York. It’s also 3 times the height of the Eiffel Tower…  This explains why astronomers always thrive for bigger telescopes! And the spatial resolution issue becomes critical at longer wavelengths. For radio observations, the telescopes are gigantic.">
+        <source>Here, D is the distance to the Moon, which is hidden somewhere in this poster. If you want to calculate δ be careful that d and D are in the same units! You obtain δ in radian.  Now, we said we need 10 pixels to sample our image of the man, so our spatial resolution Θ should be equal to δ/10  Using the formula of the spatial resolution, and the center wavelength of the visible spectrum (it’s probably somewhere on another poster, you will have to look for it – again: be careful with the units!), you can now calculate the diameter of the telescope you will have to build.  You have it? Here’s a hint: it’s roughly the width of Central park in New York. It’s also 3 times the height of the Eiffel Tower…  This explains why astronomers always thrive for bigger telescopes! And the spatial resolution issue becomes critical at longer wavelengths. For radio observations, the telescopes are gigantic.</source>
+        <target state="translated">Ici, D est la distance de la Terre à la Lune, cachée quelque part dans ce poster. Si vous calculez δ faites attention que d et D soient dans la même unité ! Vous obtenez δ en radian. Maintenant, nous voulions une image de l'homme de 10 pixels de haut, donc notre résolution spatiale Θ devrait être égale à δ/10 En utilisant la formule de la résolution spatiale, et la longueur d'onde centrale du visible (elle est probablement dans un autre poster – attention aux unités !), vous pouvez maintenant calculer le diamètre du télescope que vous devriez construire. Vous l'avez ? Un indice : c'est à peu près la largeur du Central Park à New York. C'est aussi 3 fois la taille de la Tour Eiffel... Voilà qui explique pourquoi les astronomes veulent des télescopes toujours plus grands ! Et le problème de la résolution spatiale devient de plus en plus critique aux grandes longueurs d'onde. Pour les observations radio, les télescopes sont gigantesques.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Take for example the Arecibo Observatory: this huge telescope of 305 m diameter is the largest telescope ever built. It is located on the island of Puerto Rico, in the Caribbean. It observes a wide area of centimetre wavelengths. Its impressive size has earned him several appearances in movies, like in the James Bond film: GoldenEye. Another example is the Nançay Radio Telescope in France:  Located 2h south of Paris in the Sologne forest near Orleans, this 460 m long radio telescope has two huge mirrors: a plane one of 200x40 m and a spherical one of 300x35 m. Centimetre radio waves are collected by the focal carriage at the centre of the instrument. The plane mirror is movable vertically, only allowing observations of objects passing through the local meridian. It is thus called a meridian instrument. ">
+        <source>Take for example the Arecibo Observatory: this huge telescope of 305 m diameter is the largest telescope ever built. It is located on the island of Puerto Rico, in the Caribbean. It observes a wide area of centimetre wavelengths. Its impressive size has earned him several appearances in movies, like in the James Bond film: GoldenEye. Another example is the Nançay Radio Telescope in France:  Located 2h south of Paris in the Sologne forest near Orleans, this 460 m long radio telescope has two huge mirrors: a plane one of 200x40 m and a spherical one of 300x35 m. Centimetre radio waves are collected by the focal carriage at the centre of the instrument. The plane mirror is movable vertically, only allowing observations of objects passing through the local meridian. It is thus called a meridian instrument. </source>
+        <target state="translated">Prenez par exemple l'observatoire d'Arecibo : ce télescope de 305m de diamètre est le plus grand télescope jamais construit. Il est situé sur l'île de Porto Rico, dans les caraïbes. Il observe un grand domaine d'ondes radio. Sa taille impressionante lui a valu de figurer dans quelques films, comme dans le James Bond GoldenEye. Un autre exemple est le Radio Télescope de Nançay, en France : situé à 2h au sud de Paris dans la Sologne, près d'Orléans, ce radio télescope de 460m de long possède deux grands miroirs : un miroir plan de 200x400m et un sphérique de 300x35m. Les ondes centimétriques sont collectées par le chariot focal, au centre de l'instrument. Le miroir plan est orientable verticalement, permettant d'observer des objets passant au méridien du lieu. On dit que c'est un instrument méridien.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="A diameter of 305 m is impressive in size, and it’s also a technical challenge to keep the surface of the mirror regular so that the radio signals can converge to the same point. So does that mean that it is the best we could ever do? Well, hopefully we will be able to do even better. One observing technique can overcome this limit: it’s called interferometry.">
+        <source>A diameter of 305 m is impressive in size, and it’s also a technical challenge to keep the surface of the mirror regular so that the radio signals can converge to the same point. So does that mean that it is the best we could ever do? Well, hopefully we will be able to do even better. One observing technique can overcome this limit: it’s called interferometry.</source>
+        <target state="translated">Un diamètre de 305m est impressionnant, c'est aussi un challenge technique pour garder sa surface régulière pour que les signaux radio convergent tous au même point. Alors cela veut-il dire que c'est le mieux que l'on puisse faire ? Et bien nous pouvons faire bien mieux ! Une technique d'observation peut passer outre cette limite technique. C'est l'interférométrie.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Arecibo Observatory">
+        <source>The Arecibo Observatory</source>
+        <target state="translated">L'Observatoire d'Arecibo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Nançay Radio Telescope">
+        <source>The Nançay Radio Telescope</source>
+        <target state="translated">Le Radio Télescope de Nançay</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="the Interferometry Technique ">
+        <source>the Interferometry Technique </source>
+        <target state="translated">La technique de l'interférométrie</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Better, stronger, but a bit more difficult!">
+        <source>Better, stronger, but a bit more difficult!</source>
+        <target state="translated">Plus beau, plus efficace, mais un peu plus difficile !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The difficulty in achieving high resolutions with single-dish radio telescopes has led the use of another observing technique: Interferometry.   First of all, what is interference? To understand the concept of interference, let’s visualise the light as a wave. If a surface with two small holes in it gets illuminated, it should produce this effect:">
+        <source>The difficulty in achieving high resolutions with single-dish radio telescopes has led the use of another observing technique: Interferometry.   First of all, what is interference? To understand the concept of interference, let’s visualise the light as a wave. If a surface with two small holes in it gets illuminated, it should produce this effect:</source>
+        <target state="translated">Les difficultés à atteindre des hautes résolutions spatiales avec des télescopes uniques ont conduit à utiliser une autre technique : l'interférométrie. En premier lieu, qu'est-ce-qu'une interférence ? Pour comprendre ce concept, visualisons la lumière comme une onde. Quand une surface avec deux petits trous est illuminée, cela produit cet effet: </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Where the two waves coming out the holes overlap, they will add up if they are in phase, or cancel each other when they are out of phase. Something similar to this happen when you push someone on a swing: your friend will gain height only if your movements are in phase with the movements of the swing. With the light experiment depicted above, here is what you can observe on a screen:">
+        <source>Where the two waves coming out the holes overlap, they will add up if they are in phase, or cancel each other when they are out of phase. Something similar to this happen when you push someone on a swing: your friend will gain height only if your movements are in phase with the movements of the swing. With the light experiment depicted above, here is what you can observe on a screen:</source>
+        <target state="translated">Quand les deux ondes se chevauchent, elles s'additionnent si elles sont en phase, et s'annulent si elles sont en opposition de phase. C'est un peu la même chose que pousser quelqu'un sur une balançoire : votre ami gagnera de l'altitude seulement si vos mouvements sont en phase avec le mouvement de la balançoire. Avec l'expérience décrite ci-dessus, voilà ce que vous pourriez observer sur un écran :</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Want to do this at home? Well, that’s fairly easy as long as you have a laser pointer and three pieces of pencil lead. Hold the three pieces of lead between your thumb and your index, and try to make them as parallel as possible. Put them in front of your laser pointer, and look at the result on the wall: there you have it! You’ve just created interferences!">
+        <source>Want to do this at home? Well, that’s fairly easy as long as you have a laser pointer and three pieces of pencil lead. Hold the three pieces of lead between your thumb and your index, and try to make them as parallel as possible. Put them in front of your laser pointer, and look at the result on the wall: there you have it! You’ve just created interferences!</source>
+        <target state="translated">Vous voulez tester chez vous ? C'est assez facile si vous disposez d'un pointeur laser et de trois mine de critérium. Tenez les trois mines entre le pouce et l'index, de manière à ce qu'elles soient les plus parallèles possibles. Mettez les devant votre faisceau laser et regardez le résultat sur un mur : et voilà ! Vous venez de creer des interférences !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="So what happens with an astronomical source in radio waves?">
+        <source>So what happens with an astronomical source in radio waves?</source>
+        <target state="translated">Que ce passe-t-il pour une source astronomique émettant en radio ?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Plateau de Bure Interferometer: on a plateau in the south of France, near Gap, is a network of six antennas of 15 m in diameter, observing in the millimetre range. They can move on rails and their maximum extension can reach up to 700 m.">
+        <source>The Plateau de Bure Interferometer: on a plateau in the south of France, near Gap, is a network of six antennas of 15 m in diameter, observing in the millimetre range. They can move on rails and their maximum extension can reach up to 700 m.</source>
+        <target state="translated">L'interféromètre du Plateau de Bure : sur un plateau dans le sud de la France, près de Gap, c'est un réseau de 6 antennes de 15m de diamètre, observant dans le domaine millimétrique. Elles peuvent bouger sur un rail et l'extension maximum du réseau peut atteindre 700m. </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Very Large Array: featured in the famous movie Contact. This interferometer is located in the desert plains of New Mexico, near Socorro, and observes in centimetre wavelengths. It’s a network of 27 movable antennas, put together to reach impressive spatial resolutions. Indeed the, array configurations are spanning from 1 km up to 36 km!">
+        <source>The Very Large Array: featured in the famous movie Contact. This interferometer is located in the desert plains of New Mexico, near Socorro, and observes in centimetre wavelengths. It’s a network of 27 movable antennas, put together to reach impressive spatial resolutions. Indeed the, array configurations are spanning from 1 km up to 36 km!</source>
+        <target state="translated">Le Very Large Array : présent dans le célèbre film Contact. Cet interféromètre est situé dans les plaines désertiques du Nouveau Mexique, à coté de Socorro, et il observe des longueurs d'onde centimétriques. C'est un réseau de 27 antennes, mis ensemble pour atteindre une résolution spatiale impressionante. En effet, le réseau peut s'étendre entre 1km et 36km !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="In a simple two-element radio interferometer, the signals from source alternately arrive in phase and out of phase as the Earth rotates and causes a change in the difference in path (the “d” on the picture) from the radio source to the two elements of the interferometer. This produces interference fringes in a manner similar to what was shown in the double slit experiment with visible light.  If the radio source has finite angular size, then “d” varies across the source. The measured interference fringes from the interferometer pair thus depend on the detailed nature of the radio «brightness» distribution in the sky. For a radio interferometer with several antennas, each pair produces different fringes, and information from the fringes can be used to reconstruct the original image.">
+        <source>In a simple two-element radio interferometer, the signals from source alternately arrive in phase and out of phase as the Earth rotates and causes a change in the difference in path (the “d” on the picture) from the radio source to the two elements of the interferometer. This produces interference fringes in a manner similar to what was shown in the double slit experiment with visible light.  If the radio source has finite angular size, then “d” varies across the source. The measured interference fringes from the interferometer pair thus depend on the detailed nature of the radio «brightness» distribution in the sky. For a radio interferometer with several antennas, each pair produces different fringes, and information from the fringes can be used to reconstruct the original image.</source>
+        <target state="translated">Pour un interféromètre simple à deux éléments, le signal de la source arrive alternativement en phase et en opposition de phase à mesure que la Terre tourne et que la difference de chemin ("d" sur la figure) varie. Cela produit des franges d'interférence similaires à celles que l'on a pu voir dans l'expérience avec les deux fentes. Si la source radio a une taille angulaire définie, alors "d" varie en parcourant la source. Les franges d'interférence mesurées dépendent donc de la distribution de brillance de la source radio. Pour un interféromètre avec plusieurs antennes, chaque pair produit des franges légèrement différentes, et les informations des franges peuvent être utilisées pour reconstruire l'image d'origine.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Atacama Large Millimeter Array (ALMA) will initially be composed of 66 high-precision antennas working together at millimeter and submillimeter wavelengths, with a possible extension in the future. Thanks to its high resolution and sensitivity, ALMA will bring a new vision of the Universe, allowing scientists to unravel longstanding and important astronomical mysteries.">
+        <source>The Atacama Large Millimeter Array (ALMA) will initially be composed of 66 high-precision antennas working together at millimeter and submillimeter wavelengths, with a possible extension in the future. Thanks to its high resolution and sensitivity, ALMA will bring a new vision of the Universe, allowing scientists to unravel longstanding and important astronomical mysteries.</source>
+        <target state="translated">ALMA (Atacama Large  Millimeter Array) sera composé de 66 antennes de haute précision, observant ensemble des longueurs d'onde millimétriques et sub-millimétriques. Grâce à sa haute résolution et sa grande sensibilité, ALMA apportera une vision nouvelle de l'Univers, permettant ainsi aux scientifiques d'étudier des mystères astronomiques encore inexpliqués.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Now you know how to reconstruct an image from interference patterns. But what’s the point of all this? It’s a very important point: in interferometry, the spatial resolution is not calculated from the diameter of the telescopes, but from the longest distance between a pair of telescopes! This means that an interferometer with telescopes distant from 1 km can obtain an image as if it was taken by a single-dish telescope of this diameter!">
+        <source>Now you know how to reconstruct an image from interference patterns. But what’s the point of all this? It’s a very important point: in interferometry, the spatial resolution is not calculated from the diameter of the telescopes, but from the longest distance between a pair of telescopes! This means that an interferometer with telescopes distant from 1 km can obtain an image as if it was taken by a single-dish telescope of this diameter!</source>
+        <target state="translated">Maintenant vous savez comment reconstruire une image depuis des franges d'interférence. Mais quel est le but de tout ceci ? C'est un point très important : en interférométrie, la résolution spatiale n'est plus fonction du diamètres des télescopes, mais de la distance maximale entre deux télescopes ! Cela veut dire qu'un interféromètre avec des télescopes distants de 1km peut obtenir une image comme si elle avait été prise d'un télescope de 1km de diamètre !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="In recognition of their contributions to the development of radio interferometry using the earth-rotation synthesis, two British Astronomers Martin Ryle and Antony Hewish were awarded the 1974 Nobel Prize for Physics.">
+        <source>In recognition of their contributions to the development of radio interferometry using the earth-rotation synthesis, two British Astronomers Martin Ryle and Antony Hewish were awarded the 1974 Nobel Prize for Physics.</source>
+        <target state="translated">En reconnaissance de leurs développement de l'interférométrie radio en utilisant la rotation de la la Terre, les deux astronomes britanniques Martin Ryle et Antony Hewish ont reçu le prix Nobel de physique en 1974.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="From the Sky to the Computer: ">
+        <source>From the Sky to the Computer: </source>
+        <target state="translated">Du ciel vers l'ordinateur :</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What is the receiver made of?  As we are going to tackle the technical aspect of radio observations, we should adapt a bit our vocabulary. It will be more practical to talk about frequencies instead of wavelengths, because hardware sample the incoming signal at a certain frequency rate. If the radio signal is expressed in frequency too, it’s more convenient to compare them to each other. And switching from wavelength λ to frequency υ, is easy: we use this simple relation υ=c/λ (where c is the speed of light)  In a simple chain of acquisition, the first element that collects the radio signal is a small antenna, which can take several forms depending on the wavelength. For short radio wavelengths, millimetres for example, the antenna is a corrugated horn, plugged to a waveguide. For longer wavelengths like centimetre, a simple copper wire is enough.">
+        <source>What is the receiver made of?  As we are going to tackle the technical aspect of radio observations, we should adapt a bit our vocabulary. It will be more practical to talk about frequencies instead of wavelengths, because hardware sample the incoming signal at a certain frequency rate. If the radio signal is expressed in frequency too, it’s more convenient to compare them to each other. And switching from wavelength λ to frequency υ, is easy: we use this simple relation υ=c/λ (where c is the speed of light)  In a simple chain of acquisition, the first element that collects the radio signal is a small antenna, which can take several forms depending on the wavelength. For short radio wavelengths, millimetres for example, the antenna is a corrugated horn, plugged to a waveguide. For longer wavelengths like centimetre, a simple copper wire is enough.</source>
+        <target state="translated">De quoi est fait un récepteur ? Comme nous allons parler des aspects techniques des observations radio, nous devons adapter notre vocabulaire. Cela sera plus pratique de parler en fréquences plutôt qu'en longueurs d'onde, car le matériel peut échantillonner le signal à une certaine fréquence. Si le signal est aussi exprimé en fréquence, il sera plus facile de les comparer. Passer de longueur d'onde λ à fréquence υ est facile : il faut utiliser la relation υ=c/λ (avec c la vitesse de la lumière). Dans une chaîne d'acquisition simple, le premier élèment qui collecte le signal radio est une petite antenne qui peut prendre plusieurs forme suivant la longueur d'onde (ou la fréquence) observée. Pour des longueurs d'onde radio courtes, millimétriques par exemple, la petite antenne est un cornet corrugué. Pour des longueurs d'onde plus longues, comme le centimétrique, un simple fil de cuivre est suffisant.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="the Hitchhiker’s Guide to the radio Universe">
+        <source>the Hitchhiker’s Guide to the radio Universe</source>
+        <target state="translated">Le guide du voyageur de l'Univers radio</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="As you can see from the picture, the atmosphere is transparent for a large part of the radio domain. This means that observations are possible in daylight! Think about the poor radio astronomers who never get to sleep…">
+        <source>As you can see from the picture, the atmosphere is transparent for a large part of the radio domain. This means that observations are possible in daylight! Think about the poor radio astronomers who never get to sleep…</source>
+        <target state="translated">Comme vous pouvez le voir sur ce schéma, l'atmosphère est transparente pour une grande partie du domaine radio. Cela veut dire que les observations radio sont possibles en plein jour ! Pensez donc au pauvre radio astronome qui ne dort jamais...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Atmospheric opacity">
+        <source>Atmospheric opacity</source>
+        <target state="translated">Opacité atmosphérique</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The signal is collected with the primary reflector of the telescope. It usually has the shape of a parabola, though it could also be spherical. The important property of this primary reflector is that it converges the signal to a single point, called the focal point. At the focal point, there can be the receiver itself, or another mirror called the sub-reflector that relays the signal to the receiver.">
+        <source>The signal is collected with the primary reflector of the telescope. It usually has the shape of a parabola, though it could also be spherical. The important property of this primary reflector is that it converges the signal to a single point, called the focal point. At the focal point, there can be the receiver itself, or another mirror called the sub-reflector that relays the signal to the receiver.</source>
+        <target state="translated">Le signal est collecté par le réflecteur primaire. Il a en général la forme d'une parabole, bien qu'il en existe des sphériques. La propriété importante du réflecteur primaire est de faire converger les signaux en un point, appelé le point focal. A ce point focal, il peut y avoir le récepteur lui-même, ou un autre réflecteur appelé le sub-réflecteur qui relaie le signal au récepteur.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copper wire for centimetre wavelengths reception.">
+        <source>Copper wire for centimetre wavelengths reception.</source>
+        <target state="translated">Fil de cuivre pour la reception des longueurs d'onde centimétriques</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Corrugated horn for millimetre wavelengths reception.">
+        <source>Corrugated horn for millimetre wavelengths reception.</source>
+        <target state="translated">Cornet corrugué pour la réception des longueurs d'onde millimétriques.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radio light">
+        <source>Radio light</source>
+        <target state="translated">Lumière radio</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Focal point">
+        <source>Focal point</source>
+        <target state="translated">Point focal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sub reflector">
+        <source>Sub reflector</source>
+        <target state="translated">Sub-réflecteur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Primary reflector">
+        <source>Primary reflector</source>
+        <target state="translated">Réflecteur primaire</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The small antenna is then linked to a filter that selects the range of frequencies around the frequency of interest. A high frequency amplifier boosts the resulting signal. Once amplified, the trick is to convert the analog signal (a smoothly variating voltage) to a digital signal (an encoded version). But the source frequencies are too high to be sampled with any ordinary hardware! The sample rate is just too high, even an expensive state-of-the-art analog to digital converter could not do it… But here is a simple solution: why not shift the frequency to a much lower one, so that it can be analysed?! Well, this is called heterodyne detection, and it is a technique that is frequently used in radio reception, not only in astronomy, but also in communication.">
+        <source>The small antenna is then linked to a filter that selects the range of frequencies around the frequency of interest. A high frequency amplifier boosts the resulting signal. Once amplified, the trick is to convert the analog signal (a smoothly variating voltage) to a digital signal (an encoded version). But the source frequencies are too high to be sampled with any ordinary hardware! The sample rate is just too high, even an expensive state-of-the-art analog to digital converter could not do it… But here is a simple solution: why not shift the frequency to a much lower one, so that it can be analysed?! Well, this is called heterodyne detection, and it is a technique that is frequently used in radio reception, not only in astronomy, but also in communication.</source>
+        <target state="translated">La petite antenne est ensuite liée à un filtre qui sélectionne le domaine de fréquences d'étude. Un amplificateur se charge ensuite d'augmenter la puissance du signal. Une fois amplifié, il faut convertir le signal analogique (une variation de voltage) en signal digital (une version codée du signal). Mais les fréquences des sources radio sont trop hautes pour être directement échantillonnées par du matériel ordinaire ! Le taux d'échantillonnage est trop grand, même pour un convertisseur analogique numérique (CAN) haut de gamme très cher... Et pourquoi pas baisser la fréquence du signal pour qu'il soit analysable ? Et bien c'est possible, et cela s'appelle la détection hétérodyne. C'est une technique fréquemment utilisée en radio, non seulement en astronomie, mais aussi pour les communications.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="In heterodyne detection, the signal is mixed with a known signal, generated locally by a stable laser. It is called the Local Oscillator. The Local Oscillator has a frequency (FLO) close to that of the sky signal (FSKY), and it can be tuned so that the difference between FLO and FSKY is equal to a fixed frequency that is called the Intermediate Frequency. To put it simply:  F SKY - F LO = F Intermediate The Intermediate Frequency is just the right frequency to be sampled by cheaper hardware, less difficult to build and more reliable. Once converted into bits, the signal can be analysed by software and shifted back to the real observed frequency just by numerically adding back again FLO.">
+        <source>In heterodyne detection, the signal is mixed with a known signal, generated locally by a stable laser. It is called the Local Oscillator. The Local Oscillator has a frequency (FLO) close to that of the sky signal (FSKY), and it can be tuned so that the difference between FLO and FSKY is equal to a fixed frequency that is called the Intermediate Frequency. To put it simply:  F SKY - F LO = F Intermediate The Intermediate Frequency is just the right frequency to be sampled by cheaper hardware, less difficult to build and more reliable. Once converted into bits, the signal can be analysed by software and shifted back to the real observed frequency just by numerically adding back again FLO.</source>
+        <target state="translated">La détection hétérodyne consiste à mixer un signal monochromatique connu avec le signal reçu. Ce signal monochromatique est appelé Oscillateur Local. Il a une fréquence (FOL) proche de celle du signal venant du ciel (FCIEL). Dit simplement : FCIEL - FOL = F intermédiaire La fréquence intermédiaire et assez basse pour être échantillonnée par un matériel peu cher, facile à réaliser et plus fiable. Une fois converti en signaux numériques, le signal peut être analysé par des programmes informatiques et on peut facilement retrouver la fréquence de la source en rajoutant numériquement FOL.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Now that we have our signal in a computer, let’s do some science!">
+        <source>Now that we have our signal in a computer, let’s do some science!</source>
+        <target state="translated">Maintenant que le signal est dans l'ordinateur, faisons un peu de science !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="A simplified schematic of the heterodyne detection process.">
+        <source>A simplified schematic of the heterodyne detection process.</source>
+        <target state="translated">Un schéma simplifié de la chaîne de détection hétérodyne.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radio Sources of the Universe ">
+        <source>Radio Sources of the Universe </source>
+        <target state="translated">Les sources radio de l'Univers</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What are we receiving from the sky?">
+        <source>What are we receiving from the sky?</source>
+        <target state="translated">Que recevons-nous du ciel ?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Sun is one of the closest astronomical radio sources. Most of its radio emission comes from its corona, a layer above the photosphere where there are a lot of charged particles forming what is called plasma. Radio emission can also arise from magnetic storms, which form spots on its surface.">
+        <source>The Sun is one of the closest astronomical radio sources. Most of its radio emission comes from its corona, a layer above the photosphere where there are a lot of charged particles forming what is called plasma. Radio emission can also arise from magnetic storms, which form spots on its surface.</source>
+        <target state="translated">Le Soleil est l'une des sources radio les plus proches. La plupart de son émission vient de sa couronne, une couche au dessus de la photosphère où il y a beaucoup de particules chargées formant un plasma. Des émissions radio peuvent aussi survenir d'orages magnétiques qui forment des tâches sur sa surface.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pulsars the radio lighthouses of the Universe. Like a spinning top, a pulsar is rotating along itself continuously. The radio beams emitted by the pulsar follow its rotation, like a lighthouse on a sea shore. They are received on Earth as short signals (“bip bip bip”). Nearly 2000 pulsars have been observed in our Galaxy and billions exists in the whole Universe.">
+        <source>Pulsars the radio lighthouses of the Universe. Like a spinning top, a pulsar is rotating along itself continuously. The radio beams emitted by the pulsar follow its rotation, like a lighthouse on a sea shore. They are received on Earth as short signals (“bip bip bip”). Nearly 2000 pulsars have been observed in our Galaxy and billions exists in the whole Universe.</source>
+        <target state="translated">Les pulsars Les phares radio de l'Univers. Comme une toupie, un pulsar tourne autour de son axe continuellement. Le faisceau radio émit par le pulsar suit sa rotation, comme un phare sur une plage. Ils sont reçus sur Terre comme un signal très court ("bip bip bip"). Environ 2000 pulsars ont été observés dans notre Galaxie et des milliards existent dans l'Univers entier.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The pulsar lighthouse effect">
+        <source>The pulsar lighthouse effect</source>
+        <target state="translated">L'effet de phare du pulsar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Galactic centre the galactic centre of the Milky Way was the first radio source to be detected by Karl Jansky in 1932. It contains a number of radio sources, including Sagittarius A and the supermassive black hole at Sagittarius A*.">
+        <source>The Galactic centre the galactic centre of the Milky Way was the first radio source to be detected by Karl Jansky in 1932. It contains a number of radio sources, including Sagittarius A and the supermassive black hole at Sagittarius A*.</source>
+        <target state="translated">Le centre Galactique Le centre Galactique de la Voie Lactée a été la première source radio à être détectée par Karl Jansky en 1932. Il contient beaucoup de sources radio, comme Sagittarius A et le trou noir super massif vers Sagittarius A*.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Galaxies are made of cold gas that emits energy in the radio domain. In some galaxies, the centre is buried deep inside lots of dust clouds that shield the visible light from us, but radio waves can pierce through the cloud and can be observed.  They are called “radio galaxies”.">
+        <source>Galaxies are made of cold gas that emits energy in the radio domain. In some galaxies, the centre is buried deep inside lots of dust clouds that shield the visible light from us, but radio waves can pierce through the cloud and can be observed.  They are called “radio galaxies”.</source>
+        <target state="translated">Les galaxies sont faites de gas froid qui émet de l'énergie dans le domaine radio. Dans certaines galaxies, la lumière visible venant du centre est masqué par des nuages de poussières, mais les ondes radio peuvent pénétrer ces nuages. On les appelle des "radio galaxies"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="False-colour image of the nearby radiogalaxy Centaurus A, showing radio (red), infrared (green) and X-ray emission (blue).">
+        <source>False-colour image of the nearby radiogalaxy Centaurus A, showing radio (red), infrared (green) and X-ray emission (blue).</source>
+        <target state="translated">Image en fausse couleur d'une radio galaxie Centaurus A, montrant de l'émission radio (rouge), infrarouge (vert) et rayon X (bleu). </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Cosmic Microwave Background cosmological models predicted that if the Universe originates from a Big Bang, there should be a leftover radiation. It was first discovered in 1964 by American radio astronomers Arno Penzias and Robert Wilson. They were the first to bring a solid observational proof to the Big Bang Theory, and this earned them the 1978 Nobel Prize.">
+        <source>The Cosmic Microwave Background cosmological models predicted that if the Universe originates from a Big Bang, there should be a leftover radiation. It was first discovered in 1964 by American radio astronomers Arno Penzias and Robert Wilson. They were the first to bring a solid observational proof to the Big Bang Theory, and this earned them the 1978 Nobel Prize.</source>
+        <target state="translated">Le fond diffus cosmologique les modèles cosmologiques prédisent que si l'Univers est né d'un Big Bang, il devrait y en rester des traces. Cette lumière très faible et diffuse dans tout le ciel a été découverte en 1964 par Arno Penzias et Robert Wilson. Ils ont été les premiers a apporté une preuve solide en faveur de la théorie du Big Bang, ce qui leur a valu un prix Nobel en 1978.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="In 1054 BC, the Chinese people were able to observe a bright new star in the sky: it was a supernova explosion. A millennium later, we can observe a beautiful nebula in the same place: the Crab nebula. At its very centre lies a peculiar star: a pulsar.">
+        <source>In 1054 BC, the Chinese people were able to observe a bright new star in the sky: it was a supernova explosion. A millennium later, we can observe a beautiful nebula in the same place: the Crab nebula. At its very centre lies a peculiar star: a pulsar.</source>
+        <target state="translated">en 1054 av.-J.C., les chinois ont pu voir une nouvelle étoile très brillante dans le ciel : c'était une explosion d'une supernova. Un millénaire plus tard, nous pouvons observer une magnifique nébuleuse à la place : la nébuleuse du Crabe. En son centre se trouve une étoile particulière : un pulsar.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="From Computer to Science:">
+        <source>From Computer to Science:</source>
+        <target state="translated">De l'ordinateur à la science :</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="what information brings a radio signal?">
+        <source>what information brings a radio signal?</source>
+        <target state="translated">Que nous apportent les signaux radio ?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What information can we deduce from radio observations? As you should know by now, the spatial resolution of a radio telescope is not that great, unless it’s a huge telescope of 300 m of diameter or an interferometer. For example, a 3m telescope like the one of the EU-HOU project has a resolution of 5°. It’s ten times the angular size of the Sun!  So, no image? Not with a 3m telescope, no. But with an interferometer, like the Plateau de Bure Interferometer for example, you can make some beautiful pictures like this one for example:  It traces the molecular content of a nearby galaxy called the Whirlpool galaxy. Remember, your eyes cannot see radio emission, so astronomers used this colour scale is here to help us: blue is not very intense, and red is the most intense. That means that when it’s the reddest, there are a lot of molecules in there!">
+        <source>What information can we deduce from radio observations? As you should know by now, the spatial resolution of a radio telescope is not that great, unless it’s a huge telescope of 300 m of diameter or an interferometer. For example, a 3m telescope like the one of the EU-HOU project has a resolution of 5°. It’s ten times the angular size of the Sun!  So, no image? Not with a 3m telescope, no. But with an interferometer, like the Plateau de Bure Interferometer for example, you can make some beautiful pictures like this one for example:  It traces the molecular content of a nearby galaxy called the Whirlpool galaxy. Remember, your eyes cannot see radio emission, so astronomers used this colour scale is here to help us: blue is not very intense, and red is the most intense. That means that when it’s the reddest, there are a lot of molecules in there!</source>
+        <target state="translated">Que pouvons nous déduire des informations radio ? Comme vous le savez maintenant, la résolution spatiale en radio n'est pas excellente, sauf pour un télescope de 300m de diamètre ou un interféromètre. Par exemple, un télescope de 3m de diamètre comme celui du réseau EU-HOU a une résolution de 5°. C'est dix fois la taille angulaire du Soleil ! Donc pas d'image ? Pas avec un télescope de 3m, non. Mais avec un interféromètre, comme celui du Plateau de Bure par exemple, on peut faire de très jolies images comme celle-ci : elle décrit le contenu moléculaire d'une galaxie proche appelé la galaxie du tourbillon (M51). Souvenez-vous, nos yeux ne peuvent pas voir les ondes radio, il faut donc utiliser une échelle de couleur pour représenter les intensités : ici bleu correspond à un signal faible, et rouge à un signal intense. Ce qui veut dire que plus c'est rouge, et plus il y a de molécules !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="So, no chance to retrieve anything interesting with my 3m radio telescope, then? Yes! Spatial information is not the only thing an astronomer longs for. For example, radio astronomy offers a very interesting physical property: the velocity of what you observe.  How?  ">
+        <source>So, no chance to retrieve anything interesting with my 3m radio telescope, then? Yes! Spatial information is not the only thing an astronomer longs for. For example, radio astronomy offers a very interesting physical property: the velocity of what you observe.  How?  </source>
+        <target state="translated">Donc, on n'a pas d'informations intéressantes avec un radio télescope de 3m ? Et bien si ! La résolution spatiale n'est pas la seule chose que les astronomes désirent plus que tout. Par exemple, la radio astronomie offre l'accès à une caractéristique physique intéressante : la vitesse de la source observée. Comment ?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Thanks to the Doppler effect! The Doppler effect is the change in wavelength of a wave for an observer moving relative to its source. You can experience the Doppler effect when a vehicle sounding a siren or horn approaches, passes, and recedes from you. It’s this niiiiiiiiuuuuuuuuuum sound! The light, as it’s a wave like the sound, behave the same way:">
+        <source>Thanks to the Doppler effect! The Doppler effect is the change in wavelength of a wave for an observer moving relative to its source. You can experience the Doppler effect when a vehicle sounding a siren or horn approaches, passes, and recedes from you. It’s this niiiiiiiiuuuuuuuuuum sound! The light, as it’s a wave like the sound, behave the same way:</source>
+        <target state="translated">Grâce à l'effet Doppler ! L'effet Doppler est le décalage en longueur d'onde d'une onde émise d'une source en mouvement par rapport à son observateur. Vous pouvez faire l'expérience de l'effet Doppler quand un véhicule avec une sirène approche, vous dépasse et s'éloigne de vous. C'est ce son caractéristique niiiiiiiiuuuuuuuuuum !! La lumière, comme c'est aussi une onde, se comporte de la même manière :</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="As the photon approaches, its wavelength is shortened in front of it. If it’s originally a yellow photon, then it’s colour turns to blue. We call that a blueshift.  If the photon is going away, then that’s the other way around, the wavelength becomes longer. For our yellow photon, its colour turns to red. It’s a redshift!  So the Doppler effect gives information about the speed of what we are observing. For example, you can see if a star if moving away from us or if it’s coming in our direction, and we can know at what speed it moves.   It’s very useful because knowing the kinematic of the object you are observing allow you to try to reproduce it’s behaviour with computer programs, it’s called modelling. Once you have reproduce a computer model that fits a lot of observation, you can apply it to predict other observations, or guess what’s going to happen to your source in a billion years. For example, with a 3m telescope, you can observe the hydrogen emission line at 21cm. Pointing it to the Milky Way will give you a spectrum, which in that case is the density of hydrogen with respect to its velocity. If along your line of sight you intercepted two spiral arms of the Milky Way moving at a different speed, your spectrum will have two peaks, each at the velocity of its respective arm.   So, with radio observation, I can reconstruct the spiral arms of the Milky Way. How cool is that?!">
+        <source>As the photon approaches, its wavelength is shortened in front of it. If it’s originally a yellow photon, then it’s colour turns to blue. We call that a blueshift.  If the photon is going away, then that’s the other way around, the wavelength becomes longer. For our yellow photon, its colour turns to red. It’s a redshift!  So the Doppler effect gives information about the speed of what we are observing. For example, you can see if a star if moving away from us or if it’s coming in our direction, and we can know at what speed it moves.   It’s very useful because knowing the kinematic of the object you are observing allow you to try to reproduce it’s behaviour with computer programs, it’s called modelling. Once you have reproduce a computer model that fits a lot of observation, you can apply it to predict other observations, or guess what’s going to happen to your source in a billion years. For example, with a 3m telescope, you can observe the hydrogen emission line at 21cm. Pointing it to the Milky Way will give you a spectrum, which in that case is the density of hydrogen with respect to its velocity. If along your line of sight you intercepted two spiral arms of the Milky Way moving at a different speed, your spectrum will have two peaks, each at the velocity of its respective arm.   So, with radio observation, I can reconstruct the spiral arms of the Milky Way. How cool is that?!</source>
+        <target state="translated">Quand le photon approche, sa longueur d'onde se raccourcit devant lui. Si c'est un photon jaune, il devient bleu. Cela s'appelle un décalage vers le bleu (ou blueshift en anglais). Quand le photon s'éloigne, c'est l'inverse, la longueur d'onde s'étire. Notre photon jaune devient rouge. C'est un décalage vers le rouge (ou redshift) ! Donc l'effet Doppler nous donne des informations sur la vitesse de la source observée. C'est très utile car l'étude cinématique d'une source permet de la modéliser et de la reproduire avec un programme informatique. Une fois qu'un modèle fiable est établi, il peut être utilisé pour prédire des observations, ou deviner ce qu'il va arriver à une source dans un milliard d'années. Par exemple, avec un télescope de 3m, on peut observer l'émission de l'hydrogène à 21cm. En observant la Voie Lactée, on obtient un spectre, qui est dans ce cas la répartition de la densité d'hydrogène en fonction de sa vitesse. Si deux bras spiraux ayant deux vitesses différentes ont été interceptés dans la ligne de visée, le spectre comportera deux pics, chacun à la vitesse de son bras respectif. Donc, avec des observations radio, je peux reconstruire la structure spiral de la Voie Lactée. Cool non ?!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="You want to do that too? Well, you can. Connect to http://www.euhou.net (or flash the QR code down below) and pilot a radio telescope yourself. You will be guided through some exercises to reconstruct the spiral arms of the Milky Way, or search for Dark Matter, with the spectra you will obtain yourself. And you can see the results of your commands in real-time on the telescope thanks to a webcam filming it 24h a day.  ">
+        <source>You want to do that too? Well, you can. Connect to http://www.euhou.net (or flash the QR code down below) and pilot a radio telescope yourself. You will be guided through some exercises to reconstruct the spiral arms of the Milky Way, or search for Dark Matter, with the spectra you will obtain yourself. And you can see the results of your commands in real-time on the telescope thanks to a webcam filming it 24h a day.  </source>
+        <target state="translated">You voulez faire cette expérience vous-même ? Vous pouvez ! Connectez vous sur le site http://www.euhou.net (ou utilisez le QR code en bas du poster) et mettez vous au commande d'un radio telescope. Vous serez guidés au travers d'exercices pour reconstruire la structure spirale de la Voie Lactée, ou pour chercher la matière noire, et tout cela avec les spectres que vous obtiendrez vous-même. Et vous pouvez voir le télescope bouger en temps réel, grâce à une webcam qui le filme 24h sur 24.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="So, what are you waiting for?">
+        <source>So, what are you waiting for?</source>
+        <target state="translated">Alors qu'attendez vous ?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Radio Astronomy’s Timeline">
+        <source>The Radio Astronomy’s Timeline</source>
+        <target state="translated">La Timeline de la Radio Astronomie</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="A little background…">
+        <source>A little background…</source>
+        <target state="translated">Un peu d'histoire...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radio Astronomy">
+        <source>Radio Astronomy</source>
+        <target state="translated">Radio Astronomie</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The EU-HOUMW project presents: A short review of the radio astronomy history, along with its most famous discoveries.">
+        <source>The EU-HOUMW project presents: A short review of the radio astronomy history, along with its most famous discoveries.</source>
+        <target state="translated">Le projet EU-HOUMW présente : une courte présentation de l'histoire de la radio astronomie, et de ses découvertes les plus connues</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Like">
+        <source>Like</source>
+        <target state="translated">J'aime</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Message">
+        <source>Message</source>
+        <target state="translated">Message</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="I just published a paper called A Dynamical Theory of the Electromagnetic field. I explain how electromagnetic radiations (like light, for example) exist at any wavelengths!">
+        <source>I just published a paper called A Dynamical Theory of the Electromagnetic field. I explain how electromagnetic radiations (like light, for example) exist at any wavelengths!</source>
+        <target state="translated">Je viens de publier un article appelé La théorie Dynamique du Champ Electromagnétique. J'y explique comment les radiations électromagnétiques (comme la lumière, par exemple) existent dans toutes les longueurs d'onde !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Like - Comment - Share">
+        <source>Like - Comment - Share</source>
+        <target state="translated">J'aime - Commenter - Partager</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Thomas Alva Edison If so, then celestial objects must emit some radio waves too…">
+        <source>Thomas Alva Edison If so, then celestial objects must emit some radio waves too…</source>
+        <target state="translated">Thomas Alva Edison Si c'est le cas, alors les objets célestes doivent émettre des ondes radio aussi...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Max Planck Well, according to my calculations, if we consider that the Sun is a Black Body, its radio emission should be very weak. For the moment I think it is not possible to detect it, even with our best instruments.">
+        <source>Max Planck Well, according to my calculations, if we consider that the Sun is a Black Body, its radio emission should be very weak. For the moment I think it is not possible to detect it, even with our best instruments.</source>
+        <target state="translated">Max Planck Alors, d'après mes calculs, si l'on considère le Soleil comme un corps noir, son émission radio devrait être très faible. Pour le moment je pense qu'il n'est pas possible de la détecter, même avec nos meilleurs instruments.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Charles Nordmann I think you are right Max, I put an antenna on the Mont Blanc (in France), but I didn’t detect anything.">
+        <source>Charles Nordmann I think you are right Max, I put an antenna on the Mont Blanc (in France), but I didn’t detect anything.</source>
+        <target state="translated">Charles Nordmann Je pense que tu as raison Max, j'ai mis une antenne sur le Mont Blanc, mais je n'ai rien détecté. </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unbelievable! It was a normal day at the Bell telephone company, I was working on my radio antenna to establish transatlantic telephone communications (at 14.5 m wavelength), when I suddenly realise that I was picking up a periodic signal from the sky every day. After further investigations, it turns out to be the radio emission of the centre of the Milky Way, our Galaxy!">
+        <source>Unbelievable! It was a normal day at the Bell telephone company, I was working on my radio antenna to establish transatlantic telephone communications (at 14.5 m wavelength), when I suddenly realise that I was picking up a periodic signal from the sky every day. After further investigations, it turns out to be the radio emission of the centre of the Milky Way, our Galaxy!</source>
+        <target state="translated">Incroyable ! C'était un jour normal à la compagnie du téléphone Bell, je travaillais sur mon antenne radio pour établir des communications téléphoniques transatlantiques (à une longueur d'onde de 14.5m), quand j'ai soudain réalisé que je captais un signal périodique du ciel tous les jours. Après l'avoir étudié, il se trouve que c'est l'émission radio du centre de notre Galaxie, la Voie Lactée !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="James Stanley Hey Same thing happened to us. We are working with the military to build anti-aircraft radars. Every time we point the radars to the Sun, something is jamming them. I think the Sun is emitting meter wave radiations.">
+        <source>James Stanley Hey Same thing happened to us. We are working with the military to build anti-aircraft radars. Every time we point the radars to the Sun, something is jamming them. I think the Sun is emitting meter wave radiations.</source>
+        <target state="translated">James Stanley Hey La même chose nous ait arrivé. Nous travaillions avec les militaires pour construire des radars anti-aériens. A chaque fois que nous pointions les radars vers le Soleil, quelque chose les perturbait. Je crois que le Soleil émet des longueurs d'onde métriques.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Martin Ryle and Antony Hewish Thank you Karl! Owing to your great discovery, we used the Cambridge Interferometer to map the radio sky. We detected a lot of radio sources!">
+        <source>Martin Ryle and Antony Hewish Thank you Karl! Owing to your great discovery, we used the Cambridge Interferometer to map the radio sky. We detected a lot of radio sources!</source>
+        <target state="translated">Martin Ryle et Antony Hewish Merci Karl ! Grâce à ton incroyable découverte, nous avons utilisé l'interféromètre de Cambridge pour cartographier le ciel en radio. Nous avons détecté beaucoup de sources !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="37 people like this.">
+        <source>37 people like this.</source>
+        <target state="translated">37 personnes aiment ça</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Grote Reber, John Kraus like this.">
+        <source>Grote Reber, John Kraus like this.</source>
+        <target state="translated">Grote Reber, John Kraus aiment ça</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="My supervisor, the famous Jan Oort, asked me to find atomic lines in the radio domain. I found an interesting one: it is the hyperfine transition of neutral hydrogen. If my calculations are correct, this line should be at a wavelength of 21 cm. It should be a weak emission, but, hey, hydrogen is the most abundant atom in the Universe. Why not trying to observe it?">
+        <source>My supervisor, the famous Jan Oort, asked me to find atomic lines in the radio domain. I found an interesting one: it is the hyperfine transition of neutral hydrogen. If my calculations are correct, this line should be at a wavelength of 21 cm. It should be a weak emission, but, hey, hydrogen is the most abundant atom in the Universe. Why not trying to observe it?</source>
+        <target state="translated">Mon superviseur, le fameux Jan Oort, m'a demandé de trouver des raies d'émission atomiques dans le domaine radio. J'en ai trouvé une intéressante : elle provient de la transition hyperfine de l'hydrogène. Si mes calculs sont corrects, cette émission devrait correspondre à une longueur d'onde de 21cm. Cela devrait être une émission très faible, mais bon, l'hydrogène est l'atome le plus abondant dans l'Univers. Pourquoi ne paps essayer de l'observer ?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Edward Mills Purcell and Harold Irving Ewen You are right! We built a 1 m x 1 m horn antenna and we detected the 21 cm line! Think about all the implication for radio astronomy! At 21cm the radiation from neutral hydrogen penetrates much farther than visible light, and it is the most abundant atom in the Universe! That means that we can observe large structures, like other galaxies, very far away.">
+        <source>Edward Mills Purcell and Harold Irving Ewen You are right! We built a 1 m x 1 m horn antenna and we detected the 21 cm line! Think about all the implication for radio astronomy! At 21cm the radiation from neutral hydrogen penetrates much farther than visible light, and it is the most abundant atom in the Universe! That means that we can observe large structures, like other galaxies, very far away.</source>
+        <target state="translated">Edward Mills Purcell et Harold Irving Ewen Tu as raison ! Nous avons construit une antenne en cornet de 1x1m et nous avons détecté la raie à 21cm ! Pensez à toutes les implications pour la radio astronomie ! A 21cm, le rayonnement pénètre beaucoup plus loin que la lumière visible, et l'hydrogène est l'atome le plus abondant de l'Univers ! Cela veut dire que nous pouvons avoir accès aux grandes structures, comme celles des galaxies, situées très loin !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Write a comment…">
+        <source>Write a comment…</source>
+        <target state="translated">Ecrire un commentaire...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="We think we just found something very interesting for radio astronomy. We are working at the Bell Telephone Company, and we built an antenna that was originally used to communicate with satellites Echo and Telstar 1 (the first telecommunication satellites ever launched). We accidentally discovered an additional noise of unknown origin during observations on the wavelength 7.35 cm. This noise corresponds to a sky temperature of 2.7 K. And it fills the entire sky almost uniformly! We think that we detected the Cosmic Microwave Background predicted by the Big Bang theory.">
+        <source>We think we just found something very interesting for radio astronomy. We are working at the Bell Telephone Company, and we built an antenna that was originally used to communicate with satellites Echo and Telstar 1 (the first telecommunication satellites ever launched). We accidentally discovered an additional noise of unknown origin during observations on the wavelength 7.35 cm. This noise corresponds to a sky temperature of 2.7 K. And it fills the entire sky almost uniformly! We think that we detected the Cosmic Microwave Background predicted by the Big Bang theory.</source>
+        <target state="translated">Nous pensons avoir trouvé quelque chose de très intéressant pour la radio astronomie. Nous travaillons à la compagnie de téléphone Bell, et nous avons construit une antenne pour communiquer avec les satellites Echo et Telstar 1 (les premiers satellites de communication jamais lancés). Nous avons accidentellement découvert un bruit additionnel d'une origine inconnue à une longueur d'onde de 7.35m. Cela correspond à une température du ciel de 2.7K. Et nous voyons ce rayonnement partout dans le ciel ! Nous pensons avoir découvert le fond diffus cosmologique prédit par la théorie du Big Bang.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Robert Henry Dicke Well boys, we’ve been scooped…">
+        <source>Robert Henry Dicke Well boys, we’ve been scooped…</source>
+        <target state="translated">Robert Henry Dicke Et bien les gars, nous avons été devancés...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Nobel Prize Committee Guys, you just gave the most important clue in favour of the Big Bang theory. How about a Nobel Prize in physics?">
+        <source>Nobel Prize Committee Guys, you just gave the most important clue in favour of the Big Bang theory. How about a Nobel Prize in physics?</source>
+        <target state="translated">Comité du prix Nobel Les gars, vous venez d'apporter une solide preuve en faveur de la théorie du Big Bang. Que diriez-vous d'un prix Nobel de physique ?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Robert Wilson, Arno Penzias like this.">
+        <source>Robert Wilson, Arno Penzias like this.</source>
+        <target state="translated">Robert Wilson, Arno Penzias aiment ça</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hands-On Universe, Europe ">
+        <source>Hands-On Universe, Europe </source>
+        <target state="translated">Hands-On Universe, Europe </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Connecting Classrooms to the Milky Way">
+        <source>Connecting Classrooms to the Milky Way</source>
+        <target state="translated">Connecting Classrooms to the Milky Way</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Our project currently includes 11 countries: Germany, Belgium, Cyprus, Spain, France, Greece, Poland, Portugal, Sweden, Romania, UK, and is sustaining a growing community of teachers and educators since 2004.">
+        <source>Our project currently includes 11 countries: Germany, Belgium, Cyprus, Spain, France, Greece, Poland, Portugal, Sweden, Romania, UK, and is sustaining a growing community of teachers and educators since 2004.</source>
+        <target state="translated">Notre projet comporte 11 pays partenaires : l'Allemagne, la Belgique, Chypre, l'Espagne, la France, la Grèce, la Pologne, le Portugal, la Suède, la Roumanie, la Grande Bretagne, et maintient une communauté croissante d'enseignants et d'éducateurs depuis 2004.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The EU-HOU activities inspired the educational systems of many European countries, and some of the exercises that can be found in the website were used to design pedagogical material used in textbook.">
+        <source>The EU-HOU activities inspired the educational systems of many European countries, and some of the exercises that can be found in the website were used to design pedagogical material used in textbook.</source>
+        <target state="translated">Les activités EU-HOU ont inspiré le système éducatif de beaucoup de pays européens, et certains exercices qui se trouvent sur notre site Web ont été utilisés pour établir du matériel pédagogique dans les livres de classe.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The network of 6 radio telescopes, in France, Portugal, Spain, Poland, and Romania, allows on-line observations of the gas of the Milky Way in classrooms. These instruments operate in the radio domain and enable the observations 24 hours a day. These wavelengths are not sensitive to bad weather conditions and can be used during the day (and night), which is well adapted for educational timing and constraints. Want to try? Visit our website and register for a free account!">
+        <source>The network of 6 radio telescopes, in France, Portugal, Spain, Poland, and Romania, allows on-line observations of the gas of the Milky Way in classrooms. These instruments operate in the radio domain and enable the observations 24 hours a day. These wavelengths are not sensitive to bad weather conditions and can be used during the day (and night), which is well adapted for educational timing and constraints. Want to try? Visit our website and register for a free account!</source>
+        <target state="translated">Le réseau de 6 radio télescopes, en France, au Portugal, en Espagne, et Pologne et en Roumanie, permet des observations en ligne et dans les classes du gaz de la Voie Lactée. Ces instruments fonctionnent dans le domaine radio ce qui veut dire que les observations peuvent être effectuées de jour comme de nuit, et même par mauvais temps, ce qui est adapté aux contraintes imposées par l'emploi du temps des étudiants. Vous voulez essayer ? Visitez notre site Web et créez vous un compte gratuit !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="My Radio Astronomy ">
+        <source>My Radio Astronomy </source>
+        <target state="translated">Ma Radio Astronomie</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Write your comments, unleash your imagination!">
+        <source>Write your comments, unleash your imagination!</source>
+        <target state="translated">Ecrivez nous vos commentaires, laissez parler votre imagination !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Earth-Moon distance is approximately 380,000 km">
+        <source>The Earth-Moon distance is approximately 380,000 km</source>
+        <target state="translated">La distance Terre-Lune est approximativement 380,000km</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SKY">
+        <source>SKY</source>
+        <target state="translated">CIEL</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Small Antenna">
+        <source>Small Antenna</source>
+        <target state="translated">Petite antenne</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bandpass Filter">
+        <source>Bandpass Filter</source>
+        <target state="translated">Filtre passe-bande</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Frequency Amplifier">
+        <source>High Frequency Amplifier</source>
+        <target state="translated">Amplificateur Haute Fréquence</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FSKY">
+        <source>FSKY</source>
+        <target state="translated">FCIEL</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="MIXER">
+        <source>MIXER</source>
+        <target state="translated">MELANGEUR</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Local Oscillator">
+        <source>Local Oscillator</source>
+        <target state="translated">Oscillateur Local</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FSKY - FLO">
+        <source>FSKY - FLO</source>
+        <target state="translated">FCIEL - FOL</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Intermediate Frequency Amplifier">
+        <source>Intermediate Frequency Amplifier</source>
+        <target state="translated">Amplificateur de Fréquence Intermédiaire</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FIntermediate">
+        <source>FIntermediate</source>
+        <target state="translated">FIntermédiaire</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Analog to Digital Converter">
+        <source>Analog to Digital Converter</source>
+        <target state="translated">Convertisseur Analogique Numérique</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="PC">
+        <source>PC</source>
+        <target state="translated">PC</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Sun as it appears to the eye. At the time of the picture, two black sunspots could be seen at the centre. ">
+        <source>The Sun as it appears to the eye. At the time of the picture, two black sunspots could be seen at the centre. </source>
+        <target state="translated">Le Soleil vu par nos yeux. Au moment de la photo, 2 tâches solaires pouvaient être vues au centre.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Sun as it appears in radio emission. The sun spots at the Solar equator are sites of intense radio wave emission (colored red).">
+        <source>The Sun as it appears in radio emission. The sun spots at the Solar equator are sites of intense radio wave emission (colored red).</source>
+        <target state="translated">Le Soleil vu en radio. Les tâches solaires à l'équateur sont le site d'une intense émission radio (colorée en rouge)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="translator-credits">
+        <source>translator-credits</source>
+        <target state="translated"></target>
+        <note from="developer">Put one translator per line, in the form of NAME &lt;EMAIL&gt;, YEAR1, YEAR2</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

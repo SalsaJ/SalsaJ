@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="ColorBundle_zh_CN.po" source-language="en-US" datatype="plaintext" target-language="zh">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Background Color">
+        <source>Background Color</source>
+        <target state="translated">背景颜色</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="black">
+        <source>black</source>
+        <target state="translated">黑色</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="blue">
+        <source>blue</source>
+        <target state="translated">蓝</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clipboard">
+        <source>Clipboard</source>
+        <target state="translated">剪贴板</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="none">
+        <source>none</source>
+        <target state="translated">空</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="R/G/B">
+        <source>R/G/B</source>
+        <target state="translated">红/绿/蓝</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cyan">
+        <source>cyan</source>
+        <target state="translated">蓝绿色</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="dark gray">
+        <source>dark gray</source>
+        <target state="translated">深灰色</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Foreground Color">
+        <source>Foreground Color</source>
+        <target state="translated">前景颜色</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="gray">
+        <source>gray</source>
+        <target state="translated">灰色</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>灰</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="green">
+        <source>green</source>
+        <target state="translated">绿</target>
+        <alt-trans xml:space="preserve" origin="feiyang">
+          <target>绿色</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="light gray">
+        <source>light gray</source>
+        <target state="translated">淡灰色</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="magenta">
+        <source>magenta</source>
+        <target state="translated">红紫色</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="orange">
+        <source>orange</source>
+        <target state="translated">橙色</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ramp">
+        <source>Ramp</source>
+        <target state="translated">Ramp</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="red">
+        <source>red</source>
+        <target state="translated">红</target>
+        <alt-trans xml:space="preserve" origin="feiyang">
+          <target>红色</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Selection Color">
+        <source>Selection Color</source>
+        <target state="translated">选择颜色</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="white">
+        <source>white</source>
+        <target state="translated">白色</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="yellow">
+        <source>yellow</source>
+        <target state="translated">黄色</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

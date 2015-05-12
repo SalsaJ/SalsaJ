@@ -1,0 +1,132 @@
+#. extracted from ../templates/ToolBundle.properties, ../resu/ToolBundle_bg.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: 2012-07-02 22:00+0200\n"
+"Last-Translator: Tsetsa <tzetza@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=n>1;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: NewHint
+msgid "New Image"
+msgstr "Ново изображение"
+
+#: OpenHint
+msgid "Open Image File"
+msgstr "Отваряне на файл с изображение"
+
+#: SaveHint
+msgid "Save Image"
+msgstr "Запазване на изображението"
+
+#: SaveAsHint
+msgid "Save Image (new name, FITS format)"
+msgstr "Запазване на изображението (new name, FITS format)"
+
+#: PrintHint
+msgid "Print Image"
+msgstr "Отпечатване на изображение"
+
+#: ClearHint
+msgid "Clear Selection"
+msgstr "Изчистване на избора"
+
+#: UndoHint
+msgid "Undo Last Operation"
+msgstr "Отмени последната операция"
+
+#: Mag+Hint
+msgid "Zoom In"
+msgstr "Увеличи"
+
+#: Mag-Hint
+msgid "Zoom Out"
+msgstr "Намали"
+
+#: PhotometryHint
+msgid "Aperture Photometry"
+msgstr "Апертура на фотометрията"
+
+#: PhotometryAdjustHint
+msgid "Photometry Settings"
+msgstr "Настройки на фотометрията"
+
+#: ClearPhotometryHint
+msgid "Clear Photometry Results"
+msgstr "Изчисти резултатите от фотометрията"
+
+#: InfoHint
+msgid "Online Documentation"
+msgstr "онлайн документация"
+
+#: RectSel
+msgid "Rectangular selection"
+msgstr "Правоъгълна селекция"
+
+#: OvalSel
+msgid "Oval selection"
+msgstr "Овална селекция"
+
+#: PolySel
+msgid "Polygon selection"
+msgstr "Избор на многоъгълник"
+
+#: FreeSel
+msgid "Freehand selection"
+msgstr "Избор със свободна ръка"
+
+#: StraightSel
+msgid "Straight line selection"
+msgstr "Избор на права линия"
+
+#: SegSel
+msgid "Segmented line selection"
+msgstr "Избор на сегментирани линия"
+
+#: FreeLineSel
+msgid "Freehand line selection"
+msgstr "Избор на линия със свободна ръка"
+
+#: ProfileLineSel
+msgid "Profile selection"
+msgstr "Избор на профил на ред"
+
+#: CrosshairTool
+msgid "Pixel selection tool"
+msgstr "Инструмент за избор на пиксели"
+
+#: WandTool
+msgid "Isovaluated selection tool"
+msgstr "Isovaluated selection tool"
+
+#: TextTool
+msgid "Text tool "
+msgstr "Инструмент за текст"
+
+#: MagTool
+msgid "Magnifying glass"
+msgstr "Лупа"
+
+#: ScrollTool
+msgid "Scrolling tool"
+msgstr "Инструмент за превъртане"
+
+#: ColorTool
+msgid "Color picker...[K]"
+msgstr "Избор на цвят...[K]"
+
+#: AngleTool
+msgid "Angle tool"
+msgstr "ъгъл инструмент"
+
+#. #BrightnessContrastHint
+#: BrightnessContrastHint
+msgid "Brightness & Contrast"
+msgstr "Яркост и контраст"

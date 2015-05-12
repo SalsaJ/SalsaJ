@@ -1,0 +1,92 @@
+#. extracted from ../templates/ColorBundle.properties, ../resu/ColorBundle_el_GR.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: 2012-11-17 23:23+0200\n"
+"Last-Translator: Eleni <elthchatz@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: BackGColor
+msgid "Background Color"
+msgstr "Χρώμα Υπόβαθρου"
+
+#: BlackColor
+msgid "black"
+msgstr "μαύρο"
+
+#: BlueColor
+msgid "blue"
+msgstr "μπλε"
+
+#: Clipboard
+msgid "Clipboard"
+msgstr "Πρόχειρο"
+
+#: ColorNone
+msgid "none"
+msgstr "δίχως χρώμα"
+
+#: ColorRGB
+msgid "R/V/B"
+msgstr "Χρώμα RGB"
+
+#: CyanColor
+msgid "cyan"
+msgstr "κυανό"
+
+#: DGrayColor
+msgid "dark gray"
+msgstr "σκούρο γκρι"
+
+#: ForGColor
+msgid "Foreground Color"
+msgstr "Χρώμα Πρώτου Πλάνου"
+
+#. ##NEW
+#: GrayColor
+msgid "gray"
+msgstr "γκρι"
+
+#: GreenColor
+msgid "green"
+msgstr "πράσινο"
+
+#: LGrayColor
+msgid "light gray"
+msgstr "ανοικτό γκρι"
+
+#: MagentaColor
+msgid "magenta"
+msgstr "μωβ"
+
+#: OrangeColor
+msgid "orange"
+msgstr "πορτοκαλί"
+
+#: Ramp
+msgid "Ramp"
+msgstr "Διαβάθμιση Χρώματος"
+
+#: RedColor
+msgid "red"
+msgstr "κόκκινο"
+
+#: SelectionColor
+msgid "Selection Color"
+msgstr "Επιλογή Χρώματος:"
+
+#: WhiteColor
+msgid "white"
+msgstr "λευκό"
+
+#: YellowColor
+msgid "yellow"
+msgstr "κίτρινο"

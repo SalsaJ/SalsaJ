@@ -1,0 +1,1069 @@
+#. ### MENU COMMANDS
+#. extracted from MenusBundle.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-02 10:50+0200\n"
+"PO-Revision-Date: 2010-12-07 16:24+0200\n"
+"Last-Translator: Hendrik <hderycke1@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.3\n"
+
+#. ## HISTOGRAM RELATED
+#: Value
+msgid "Value"
+msgstr "Waarde"
+
+#: Count
+msgctxt "Count"
+msgid "Count"
+msgstr "Tel"
+
+#: Mean
+msgid "Mean"
+msgstr "Gemiddelde"
+
+#: StdDev
+msgid "StdDev"
+msgstr "StdDev"
+
+#: Mode
+msgid "Mode"
+msgstr "Methode"
+
+#: Min
+msgid "Min"
+msgstr "Min"
+
+#: Max
+msgid "Max"
+msgstr "Max"
+
+#: Bins
+msgid "Bins"
+msgstr "Bins"
+
+#: BinWidth
+msgid "Bin Width"
+msgstr "Bin Breedte"
+
+#: Name
+msgid "Name"
+msgstr "Naam"
+
+#: Width
+msgid "Width"
+msgstr "Breedte"
+
+#: Height
+msgid "Height"
+msgstr "Hoogte"
+
+#: Pixels
+msgid "pixels"
+msgstr "pixels"
+
+#: Slices
+msgid "Slices"
+msgstr "Sneden"
+
+#: Untitled
+msgid "Untitled"
+msgstr "Onbenoemd"
+
+#: HistoTitle
+msgid "Histogram of"
+msgstr "Histogram van"
+
+#: Histo
+msgid "Histogramme"
+msgstr "Histogram"
+
+#: HistoLog
+msgid "Log"
+msgstr "Log"
+
+#: HistoCount
+msgctxt "HistoCount"
+msgid "Count"
+msgstr "Tel"
+
+#: HistoXmin
+msgid "X min"
+msgstr "X min"
+
+#: HistoXmax
+msgid "X max"
+msgstr "X max"
+
+#: HistoYmax
+msgid "Y max"
+msgstr "Y max"
+
+#. ### 2 FIELDS SEPARATED BY \t
+#: HistoHead
+msgid "value\tcount"
+msgstr "waarde\ttel"
+
+#: HistoCopyVal
+msgid "Copying Histogram values"
+msgstr "Kopieer waarden Histogram"
+
+#: HistoMinMax
+msgid "Use min/max or"
+msgstr "Gebruik min/max of"
+
+#. ## MENU PLUS
+#: ClearOutside
+msgid "Clear Outside"
+msgstr "Wis Buitenkant"
+
+#: Fill
+msgid "Fill"
+msgstr "Vul op"
+
+#: Draw
+msgid "Draw"
+msgstr "Teken"
+
+#: Invert
+msgid "Invert"
+msgstr "Keer om"
+
+#: OpenNext
+msgid "Open Next"
+msgstr "Open volgende"
+
+#: PasteControl
+msgid "Paste Control..."
+msgstr "Plak controle..."
+
+#: Selection
+msgid "Selection"
+msgstr "Keuze"
+
+#: Options
+msgid "Options"
+msgstr "Opties"
+
+#: AnalyzeParticles
+msgid "Analyze Particles..."
+msgstr "Analyseer Deeltjes..."
+
+#: Summarize
+msgid "Summarize"
+msgstr "Optellen"
+
+#: Distribution
+msgid "Distribution"
+msgstr "Verdeling"
+
+#: Label
+msgid "Label"
+msgstr "Etiket"
+
+#: ClearResults
+msgid "Clear Results"
+msgstr "Wis Resultaten"
+
+#: SetMeasurements
+msgid "Set Measurements..."
+msgstr "Bepaal Afmetingen"
+
+#: SetScale
+msgid "Set Scale..."
+msgstr "Bepaal schaal"
+
+#: Calibrate
+msgid "Calibrate..."
+msgstr "Kalibreer..."
+
+#: Smooth
+msgid "Smooth"
+msgstr "Waziger"
+
+#: Sharpen
+msgid "Sharpen"
+msgstr "Verscherp"
+
+#: FindEdges
+msgid "Find Edges"
+msgstr "Zoek Randen"
+
+#: EnhanceContrast
+msgid "Enhance Contrast"
+msgstr "Vergroot Contrast"
+
+#: Noise
+msgid "Noise"
+msgstr "Ruis"
+
+#: Shadows
+msgid "Shadows"
+msgstr "Schaduwen"
+
+#: Binary
+msgid "Binary"
+msgstr "Binair"
+
+#: Operations
+msgid "Operations"
+msgstr "Bewerkingen"
+
+#: Math
+msgid "Single Image Operators"
+msgstr "Bewerken 1 beeld"
+
+#: Import
+msgid "Import"
+msgstr "Importeren"
+
+#: SubtractBackground
+msgid "Subtract Background..."
+msgstr "Trek Achtergrond af..."
+
+#: Filters
+msgid "Filters"
+msgstr "Filters"
+
+#: Photometer
+msgid "Photometry"
+msgstr "Fotometrie"
+
+#: PhotometrySettings
+msgid "Photometry Settings"
+msgstr "Instellingen Fotometrie"
+
+#: ClearPhotometer
+msgid "Clear Photometry Results"
+msgstr "Wis Resultaten Fotometrie"
+
+#: Radio_Spectrum
+msgid "Radio Spectrum..."
+msgstr "Radiospectrum"
+
+#: Optical_Spectrum
+msgid "Optical Spectrum..."
+msgstr "Optisch Spectrum"
+
+#: Webcam
+msgid "Webcam"
+msgstr "Webcam"
+
+#: ImageJ
+msgid "SalsaJ [enter]"
+msgstr "SalsaJ [enter]"
+
+#. ## FILES RELATED MENU ENTRIES
+#: File
+msgid "File"
+msgstr "Bestand"
+
+#: New
+msgid "New"
+msgstr "Nieuw"
+
+#: Open
+msgid "Open"
+msgstr "Openen"
+
+#: OpenRecent
+msgid "Open Recent"
+msgstr "Open Recent"
+
+#: Close
+msgid "Close"
+msgstr "Sluit"
+
+#: Save
+msgctxt "Save"
+msgid "Save"
+msgstr "Opslaan"
+
+#: SaveAs
+msgid "Save As"
+msgstr "Opslaan Als"
+
+#: Revert
+msgid "Revert"
+msgstr "Terugkeren"
+
+#: PageSetup
+msgid "Page Setup..."
+msgstr "Bladindeling"
+
+#: Print
+msgid "Print..."
+msgstr "Afdrukken..."
+
+#: Quit
+msgid "Quit"
+msgstr "Sluiten"
+
+#: QuitMessage
+msgid "Are you sure you want to quit?"
+msgstr "Bent u zeker dat u wil afsluiten?"
+
+#: Edit
+msgid "Edit"
+msgstr "Bewerken"
+
+#: Undo
+msgid "Undo"
+msgstr "Ongedaan maken"
+
+#: Cut
+msgid "Cut"
+msgstr "Knippen"
+
+#: Copy
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: Paste
+msgid "Paste"
+msgstr "Plakken"
+
+#: Clear
+msgid "Clear"
+msgstr "Wissen"
+
+#: Crop
+msgid "Crop"
+msgstr "Bijsnijden"
+
+#: CaptureScreen
+msgid "Capture Screen"
+msgstr "Schermafdruk"
+
+#: RepeatCommand
+msgid "Repeat Command"
+msgstr "Herhaal Commando"
+
+#. ## IMAGE RELATED
+#: Image
+msgid "Image"
+msgstr "Beeld"
+
+#: Type
+msgid "Type"
+msgstr "Type"
+
+#: 8-bit
+msgid "8-bit"
+msgstr "8-bit"
+
+#: 16-bit
+msgid "16-bit"
+msgstr "16-bit"
+
+#: 32-bit
+msgid "32-bit"
+msgstr "32-bit"
+
+#: RGBColor
+msgid "RGB Colour "
+msgstr "RGB Kleur"
+
+#: Adjust
+msgid "Adjust"
+msgstr "Aanpassen"
+
+#: ShowInfo
+msgid "Show Info..."
+msgstr "Toon Info..."
+
+#: Properties
+msgid "Properties..."
+msgstr "Eigenschappen..."
+
+#: Prop
+msgid "Axis properties"
+msgstr "Eigenschappen As"
+
+#: Color
+msgid "Color"
+msgstr "Kleur"
+
+#: ColorsWindow
+msgid "Colors Sample..."
+msgstr "Kleurvoorbeeld..."
+
+#: Stacks
+msgid "Stacks"
+msgstr "Stacks"
+
+#: Duplicate
+msgid "Duplicate..."
+msgstr "Dupliceer..."
+
+#: Rename
+msgid "Rename..."
+msgstr "Hernoem..."
+
+#: Scale
+msgid "Scale..."
+msgstr "Schaal..."
+
+#: Lookup
+msgid "Lookup Tables"
+msgstr "Opzoeken Tabellen"
+
+#: ShowLUT
+msgid "Show LUT"
+msgstr "Toon LUT"
+
+#: InvertLUT
+msgid "Invert LUT"
+msgstr "Keer LUT om"
+
+#: Process
+msgid "Process"
+msgstr "Verwerk"
+
+#: ImageCalculator
+msgid "Image Calculator..."
+msgstr "Beeld Calculator"
+
+#: Rotate
+msgid "Rotate"
+msgstr "Roteer"
+
+#: Zoom
+msgid "Zoom"
+msgstr "Zoom"
+
+#: Analyze
+msgid "Analyze"
+msgstr "Analyseer"
+
+#: Measure
+msgid "Measure"
+msgstr "Meet"
+
+#: Set_Scale
+msgid "Set Scale"
+msgstr "Stel Schaal in"
+
+#: ScaleBar
+msgid "Scale Bar"
+msgstr "Werkbalk Schaal"
+
+#: CalibrationBar
+msgid "Calibration Bar"
+msgstr "Werkbalk Calibratie"
+
+#: Histogram
+msgid "Histogram"
+msgstr "Histogram"
+
+#: PlotProfile
+msgid "Plot Profile"
+msgstr "Plot Profiel"
+
+#: SurfacePlot
+msgid "Surface Plot..."
+msgstr "Plot Oppervlak..."
+
+#: Tools
+msgid "Tools"
+msgstr "Werktuigen"
+
+#. ## DISPLAY AND INFO
+#: Window
+msgid "Window"
+msgstr "Venster"
+
+#: ShowAll
+msgid "Show All"
+msgstr "Toon Alles"
+
+#: PutBehind
+msgid "Put Behind [tab]"
+msgstr "Plaats Achter [tab]"
+
+#: Cascade
+msgid "Cascade"
+msgstr "Structuur"
+
+#: Tile
+msgid "Tile"
+msgstr "Tegel"
+
+#: Help
+msgid "Help"
+msgstr "Help"
+
+#: About
+msgid "About Plugins"
+msgstr "Over Plugins"
+
+#: IJWebSite
+msgid "EU-HOU Web Site..."
+msgstr "EU-HOU Web Site..."
+
+#: OnlineDocs
+msgid "Online Docs..."
+msgstr "Online Docs..."
+
+#: AboutIJ
+msgid "About SalsaJ..."
+msgstr "Over SalsaJ..."
+
+#. ## PHOTOMETRY
+#: DisablePhotometer
+msgid "Stop Photometry"
+msgstr "Stop Fotometrie"
+
+#: PhotometryError
+msgid "An error occured."
+msgstr "Er is een fout opgetreden."
+
+#: PhotomCoord
+msgid "Coordinates of Star's Center :"
+msgstr "Coördinaten van het centrum van de Ster:"
+
+#: Auto
+msgctxt "Auto"
+msgid "Auto"
+msgstr "Auto"
+
+#: Manual
+msgid "Forced Coordinates"
+msgstr "Geforceerde Coördinaten"
+
+#: SkyParam
+msgid "Sky :"
+msgstr "Hemel:"
+
+#: AutoFWHM
+msgctxt "AutoFWHM"
+msgid "Auto"
+msgstr "Auto"
+
+#: AutoSky
+msgctxt "AutoSky"
+msgid "Auto"
+msgstr "Auto"
+
+# The English text should be Radius instead of Raduis!!!!
+#: ManStarRad
+msgid "Forced Star Raduis"
+msgstr "Geforceerde Straal Ster"
+
+#: ManSkyRad
+msgid "Forced Sky Radius"
+msgstr "Geforceerde Straal Hemel"
+
+#: Skyval
+msgid "Forced Sky Value"
+msgstr "Geforceerde Waarde Hemel"
+
+#: StarRad
+msgid "Star Radius :"
+msgstr "Straal Ster:"
+
+#. ### 8 FIELDS SEPARATED BY \t
+#: PhotometerLabels
+msgid ""
+"Index\tImage\tX\tY\tStar's intensity\tStar's radius\tSky's intensity\tSky's radius"
+msgstr ""
+"Index\tBeeld\tX\tY\tIntensiteit ster\tStraal ster\tIntensiteit hemel\tStraal hemel"
+
+#. ## POPMENU
+#: StraightLines
+msgid "Straight Lines"
+msgstr "Rechte Lijnen"
+
+#: SegmentedLines
+msgid "Segmented Lines"
+msgstr "Stippellijnen"
+
+#: FreehandLines
+msgid "Freehand Lines"
+msgstr "Vrije Hand Lijnen"
+
+#: ProfileLines
+msgid "Profile Lines"
+msgstr "Profiellijnen"
+
+#: Rectangle
+msgid "Rectangle"
+msgstr "Rechthoek"
+
+#: Oval
+msgid "Oval"
+msgstr "Ovaal"
+
+#: Polygon
+msgid "Polygon"
+msgstr "Veelhoek"
+
+#. ## FOR THE PLUGINS MENU
+#: Plugins
+msgid "Plugins"
+msgstr "Plugins"
+
+#: Macros
+msgid "Macros"
+msgstr "Macro's"
+
+#: Shortcuts
+msgid "Shortcuts"
+msgstr "Snelkoppelingen"
+
+#: Utilities
+msgid "Utilities"
+msgstr "Hulpmiddelen"
+
+#. ## ERROR MESSAGES
+#: MenuPlugFoldErr
+msgid "Plugins folder not found at"
+msgstr "Plugins map niet gevonden op"
+
+#: UnrecCmdErr
+msgid "Unrecognized command:"
+msgstr "Onbekend commando:"
+
+#: SelReqErr
+msgid "Selection required."
+msgstr "Selectie vereist."
+
+#: StackReqErr
+msgid "Stack required."
+msgstr "Stack vereist."
+
+#: NoStackCmdErr
+msgid "This operation is impossible with a stack."
+msgstr "Deze bewerking is niet toegestaan met een stack."
+
+#: TypeReqErr
+msgid "This command requires an image of type:"
+msgstr "Dit commando vereist een beeld van het type:"
+
+#: NoImgErr
+msgid "There are no images open."
+msgstr "Er zijn geen beelden geopend."
+
+#: MinVerErr
+msgid "This plugin or macro requires a newer SalsaJ"
+msgstr "Deze plugin of macro vereist een recenter SalsaJ"
+
+#: PlugNotFoundErr
+msgid "Plugin not found:"
+msgstr "Plugin niet gevonden:"
+
+#: ImgNotFoundErr1
+msgid "Image not found: "
+msgstr "Beeld niet gevonden:"
+
+#: ImgNotFoundErr2
+msgid "or no images are open."
+msgstr "of geen beelden geopend."
+
+#: WinTitleErr
+msgid "Unable to find window with the title:"
+msgstr "Geen venster gevonden met titel:"
+
+#: LineOrRectSelReqErr
+msgid "Line or rectangular selection required."
+msgstr "Lijn of rechthoekige selectie vereist."
+
+#: Ploy2SelReqErr
+msgid "Polygon or 'polyline' selection required."
+msgstr "Veelhoek of selectie met meerdere lijnen vereist."
+
+#: CalibrErr
+msgid "Uncalibrated image required."
+msgstr "Niet gecalibreerd beeld vereist."
+
+#: CalibrBothErr
+msgid ""
+"Both images must have same calibration.\n"
+"Try to convert images into 32-bits image type."
+msgstr ""
+"Beide beelden moeten dezelfde calibratie hebben.\n"
+"Probeer de beelden om te zetten in een 32-bits type."
+
+#: NoRGBTypeErr
+msgid "RGB images are unsupported."
+msgstr "RGB beelden worden niet ondersteund."
+
+#: HorizLineSelReqErr
+msgid "The selection must be a horizontal line"
+msgstr "De selectie moet een horizontale lijn zijn"
+
+#: Clear_Outside
+msgid "Clear Outside does not work with line selections."
+msgstr "Wis Buitenkant werkt niet met lijnselecties"
+
+#. ## OTHER
+#: Grayscale
+msgid "grayscale"
+msgstr "schaal grijswaarden"
+
+#: PixPerSec
+msgid "pixels/second"
+msgstr "pixels/seconde"
+
+#: MPixPerSec
+msgid "million pixels/second"
+msgstr "miljoen pixels/seconde"
+
+#: Secs
+msgid "seconds"
+msgstr "seconden"
+
+#: Distance
+msgid "Distance"
+msgstr "Afstand"
+
+#: MilliSecs
+msgid "milliseconds"
+msgstr "milliseconden"
+
+#: PercentDone
+msgid "% done"
+msgstr "% gedaan"
+
+#: DoneIn
+msgid "done in"
+msgstr "gedaan in"
+
+#: Results
+msgid "Results"
+msgstr "Resultaten"
+
+#: ErrorTitle
+msgid "Error!"
+msgstr "Fout!"
+
+#: MsgTitle
+msgid "Message"
+msgstr "Bericht"
+
+#: ProcStackTitle
+msgid "Process Stack?"
+msgstr "Stack van het proces?"
+
+#: PlotWinTitle
+msgid "Plot of"
+msgstr "Plot van"
+
+#: Memory
+msgid "Memory:"
+msgstr "Geheugen:"
+
+#: ProcStack1
+msgid "Process all"
+msgstr "Verwerk alles"
+
+#: ProcStack2
+msgid "Slices?"
+msgstr "Sneden?"
+
+#: NoUndoConfirm
+msgid "There is NO Undo possible afterwards"
+msgstr "GEEN Undo mogelijk achteraf"
+
+#: YNCDialYes
+msgid "Ok"
+msgstr "OK"
+
+#: YNCDialNo
+msgid "No"
+msgstr "Nee"
+
+#: YNCDialCan
+msgid "Cancel"
+msgstr "Onderbreek"
+
+#: SameTypeImgs
+msgid "Images must be the same type."
+msgstr "Beelden moeten van hetzelfde type zijn."
+
+#: ImgTooLarge
+msgid "Image is too large to paste."
+msgstr "Beeld te groot om te plakken."
+
+#: InProgress
+msgid "in progress..."
+msgstr "bezig..."
+
+#: Clipboard
+msgid "Clipboard"
+msgstr "Klembord"
+
+#: EmptyClipErr
+msgid "Clipboard is empty."
+msgstr "Klembord is leeg."
+
+#: ClipCopyErr
+msgid "Unable to copy to Clipboard."
+msgstr "Onmogelijk te kopiëren naar Klembord."
+
+#: List
+msgid "List"
+msgstr "Lijst"
+
+#: PlotValues
+msgid "Plot Values"
+msgstr "Plot Waarden"
+
+#: CopyPlotValues
+msgid "Copying plot values..."
+msgstr "Plot waarden aan het kopiëren..."
+
+#: SavePlotValues
+msgid "Saving plot values..."
+msgstr "Plot waarden aan het opslaan..."
+
+#: CharCopied
+msgid "characters copied to Clipboard"
+msgstr "tekens gekopiëerd naar Klembord"
+
+#. ## TEXT CANVAS POPUP & TEXT WINDOW MENU
+#: SelectAll
+msgid "Select All"
+msgstr "Selecteer Alles"
+
+#: CopyAll
+msgid "Copy All"
+msgstr "Kopiëer Alles"
+
+#: SaveAsText
+msgid "Save As Text"
+msgstr "Opslaan als Tekst"
+
+#: LinesCopied
+msgid "lines copied to clipboard"
+msgstr "lijnen naar het Klembord gekopiëerd"
+
+#: OpenText
+msgid "Open Text File..."
+msgstr "Open tekstbestand..."
+
+#: Opening
+msgid "Opening:"
+msgstr "Aan het openen:"
+
+#: OpenTextImage
+msgid "Open Text Image"
+msgstr "Open Tekst Beeld"
+
+#. ## Save Changes Dialog
+#: DoSave
+msgid "Save ?"
+msgstr "Opslaan?"
+
+#: SaveCmd
+msgctxt "SaveCmd"
+msgid "Save"
+msgstr "Opslaan"
+
+#: SaveChanges
+msgid "Save changes to"
+msgstr "Sla veranderingen op in"
+
+#. ## CURVEFITTER
+#: Curve1
+msgid "Straight Line"
+msgstr "Rechte Lijn"
+
+#: Curve2
+msgid "2nd Degree Polynomial"
+msgstr "Polynoom van de 2e graad"
+
+#: Curve3
+msgid "3rd Degree Polynomial"
+msgstr "Polynoom van de 3e graad"
+
+#: Curve4
+msgid "4th Degree Polynomial"
+msgstr "Polynoom van de 4e graad"
+
+#: Curve5
+msgid "Exponential"
+msgstr "Exponentieel"
+
+#: Curve6
+msgid "Power"
+msgstr "Power"
+
+#: Curve7
+msgid "log"
+msgstr "log"
+
+#: Curve8
+msgid "Rodbard"
+msgstr "Rodbard"
+
+#: Curve9
+msgid "Gamma Variate"
+msgstr "Gamma Variatie"
+
+#: CurveDiagTitle
+msgid "Simplex Fitting Options"
+msgstr "Simplex Opties Overeenkomst"
+
+#: CurveDiagName
+msgid "Function name:"
+msgstr "Naam functie:"
+
+#: CurveDiagForm
+msgid "Formula:"
+msgstr "Formule:"
+
+#: CurveDiagInit
+msgid "Initial"
+msgstr "Initiaal"
+
+#: CurveDiagIter
+msgid "Maximum iterations:"
+msgstr "Maximum iteraties:"
+
+#: CurveDiagRestart
+msgid "Number of restarts:"
+msgstr "Aantal heropstarts:"
+
+#: CurveDiagToler
+msgid "Error tolerance [1*10^(-x)]:"
+msgstr "Fout tolerantie [1*10^(-x)]:"
+
+#: CurveDiagErr
+msgid ""
+"Parameter setting canceled.\n"
+"Using default parameters."
+msgstr ""
+"Parameterinstelling gewist.\n"
+"Gebruik standaardparameters."
+
+#: CurveResIter
+msgid ""
+"\n"
+"Number of iterations:"
+msgstr ""
+"\n"
+"Aantal iteraties:"
+
+#: CurveResMax
+msgid ""
+"\n"
+"Maximum number of iterations:"
+msgstr ""
+"\n"
+"Maximum aantal iteraties:"
+
+#: CurveResSum
+msgid ""
+"\n"
+"Sum of residuals squared:"
+msgstr ""
+"\n"
+"Som van de rest genivelleerd:"
+
+#: CurveResStd
+msgid ""
+"\n"
+"Standard deviation:"
+msgstr ""
+"\n"
+"Standaarddeviatie:"
+
+#: CurveResGood
+msgid ""
+"\n"
+"Goodness of fit:"
+msgstr ""
+"\n"
+"Graad van overeenkomst:"
+
+#: CurveResParam
+msgid ""
+"\n"
+"Parameters:"
+msgstr ""
+"\n"
+"Parameters:"
+
+#. ## MISCELANOUS
+#: NewFill
+msgid "Fill With"
+msgstr "Vul op met"
+
+#: CalGrayVal
+msgid "Grey Value"
+msgstr "Grijswaarde"
+
+#: MsgErr
+msgid ""
+"File can't be found or is not in TIFF, JPEG, GIF, BMP, DICOM, FITS, PGM,\n"
+"ZIP, LUT, ROI or text format."
+msgstr ""
+"Kan bestand niet vinden of het is niet in TIFF, JPEG, GIF, BMP, DICOM, FITS, "
+"PGM,\n"
+"ZIP, LUT, ROI of tekstformat."
+
+#: GetPosition
+msgid "Get cross-hair position"
+msgstr "Geef positie kruisdraad"
+
+#: GetPositionLabels
+msgid "x\t\ty"
+msgstr "x\t\ty"
+
+#. ### TextRoi
+#: TextRoi1
+msgid "Type, then"
+msgstr "Typ, dan"
+
+#: TextRoi2
+msgid "Ctrl-D"
+msgstr "Ctrl-D"
+
+#. ## ABOUT THIS SOFTWARE
+#: About1
+msgid "University Pierre et Marie Curie (Paris)"
+msgstr "Universiteit Pierre et Marie Curie (Paris)"
+
+#: About2
+msgid "Based on ImageJ (W. Rasband - NIH)"
+msgstr "Gebaseerd op ImageJ (W. Rasband - NIH)"
+
+#: About3
+msgid "PUBLIC DOMAIN"
+msgstr "PUBLIC DOMEIN"
+
+#: Translation
+msgid "Translation"
+msgstr "Vertaling"
+
+#: Cmd
+msgid "commands,"
+msgstr "instructies,"
+
+#: Version
+msgid "Version "
+msgstr "Versie"
+
+#: Mak
+msgid "macro"
+msgstr "macro"
+
+#: Credits
+msgid "Credits"
+msgstr "Credits"
+
+#: Ack
+msgid "credits_SalsaJ_uk.html"
+msgstr "credits_SalsaJ_uk.html"
+
+#: Online
+msgid "http://www.euhou.net/docupload/files/software/manuel/Documentation.html"
+msgstr "http://www.euhou.net/docupload/files/software/manuel/Documentation.html"

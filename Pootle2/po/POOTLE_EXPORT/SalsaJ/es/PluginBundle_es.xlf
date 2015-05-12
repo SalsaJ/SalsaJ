@@ -1,0 +1,1548 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="PluginBundle_es.po" source-language="en-US" datatype="plaintext" target-language="es">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="pixel">
+        <source>pixel</source>
+        <target state="translated">pixel</target>
+        <note from="developer">##GLOBAL SECTION</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pixels">
+        <source>pixels</source>
+        <target state="translated">pï¿½xeles</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="degrees">
+        <source>degrees</source>
+        <target state="translated">grados</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open__%04__Open">
+        <source>Open</source>
+        <target state="translated">Abrir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply">
+        <source>Apply</source>
+        <target state="translated">Aplicar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Settings">
+        <source>Settings</source>
+        <target state="translated">Configuraciï¿½n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Text File...">
+        <source>Open Text File...</source>
+        <target state="translated">Abrir Fichero Texto...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Height">
+        <source>Height</source>
+        <target state="translated">Altura</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width">
+        <source>Width</source>
+        <target state="translated">Anchura</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create New Window">
+        <source>Create New Window</source>
+        <target state="translated">Crear Ventana Nueva</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="List">
+        <source>List</source>
+        <target state="translated">Listar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unit">
+        <source>Unit</source>
+        <target state="translated">Unidad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="none">
+        <source>none</source>
+        <target state="translated">ninguna</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Left column">
+        <source>Left column</source>
+        <target state="translated">Columna Izda.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Right column">
+        <source>Right column</source>
+        <target state="translated">Columna Drcha.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="values">
+        <source>values</source>
+        <target state="translated">valores</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File">
+        <source>File</source>
+        <target state="translated">Fichero</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Title">
+        <source>Title</source>
+        <target state="translated">Título</target>
+        <note from="developer">##NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stack required">
+        <source>Stack required</source>
+        <target state="translated">No hay pila de imï¿½genes disponible!</target>
+        <note from="developer"># StackEditor</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No images are open.">
+        <source>No images are open.</source>
+        <target state="translated">No hay imï¿½genes abiertas.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="There must be at least two open images.">
+        <source>There must be at least two open images.</source>
+        <target state="translated">Debe haber al menos dos imï¿½genes abiertas.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="None of the open images can go in a stack.">
+        <source>None of the open images can go in a stack.</source>
+        <target state="translated">Ninguna de las imï¿½genes abiertas puede almacenarse en la pila.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="All open images must be the same type.">
+        <source>All open images must be the same type.</source>
+        <target state="translated">Todas las imï¿½genes deben ser del mismo tipo.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="All open images must be the same size.">
+        <source>All open images must be the same size.</source>
+        <target state="translated">Todas las imï¿½genes deben ser del mismo tamaï¿½o.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stack">
+        <source>Stack</source>
+        <target state="translated">Pila</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Convert to Images?">
+        <source>Convert to Images?</source>
+        <target state="translated">ï¿½Convertir a Imï¿½genes?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to convert this&#10;stack to">
+        <source>Are you sure you want to convert this
+stack to</source>
+        <target state="translated">Estï¿½ seguro/a de querer convertir esta 
+pila en </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="separate windows?">
+        <source>separate windows?</source>
+        <target state="translated">ï¿½separar ventanas?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image Calculator">
+        <source>Image Calculator</source>
+        <target state="translated">Calculador</target>
+        <note from="developer"># ImageCalculator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No windows are open.">
+        <source>No windows are open.</source>
+        <target state="translated">No hay ventanas abiertas.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Both stacks must have the same number of slices.">
+        <source>Both stacks must have the same number of slices.</source>
+        <target state="translated">Ambas pilas deben tener el mismo nï¿½mero de imï¿½genes.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Out of memory">
+        <source>Out of memory</source>
+        <target state="translated">No hay memoria suficiente</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image 1:">
+        <source>Image 1:</source>
+        <target state="translated">Imagen 1:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image 2:">
+        <source>Image 2:</source>
+        <target state="translated">Imagen 2:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Operation:">
+        <source>Operation:</source>
+        <target state="translated">Operaciï¿½n:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Result of">
+        <source>Result of</source>
+        <target state="translated">Resultado de</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Result">
+        <source>Result</source>
+        <target state="translated">Resultado</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Add__%04__Add">
+        <source>Add</source>
+        <target state="translated">Sumar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Subtract">
+        <source>Subtract</source>
+        <target state="translated">Restar</target>
+        <alt-trans xml:space="preserve" origin="euhoues">
+          <target>Sustraer</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Multiply">
+        <source>Multiply</source>
+        <target state="translated">Multiplicar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Divide">
+        <source>Divide</source>
+        <target state="translated">Dividir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AND">
+        <source>AND</source>
+        <target state="translated">Y</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="OR">
+        <source>OR</source>
+        <target state="translated">O</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="XOR">
+        <source>XOR</source>
+        <target state="translated">XO</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Min">
+        <source>Min</source>
+        <target state="translated">Min</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Max">
+        <source>Max</source>
+        <target state="translated">Max</target>
+        <alt-trans xml:space="preserve" origin="euhoues">
+          <target>Maximo</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gamma">
+        <source>Gamma</source>
+        <target state="translated">Gamma</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Average">
+        <source>Average</source>
+        <target state="translated">Media</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Difference">
+        <source>Difference</source>
+        <target state="translated">Diferencia absoluta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy">
+        <source>Copy</source>
+        <target state="translated">Copia</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy except White">
+        <source>Copy except White</source>
+        <target state="translated">Transparente</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="index">
+        <source>index</source>
+        <target state="translated">ï¿½ndice</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value:">
+        <source>Value:</source>
+        <target state="translated">Valor:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value (binary): ">
+        <source>Value (binary): </source>
+        <target state="translated">Valor (binario): </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Binary number required">
+        <source>Binary number required</source>
+        <target state="translated">Se requiere un nï¿½mero binario</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value (0.1-5.0):">
+        <source>Value (0.1-5.0):</source>
+        <target state="translated">Valor (0.1-5.0):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gamma must be between 0.1 and 5.0">
+        <source>Gamma must be between 0.1 and 5.0</source>
+        <target state="translated">Gamma debe estar entre 0.1 y 5.0</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Spline">
+        <source>Spline</source>
+        <target state="translated">Spline</target>
+        <note from="developer"># Selection</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paste Control">
+        <source>Paste Control</source>
+        <target state="translated">Control de pegado</target>
+        <note from="developer">## PLUGIN/FRAME
+# PasteController</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Transfer Mode:">
+        <source>Transfer Mode:</source>
+        <target state="translated">Pegar corresponde a:</target>
+        <alt-trans xml:space="preserve" origin="euhoues">
+          <target>Modo de transferencia</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brightness &amp; Contrast">
+        <source>Brightness &amp; Contrast</source>
+        <target state="translated">Brillo &amp; Contraste</target>
+        <note from="developer"># ContrastAdjuster</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window &amp; Level">
+        <source>Window &amp; Level</source>
+        <target state="translated">Ventana &amp; Nivel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ColorTitle__%04__Color">
+        <source>Color</source>
+        <target state="translated">Colores</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Color</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Minimum">
+        <source>Minimum</source>
+        <target state="translated">Mï¿½nimo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maximum">
+        <source>Maximum</source>
+        <target state="translated">Mï¿½ximo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brightness">
+        <source>Brightness</source>
+        <target state="translated">Brillo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Constrast">
+        <source>Constrast</source>
+        <target state="translated">Constraste</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Level:">
+        <source>Level:</source>
+        <target state="translated">Nivel:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window:">
+        <source>Window:</source>
+        <target state="translated">Ventana:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Auto">
+        <source>Auto</source>
+        <target state="translated">Auto</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reset">
+        <source>Reset</source>
+        <target state="translated">Inicializar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set">
+        <source>Set</source>
+        <target state="translated">Valores</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply ">
+        <source>Apply </source>
+        <target state="translated">Aplicar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Thresh">
+        <source>Thresh</source>
+        <target state="translated">Umbral</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Update">
+        <source>Update</source>
+        <target state="translated">Actualizar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Requires an 8-bit grayscale image or an RGB stack">
+        <source>Requires an 8-bit grayscale image or an RGB stack</source>
+        <target state="translated">Se requiere una imagen (o pila) 8-bits o RGB </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply LUT to all">
+        <source>Apply LUT to all</source>
+        <target state="translated">Aplicar LUT a todo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LUT2__%04__slices in the stack?">
+        <source>slices in the stack?</source>
+        <target state="translated">ï¿½no. de imï¿½genes en la pila?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply brightness and contrast settings to all">
+        <source>Apply brightness and contrast settings to all</source>
+        <target state="translated">Aplicar Brillo &amp; Contraste</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB2__%04__slices in the stack?">
+        <source>slices in the stack?</source>
+        <target state="translated">ï¿½no. de imï¿½genes en la pila?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Min and Max">
+        <source>Set Min and Max</source>
+        <target state="translated">Fijar Min and Max</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Minimum Displayed Value:">
+        <source>Minimum Displayed Value:</source>
+        <target state="translated">Mï¿½nimo visible (negro):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maximum Displayed Value:">
+        <source>Maximum Displayed Value:</source>
+        <target state="translated">Mï¿½ximum visible (blanco):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set W&amp;L">
+        <source>Set W&amp;L</source>
+        <target state="translated">Fijar W&amp;L</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window Center (Level):">
+        <source>Window Center (Level):</source>
+        <target state="translated">Centro de la Ventana (Nivel):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window Width:">
+        <source>Window Width:</source>
+        <target state="translated">Anchura de la Ventana:</target>
+        <alt-trans xml:space="preserve" origin="euhoues">
+          <target>Ancho de la Ventana:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No Image">
+        <source>No Image</source>
+        <target state="translated">No hay Imagen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Measurements">
+        <source>Set Measurements</source>
+        <target state="translated">Determinar</target>
+        <note from="developer"># Analyser</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="measurements">
+        <source>measurements</source>
+        <target state="translated">medidas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Area">
+        <source>Area</source>
+        <target state="translated">Area</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mean Grey Value">
+        <source>Mean Grey Value</source>
+        <target state="translated">Valor medio de gris</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Standard Deviation">
+        <source>Standard Deviation</source>
+        <target state="translated">Desviación Estándar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Modal Grey Value">
+        <source>Modal Grey Value</source>
+        <target state="translated">Valor modal de gris</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Min &amp; Max Grey Value">
+        <source>Min &amp; Max Grey Value</source>
+        <target state="translated">Valor gris mínimo y máximo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Centroid">
+        <source>Centroid</source>
+        <target state="translated">Centroide</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center of Mass">
+        <source>Center of Mass</source>
+        <target state="translated">Centro de Masas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Perimeter">
+        <source>Perimeter</source>
+        <target state="translated">Perímetro</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bounding Rectangle">
+        <source>Bounding Rectangle</source>
+        <target state="translated">Envoltura Rectangular</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fit Ellipse">
+        <source>Fit Ellipse</source>
+        <target state="translated">Envoltura Elíptica</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Circularity">
+        <source>Circularity</source>
+        <target state="translated">Circularidad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Feret's Diameter">
+        <source>Feret's Diameter</source>
+        <target state="translated">Diámetro de Feret</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Limit to Threshold">
+        <source>Limit to Threshold</source>
+        <target state="translated">Limitar hasta el umbral</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Display Image Name">
+        <source>Display Image Name</source>
+        <target state="translated">Mostrar el nombre de la imagen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Invert Y Coordinates">
+        <source>Invert Y Coordinates</source>
+        <target state="translated">Invertir Coordenadas Y </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="DeciPlaces__%04__Decimal Places:">
+        <source>Decimal Places:</source>
+        <target state="translated">Número de Decimales:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value">
+        <source>Value</source>
+        <target state="translated">Valor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Name">
+        <source>Name</source>
+        <target state="translated">Nombre</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Angle">
+        <source>Angle</source>
+        <target state="translated">Angulo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Length ">
+        <source>Length </source>
+        <target state="translated">Longitud </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SD">
+        <source>SD</source>
+        <target state="translated">D.E.</target>
+        <note from="developer">#Shorter labels</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Moy.">
+        <source>Moy.</source>
+        <target state="translated">Media.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Threshold">
+        <source>Threshold</source>
+        <target state="translated">Umbral</target>
+        <note from="developer">### ThresholdAdjuster</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Red">
+        <source>Red</source>
+        <target state="translated">Rojo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Black &amp; White">
+        <source>Black &amp; White</source>
+        <target state="translated">Blanco &amp; Negro</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Over/Under">
+        <source>Over/Under</source>
+        <target state="translated">Encima/Debajo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Threshold Levels">
+        <source>Set Threshold Levels</source>
+        <target state="translated">Niveles umbral</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lower Threshold Level:">
+        <source>Lower Threshold Level:</source>
+        <target state="translated">Nivel inferior</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upper Threshold Level:">
+        <source>Upper Threshold Level:</source>
+        <target state="translated">Nivel superior</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB images cannot be thresolded.">
+        <source>RGB images cannot be thresolded.</source>
+        <target state="translated">No se pueden fijar umbrales en las imágenes RGB.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Nouveau...">
+        <source>Nouveau...</source>
+        <target state="translated">Nuevo...</target>
+        <note from="developer">## NewPlugin</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Type">
+        <source>Type</source>
+        <target state="translated">Tipo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Record">
+        <source>Record</source>
+        <target state="translated">Grabar</target>
+        <note from="developer">##Recorder</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create Macro">
+        <source>Create Macro</source>
+        <target state="translated">Crear Macro</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create Plugin">
+        <source>Create Plugin</source>
+        <target state="translated">Crear Plugin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Commands">
+        <source>Commands</source>
+        <target state="translated">Comandos</target>
+        <note from="developer">## Command Lister</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Command&#9;Plugin">
+        <source>Command	Plugin</source>
+        <target state="translated">Comando	Plugin</target>
+        <note from="developer"># 2 FIELDS SEPARATED BY \t</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Keyboard Shortcuts">
+        <source>Keyboard Shortcuts</source>
+        <target state="translated">Atajos teclado</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hot Key&#9;Command">
+        <source>Hot Key	Command</source>
+        <target state="translated">Atajo	Command</target>
+        <note from="developer"># 2 FIELDS SEPARATED BY \t</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Scale">
+        <source>Set Scale</source>
+        <target state="translated">Fijar Escala</target>
+        <note from="developer">## ScaleDialog</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Distance in Pixels:">
+        <source>Distance in Pixels:</source>
+        <target state="translated">Distancia en Pixeles:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Real Distance:">
+        <source>Real Distance:</source>
+        <target state="translated">Distancia Real:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width/Height Ratio:">
+        <source>Width/Height Ratio:</source>
+        <target state="translated">Razón Anchura/Altura:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unit of Length:">
+        <source>Unit of Length:</source>
+        <target state="translated">Unidad de Longitud:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale:">
+        <source>Scale:</source>
+        <target state="translated">Escala:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScDiagGlobal__%04__Global">
+        <source>Global</source>
+        <target state="translated">Global</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&lt;No Scale&gt;">
+        <source>&lt;No Scale&gt;</source>
+        <target state="translated">&lt;Sin Escala&gt;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Surface Plotter">
+        <source>Surface Plotter</source>
+        <target state="translated">Trazado de Superficies</target>
+        <note from="developer">## SurfacePlotter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Surface Plot">
+        <source>Surface Plot</source>
+        <target state="translated">Dibujar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Drawing slice">
+        <source>Drawing slice</source>
+        <target state="translated">Dibujar rama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Number of samples">
+        <source>Number of samples</source>
+        <target state="translated">Número de pasos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw wireframe">
+        <source>Draw wireframe</source>
+        <target state="translated">Dibujar malla</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shade">
+        <source>Shade</source>
+        <target state="translated">Sombrear</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw axis">
+        <source>Draw axis</source>
+        <target state="translated">Dibujar eje</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Source Background is Lighter">
+        <source>Source Background is Lighter</source>
+        <target state="translated">Invertir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill Plot Background with Black">
+        <source>Fill Plot Background with Black</source>
+        <target state="translated">Rellenar Fondo con Negro</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill Plot">
+        <source>Fill Plot</source>
+        <target state="translated">Rellenar Dibujo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Smooth">
+        <source>Smooth</source>
+        <target state="translated">Suavizar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Page Setup">
+        <source>Page Setup</source>
+        <target state="translated">Parï¿½metros de Impresiï¿½n</target>
+        <note from="developer">## Printer</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scaling">
+        <source>Scaling</source>
+        <target state="translated">Escala</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw Border">
+        <source>Draw Border</source>
+        <target state="translated">Dibujar Borde</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Print Title">
+        <source>Print Title</source>
+        <target state="translated">Imprimir Titulo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center on Page">
+        <source>Center on Page</source>
+        <target state="translated">Centrar en la página</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotate">
+        <source>Rotate</source>
+        <target state="translated">Rotar</target>
+        <note from="developer">## Rotator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Interpolate">
+        <source>Interpolate</source>
+        <target state="translated">Interpolar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Angle is invalid.">
+        <source>Angle is invalid.</source>
+        <target state="translated">Angulo inválido.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Miscellaneous Options">
+        <source>Miscellaneous Options</source>
+        <target state="translated">Otras Opciones</target>
+        <note from="developer">## Options</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Real Histogram Bins:">
+        <source>Real Histogram Bins:</source>
+        <target state="translated">No. de pasos para Histograma:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Divide by Zero Value:">
+        <source>Divide by Zero Value:</source>
+        <target state="translated">Valor en caso de división por 0:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Use Pointer Cursor">
+        <source>Use Pointer Cursor</source>
+        <target state="translated">Otro Cursor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale When Converting">
+        <source>Scale When Converting</source>
+        <target state="translated">Re-escalar en la conversión</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hide &quot;Process Stack?&quot; Dialog">
+        <source>Hide "Process Stack?" Dialog</source>
+        <target state="translated">Ocultar diálogo "Proceso de pila?"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Antialiased Text">
+        <source>Antialiased Text</source>
+        <target state="translated">Fuentes Antialias </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Interpolate Images &lt;100%">
+        <source>Interpolate Images &lt;100%</source>
+        <target state="translated">Interpolación de Imágenes Grandes</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Images at 100%">
+        <source>Open Images at 100%</source>
+        <target state="translated">Abrir Imágenes a Tamaño Real</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Debug Mode">
+        <source>Debug Mode</source>
+        <target state="translated">Modo Debug</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Line width:">
+        <source>Line width:</source>
+        <target state="translated">Anchura de la línea:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="JPEG quality (0-100):">
+        <source>JPEG quality (0-100):</source>
+        <target state="translated">Calidad JPEG (0-100):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mark Width:">
+        <source>Mark Width:</source>
+        <target state="translated">Diámetro del punto:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fonts">
+        <source>Fonts</source>
+        <target state="translated">Fuentes</target>
+        <note from="developer">## Fonts</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Plain">
+        <source>Plain</source>
+        <target state="translated">Normal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bold">
+        <source>Bold</source>
+        <target state="translated">Negrita</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Italic">
+        <source>Italic</source>
+        <target state="translated">Itálica</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bold+Italic">
+        <source>Bold+Italic</source>
+        <target state="translated">Negrita+Itálica</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pt">
+        <source>pt</source>
+        <target state="translated">puntos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Curve Fitter">
+        <source>Curve Fitter</source>
+        <target state="translated">Ajustador de Curvas</target>
+        <note from="developer">## Fitter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fit...">
+        <source>Fit...</source>
+        <target state="translated">Ajustar...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No function available">
+        <source>No function available</source>
+        <target state="translated">No hay función disponible</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="First select the image to be transformed">
+        <source>First select the image to be transformed</source>
+        <target state="translated">Seleccionar la imagen a transformar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="-transformed">
+        <source>-transformed</source>
+        <target state="translated">-transformada</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="These commands&#10;do not work with line selections.">
+        <source>These commands
+do not work with line selections.</source>
+        <target state="translated">Se necesita seleccionar una superficie previamente.</target>
+        <note from="developer">## Resizer</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Resize">
+        <source>Resize</source>
+        <target state="translated">Re-escalar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Constrain Aspect Ratio">
+        <source>Constrain Aspect Ratio</source>
+        <target state="translated">Fijar la razón Altura/Anchura</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="NOTE: Undo is not available">
+        <source>NOTE: Undo is not available</source>
+        <target state="translated">NOTA: No es posible deshacer el proceso</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width or height are invalid.">
+        <source>Width or height are invalid.</source>
+        <target state="translated">Anchura o altura no son válidas.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SalsaJ ran out of memory causing &#10;the last">
+        <source>SalsaJ ran out of memory causing 
+the last</source>
+        <target state="translated">La memoria de SalsaJ se ha agotado.
+</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="slices to be lost.">
+        <source>slices to be lost.</source>
+        <target state="translated">Las últimas imágenes se perdieron.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Resize Image Canvas">
+        <source>Resize Image Canvas</source>
+        <target state="translated">Redimensionar el tamaño del lienzo</target>
+        <note from="developer">##CanvasResizer NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Resize Stack Canvas">
+        <source>Resize Stack Canvas</source>
+        <target state="translated">Redimensionar la pila de lienzos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Postion">
+        <source>Postion</source>
+        <target state="translated">Posición</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zero Fill">
+        <source>Zero Fill</source>
+        <target state="translated">Rellenar de ceros</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Top-Left ">
+        <source>Top-Left </source>
+        <target state="translated">Arriba a la izquierda</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Top-Center">
+        <source>Top-Center</source>
+        <target state="translated">Arriba en el centro</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Top-Right">
+        <source>Top-Right</source>
+        <target state="translated">Arriba a la derecha</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center-Left">
+        <source>Center-Left</source>
+        <target state="translated">En el centro a la izquierda</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center">
+        <source>Center</source>
+        <target state="translated">Centro</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center-Right">
+        <source>Center-Right</source>
+        <target state="translated">En el centro a la derecha</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bottom-Left">
+        <source>Bottom-Left</source>
+        <target state="translated">Abajo a la izquierda</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bottom-Center">
+        <source>Bottom-Center</source>
+        <target state="translated">Abajo en el centro</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bottom-Right">
+        <source>Bottom-Right</source>
+        <target state="translated">Abajo a la derecha</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Make Montage">
+        <source>Make Montage</source>
+        <target state="translated">Realizar montaje</target>
+        <note from="developer">##Montage Maker NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Columns">
+        <source>Columns</source>
+        <target state="translated">Columnas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rows">
+        <source>Rows</source>
+        <target state="translated">Filas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale Factor">
+        <source>Scale Factor</source>
+        <target state="translated">Factor de escala</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="First Slice">
+        <source>First Slice</source>
+        <target state="translated">Primer corte</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Primera imagen</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Last Slice">
+        <source>Last Slice</source>
+        <target state="translated">último corte</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>última imagen</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Increment__%04__Increment">
+        <source>Increment</source>
+        <target state="translated">Incremento</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Border Width">
+        <source>Border Width</source>
+        <target state="translated">Ancho del borde</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Label Slices">
+        <source>Label Slices</source>
+        <target state="translated">Titulo de los cortes</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Título de imagen</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Use Foreground Color">
+        <source>Use Foreground Color</source>
+        <target state="translated">Usar color de fondo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Channels">
+        <source>Channels</source>
+        <target state="translated">Canales</target>
+        <note from="developer">##ImageProperties NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frames">
+        <source>Frames</source>
+        <target state="translated">Fotogramas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pixel Width">
+        <source>Pixel Width</source>
+        <target state="translated">Anchura del píxel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pixeln Height">
+        <source>Pixeln Height</source>
+        <target state="translated">Altura del píxel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Voxel Depth">
+        <source>Voxel Depth</source>
+        <target state="translated">Profundidad del voxel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frame Interval">
+        <source>Frame Interval</source>
+        <target state="translated">Intervalo entre fotogramas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Origin (pixels)">
+        <source>Origin (pixels)</source>
+        <target state="translated">Origen (píxeles)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Global__%04__Global">
+        <source>Global</source>
+        <target state="translated">Global</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="is not locked">
+        <source>is not locked</source>
+        <target state="translated">no está cerrada</target>
+        <note from="developer">## SimpleCommands</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="is now unlocked">
+        <source>is now unlocked</source>
+        <target state="translated">está disponible ahora</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rename">
+        <source>Rename</source>
+        <target state="translated">Renombrar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New title:">
+        <source>New title:</source>
+        <target state="translated">Nuevo título:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="-copy">
+        <source>-copy</source>
+        <target state="translated">-copiar</target>
+        <note from="developer">## Duplicater</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Duplicate">
+        <source>Duplicate</source>
+        <target state="translated">Duplicar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Title:">
+        <source>Title:</source>
+        <target state="translated">Título:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Duplicate Entire Stack?">
+        <source>Duplicate Entire Stack?</source>
+        <target state="translated">Duplicaar la Pila al Completo?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale">
+        <source>Scale</source>
+        <target state="translated">Escala</target>
+        <note from="developer">## Scaler</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="X Scale">
+        <source>X Scale</source>
+        <target state="translated">Escala eje X</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Y Scale">
+        <source>Y Scale</source>
+        <target state="translated">Escala eje Y</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="X or Y scale are invalid.">
+        <source>X or Y scale are invalid.</source>
+        <target state="translated">Escalas X o Y invï¿½lidas.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="-rescaled">
+        <source>-rescaled</source>
+        <target state="translated">-re-escalar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill with Background Color">
+        <source>Fill with Background Color</source>
+        <target state="translated">Rellenar con color de fondo</target>
+        <note from="developer">##NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScaleBar Plus">
+        <source>ScaleBar Plus</source>
+        <target state="translated">ScaleBar Plus</target>
+        <note from="developer">##ScaleBar ##NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width in">
+        <source>Width in</source>
+        <target state="translated">Ancho en</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Height in pixels">
+        <source>Height in pixels</source>
+        <target state="translated">Altura en píxeles</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Font Size">
+        <source>Font Size</source>
+        <target state="translated">Tamaño de la fuente</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScaleBarColor__%04__Color">
+        <source>Color</source>
+        <target state="translated">Color</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Background">
+        <source>Background</source>
+        <target state="translated">Fondo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Location">
+        <source>Location</source>
+        <target state="translated">Localización</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScaleBarBold__%04__Bold Text">
+        <source>Bold Text</source>
+        <target state="translated">Texto en negrita</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hide Text">
+        <source>Hide Text</source>
+        <target state="translated">Esconder texto</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Serif Font">
+        <source>Serif Font</source>
+        <target state="translated">Tipografía Serif</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LookUp Table">
+        <source>LookUp Table</source>
+        <target state="translated">Paleta de Colores</target>
+        <note from="developer">## LutViewer</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Index&#9;Red&#9;Green&#9;Blue">
+        <source>Index	Red	Green	Blue</source>
+        <target state="translated">ï¿½ndece	Rojo	Verde	Azul</target>
+        <note from="developer"># 4 FIELDS SEPARATED BY \t</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LUT">
+        <source>LUT</source>
+        <target state="translated">LUT (componentes de los colores)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB images do not use LUTs.">
+        <source>RGB images do not use LUTs.</source>
+        <target state="translated">Las imï¿½genes RGB no utilizan paletass.</target>
+        <note from="developer">## LutLoader</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Profile Plot Options">
+        <source>Profile Plot Options</source>
+        <target state="translated">Opciones de perfilado</target>
+        <note from="developer">## Profiler</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fixed Y-axis Scale">
+        <source>Fixed Y-axis Scale</source>
+        <target state="translated">Fijar Escala del eje Y</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Do Not Save X-Values">
+        <source>Do Not Save X-Values</source>
+        <target state="translated">No guardar los Valores X</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Auto-close">
+        <source>Auto-close</source>
+        <target state="translated">Auto-cerrado</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Vertical Profile">
+        <source>Vertical Profile</source>
+        <target state="translated">Perfil Vertical </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Roi Manager">
+        <source>Roi Manager</source>
+        <target state="translated">Selecciones</target>
+        <note from="developer">## RoiManager</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiAdd__%04__Add">
+        <source>Add</source>
+        <target state="translated">Aï¿½adir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiAdd&amp;Draw__%04__Delete">
+        <source>Delete</source>
+        <target state="translated">Borrar &amp; Dibujar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiDel__%04__Delete">
+        <source>Delete</source>
+        <target state="translated">Borrar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiOpen__%04__Open">
+        <source>Open</source>
+        <target state="translated">Abrir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open All">
+        <source>Open All</source>
+        <target state="translated">Abrir Todas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save">
+        <source>Save</source>
+        <target state="translated">Guardar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select All">
+        <source>Select All</source>
+        <target state="translated">Selecionar Todas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Measure">
+        <source>Measure</source>
+        <target state="translated">Medir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw">
+        <source>Draw</source>
+        <target state="translated">Dibujar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill">
+        <source>Fill</source>
+        <target state="translated">Rellenar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The active image does not have an ROI.">
+        <source>The active image does not have an ROI.</source>
+        <target state="translated">No se ha efectuado selecciï¿½n sobre la imagen activa.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The ROI list is empty.">
+        <source>The ROI list is empty.</source>
+        <target state="translated">No hay selecciones en la lista.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="At least one ROI in the list must be selected.">
+        <source>At least one ROI in the list must be selected.</source>
+        <target state="translated">Al menos, se necesita una selecciï¿½n activa en la lista.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This ROI does not fit the current image.">
+        <source>This ROI does not fit the current image.</source>
+        <target state="translated">No se puede aplicar esta selecciï¿½n a la imagen activa.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open ROI...">
+        <source>Open ROI...</source>
+        <target state="translated">Abrir la selecciï¿½n...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select a file in the folder...">
+        <source>Select a file in the folder...</source>
+        <target state="translated">Elegir un fichero...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save ROI...">
+        <source>Save ROI...</source>
+        <target state="translated">Guardar...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibration Bar">
+        <source>Calibration Bar</source>
+        <target state="translated">Barra de Calibraciï¿½n</target>
+        <note from="developer">## CalibrationBar</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Location:">
+        <source>Location:</source>
+        <target state="translated">Localizaciï¿½n:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill Colour:">
+        <source>Fill Colour:</source>
+        <target state="translated">Color del fondo:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Label Colour:">
+        <source>Label Colour:</source>
+        <target state="translated">Color de los tï¿½tulos:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Number of Labels:">
+        <source>Number of Labels:</source>
+        <target state="translated">Nï¿½mero de Letreros:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="CaliPlaces__%04__Decimal Places:">
+        <source>Decimal Places:</source>
+        <target state="translated">Precisiï¿½n:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Font Size:">
+        <source>Font Size:</source>
+        <target state="translated">Tamaï¿½o de fuente:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zoom Factor:">
+        <source>Zoom Factor:</source>
+        <target state="translated">Zoom:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="CaliBold__%04__Bold Text">
+        <source>Bold Text</source>
+        <target state="translated">Negrita</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="with bar">
+        <source>with bar</source>
+        <target state="translated">con barra</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upper Right">
+        <source>Upper Right</source>
+        <target state="translated">Arriba a la Drcha. </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upper Left">
+        <source>Upper Left</source>
+        <target state="translated">Arriba  a la Izda.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lower Right">
+        <source>Lower Right</source>
+        <target state="translated">Abajo a la Drcha. </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lower Left">
+        <source>Lower Left</source>
+        <target state="translated">Abajo a la Izda.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="At Selection">
+        <source>At Selection</source>
+        <target state="translated">Punto Seleccionado</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Image Sequence...">
+        <source>Open Image Sequence...</source>
+        <target state="translated">Elecciï¿½n de Filtro...</target>
+        <note from="developer">## FolderOpener</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Error:">
+        <source>Import Error:</source>
+        <target state="translated">Error:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This folder does not appear to contain any TIFF,&#10;FITS, JPEG, BMP, GIF, or PGM files.">
+        <source>This folder does not appear to contain any TIFF,
+FITS, JPEG, BMP, GIF, or PGM files.</source>
+        <target state="translated">Esta carpeta no contiene imï¿½genes TIFF,
+FITS, JPEG, BMP, GIF, o PGM.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="None of the">
+        <source>None of the</source>
+        <target state="translated">Ninguno de los </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="files contain  in their name the string">
+        <source>files contain  in their name the string</source>
+        <target state="translated">ficheros contiene en su nombre los caracteres</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id=": wrong dimensions">
+        <source>: wrong dimensions</source>
+        <target state="translated">: dimensiones errï¿½neas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id=": wrong type">
+        <source>: wrong type</source>
+        <target state="translated">: tipo errï¿½neo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id=": unable to open">
+        <source>: unable to open</source>
+        <target state="translated">: no se puede abrir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sequence Options">
+        <source>Sequence Options</source>
+        <target state="translated">Opciones de apertura</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Number of Images">
+        <source>Number of Images</source>
+        <target state="translated">Nï¿½mero de Imï¿½genes</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Starting Image">
+        <source>Starting Image</source>
+        <target state="translated">Indice de la Primera Imagen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FoldOpt3__%04__Increment">
+        <source>Increment</source>
+        <target state="translated">Incremento</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File Name Contains">
+        <source>File Name Contains</source>
+        <target state="translated">File Name Contains</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Convert to 8-bit Greyscale">
+        <source>Convert to 8-bit Greyscale</source>
+        <target state="translated">Convert to 8-bit Greyscale</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open 1/2 Size">
+        <source>Open 1/2 Size</source>
+        <target state="translated">Open 1/2 Size</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enter URL">
+        <source>Enter URL</source>
+        <target state="translated">Introducir URL</target>
+        <note from="developer">## URLOpener</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enter the URL of an image to open:">
+        <source>Enter the URL of an image to open:</source>
+        <target state="translated">Introducir la URL de la imagen a abrir:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Animation Options">
+        <source>Animation Options</source>
+        <target state="translated">Opciones de animaciï¿½n</target>
+        <note from="developer">## Animator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Speed (1-100 fps):">
+        <source>Speed (1-100 fps):</source>
+        <target state="translated">Velocidad (1-100 img/s):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Loop Back and Forth">
+        <source>Loop Back and Forth</source>
+        <target state="translated">Ver animaciï¿½n en bucle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start Animation">
+        <source>Start Animation</source>
+        <target state="translated">Comenzar Animaciï¿½n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Slice">
+        <source>Set Slice</source>
+        <target state="translated">Elegir Imagen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slice number">
+        <source>Slice number</source>
+        <target state="translated">ï¿½ndice de la Imagen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save As Text">
+        <source>Save As Text</source>
+        <target state="translated">Salvar como texto</target>
+        <note from="developer">## TextWriter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This command requires a TextWindow">
+        <source>This command requires a TextWindow</source>
+        <target state="translated">Este comando requiere una ventana de Texto</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibrate...">
+        <source>Calibrate...</source>
+        <target state="translated">Calibrar...</target>
+        <note from="developer">## Calibrator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Function:">
+        <source>Function:</source>
+        <target state="translated">Funciï¿½n:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Global calibration">
+        <source>Global calibration</source>
+        <target state="translated">Calibraciï¿½n Global</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibrator:">
+        <source>Calibrator:</source>
+        <target state="translated">Calibrador:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Please select a function">
+        <source>Please select a function</source>
+        <target state="translated">Por favor, seleccionar una funciï¿½n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibration of 16-bit images, except with straight&#10;line functions, is currently not supported.">
+        <source>Calibration of 16-bit images, except with straight
+line functions, is currently not supported.</source>
+        <target state="translated">La calibraciï¿½n de imï¿½genes de 16-bit, sï¿½lo soporta polinomios de orden 1 en esta versiï¿½n.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pixel Inverter">
+        <source>Pixel Inverter</source>
+        <target state="translated">Inversiï¿½n de Pixeles</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="To create a calibration curve, the left column must&#10;contain a list of measured mean pixel values and the&#10;right column must contain the same number of calibration&#10;standard values.">
+        <source>To create a calibration curve, the left column must
+contain a list of measured mean pixel values and the
+right column must contain the same number of calibration
+standard values.</source>
+        <target state="translated">Para crear una curva de calibraciï¿½n, la columna izda. debe
+incluir una lista de medidas de los valores medios de los pï¿½xeles y la
+columna drcha. debe contener los valores estï¿½ndar correspondientes.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibration function">
+        <source>Calibration function</source>
+        <target state="translated">Funciï¿½n de Calibraciï¿½n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Recorder">
+        <source>Recorder</source>
+        <target state="translated">Grabar</target>
+        <note from="developer">#Recorder</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="32-bit float image required">
+        <source>32-bit float image required</source>
+        <target state="translated">Se requiere imagen de 32-bits</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Last used files:">
+        <source>Last used files:</source>
+        <target state="translated">ï¿½ltimos ficheros utilizados:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Files">
+        <source>Files</source>
+        <target state="translated">Ficheros</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translate">
+        <source>Translate</source>
+        <target state="translated">Trasladar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation on X">
+        <source>Translation on X</source>
+        <target state="translated">Traslaciï¿½n en X</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation on Y">
+        <source>Translation on Y</source>
+        <target state="translated">Traslaciï¿½n en Y</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation on X is invalid">
+        <source>Translation on X is invalid</source>
+        <target state="translated">Traslaciï¿½n en X no es vï¿½lida</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation en Y est invalide">
+        <source>Translation en Y est invalide</source>
+        <target state="translated">Translaciï¿½n en Y no es vï¿½lida</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open/Save Using JFileChooser">
+        <source>Open/Save Using JFileChooser</source>
+        <target state="translated">Abrir/Salvar Usando JFileChooser</target>
+        <note from="developer">#OptJFileChooser</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Horizontal Profile">
+        <source>Horizontal Profile</source>
+        <target state="translated">Perfil Horizontal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gaussian fit results">
+        <source>Gaussian fit results</source>
+        <target state="translated">Gaussian fit results</target>
+        <note from="developer">#Spectrum Radio...</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Channel">
+        <source>Channel</source>
+        <target state="translated">Canal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Velocity">
+        <source>Velocity</source>
+        <target state="translated">Velocidad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="km/s">
+        <source>km/s</source>
+        <target state="translated">km/s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frequency">
+        <source>Frequency</source>
+        <target state="translated">Frecuencia</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="MHz">
+        <source>MHz</source>
+        <target state="translated">MHz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Wavelength">
+        <source>Wavelength</source>
+        <target state="translated">Longitud de onda</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cm">
+        <source>cm</source>
+        <target state="translated">cm</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Intensity">
+        <source>Intensity</source>
+        <target state="translated">Intensidad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This does not appear to be a FITS file.">
+        <source>This does not appear to be a FITS file.</source>
+        <target state="translated">Esto no parece ser un archivo FITS</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="too few points to fit">
+        <source>too few points to fit</source>
+        <target state="translated">too few points to fit</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="singular matrix">
+        <source>singular matrix</source>
+        <target state="translated">Matriz singular</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="choose two intervals">
+        <source>choose two intervals</source>
+        <target state="translated">Elige dos intervalos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="first interval">
+        <source>first interval</source>
+        <target state="translated">Primer intervalo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="second interval">
+        <source>second interval</source>
+        <target state="translated">Segundo intervalo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="choose order of baseline fit (0&lt;order&lt;5)">
+        <source>choose order of baseline fit (0&lt;order&lt;5)</source>
+        <target state="translated">choose order of baseline fit (0&lt;order&lt;5)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Order">
+        <source>Order</source>
+        <target state="translated">Orden</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="display zero line in blue">
+        <source>display zero line in blue</source>
+        <target state="translated">Muestra la línea cero en azul</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gaussian fit of spectral line">
+        <source>Gaussian fit of spectral line</source>
+        <target state="translated">Gaussian fit of spectral line</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose parameters">
+        <source>Choose parameters</source>
+        <target state="translated">Elige parámetros</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="interval">
+        <source>interval</source>
+        <target state="translated">Intervalo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="amplitude">
+        <source>amplitude</source>
+        <target state="translated">Amplitud</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="center">
+        <source>center</source>
+        <target state="translated">Centro</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="width">
+        <source>width</source>
+        <target state="translated">Anchura</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="erase the last">
+        <source>erase the last</source>
+        <target state="translated">Borra lo último</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Subtract baseline">
+        <source>Subtract baseline</source>
+        <target state="translated">Eliminar línea base</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gaussian fit">
+        <source>Gaussian fit</source>
+        <target state="translated">Ajuste gaussiano</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Baseline">
+        <source>Baseline</source>
+        <target state="translated">Línea de base</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lambda[A]">
+        <source>Lambda[A]</source>
+        <target state="translated">Lambda[A]</target>
+        <note from="developer">#Optical Spectrum...</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flux[ADU]">
+        <source>Flux[ADU]</source>
+        <target state="translated">Flujo[ADU]</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose language">
+        <source>Choose language</source>
+        <target state="translated">Elige idioma</target>
+        <note from="developer">#Plugins externes</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Dynamic profile">
+        <source>Dynamic profile</source>
+        <target state="translated">Perfil dinámico</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Live histogram">
+        <source>Live histogram</source>
+        <target state="translated">Histograma en tiempo real</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Virtual observatories images">
+        <source>Virtual observatories images</source>
+        <target state="translated">Imágenes de observatorios virtuales</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="open an image on the Web">
+        <source>open an image on the Web</source>
+        <target state="translated">Abre una imagen de la Web</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Align R/G/B plans">
+        <source>Align R/G/B plans</source>
+        <target state="translated">Alinear planos R/G/B</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

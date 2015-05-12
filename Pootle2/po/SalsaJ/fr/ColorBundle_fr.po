@@ -1,0 +1,90 @@
+#. extracted from ../templates/ColorBundle.properties, ../resu/ColorBundle_fr.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: BackGColor
+msgid "Background Color"
+msgstr "Couleur du fond"
+
+#: BlackColor
+msgid "black"
+msgstr "noir"
+
+#: BlueColor
+msgid "blue"
+msgstr "bleu"
+
+#: Clipboard
+msgid "Clipboard"
+msgstr "Presse-papiers"
+
+#: ColorNone
+msgid "none"
+msgstr "aucune"
+
+#: ColorRGB
+msgid "R/V/B"
+msgstr "R/V/B"
+
+#: CyanColor
+msgid "cyan"
+msgstr "cyan"
+
+#: DGrayColor
+msgid "dark gray"
+msgstr "gris foncé"
+
+#: ForGColor
+msgid "Foreground Color"
+msgstr "Couleur du premier plan"
+
+#. ##NEW
+#: GrayColor
+msgid "gray"
+msgstr "gris"
+
+#: GreenColor
+msgid "green"
+msgstr "vert"
+
+#: LGrayColor
+msgid "light gray"
+msgstr "gris clair"
+
+#: MagentaColor
+msgid "magenta"
+msgstr "magenta"
+
+#: OrangeColor
+msgid "orange"
+msgstr "orange"
+
+#: Ramp
+msgid "Ramp"
+msgstr "Dégradé"
+
+#: RedColor
+msgid "red"
+msgstr "rouge"
+
+#: SelectionColor
+msgid "Selection Color"
+msgstr "Couleur des sélections:"
+
+#: WhiteColor
+msgid "white"
+msgstr "blanc"
+
+#: YellowColor
+msgid "yellow"
+msgstr "jaune"

@@ -1,0 +1,132 @@
+#. extracted from ../templates/ToolBundle.properties, ../resu/ToolBundle_nl.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: 2010-12-16 12:32+0200\n"
+"Last-Translator: Hendrik <hderycke1@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: NewHint
+msgid "New Image"
+msgstr "Nieuw Beeld"
+
+#: OpenHint
+msgid "Open Image File"
+msgstr "Openen Beeldbestand"
+
+#: SaveHint
+msgid "Save Image"
+msgstr "Opslaan Beeld"
+
+#: SaveAsHint
+msgid "Save Image (new name, FITS format)"
+msgstr "Opslaan Beeld (nieuwe naam, FITS formaat)"
+
+#: PrintHint
+msgid "Print Image"
+msgstr "Afdrukken Beeld"
+
+#: ClearHint
+msgid "Clear Selection"
+msgstr "Wis Selectie"
+
+#: UndoHint
+msgid "Undo Last Operation"
+msgstr "Ongedaan maken laatste bewerking"
+
+#: Mag+Hint
+msgid "Zoom In"
+msgstr "Inzoomen"
+
+#: Mag-Hint
+msgid "Zoom Out"
+msgstr "Uitzoomen"
+
+#: PhotometryHint
+msgid "Aperture Photometry"
+msgstr "Opening Fotometrie"
+
+#: PhotometryAdjustHint
+msgid "Photometry Settings"
+msgstr "Instellingen Fotometrie"
+
+#: ClearPhotometryHint
+msgid "Clear Photometry Results"
+msgstr "Wissen Resultaten Fotometrie"
+
+#: InfoHint
+msgid "Online Documentation"
+msgstr "Online Documentatie"
+
+#: RectSel
+msgid "Rectangular selection"
+msgstr "Rechthoekige selectie"
+
+#: OvalSel
+msgid "Oval selection"
+msgstr "Ovale selectie"
+
+#: PolySel
+msgid "Polygon selection"
+msgstr "Veelhoekige selectie"
+
+#: FreeSel
+msgid "Freehand selection"
+msgstr "Vrije hand selectie"
+
+#: StraightSel
+msgid "Straight line selection"
+msgstr "Rechte lijn selectie"
+
+#: SegSel
+msgid "Segmented line selection"
+msgstr "Onderbroken lijn selectie"
+
+#: FreeLineSel
+msgid "Freehand line selection"
+msgstr "Vrije hand lijnselectie"
+
+#: ProfileLineSel
+msgid "Profile selection"
+msgstr "Profiellijn selectie"
+
+#: CrosshairTool
+msgid "Pixel selection tool"
+msgstr "Pixel selectiegereedschap"
+
+#: WandTool
+msgid "Isovaluated selection tool"
+msgstr "Isowaarden selectiegereedschap"
+
+#: TextTool
+msgid "Text tool "
+msgstr "Tekstgereedschap"
+
+#: MagTool
+msgid "Magnifying glass"
+msgstr "Vergrootglas"
+
+#: ScrollTool
+msgid "Scrolling tool"
+msgstr "Schuifgereedschap"
+
+#: ColorTool
+msgid "Color picker...[K]"
+msgstr "Kleurkiezer...[K]"
+
+#: AngleTool
+msgid "Angle tool"
+msgstr "Hoekgereedschap"
+
+#. #BrightnessContrastHint
+#: BrightnessContrastHint
+msgid "Brightness & Contrast"
+msgstr "Helderheid & Contrast"

@@ -1,0 +1,79 @@
+#. extracted from ../templates/BlitterBundle.properties, ../resu/BlitterBundle_bg.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: 2012-07-01 22:14+0200\n"
+"Last-Translator: Tsetsa <tzetza@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=n>1;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: Add
+msgid "Add"
+msgstr "Добавяне"
+
+#: AND
+msgid "AND"
+msgstr "и"
+
+#: Average
+msgid "Average"
+msgstr "Средно"
+
+#: Copy
+msgid "Copy"
+msgstr "Копирай"
+
+#: Difference
+msgid "Difference"
+msgstr "разлика"
+
+#: Divide
+msgid "Divide"
+msgstr "Разлика"
+
+#: Gamma
+msgid "Gamma"
+msgstr "Гама"
+
+#: Index
+msgid "index"
+msgstr "индекс"
+
+#: Max
+msgid "Max"
+msgstr "Максимум"
+
+#: Min
+msgid "Min"
+msgstr "Минимум"
+
+#: Multiply
+msgid "Multiply"
+msgstr "Умножавам"
+
+#: OR
+msgid "OR"
+msgstr "или"
+
+#: Subtract
+msgid "Subtract"
+msgstr "изваждам"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "копирай с изключение на бялото"
+
+#: Value
+msgid "value"
+msgstr "стойност"
+
+#: XOR
+msgid "XOR"
+msgstr "Xоризинтално"

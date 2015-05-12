@@ -1,0 +1,503 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-11-25 14:18+0200\n"
+"Last-Translator: euhoupt <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#  Thank you for your help to translate this file.
+#: text001
+msgid "receive radio wave"
+msgstr "captar ondas de rádio"
+
+#: text002
+msgid "The Sun is our star: a gigantic ball of gas, the Sun is shining because of nuclear reactions. Its temperature is very high: several thousands of degrees."
+msgstr ""
+"O Sol é a nossa estrela: uma gigantesca bola de gás que brilha porque, no "
+"seu interior, a uma temperatura da ordem dos milhões de graus, dão-se "
+"reações nucleares. À superfície, a sua temperatura é de vários milhares de "
+"graus."
+
+#: text003
+msgid "THE FM RADIO FROM STARS"
+msgstr "A Rádio FM dos Astros"
+
+#: text004
+msgid "So stars are emitting radio waves... ?"
+msgstr "Os astros emitem ondas de rádio... ?"
+
+#: text005
+msgid "If we  could tune a radio to the FM frequency of 160MHz, we could hear... the Sun ! What a weird music!"
+msgstr ""
+"Se pudéssemos sintonizar um rádio na frequência FM de 160MHz, poderíamos "
+"ouvir... o Sol! Que música estranha!"
+
+#: text006
+msgid "the horsehead nebula"
+msgstr "a nebulosa da cabeça do cavalo"
+
+#: text007
+msgid "6000.C"
+msgstr "6000 C"
+
+#: text008
+msgid "QUIZZ"
+msgstr "QUESTÃO"
+
+#: text009
+msgid "During World War II, a plane could hide from radar while flying facing the sun."
+msgstr ""
+"Durante a Segunda Guerra Mundial, um avião podia esconder-se dos radares "
+"voando em direção ao sol."
+
+#: text010
+msgid "True or False?"
+msgstr "Verdadeiro ou Falso?"
+
+#: text011
+msgid "THE radio WAVES: invisible WAVEs that are not SOUND waves"
+msgstr "As ondas de rádio: ondas invisíveis que não são ondas sonoras"
+
+#: text012
+msgid "We receive radio waves from the Universe, but what can we actually hear?"
+msgstr ""
+"Recebemos ondas de rádio do Universo, mas o que é que realmente ouvimos?"
+
+#: text013
+msgid "It doesnt matter: nobody is listening to the stars. In fact, stellar radio waves are used to take a picture, more like a radar."
+msgstr ""
+"Não tem importância: ninguém está a escutar os astros. De facto, utilizam-se "
+"as ondas de rádio proveniente dos astros para fazer fotografias, à "
+"semelhança do que fazem os radares."
+
+#: text014
+msgid "Radio astronomers listen to the stars with headphones."
+msgstr "Os radioastrónomos ouvem os astros com auscultadores."
+
+#: text015
+msgid "Let's compare Stars in the radio and optical domain"
+msgstr "Vamos comparar os astros nos domínios do rádio e do ótico."
+
+#: text016
+msgid "Our eyes can see visible light from stars: we see the colors inside a  rainbow. Our sun is yellow, but red stars, blue, white, brown, ... also exist!"
+msgstr ""
+"Os nossos olhos podem ver a luz visível emitida pelos astros: vemos as cores "
+"do arco-íris. O nosso sol é amarelo, mas existem estrelas vermelhas, azuis, "
+"brancas, castanhas..."
+
+#: text017
+msgid "Radio waves can be used to detect invisible galaxies."
+msgstr "As ondas de rádio podem ser usadas para detetar galáxias invisíveis."
+
+#: text018
+msgid "The radio of the stars is not very melodious. It is emitted by the atoms and the molecules of gas that are heated by the stars. Its more like a kind of noise, like the scratchy sound of an old vinyl record."
+msgstr ""
+"A rádio dos astros não é muito harmoniosa. É emitida pelos átomos e "
+"moléculas do gás que é aquecido pelas estrelas. É mais uma espécie de ruído "
+"que faz lembrar o som de um disco de vinil riscado."
+
+#: text019
+msgid "Radio waves show us parts of planets and galaxies, in particular where atoms and molecules of hydrogen and carbon monoxide lie. For the Sun, radio waves show magnetic storms, in the form of spots on its surface."
+msgstr ""
+"As ondas de rádio mostram-nos regiões de planetas e galáxias, em particular "
+"onde existem átomos e moléculas de hidrogénio e monóxido de carbono. No caso "
+"do Sol, as ondas de rádio mostram tempestades magnéticas sob a forma de "
+"manchas na sua superfície."
+
+#: text020
+msgid "MAGNETIC FIELDS"
+msgstr "CAMPOS MAGNÉTICOS"
+
+#: text021
+msgid "The song of stars?"
+msgstr "O canto das estrelas?"
+
+#: text022
+msgid "exoplanets"
+msgstr ""
+
+#: text023
+msgid "pulsars, the radio lighthouse of the Universe"
+msgstr "pulsares, os radiofaróis do Universo"
+
+#: text024
+msgid "In 1054 BC, the chinese people were able to observe a bright new star in the sky: it was a supernovae explosion. A millenium later, we can observe a beautiful nebula in the same place: the Crab nebula. At its very center lies a peculiar star: a pulsar."
+msgstr ""
+"Em 1054 a.C., o povo chinês registou a observação de uma nova estrela, muito "
+"brilhante, no céu: tratava-se de uma explosão de supernova. Um milénio "
+"depois, podemos observar no mesmo local uma nebulosa espetacular: a nebulosa "
+"do Caranguejo. No seu centro encontra-se uma estrela muito peculiar: um "
+"pulsar."
+
+#: text025
+msgid "The pulsar signals come from extra-terrestrials"
+msgstr "O sinal de um pulsar vem de extraterrestres"
+
+#: text026
+msgid "SUPERNOVAE"
+msgstr "SUPERNOVAS"
+
+#: text027
+msgid "Like a spinning top, a pulsar is rotating around"
+msgstr ""
+"Tal como um pião a girar, um pulsar roda em torno de si próprio "
+"permanentemente. Os feixes de rádio emitidos pelo pulsar são arrastados pela "
+"sua rotação, como um farol à beira-mar. Na Terra, captamo-los sob a forma "
+"de sinais curtos (\"bip, bip, bip\"). Cerca de 2000 pulsares já foram "
+"observados na nossa Galáxia e estima-se uqe existam milhares de milhões em "
+"todo o Universo."
+
+#: text028
+msgid "Radio emission from the Sun"
+msgstr "O Sol: emissão no rádio"
+
+#: text029
+msgid "Optical emission from the Sun"
+msgstr "O Sol: emissão no visível"
+
+#: text030
+msgid "Comparing the strength of the signal coming from the stars to that of a mobile phone"
+msgstr ""
+"Comparação da força do sinal proveniente dos astros com a de um telemóvel"
+
+#: text031
+msgid "At full power, a mobile phone can emit up to 1 Watt. The antenna of the phone compagnies mounted on the roofs of some buildings are very small : they only measure 1 meter, and thats enough to transmit the radio signal."
+msgstr ""
+"Um telemóvel pode emitir até 1 Watt. As antenas das companhias de "
+"telecomunicações são muito pequenas: um metro de diâmetro é suficiente para "
+"transmitirem o sinal de rádio."
+
+#: text032
+msgid "A mobile phone can perturb the signal of a radio telescope."
+msgstr "Um telemóvel pode perturbar o sinal de um radiotelescópio."
+
+#: text033
+msgid "To receive radio waves from stars, SWITCH OFF YOUR MOBILE"
+msgstr "Para captar ondas de rádio dos astros, DESLIGUE O SEU TELEMÓVEL"
+
+#: text034
+msgid "In contrast, to receive radio signal from stars, radio astronomers have to use huge antennas, of a size up to 300 meter. For example galaxies that are emitting radio waves are very far away (millions of light-years). As a result, the signal arriving on earth is very weak."
+msgstr ""
+"Comparemos com as antenas que os radioastrónomos usam para captar sinais de "
+"rádio dos astros: são enormes, com tamanhos até 300 metros. Por exemplo, as "
+"galáxias que estão a emitir ondas de rádio encontram-se muito longe (a "
+"milhões de anos-luz de nós) de forma que o sinal que nos chega é muito "
+"fraco."
+
+#: text035
+msgid "How to receive the weak radio waves of the stars : with Huge radio telescopes"
+msgstr ""
+"Como captar as ondas de rádio de fraca intensidade dos astros: com "
+"radiotelescópios enormes"
+
+#: text036
+msgid "For that reason, astronomers build huge radio telescopes. It allows the study of galaxies very far away, at billion of light-years from Earth. The form of the dish can vary depending on the location and the cost."
+msgstr ""
+"Por esse motivo, os astrónomos constroem radiotelescópios enormes. Permitem "
+"estudar galáxias muito longínquas, a milhares de milhões de anos-luz da "
+"Terra. A forma da antena pode variar, dependendo da localização e do custo."
+
+#: text037
+msgid "With a dish twice as big, one can receive a signal two times stronger."
+msgstr ""
+"Com uma antena duas vezes maior, podemos receber um sinal duas vezes mais "
+"forte."
+
+#: text038
+msgid "TELESCOPE"
+msgstr "TELESCÓPIO"
+
+#: text039
+msgid "The bigger the antenna is, the more sensitive it is to radio waves. The satellite dishes used for receiving the television signal illustrate that very well: a big dish receives a better signal."
+msgstr ""
+"Quanto maior for a antena, mais sensível é às ondas de rádio. As antenas "
+"parabólicas utilizadas para receber a televisão por satélite ilustram este "
+"facto: uma parabólica grande capta melhor o sinal."
+
+#: text040
+msgid "Arecibo (Puerto Rico, Caribbean Sea) 305 m in diameter"
+msgstr "Arecibo (Porto Rico, Mar das Caraíbas) 305 m de diâmetro"
+
+#: text041
+msgid "Nancay (France) 300 m of length"
+msgstr "Nançay (França) 300 m de extensão"
+
+#: text042
+msgid "Green Bank (United States) 105 m in diameter"
+msgstr "Green Bank (Estados Unidos) 105 m de diâmetro"
+
+#: text043
+msgid "ANTENNAE"
+msgstr "ANTENAS"
+
+#: text044
+msgid "the Sun"
+msgstr "o Sol"
+
+#: text045
+msgid "Radar sreen - NAVY (USA)"
+msgstr "Écrã de radar - Marinha (EUA)"
+
+#: text046
+msgid "In addition to bring us light, the Sun emits radio waves, in all the FM band, and beyond! Besides, the Suns emission is more powerful than any of our FM radios. But our favorite FM emitters are only a few km away, whereas the Sun is very far from the Earth: at 150 million km! The signal coming from the Sun is therefore too weak to actually prevent us from listening to our favourite radio stations. PHEW!"
+msgstr ""
+"Além de nos iluminar, o Sol emite ondas de rádio em toda a banda FM e não "
+"só! A emissão solar é mais potente do que qualquer rádio FM. Só que os "
+"emissores das nossas rádios encontram-se a alguns quilómetros de nós, "
+"enquanto que o Sol está a 150 milhões de quilómetros! O sinal proveniente do "
+"Sol acaba por ser demasiado fraco para impedir-nos de ouvir as nossas "
+"estações de rádio preferidas. UFA!"
+
+#: text047
+msgid "The radio waves from stars can, as FM radio, be received anytime, day and night, whereas their bright light can only be seen at night, when the Sun has set."
+msgstr ""
+"As ondas de rádio dos astros podem ser captadas sempre, seja dia ou noite, "
+"enquanto que a sua luz visível só é observada à noite, depois do Sol se pôr."
+
+#: text048
+msgid "One galaxy can host billions of stars. In some galaxies, the center is buried deep inside lots of dust clouds that shield the light from the galaxy. But radio waves can pierce through the clouds and thus can be observed. This is called a  radiogalaxy."
+msgstr ""
+"Uma galáxia pode albergar milhares de milhões de estrelas. Em algumas "
+"galáxias, o centro está imerso em nuvens de poeira que escondem a luz "
+"visível da galáxia. Mas as ondas de rádio podem atravessar as nuvens e "
+"chegar até nós, mostrando-nos a galáxia. Chamamo-la então de radiogaláxia."
+
+#: text049
+msgid "1 m"
+msgstr "1 m"
+
+#: text050
+msgid "25 m"
+msgstr "25 m"
+
+#: text051
+msgid "1 light-year is the distance traveled by light in 1 year: it's a huge distance! The light travels very fast: 300 000 km per second! At this speed, you could get to the Moon in 1seconde, and to the Sun in 8minutes...  and to the Andromeda galaxy in 2million years !"
+msgstr ""
+"1 ano-luz é a distância percorrida pela luz em 1 ano: é uma distância "
+"enorme! A luz viaja muito depressa: a 300 000 quilómetros por segundo! A "
+"esta velocidade, estaríamos na Lua em 1 segundo e no Sol em 8 minutos... e "
+"na galáxia da Andrómeda em 2 milhões de anos!"
+
+#: text052
+msgid "If you compare the signal coming from the Sun and the signal from a mobile phone, the signal of the mobile phone is a billion time stronger "
+msgstr ""
+"Se compararmos o sinal que vem do Sol com o sinal de um telemóvel, o sinal "
+"do telemóvel é um milhar de milhão de vezes mais forte"
+
+#: text053
+msgid "Effelsberg (Germany) 100 m in diameter"
+msgstr "Effelsberg (Alemanha) 100 m de diâmetro"
+
+#: text054
+msgid "The Future of radioastronomy: radio telescopes for  amateurs in Europe"
+msgstr "O futuro da radioastronomia: radiotelescópios para escolas"
+
+#: text055
+msgid "A European network of radio telescope is currently under development for the student in secondary schools."
+msgstr ""
+"Uma rede de radiotelescópios está a ser desenvolvida para os estudantes das "
+"escolas secundárias."
+
+#: text056
+msgid "A small telescope is easy to buy... but what about a small radio telescope?"
+msgstr ""
+"Um pequeno telescópio ou luneta é fácil de adquirir... mas onde comprar um "
+"pequeno radiotelescópio?"
+
+#: text057
+msgid "Two prototypes of 2,3m in diameter were developed in the EU-HOU project: www.euhou.net by the Onsala observatory in Sweden. It has been used in European classrooms since 2005 via Internet. With these radio telescopes, it is possible to observe the gas of the Milky Way, even in big cities, and even in daylight."
+msgstr ""
+"Dois protótipos de 2,3 m de diâmetro foram desenvolvidos pelo observatório "
+"de Onsala (Suécia) no âmbito do projeto EU-HOU (www.euhou.net). Estas "
+"antenas têm sido usadas nas salas de aula europeias desde 2005, via "
+"internet. Com estes radiotelescópios é possível observar o gás da Via "
+"Láctea, mesmo estando em grandes cidades, em pleno dia."
+
+#: text058
+msgid "Can we contribute to find intelligent life in the Universe? "
+msgstr "Podemos ajudar na procura de vida inteligente no Universo?"
+
+#: text059
+msgid "Thanks to the Internet, it will be soon possible to observe the gas of the Milky Way with a radio telescope from any European classroom."
+msgstr ""
+"Graças à internet, em breve será possível observar o gás da Via Láctea com "
+"um radiotelescópio a partir de qualquer sala de aula europeia."
+
+#: text060
+msgid "EU-HOU project"
+msgstr "Projeto EU-HOU"
+
+#: text061
+msgid "Yes: with a clever screensaver system installed on their computers, more that 3 million users contribute to search for intelligent signal from the galaxy. It is the program  SETI @ HOME. To get involved, see setiathome.berkeley.edu"
+msgstr ""
+"Sim: com um protetor de écrã inteligente instalado nos seus computadores, "
+"mais de 3 milhões de utilizadores contribuem para a procura de um sinal "
+"inteligente na nossa galáxia. É o programa SETI@HOME. Para se envolver, veja "
+"setiathome.berkeley.edu."
+
+#: text062
+msgid "SETI"
+msgstr "SETI"
+
+#: text063
+msgid "Onsala (Sweden) Small antenna of 2,3m in diameter"
+msgstr "Onsala (Suécia) Pequena antena de 2,3 m de diâmetro"
+
+#: text064
+msgid "Exobiology Searching for Life in the Universe"
+msgstr "Exobiologia À Procura de Vida no Universo"
+
+#: text065
+msgid "Some antennae are used to listen to extraterrestrial signals, in case they really exist."
+msgstr ""
+"Algumas antenas são usadas para ouvir sinais extraterrestres, caso estes "
+"realmente existam."
+
+#: text066
+msgid "There are planets orbiting around the Sun: The Solar System. In order: Mercure, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune."
+msgstr ""
+"O nosso sistema solar é constituído pelo Sol e por planetas que orbitam à "
+"volta dele. Por ordem, temos: Mercúrio, Vénus, Terra, Marte, Júpiter, "
+"Saturno, Úrano e Neptuno."
+
+#: text067
+msgid "In 1992, a Polish researcher, Alex Wolszcan, observe the pulsar (bip bip bip) PSR 1257+12 with the Arecibo radio telescope. To his great surprise, he discover the first planetary system beyond the Sun: extrasolar planets! These new planets are particularly interesting because they are like the Earth. But they are so far away, 900 light-years, that we wont get much more information for a long time!"
+msgstr ""
+"Em 1992, um investigador polaco, Alex Wolszcan, observou o pulsar PSR "
+"1257+12 com o radiotelescópio de Arecibo. Para sua grande surpresa, "
+"descobriu o primeiro sistema planetário além do nosso: foi a primeira "
+"deteção de planetas extrassolares! Estes planetas são particularmente "
+"interessantes porque têm massas semelhantes à da Terra. Mas encontram-se tão "
+"distantes, a mais de mil anos-luz, que não sabemos muito mais sobre eles."
+
+#: text068
+msgid "Fortunately, since then more than 300 extrasolar planets have been discovered. They are everywhere inside our Galaxy. Maybe some day we will discover life on one of these planets. Life could be brought by comets travelling through space. On Earth, comets brought complex molecules that played a role in the development of life."
+msgstr ""
+"Desde então e até finais de 2012, já se descobriram mais de 800 planetas "
+"extrassolares! Encontram-se em toda a parte na nossa Galáxia. Talvez um dia "
+"se descubra vida num desses planetas. A vida pode ser transportada por "
+"cometas que viajam no espaço. No caso da Terra, os cometas trouxeram "
+"moléculas complexas que tiveram um papel importante no desenvolvimento da "
+"vida terrestre."
+
+#: text069
+msgid "planetes"
+msgstr "planetas"
+
+#: text070
+msgid "Observatories, High technology inside"
+msgstr "Observatórios, Locais de tecnologia de ponta"
+
+#: text071
+msgid "With a radio telescope the size of the Earth, its possible to observe a planet the size of Jupiter somewhere else in our Galaxy, at many light-years from us."
+msgstr ""
+"Com um radiotelescópio do tamanho da Terra, é possível observar um planeta "
+"do tamanho de Júpiter noutra parte da nossa Galáxia, a muitos anos-luz de "
+"nós."
+
+#: text072
+msgid "FOREST of antennae"
+msgstr "FLORESTA de antenas"
+
+#: text073
+msgid "With a digital camera, there is more detail when there are more pixels. In the same way, we can use a network of radio telescopes to increase the detail: the more antennas you have, the more precise you get!"
+msgstr ""
+"Com uma câmara digital, vemos mais detalhes na imagem quantos mais píxeis "
+"esta tiver. Da mesma forma, podemos utilizar uma rede de radiotelescópios "
+"para aumentar o detalhe das nossas observações: quantas mais antenas, maior "
+"a precisão!"
+
+#: text074
+msgid "To see more details in distant galaxies, forests of radio antennae are built around the world: 27 antennae for the VLA in New Mexico (USA), 30 antennas in Pune (India), 64 antennas in the Andes (Chile)."
+msgstr ""
+"Para observar as galáxias distantes com mais detalhe, constroem-se florestas "
+"de antenas de rádio à volta do mundo: 27 antenas para o VLA no Novo México "
+"(EUA), 30 antenas em Pune (Índia), 64 antenas nos Andes (Chile)."
+
+#: text075
+msgid "The radio signal from the antennas is mixed and analysed by very powerful computer. We can even mix the signal from antennae located on different continents to simulate a giant antenna the size of the Earth!"
+msgstr ""
+"O sinal rádio das antenas é misturado e analisado por computadores muito "
+"potentes. Pode-se mesmo combinar o sinal de antenas localizadas em "
+"diferentes continentes para simular uma antena gigante do tamanho da Terra!"
+
+#: text076
+msgid "The first radio antenna radars were actually built by the military during World War II: they could listen to the Sun!"
+msgstr ""
+"As primeiras antenas de radar foram construídas pelas forças militares "
+"durante a Segunda Guerra Mundial: podiam ouvir o Sol!"
+
+#: text077
+msgid "the Solar System"
+msgstr "O Sistema Solar"
+
+#: text078
+msgid "exoplanets"
+msgstr "exoplanetas"
+
+#: text079
+msgid "the regular signal received from a pulsar"
+msgstr "o sinal periódico recebido de um pulsar"
+
+#: text080
+msgid "ALMA (Chile)"
+msgstr "ALMA (Chile)"
+
+#: text081
+msgid "Plateau de Bure (Alpes)"
+msgstr "Planalto de Bure (Alpes)"
+
+#: text082
+msgid "SKA (in project)"
+msgstr "SKA (em construção)"
+
+#: text083
+msgid "des radiotelescopes pour capter les ondes de le univers"
+msgstr "Radiotelescópios para captar as ondas do Universo"
+
+#: text084
+msgid "Credits :Observatoire de Paris Sciences a l'école NASA, ESO, ESA Conception and implementation : Olivier Marco, Aurore Mathon, Yannick Libert"
+msgstr ""
+"Créditos: Observatório de Paris Sciences a l'école NASA, ESO, ESA Conceção e "
+"implementação: Olivier Marco, Aurore Mathon, Yannick Libert Tradução para "
+"português: NUCLIO-Núcleo Interativo de Astronomia"
+
+#: text085
+msgid "Radio wave emitted by the galaxy M87"
+msgstr "Onda de rádio emitida pela galáxia M87"
+
+#: text086
+msgid "The Crab nebula- M1 the remains of a supernova explosion."
+msgstr ""
+"A nebulosa do Caranguejo, M1, o remanescente de uma explosão de supernova."
+
+#: text087
+msgid "Receive Galactic Signal"
+msgstr "Captar a Via Láctea"
+
+#: text088
+msgid "SUN radio"
+msgstr "Rádio Sol"
+
+#: text089
+msgid "atoms"
+msgstr "átomos"
+
+#: text090
+msgid "Very Large Array, USA"
+msgstr "Very Large Array, EUA"
+
+#: text091
+msgid "international collaboration"
+msgstr "colaboração internacional"
+
+#: text092
+msgid "radiotelescopes tuned up to the Universe"
+msgstr "radiotelescópios sintonizados para o Universo"

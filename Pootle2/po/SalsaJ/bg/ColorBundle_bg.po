@@ -1,0 +1,92 @@
+#. extracted from ../templates/ColorBundle.properties, ../resu/ColorBundle_bg.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: 2012-07-01 22:17+0200\n"
+"Last-Translator: Tsetsa <tzetza@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=n>1;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: BackGColor
+msgid "Background Color"
+msgstr "Цвят на фона"
+
+#: BlackColor
+msgid "black"
+msgstr "черен"
+
+#: BlueColor
+msgid "blue"
+msgstr "син"
+
+#: Clipboard
+msgid "Clipboard"
+msgstr "Клипборд (временна памет)"
+
+#: ColorNone
+msgid "none"
+msgstr "няма"
+
+#: ColorRGB
+msgid "R/V/B"
+msgstr "Червен/Виолетов/Син"
+
+#: CyanColor
+msgid "cyan"
+msgstr "циан"
+
+#: DGrayColor
+msgid "dark gray"
+msgstr "тъмно сив"
+
+#: ForGColor
+msgid "Foreground Color"
+msgstr "Цвят на преден план"
+
+#. ##NEW
+#: GrayColor
+msgid "gray"
+msgstr "сив"
+
+#: GreenColor
+msgid "green"
+msgstr "зелен"
+
+#: LGrayColor
+msgid "light gray"
+msgstr "светло сив"
+
+#: MagentaColor
+msgid "magenta"
+msgstr "пурпурен"
+
+#: OrangeColor
+msgid "orange"
+msgstr "оранжев"
+
+#: Ramp
+msgid "Ramp"
+msgstr "Наклон"
+
+#: RedColor
+msgid "red"
+msgstr "червен"
+
+#: SelectionColor
+msgid "Selection Color"
+msgstr "Избран цвят"
+
+#: WhiteColor
+msgid "white"
+msgstr "бял"
+
+#: YellowColor
+msgid "yellow"
+msgstr "жълт"

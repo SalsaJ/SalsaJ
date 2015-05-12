@@ -1,0 +1,88 @@
+#. extracted from ColorBundle_ru.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-15 12:35+0200\n"
+"PO-Revision-Date: 2012-04-02 07:01+0200\n"
+"Last-Translator: Ivan <Ivan.Zolotukhin@obspm.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: RedColor
+msgid "red"
+msgstr ""
+
+#: BlueColor
+msgid "blue"
+msgstr "синий"
+
+#: GreenColor
+msgid "green"
+msgstr "зеленый"
+
+#: MagentaColor
+msgid "magenta"
+msgstr "пурпурный"
+
+#: CyanColor
+msgid "cyan"
+msgstr "голубой"
+
+#: YellowColor
+msgid "yellow"
+msgstr "желтый"
+
+#: OrangeColor
+msgid "orange"
+msgstr "оранжевый"
+
+#: BlackColor
+msgid "black"
+msgstr "черный"
+
+#: WhiteColor
+msgid "white"
+msgstr "белый"
+
+#: LGrayColor
+msgid "light gray"
+msgstr "светло-серый"
+
+#: DGrayColor
+msgid "dark gray"
+msgstr "темно-серый"
+
+#: ColorNone
+msgid "none"
+msgstr "не выбран"
+
+#: ColorRGB
+msgid "R/V/B"
+msgstr ""
+
+#: SelectionColor
+msgid "Selection Color"
+msgstr ""
+
+#: BackGColor
+msgid "Background Color"
+msgstr ""
+
+#: ForGColor
+msgid "Foreground Color"
+msgstr ""
+
+#: Clipboard
+msgid "Clipboard"
+msgstr ""
+
+#: Ramp
+msgid "Ramp"
+msgstr ""

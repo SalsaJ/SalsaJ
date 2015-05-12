@@ -1,0 +1,79 @@
+#. extracted from BlitterBundle.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-02 10:48+0200\n"
+"PO-Revision-Date: 2010-09-28 10:50+0200\n"
+"Last-Translator: lili <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.3\n"
+
+#: Add
+msgid "Add"
+msgstr ""
+
+#: AND
+msgid "AND"
+msgstr ""
+
+#: Average
+msgid "Average"
+msgstr ""
+
+#: Copy
+msgid "Copy"
+msgstr ""
+
+#: Difference
+msgid "Difference"
+msgstr ""
+
+#: Divide
+msgid "Divide"
+msgstr ""
+
+#: Gamma
+msgid "Gamma"
+msgstr ""
+
+#: Index
+msgid "index"
+msgstr ""
+
+#: Max
+msgid "Max"
+msgstr ""
+
+#: Min
+msgid "Min"
+msgstr ""
+
+#: Multiply
+msgid "Multiply"
+msgstr ""
+
+#: OR
+msgid "OR"
+msgstr ""
+
+#: Subtract
+msgid "Subtract"
+msgstr ""
+
+#: Transparent
+msgid "Copy except White"
+msgstr ""
+
+#: Value
+msgid "value"
+msgstr ""
+
+#: XOR
+msgid "XOR"
+msgstr ""

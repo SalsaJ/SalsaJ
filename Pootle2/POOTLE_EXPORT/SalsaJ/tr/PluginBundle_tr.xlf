@@ -1,0 +1,1548 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="PluginBundle_tr.po" source-language="en-US" datatype="plaintext" target-language="tr">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="pixel">
+        <source>pixel</source>
+        <target state="translated">piksel</target>
+        <note from="developer">##GLOBAL SECTION</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pixels">
+        <source>pixels</source>
+        <target state="translated">piksel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="degrees">
+        <source>degrees</source>
+        <target state="translated">derece</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open__%04__Open">
+        <source>Open</source>
+        <target state="translated">Açık</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply">
+        <source>Apply</source>
+        <target state="translated">Uygula</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Settings">
+        <source>Settings</source>
+        <target state="translated">Ayarlar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Text File...">
+        <source>Open Text File...</source>
+        <target state="translated">Aç Metin Dosya...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Height">
+        <source>Height</source>
+        <target state="translated">Yükseklik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width">
+        <source>Width</source>
+        <target state="translated">Genişlik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create New Window">
+        <source>Create New Window</source>
+        <target state="translated">Yeni Pencere Aç</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="List">
+        <source>List</source>
+        <target state="translated">Liste</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unit">
+        <source>Unit</source>
+        <target state="translated">Ünite</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="none">
+        <source>none</source>
+        <target state="translated">hiçbiri</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Left column">
+        <source>Left column</source>
+        <target state="translated">Sol sütun</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Right column">
+        <source>Right column</source>
+        <target state="translated">Sağ sütun</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="values">
+        <source>values</source>
+        <target state="translated">değerler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File">
+        <source>File</source>
+        <target state="translated">Dosya</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Title">
+        <source>Title</source>
+        <target state="translated">Başlık</target>
+        <note from="developer">##NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stack required">
+        <source>Stack required</source>
+        <target state="translated">Gerekli yığın</target>
+        <note from="developer"># StackEditor</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No images are open.">
+        <source>No images are open.</source>
+        <target state="translated">Açık görüntü yok.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="There must be at least two open images.">
+        <source>There must be at least two open images.</source>
+        <target state="translated">En az iki görüntü açık olmalı.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="None of the open images can go in a stack.">
+        <source>None of the open images can go in a stack.</source>
+        <target state="translated">Açık görüntülerden hiçbiri bir yığına giremiyor.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="All open images must be the same type.">
+        <source>All open images must be the same type.</source>
+        <target state="translated">Açık görüntülerin tümü aynı türde olmalı.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="All open images must be the same size.">
+        <source>All open images must be the same size.</source>
+        <target state="translated">Açık görüntülerin tümü aynı boyutta olmalı.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stack">
+        <source>Stack</source>
+        <target state="translated">Yığın</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Convert to Images?">
+        <source>Convert to Images?</source>
+        <target state="translated">Görüntüye Dönüştür?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to convert this&#10;stack to">
+        <source>Are you sure you want to convert this
+stack to</source>
+        <target state="translated">Dönüştümek istetiğinize eminmisiniz bu
+yığını</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="separate windows?">
+        <source>separate windows?</source>
+        <target state="translated">pencereleri ayır?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image Calculator">
+        <source>Image Calculator</source>
+        <target state="translated">Görüntü Hesaplama</target>
+        <note from="developer"># ImageCalculator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No windows are open.">
+        <source>No windows are open.</source>
+        <target state="translated">Açılmış pencere yok.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Both stacks must have the same number of slices.">
+        <source>Both stacks must have the same number of slices.</source>
+        <target state="translated">Her iki yığın aynı dilim sayılarına sahip olmalı.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Out of memory">
+        <source>Out of memory</source>
+        <target state="translated">Bellek yetersiz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image 1:">
+        <source>Image 1:</source>
+        <target state="translated">Görüntü 1:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image 2:">
+        <source>Image 2:</source>
+        <target state="translated">Görüntü 2:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Operation:">
+        <source>Operation:</source>
+        <target state="translated">Operasyon:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Result of">
+        <source>Result of</source>
+        <target state="translated">Sonucu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Result">
+        <source>Result</source>
+        <target state="translated">Sonuç</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Add__%04__Add">
+        <source>Add</source>
+        <target state="translated">Ekle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Subtract">
+        <source>Subtract</source>
+        <target state="translated">Çıkar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Multiply">
+        <source>Multiply</source>
+        <target state="translated">Çarp</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Divide">
+        <source>Divide</source>
+        <target state="translated">Böl</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AND">
+        <source>AND</source>
+        <target state="translated">AND</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="OR">
+        <source>OR</source>
+        <target state="translated">OR</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="XOR">
+        <source>XOR</source>
+        <target state="translated">XOR</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Min">
+        <source>Min</source>
+        <target state="translated">Min</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Max">
+        <source>Max</source>
+        <target state="translated">Mak</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gamma">
+        <source>Gamma</source>
+        <target state="translated">Gama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Average">
+        <source>Average</source>
+        <target state="translated">Ortalama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Difference">
+        <source>Difference</source>
+        <target state="translated">Fark</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy">
+        <source>Copy</source>
+        <target state="translated">Kopyala</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy except White">
+        <source>Copy except White</source>
+        <target state="translated">Beyaz hariç Kopyala</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="index">
+        <source>index</source>
+        <target state="translated">indeks</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value:">
+        <source>Value:</source>
+        <target state="translated">Değer:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value (binary): ">
+        <source>Value (binary): </source>
+        <target state="translated">Değer (ikili): </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Binary number required">
+        <source>Binary number required</source>
+        <target state="translated">İkili sayı gerekli</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value (0.1-5.0):">
+        <source>Value (0.1-5.0):</source>
+        <target state="translated">Değer (0.1-5.0):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gamma must be between 0.1 and 5.0">
+        <source>Gamma must be between 0.1 and 5.0</source>
+        <target state="translated">Gama 0.1 ile 5.0 değerleri arasında olmalı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Spline">
+        <source>Spline</source>
+        <target state="translated">Kama</target>
+        <note from="developer"># Selection</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paste Control">
+        <source>Paste Control</source>
+        <target state="translated">Yapıştır Kontrol</target>
+        <note from="developer">## PLUGIN/FRAME
+# PasteController</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Transfer Mode:">
+        <source>Transfer Mode:</source>
+        <target state="translated">Transfer Modu:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brightness &amp; Contrast">
+        <source>Brightness &amp; Contrast</source>
+        <target state="translated">Parlaklık &amp; Kontrast</target>
+        <note from="developer"># ContrastAdjuster</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window &amp; Level">
+        <source>Window &amp; Level</source>
+        <target state="translated">Pencere &amp; Düzey</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ColorTitle__%04__Color">
+        <source>Color</source>
+        <target state="translated">Renk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Minimum">
+        <source>Minimum</source>
+        <target state="translated">Minimum</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maximum">
+        <source>Maximum</source>
+        <target state="translated">Maksimum</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brightness">
+        <source>Brightness</source>
+        <target state="translated">Parlaklık</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Constrast">
+        <source>Constrast</source>
+        <target state="translated">Kontrast</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Level:">
+        <source>Level:</source>
+        <target state="translated">Düzey:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window:">
+        <source>Window:</source>
+        <target state="translated">Pencere:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Auto">
+        <source>Auto</source>
+        <target state="translated">Otomatik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reset">
+        <source>Reset</source>
+        <target state="translated">Reset</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set">
+        <source>Set</source>
+        <target state="translated">Kur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply ">
+        <source>Apply </source>
+        <target state="translated">Uygula </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Thresh">
+        <source>Thresh</source>
+        <target state="translated">Eşik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Update">
+        <source>Update</source>
+        <target state="translated">Güncelle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Requires an 8-bit grayscale image or an RGB stack">
+        <source>Requires an 8-bit grayscale image or an RGB stack</source>
+        <target state="translated">Gri tonlama 8-bit görüntü veya RGB yığını gerektirir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply LUT to all">
+        <source>Apply LUT to all</source>
+        <target state="translated">Tümüne LUT uygula</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LUT2__%04__slices in the stack?">
+        <source>slices in the stack?</source>
+        <target state="translated">yığın dilimleri?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply brightness and contrast settings to all">
+        <source>Apply brightness and contrast settings to all</source>
+        <target state="translated">Parlaklık ve kontrast ayarlarını tümüne uygula</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB2__%04__slices in the stack?">
+        <source>slices in the stack?</source>
+        <target state="translated">yığın dilimleri?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Min and Max">
+        <source>Set Min and Max</source>
+        <target state="translated">Ayarla Min ve Max</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Minimum Displayed Value:">
+        <source>Minimum Displayed Value:</source>
+        <target state="translated">Minimum Gösterilen Değer:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maximum Displayed Value:">
+        <source>Maximum Displayed Value:</source>
+        <target state="translated">Maksimum Gösterilen Değer:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set W&amp;L">
+        <source>Set W&amp;L</source>
+        <target state="translated">Ayarla W&amp;L</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window Center (Level):">
+        <source>Window Center (Level):</source>
+        <target state="translated">Pencere Merkezi (Düzey):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window Width:">
+        <source>Window Width:</source>
+        <target state="translated">Pencere Genişliği:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No Image">
+        <source>No Image</source>
+        <target state="translated">Görüntü Yok</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Measurements">
+        <source>Set Measurements</source>
+        <target state="translated">Ölçümleri Ayarla</target>
+        <note from="developer"># Analyser</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="measurements">
+        <source>measurements</source>
+        <target state="translated">ölçümler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Area">
+        <source>Area</source>
+        <target state="translated">Alan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mean Grey Value">
+        <source>Mean Grey Value</source>
+        <target state="translated">Ortalama Gri Değer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Standard Deviation">
+        <source>Standard Deviation</source>
+        <target state="translated">Standart Sapma</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Modal Grey Value">
+        <source>Modal Grey Value</source>
+        <target state="translated">Sıklık Gri Değer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Min &amp; Max Grey Value">
+        <source>Min &amp; Max Grey Value</source>
+        <target state="translated">Min &amp; Mak Gri Değer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Centroid">
+        <source>Centroid</source>
+        <target state="translated">Merkezi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center of Mass">
+        <source>Center of Mass</source>
+        <target state="translated">Kütle Merkezi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Perimeter">
+        <source>Perimeter</source>
+        <target state="translated">Çevre</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bounding Rectangle">
+        <source>Bounding Rectangle</source>
+        <target state="translated">Dikdörtgen Sınırlayıcı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fit Ellipse">
+        <source>Fit Ellipse</source>
+        <target state="translated">Uydur Elips</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Circularity">
+        <source>Circularity</source>
+        <target state="translated">Çembersellik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Feret's Diameter">
+        <source>Feret's Diameter</source>
+        <target state="translated">Feret Çapı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Limit to Threshold">
+        <source>Limit to Threshold</source>
+        <target state="translated">Eşik Sınırı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Display Image Name">
+        <source>Display Image Name</source>
+        <target state="translated">Görüntü Adı Göster</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Invert Y Coordinates">
+        <source>Invert Y Coordinates</source>
+        <target state="translated">Evir Y Kordinatları</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="DeciPlaces__%04__Decimal Places:">
+        <source>Decimal Places:</source>
+        <target state="translated">Ondalık Basamaklar:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Value">
+        <source>Value</source>
+        <target state="translated">Değer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Name">
+        <source>Name</source>
+        <target state="translated">Ad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Angle">
+        <source>Angle</source>
+        <target state="translated">Açı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Length ">
+        <source>Length </source>
+        <target state="translated">Uzunluk </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SD">
+        <source>SD</source>
+        <target state="translated">SD</target>
+        <note from="developer">#Shorter labels</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Moy.">
+        <source>Moy.</source>
+        <target state="translated">Moy.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Threshold">
+        <source>Threshold</source>
+        <target state="translated">Eşik</target>
+        <note from="developer">### ThresholdAdjuster</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Red">
+        <source>Red</source>
+        <target state="translated">Kırmızı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Black &amp; White">
+        <source>Black &amp; White</source>
+        <target state="translated">Siyah &amp; Beyaz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Over/Under">
+        <source>Over/Under</source>
+        <target state="translated">Üstünde/Altında</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Threshold Levels">
+        <source>Set Threshold Levels</source>
+        <target state="translated">Eşik Seviyesi Ayarla</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lower Threshold Level:">
+        <source>Lower Threshold Level:</source>
+        <target state="translated">Alt Eşik Seviyesi:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upper Threshold Level:">
+        <source>Upper Threshold Level:</source>
+        <target state="translated">Üst Eşik Seviyesi:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB images cannot be thresolded.">
+        <source>RGB images cannot be thresolded.</source>
+        <target state="translated">RGB görüntüleri eşik edilemez.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Nouveau...">
+        <source>Nouveau...</source>
+        <target state="translated">Yeni...</target>
+        <note from="developer">## NewPlugin</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Type">
+        <source>Type</source>
+        <target state="translated">Tür</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Record">
+        <source>Record</source>
+        <target state="translated">Kayıt</target>
+        <note from="developer">##Recorder</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create Macro">
+        <source>Create Macro</source>
+        <target state="translated">Makro Oluştur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create Plugin">
+        <source>Create Plugin</source>
+        <target state="translated">Eklenti Oluştur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Commands">
+        <source>Commands</source>
+        <target state="translated">Komut</target>
+        <note from="developer">## Command Lister</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Command&#9;Plugin">
+        <source>Command	Plugin</source>
+        <target state="translated">Komut	Eklenti</target>
+        <note from="developer"># 2 FIELDS SEPARATED BY \t</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Keyboard Shortcuts">
+        <source>Keyboard Shortcuts</source>
+        <target state="translated">Klavye Kısayolları</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hot Key&#9;Command">
+        <source>Hot Key	Command</source>
+        <target state="translated">Kısayol Tuşu	Komut</target>
+        <note from="developer"># 2 FIELDS SEPARATED BY \t</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Scale">
+        <source>Set Scale</source>
+        <target state="translated">Ölçek Ayarla</target>
+        <note from="developer">## ScaleDialog</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Distance in Pixels:">
+        <source>Distance in Pixels:</source>
+        <target state="translated">Uzaklık Piksel:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Real Distance:">
+        <source>Real Distance:</source>
+        <target state="translated">Reel Uzaklık:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width/Height Ratio:">
+        <source>Width/Height Ratio:</source>
+        <target state="translated">Genişlik/Yüseklik Oranı:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unit of Length:">
+        <source>Unit of Length:</source>
+        <target state="translated">Uzunluk Birimi:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale:">
+        <source>Scale:</source>
+        <target state="translated">Ölçek:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScDiagGlobal__%04__Global">
+        <source>Global</source>
+        <target state="translated">Evrensel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&lt;No Scale&gt;">
+        <source>&lt;No Scale&gt;</source>
+        <target state="translated">&lt;Ölçeklendirme Yok&gt;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Surface Plotter">
+        <source>Surface Plotter</source>
+        <target state="translated">Yüzey İşaretleyicisi</target>
+        <note from="developer">## SurfacePlotter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Surface Plot">
+        <source>Surface Plot</source>
+        <target state="translated">Yüzey Çizimi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Drawing slice">
+        <source>Drawing slice</source>
+        <target state="translated">Dilim çizimi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Number of samples">
+        <source>Number of samples</source>
+        <target state="translated">Numune sayısı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw wireframe">
+        <source>Draw wireframe</source>
+        <target state="translated">Çiz telçerçeve</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shade">
+        <source>Shade</source>
+        <target state="translated">Gölgele</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw axis">
+        <source>Draw axis</source>
+        <target state="translated">Eksen çiz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Source Background is Lighter">
+        <source>Source Background is Lighter</source>
+        <target state="translated">Kaynak Arkaplan daha Açıktır</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill Plot Background with Black">
+        <source>Fill Plot Background with Black</source>
+        <target state="translated">Çizim Arkaplanı Siyah ile Renklendir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill Plot">
+        <source>Fill Plot</source>
+        <target state="translated">Çizim Doldur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Smooth">
+        <source>Smooth</source>
+        <target state="translated">Yumuşak</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Page Setup">
+        <source>Page Setup</source>
+        <target state="translated">Sayfa Yapısı</target>
+        <note from="developer">## Printer</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scaling">
+        <source>Scaling</source>
+        <target state="translated">Ölçeklendirme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw Border">
+        <source>Draw Border</source>
+        <target state="translated">Sınır Çiz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Print Title">
+        <source>Print Title</source>
+        <target state="translated">Başlık Yaz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center on Page">
+        <source>Center on Page</source>
+        <target state="translated">Sayfada Ortala</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotate">
+        <source>Rotate</source>
+        <target state="translated">Döndür</target>
+        <note from="developer">## Rotator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Angle (degrees):">
+        <source>Angle (degrees):</source>
+        <target state="translated">Açı (derece):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Grid Lines:">
+        <source>Grid Lines:</source>
+        <target state="translated">Şebeke Hatları:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Interpolate">
+        <source>Interpolate</source>
+        <target state="translated">Aradeğerlendir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FillwithBg__%04__Fill with Background Color">
+        <source>Fill with Background Color</source>
+        <target state="translated">Arkaplan Rengi ile Doldur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enlarge Image to Fit Result">
+        <source>Enlarge Image to Fit Result</source>
+        <target state="translated">Görüntüyü Sonuçlara Uygun Şekilde Büyüt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Angle is invalid.">
+        <source>Angle is invalid.</source>
+        <target state="translated">Açı geçersiz.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Miscellaneous Options">
+        <source>Miscellaneous Options</source>
+        <target state="translated">Çeşitli Seçenekler</target>
+        <note from="developer">## Options</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Real Histogram Bins:">
+        <source>Real Histogram Bins:</source>
+        <target state="translated">Gerçek Histogram Kutuları:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Divide by Zero Value:">
+        <source>Divide by Zero Value:</source>
+        <target state="translated">Sıfır Değere Böl:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Use Pointer Cursor">
+        <source>Use Pointer Cursor</source>
+        <target state="translated">İşeretçi İmleç Kullan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale When Converting">
+        <source>Scale When Converting</source>
+        <target state="translated">Dönüştürürken Ölçekle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hide &quot;Process Stack?&quot; Dialog">
+        <source>Hide "Process Stack?" Dialog</source>
+        <target state="translated">Sakla "Süreç Yığın?" Dialogu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Antialiased Text">
+        <source>Antialiased Text</source>
+        <target state="translated">Düzeltilmiş Metin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Interpolate Images &lt;100%">
+        <source>Interpolate Images &lt;100%</source>
+        <target state="translated">Ara_değer_bul Görüntüler &lt;100%</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Images at 100%">
+        <source>Open Images at 100%</source>
+        <target state="translated">Götüntü Aç 100%</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Debug Mode">
+        <source>Debug Mode</source>
+        <target state="translated">Hata_ayıllama Modu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Line width:">
+        <source>Line width:</source>
+        <target state="translated">Satır genişliği:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="JPEG quality (0-100):">
+        <source>JPEG quality (0-100):</source>
+        <target state="translated">JPEG kalitesi (0-100):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mark Width:">
+        <source>Mark Width:</source>
+        <target state="translated">İşaret Genişliği:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fonts">
+        <source>Fonts</source>
+        <target state="translated">Fontlar</target>
+        <note from="developer">## Fonts</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Plain">
+        <source>Plain</source>
+        <target state="translated">Düz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bold">
+        <source>Bold</source>
+        <target state="translated">Koyu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Italic">
+        <source>Italic</source>
+        <target state="translated">İtalik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bold+Italic">
+        <source>Bold+Italic</source>
+        <target state="translated">Koyu+İtalik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pt">
+        <source>pt</source>
+        <target state="translated">pt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Curve Fitter">
+        <source>Curve Fitter</source>
+        <target state="translated">Uygun Eğri Hesaplayıcısı</target>
+        <note from="developer">## Fitter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fit...">
+        <source>Fit...</source>
+        <target state="translated">Uydur...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No function available">
+        <source>No function available</source>
+        <target state="translated">Kullanılabilecek fonksiyon yok</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="First select the image to be transformed">
+        <source>First select the image to be transformed</source>
+        <target state="translated">Öncelikle dönüştürülecek görüntüyü şecin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="-transformed">
+        <source>-transformed</source>
+        <target state="translated">-dönüştürülen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="These commands&#10;do not work with line selections.">
+        <source>These commands
+do not work with line selections.</source>
+        <target state="translated">Buradaki komutlar
+seçilen satırlarla çalışmıyor.</target>
+        <note from="developer">## Resizer</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Resize">
+        <source>Resize</source>
+        <target state="translated">Yeniden boyutlandır</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Constrain Aspect Ratio">
+        <source>Constrain Aspect Ratio</source>
+        <target state="translated">Boy Oranı Sınırlama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="NOTE: Undo is not available">
+        <source>NOTE: Undo is not available</source>
+        <target state="translated">NOTE: GeriAl mevcut değil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width or height are invalid.">
+        <source>Width or height are invalid.</source>
+        <target state="translated">Genişlik yada yükseklik geçersiz.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SalsaJ ran out of memory causing &#10;the last">
+        <source>SalsaJ ran out of memory causing 
+the last</source>
+        <target state="translated">SalsaJ yetersiz bellek
+işlem sonlandı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="slices to be lost.">
+        <source>slices to be lost.</source>
+        <target state="translated">kaybedilecek dilimler.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Resize Image Canvas">
+        <source>Resize Image Canvas</source>
+        <target state="translated">Yeniden_Boyutlandır Görüntü Tuval</target>
+        <note from="developer">##CanvasResizer NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Resize Stack Canvas">
+        <source>Resize Stack Canvas</source>
+        <target state="translated">Yeniden_Boyutlandır Yığın Tuval</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Postion">
+        <source>Postion</source>
+        <target state="translated">Konum</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zero Fill">
+        <source>Zero Fill</source>
+        <target state="translated">Sıfır Dolum</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Top-Left ">
+        <source>Top-Left </source>
+        <target state="translated">Üst-Sol </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Top-Center">
+        <source>Top-Center</source>
+        <target state="translated">Üst-Orta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Top-Right">
+        <source>Top-Right</source>
+        <target state="translated">Üst-Sağ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center-Left">
+        <source>Center-Left</source>
+        <target state="translated">Orta-Sol</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center">
+        <source>Center</source>
+        <target state="translated">Orta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Center-Right">
+        <source>Center-Right</source>
+        <target state="translated">Orta-Sağ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bottom-Left">
+        <source>Bottom-Left</source>
+        <target state="translated">Alt-Sol</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bottom-Center">
+        <source>Bottom-Center</source>
+        <target state="translated">Alt-Orta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bottom-Right">
+        <source>Bottom-Right</source>
+        <target state="translated">Alt-Sağ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Make Montage">
+        <source>Make Montage</source>
+        <target state="translated">Montaj Yap</target>
+        <note from="developer">##Montage Maker NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Columns">
+        <source>Columns</source>
+        <target state="translated">Sütunlar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rows">
+        <source>Rows</source>
+        <target state="translated">Satırlar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale Factor">
+        <source>Scale Factor</source>
+        <target state="translated">Ölçek Faktörü</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="First Slice">
+        <source>First Slice</source>
+        <target state="translated">İlk Dilim</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Last Slice">
+        <source>Last Slice</source>
+        <target state="translated">Son Dilim</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Increment__%04__Increment">
+        <source>Increment</source>
+        <target state="translated">Artış</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Border Width">
+        <source>Border Width</source>
+        <target state="translated">Sınır Genişliği</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Label Slices">
+        <source>Label Slices</source>
+        <target state="translated">Dilimleri Etiketle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Use Foreground Color">
+        <source>Use Foreground Color</source>
+        <target state="translated">Önalan Rengi Kullan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Channels">
+        <source>Channels</source>
+        <target state="translated">Kanallar</target>
+        <note from="developer">##ImageProperties NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frames">
+        <source>Frames</source>
+        <target state="translated">Çerçeve</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pixel Width">
+        <source>Pixel Width</source>
+        <target state="translated">Piksel Genişliği</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pixeln Height">
+        <source>Pixeln Height</source>
+        <target state="translated">Piksel Yüksekliği</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Voxel Depth">
+        <source>Voxel Depth</source>
+        <target state="translated">Voksel Derinliği</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frame Interval">
+        <source>Frame Interval</source>
+        <target state="translated">Kare Aralığı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Origin (pixels)">
+        <source>Origin (pixels)</source>
+        <target state="translated">Kaynak (piksel)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Global__%04__Global">
+        <source>Global</source>
+        <target state="translated">Evrensel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="is not locked">
+        <source>is not locked</source>
+        <target state="translated">kilitlenmedi</target>
+        <note from="developer">## SimpleCommands</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="is now unlocked">
+        <source>is now unlocked</source>
+        <target state="translated">şimdi kilitsiz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rename">
+        <source>Rename</source>
+        <target state="translated">Yeniden_adlandır</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New title:">
+        <source>New title:</source>
+        <target state="translated">Yeni başlık:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="-copy">
+        <source>-copy</source>
+        <target state="translated">-kopyala</target>
+        <note from="developer">## Duplicater</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Duplicate">
+        <source>Duplicate</source>
+        <target state="translated">Suret_çıkar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Title:">
+        <source>Title:</source>
+        <target state="translated">Başlık:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Duplicate Entire Stack?">
+        <source>Duplicate Entire Stack?</source>
+        <target state="translated">Tüm Yığının Suretini Çıkar?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale">
+        <source>Scale</source>
+        <target state="translated">Ölçeklendir</target>
+        <note from="developer">## Scaler</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="X Scale">
+        <source>X Scale</source>
+        <target state="translated">X Ölçeklendir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Y Scale">
+        <source>Y Scale</source>
+        <target state="translated">Y Ölçeklendir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="X or Y scale are invalid.">
+        <source>X or Y scale are invalid.</source>
+        <target state="translated">X yada Y ölçeklendirmesi geçerli değil.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="-rescaled">
+        <source>-rescaled</source>
+        <target state="translated">-yeniden_ölçeklendir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScalerBackground__%04__Fill with Background Color">
+        <source>Fill with Background Color</source>
+        <target state="translated">Arkaplan Rengi ile Doldur</target>
+        <note from="developer">##NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScaleBar Plus">
+        <source>ScaleBar Plus</source>
+        <target state="translated">ÖlçekBar Artı</target>
+        <note from="developer">##ScaleBar ##NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width in">
+        <source>Width in</source>
+        <target state="translated">Genişlik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Height in pixels">
+        <source>Height in pixels</source>
+        <target state="translated">Yükseklik piksel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Font Size">
+        <source>Font Size</source>
+        <target state="translated">Font Boyutu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScaleBarColor__%04__Color">
+        <source>Color</source>
+        <target state="translated">Renk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Background">
+        <source>Background</source>
+        <target state="translated">Arkaplan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Location">
+        <source>Location</source>
+        <target state="translated">Konum</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ScaleBarBold__%04__Bold Text">
+        <source>Bold Text</source>
+        <target state="translated">Koyu Metin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hide Text">
+        <source>Hide Text</source>
+        <target state="translated">Metin Gizle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Serif Font">
+        <source>Serif Font</source>
+        <target state="translated">Serif Yazı_Tipi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LookUp Table">
+        <source>LookUp Table</source>
+        <target state="translated">Arama Tablosu</target>
+        <note from="developer">## LutViewer</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Index&#9;Red&#9;Green&#9;Blue">
+        <source>Index	Red	Green	Blue</source>
+        <target state="translated">İndeks	Kırmızı	Yeşil	Mavi</target>
+        <note from="developer"># 4 FIELDS SEPARATED BY \t</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LUT">
+        <source>LUT</source>
+        <target state="translated">LUT</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB images do not use LUTs.">
+        <source>RGB images do not use LUTs.</source>
+        <target state="translated">RGB görüntüleri LUT görüntülerini kullanmıyor.</target>
+        <note from="developer">## LutLoader</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Profile Plot Options">
+        <source>Profile Plot Options</source>
+        <target state="translated">Profil Çizim Seçenekleri</target>
+        <note from="developer">## Profiler</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fixed Y-axis Scale">
+        <source>Fixed Y-axis Scale</source>
+        <target state="translated">Sabit Y-ekseni Ölçeği</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Do Not Save X-Values">
+        <source>Do Not Save X-Values</source>
+        <target state="translated">X-Degerlerini Kaydetmeyin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Auto-close">
+        <source>Auto-close</source>
+        <target state="translated">Otomatik-kapanış</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Vertical Profile">
+        <source>Vertical Profile</source>
+        <target state="translated">Dikey Profili</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Roi Manager">
+        <source>Roi Manager</source>
+        <target state="translated">Roi Yönetici</target>
+        <note from="developer">## RoiManager</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiAdd__%04__Add">
+        <source>Add</source>
+        <target state="translated">Ekle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiAdd&amp;Draw__%04__Delete">
+        <source>Delete</source>
+        <target state="translated">Sil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiDel__%04__Delete">
+        <source>Delete</source>
+        <target state="translated">Sil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RoiOpen__%04__Open">
+        <source>Open</source>
+        <target state="translated">Aç</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open All">
+        <source>Open All</source>
+        <target state="translated">Tümünü Aç</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save">
+        <source>Save</source>
+        <target state="translated">Kaydet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select All">
+        <source>Select All</source>
+        <target state="translated">Tümünü Seç</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Measure">
+        <source>Measure</source>
+        <target state="translated">Ölçüm</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw">
+        <source>Draw</source>
+        <target state="translated">Çizim</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill">
+        <source>Fill</source>
+        <target state="translated">Doldur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The active image does not have an ROI.">
+        <source>The active image does not have an ROI.</source>
+        <target state="translated">Aktif görüntü bir ROI ye sahip değildir.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The ROI list is empty.">
+        <source>The ROI list is empty.</source>
+        <target state="translated">ROI listesi boş.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="At least one ROI in the list must be selected.">
+        <source>At least one ROI in the list must be selected.</source>
+        <target state="translated">Listedeki en az bir ROI seçilmesi gerekir.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This ROI does not fit the current image.">
+        <source>This ROI does not fit the current image.</source>
+        <target state="translated">Bu ROI mevcut görüntüye uymuyor.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open ROI...">
+        <source>Open ROI...</source>
+        <target state="translated">Aç ROI...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select a file in the folder...">
+        <source>Select a file in the folder...</source>
+        <target state="translated">Klasördeki bir dosyayı seç...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save ROI...">
+        <source>Save ROI...</source>
+        <target state="translated">Kaydet ROI...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibration Bar">
+        <source>Calibration Bar</source>
+        <target state="translated">Kalibrasyon Çubuğu</target>
+        <note from="developer">## CalibrationBar</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Location:">
+        <source>Location:</source>
+        <target state="translated">Konum:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill Colour:">
+        <source>Fill Colour:</source>
+        <target state="translated">Renk Dolgusu:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Label Colour:">
+        <source>Label Colour:</source>
+        <target state="translated">Renk Etiketi:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Number of Labels:">
+        <source>Number of Labels:</source>
+        <target state="translated">Etiket Sayısı:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="CaliPlaces__%04__Decimal Places:">
+        <source>Decimal Places:</source>
+        <target state="translated">Ondalık Basamaklar:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Font Size:">
+        <source>Font Size:</source>
+        <target state="translated">Yazı Tipi Boyutu:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zoom Factor:">
+        <source>Zoom Factor:</source>
+        <target state="translated">Büyütme Faktörü:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="CaliBold__%04__Bold Text">
+        <source>Bold Text</source>
+        <target state="translated">Kalın Yazı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="with bar">
+        <source>with bar</source>
+        <target state="translated">çubuğu ile</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upper Right">
+        <source>Upper Right</source>
+        <target state="translated">Üst Sağ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upper Left">
+        <source>Upper Left</source>
+        <target state="translated">Üst Sol</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lower Right">
+        <source>Lower Right</source>
+        <target state="translated">Alt Sağ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lower Left">
+        <source>Lower Left</source>
+        <target state="translated">Alt Sol</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="At Selection">
+        <source>At Selection</source>
+        <target state="translated">Seçimde</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Image Sequence...">
+        <source>Open Image Sequence...</source>
+        <target state="translated">Görüntü Dizisini Aç...</target>
+        <note from="developer">## FolderOpener</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Error:">
+        <source>Import Error:</source>
+        <target state="translated">Hata Al:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This folder does not appear to contain any TIFF,&#10;FITS, JPEG, BMP, GIF, or PGM files.">
+        <source>This folder does not appear to contain any TIFF,
+FITS, JPEG, BMP, GIF, or PGM files.</source>
+        <target state="translated">Bu klasör TIFF, FITS, JPEG, BMP, GIF,
+yada PGM türü dosyalarda herhangi birini içeriyor gibi görünmüyor.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="None of the">
+        <source>None of the</source>
+        <target state="translated">Hiçbiri</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="files contain  in their name the string">
+        <source>files contain  in their name the string</source>
+        <target state="translated">dosyaların adlarında  dize içeriyor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id=": wrong dimensions">
+        <source>: wrong dimensions</source>
+        <target state="translated">: hatalı boyutlar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id=": wrong type">
+        <source>: wrong type</source>
+        <target state="translated">: hatalı tür</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id=": unable to open">
+        <source>: unable to open</source>
+        <target state="translated">: açılamadı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sequence Options">
+        <source>Sequence Options</source>
+        <target state="translated">Sıra Seçenekleri</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Number of Images">
+        <source>Number of Images</source>
+        <target state="translated">Görüntü Sayısı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Starting Image">
+        <source>Starting Image</source>
+        <target state="translated">Başlangıç Görüntüsü</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FoldOpt3__%04__Increment">
+        <source>Increment</source>
+        <target state="translated">Birer arttırma</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File Name Contains">
+        <source>File Name Contains</source>
+        <target state="translated">Dosya Adı İçerir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Convert to 8-bit Greyscale">
+        <source>Convert to 8-bit Greyscale</source>
+        <target state="translated">Dönüştür 8-bit Gritonlama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open 1/2 Size">
+        <source>Open 1/2 Size</source>
+        <target state="translated">Aç 1/2 Boyut</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enter URL">
+        <source>Enter URL</source>
+        <target state="translated">Gir URL</target>
+        <note from="developer">## URLOpener</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enter the URL of an image to open:">
+        <source>Enter the URL of an image to open:</source>
+        <target state="translated">Bir görüntüyü açmak için URL gir:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Animation Options">
+        <source>Animation Options</source>
+        <target state="translated">Animasyon Seçenekleri</target>
+        <note from="developer">## Animator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Speed (1-100 fps):">
+        <source>Speed (1-100 fps):</source>
+        <target state="translated">Hız (1-100 fps):</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Loop Back and Forth">
+        <source>Loop Back and Forth</source>
+        <target state="translated">Döngü İleri Geri</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start Animation">
+        <source>Start Animation</source>
+        <target state="translated">Animasyonu Başlat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Slice">
+        <source>Set Slice</source>
+        <target state="translated">Dilim Ayarla</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slice number">
+        <source>Slice number</source>
+        <target state="translated">Dilim numarası</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save As Text">
+        <source>Save As Text</source>
+        <target state="translated">Metin Olarak Kaydet</target>
+        <note from="developer">## TextWriter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This command requires a TextWindow">
+        <source>This command requires a TextWindow</source>
+        <target state="translated">Bu komut bir Metin Penceresi gerektiriyor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibrate...">
+        <source>Calibrate...</source>
+        <target state="translated">Kalibre et...</target>
+        <note from="developer">## Calibrator</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Function:">
+        <source>Function:</source>
+        <target state="translated">Fonsiyon:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Global calibration">
+        <source>Global calibration</source>
+        <target state="translated">Evrensel kalibrasyon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibrator:">
+        <source>Calibrator:</source>
+        <target state="translated">Kalibratör:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Please select a function">
+        <source>Please select a function</source>
+        <target state="translated">Lütfen bir fonsiyon seçin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibration of 16-bit images, except with straight&#10;line functions, is currently not supported.">
+        <source>Calibration of 16-bit images, except with straight
+line functions, is currently not supported.</source>
+        <target state="translated">Görüntünün 16-bitlik kalibrasyonu, doğru orantı
+fonksiyonu dışında, şimdilik desteklenmiyor.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pixel Inverter">
+        <source>Pixel Inverter</source>
+        <target state="translated">Piksel Dönüştürücüsü</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="To create a calibration curve, the left column must&#10;contain a list of measured mean pixel values and the&#10;right column must contain the same number of calibration&#10;standard values.">
+        <source>To create a calibration curve, the left column must
+contain a list of measured mean pixel values and the
+right column must contain the same number of calibration
+standard values.</source>
+        <target state="translated">Bir kalibrasyon eğrisi oluşturmak için, sol sütunda
+ölçülen ortalama piksel değerlerinin listesini içermeli
+ve sağ sütun ise aynı sayıda standant kalibrasyon
+değerleri içermelidir.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibration function">
+        <source>Calibration function</source>
+        <target state="translated">Kalibrasyon fonksiyonu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Recorder">
+        <source>Recorder</source>
+        <target state="translated">Kaydedici</target>
+        <note from="developer">#Recorder</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="32-bit float image required">
+        <source>32-bit float image required</source>
+        <target state="translated">32-bit kaygan görüntü gerkli</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Last used files:">
+        <source>Last used files:</source>
+        <target state="translated">Son kullanılan dosyalar:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Files">
+        <source>Files</source>
+        <target state="translated">Dosyalar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translate">
+        <source>Translate</source>
+        <target state="translated">Çevir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation on X">
+        <source>Translation on X</source>
+        <target state="translated">X üzerinde Çevir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation on Y">
+        <source>Translation on Y</source>
+        <target state="translated">Y üzerinde Çevir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation on X is invalid">
+        <source>Translation on X is invalid</source>
+        <target state="translated">X üzerinde çevir geçersiz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation en Y est invalide">
+        <source>Translation en Y est invalide</source>
+        <target state="translated">Y üzerinde çevir geçersiz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open/Save Using JFileChooser">
+        <source>Open/Save Using JFileChooser</source>
+        <target state="translated">JFileChooser Kullanarak Aç/Kaydet</target>
+        <note from="developer">#OptJFileChooser</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Horizontal Profile">
+        <source>Horizontal Profile</source>
+        <target state="translated">Yatay Profil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gaussian fit results">
+        <source>Gaussian fit results</source>
+        <target state="translated">Gauss uyumlu sonuçlar</target>
+        <note from="developer">#Spectrum Radio...</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Channel">
+        <source>Channel</source>
+        <target state="translated">Kanal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Velocity">
+        <source>Velocity</source>
+        <target state="translated">Hız</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="km/s">
+        <source>km/s</source>
+        <target state="translated">km/s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frequency">
+        <source>Frequency</source>
+        <target state="translated">Frekans</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="MHz">
+        <source>MHz</source>
+        <target state="translated">MHz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Wavelength">
+        <source>Wavelength</source>
+        <target state="translated">Dalgaboyu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reference wavelength">
+        <source>Reference wavelength</source>
+        <target state="translated">Referans dalgaboyu</target>
+        <note from="developer"># ref wave of chemical element to compute velocity in optical spectrum (default Na=589 nm)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cm">
+        <source>cm</source>
+        <target state="translated">cm</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Intensity">
+        <source>Intensity</source>
+        <target state="translated">Yogunluk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This does not appear to be a FITS file.">
+        <source>This does not appear to be a FITS file.</source>
+        <target state="translated">Bu FITS dosyası olarak görünmüyor.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="too few points to fit">
+        <source>too few points to fit</source>
+        <target state="translated">uyumlu çok az sayıda veri</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="singular matrix">
+        <source>singular matrix</source>
+        <target state="translated">tekil matris</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="choose two intervals">
+        <source>choose two intervals</source>
+        <target state="translated">iki aralık seçin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="first interval">
+        <source>first interval</source>
+        <target state="translated">birinci aralık</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="second interval">
+        <source>second interval</source>
+        <target state="translated">ikinci aralık</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="choose order of baseline fit (0&lt;order&lt;5)">
+        <source>choose order of baseline fit (0&lt;order&lt;5)</source>
+        <target state="translated">taban çizgi uyum düzeninde seçim (0&lt;düzen&lt;5)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Order">
+        <source>Order</source>
+        <target state="translated">Düzen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="display zero line in blue">
+        <source>display zero line in blue</source>
+        <target state="translated">sıfır hattını mavi ile göster</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gaussian fit of spectral line">
+        <source>Gaussian fit of spectral line</source>
+        <target state="translated">Gauss uyumlu spektrum çizgisi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose parameters">
+        <source>Choose parameters</source>
+        <target state="translated">Parametre seçimi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="interval">
+        <source>interval</source>
+        <target state="translated">aralık</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="amplitude">
+        <source>amplitude</source>
+        <target state="translated">genlik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="center">
+        <source>center</source>
+        <target state="translated">orta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="width">
+        <source>width</source>
+        <target state="translated">genişlik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="erase the last">
+        <source>erase the last</source>
+        <target state="translated">sonuncuyu sil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Subtract baseline">
+        <source>Subtract baseline</source>
+        <target state="translated">Taban çizgi çıkar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gaussian fit">
+        <source>Gaussian fit</source>
+        <target state="translated">Gauss uyumlu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Baseline">
+        <source>Baseline</source>
+        <target state="translated">Taban çizgisi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lambda[A]">
+        <source>Lambda[A]</source>
+        <target state="translated">Lamda[A]</target>
+        <note from="developer">#Optical Spectrum...</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flux[ADU]">
+        <source>Flux[ADU]</source>
+        <target state="translated">Akı[ADU]</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose language">
+        <source>Choose language</source>
+        <target state="translated">Dil seçimi</target>
+        <note from="developer">#Plugins externes</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Dynamic profile">
+        <source>Dynamic profile</source>
+        <target state="translated">Dinamik profil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Live histogram">
+        <source>Live histogram</source>
+        <target state="translated">Canlı histogram</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Virtual observatories images">
+        <source>Virtual observatories images</source>
+        <target state="translated">Sanal gözlemevleri görüntüleri</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open an image on the Web">
+        <source>Open an image on the Web</source>
+        <target state="translated">Web sayfafında bir dosya aç</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Align R/G/B planes">
+        <source>Align R/G/B planes</source>
+        <target state="translated">Align R/G/B plans</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

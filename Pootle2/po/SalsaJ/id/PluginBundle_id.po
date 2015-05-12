@@ -1,0 +1,1538 @@
+#. extracted from salsaj/PluginBundle_en.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-09 13:09+0200\n"
+"PO-Revision-Date: 2012-10-21 17:12+0200\n"
+"Last-Translator: Avivah <avivahy@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#. ## GLOBAL SECTION
+#: Pixel
+msgid "pixel"
+msgstr "piksel"
+
+#: Pixels
+msgid "pixels"
+msgstr "piksel"
+
+#: Degrees
+msgid "degrees"
+msgstr "derajat"
+
+#: Open
+msgctxt "Open"
+msgid "Open"
+msgstr "Buka"
+
+#: Apply
+msgid "Apply"
+msgstr "Terapkan"
+
+#: Settings
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: OpenText
+msgid "Open Text File..."
+msgstr "Bukan Berkas Teks..."
+
+#: Height
+msgid "Height"
+msgstr "Tinggi"
+
+#: Width
+msgid "Width"
+msgstr "Lebar"
+
+#: NewWin
+msgid "Create New Window"
+msgstr "Buat Pelipat Baru"
+
+#: List
+msgid "List"
+msgstr "Daftar"
+
+#: Unit
+msgid "Unit"
+msgstr "Satuan"
+
+#: None
+msgid "none"
+msgstr "tidak ada"
+
+#: LeftCol
+msgid "Left column"
+msgstr "Kolom kiri"
+
+#: RightCol
+msgid "Right column"
+msgstr "Kolom kanan"
+
+#: Values
+msgid "values"
+msgstr "nilai"
+
+#: File
+msgid "File"
+msgstr "Berkas"
+
+#: Title
+msgid "Title"
+msgstr "Judul"
+
+#. ## Stack Editor
+#: StackReqErr
+msgid "Stack required"
+msgstr "Diperlukan Tumpukan"
+
+#: NoImgErr
+msgid "No images are open."
+msgstr "Tidak ada citra yang dibuka"
+
+#: OneImgErr
+msgid "There must be at least two open images."
+msgstr "Setidaknya harus ada 2 citra yang dibuka"
+
+#: ImgErr
+msgid "None of the open images can go in a stack."
+msgstr "Tidak satupun citra yang dibuka dapat ditumpuk"
+
+#: ImgTypeErr
+msgid "All open images must be the same type."
+msgstr "Seluruh citra harus memiliki tipe yang sama"
+
+#: ImgSizeErr
+msgid "All open images must be the same size."
+msgstr "Seluruh citra harus memiliki ukuran yang sama"
+
+#: StackTitle
+msgid "Stack"
+msgstr "Tumpuk"
+
+#: ConvertTitle
+msgid "Convert to Images?"
+msgstr "Ubah ke Citra?"
+
+#: Convert1
+msgid ""
+"Are you sure you want to convert this\n"
+"stack to"
+msgstr ""
+"Apakah kamu yakin mengubah \n"
+"tumpuk ke"
+
+#: Convert2
+msgid "separate windows?"
+msgstr "jendela terpisah?"
+
+#. ## Image Calculator
+#: TitleStr
+msgid "Image Calculator"
+msgstr "Kalkulator Citra"
+
+#: NoWinErr
+msgid "No windows are open."
+msgstr "Tidak ada jendela yang dibuka"
+
+#: StackSizeErr
+msgid "Both stacks must have the same number of slices."
+msgstr "Kedua tumpukan harus memiliki jumlah potongan yang sama"
+
+#: OutOfMem
+msgid "Out of memory"
+msgstr "Kehabisan memori"
+
+#: Image1
+msgid "Image 1:"
+msgstr "Citra 1:"
+
+#: Image2
+msgid "Image 2:"
+msgstr "Citra 2:"
+
+#: Operation
+msgid "Operation:"
+msgstr "Operasi:"
+
+#: NewResultTitle
+msgid "Result of"
+msgstr "Hasil dari"
+
+#: ResultTitle
+msgid "Result"
+msgstr "Hasil"
+
+#: Add
+msgctxt "Add"
+msgid "Add"
+msgstr "Tambah"
+
+#: Subtract
+msgid "Subtract"
+msgstr "Kurang"
+
+#: Multiply
+msgid "Multiply"
+msgstr "Kali"
+
+#: Divide
+msgid "Divide"
+msgstr "Bagi"
+
+#: AND
+msgid "AND"
+msgstr "DAN"
+
+#: OR
+msgid "OR"
+msgstr "ATAU"
+
+#: XOR
+msgid "XOR"
+msgstr "ATAU eksklusif"
+
+#: Min
+msgid "Min"
+msgstr "Min"
+
+#: Max
+msgid "Max"
+msgstr "Maks"
+
+#: Gamma
+msgid "Gamma"
+msgstr "Gamma"
+
+#: Average
+msgid "Average"
+msgstr "Rata-rata"
+
+#: Difference
+msgid "Difference"
+msgstr "Selisih"
+
+#: Copy
+msgid "Copy"
+msgstr "Salin"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "Salin kecuali Putih"
+
+#: Index
+msgid "index"
+msgstr "indeks"
+
+#: Value
+msgid "Value:"
+msgstr "Nilai"
+
+#: BinValue
+msgid "Value (binary): "
+msgstr "Nilai (biner)"
+
+#: BinValReqErr
+msgid "Binary number required"
+msgstr "Jumlah biner diperlukan"
+
+#: Value01
+msgid "Value (0.1-5.0):"
+msgstr "Nilai (0.1-5.0):"
+
+#: GammaValErr
+msgid "Gamma must be between 0.1 and 5.0"
+msgstr "Gamma harus di antara 0.1 dan 5.0"
+
+#. ## Selection
+#: Spline
+msgid "Spline"
+msgstr "Kurva Kontinyu"
+
+#. ## PLUGIN/FRAME
+#. ### PasteController
+#: FrameTitle
+msgid "Paste Control"
+msgstr "Kontrol Rekat"
+
+#: TransferMode
+msgid "Transfer Mode:"
+msgstr "Mode Transfer"
+
+#. ### ContrastAdjuster
+#: ContrastTitle
+msgid "Brightness & Contrast"
+msgstr "Kecerlangan & Kontras"
+
+#: WLTitle
+msgid "Window & Level"
+msgstr "Jendela & Tingkatan"
+
+#: ColorTitle
+msgctxt "ColorTitle"
+msgid "Color"
+msgstr "Warna"
+
+#: Minimum
+msgid "Minimum"
+msgstr "Minimum"
+
+#: Maximum
+msgid "Maximum"
+msgstr "Maksimum"
+
+#: Brightness
+msgid "Brightness"
+msgstr "Kecerlangan"
+
+#: Contrast
+msgid "Constrast"
+msgstr "Kontras"
+
+#: Level
+msgid "Level:"
+msgstr "Tingkatan:"
+
+#: Window
+msgid "Window:"
+msgstr "Jendela:"
+
+#: Auto
+msgid "Auto"
+msgstr "Otomatis"
+
+#: Reset
+msgid "Reset"
+msgstr "Tata Ulang"
+
+#: Set
+msgid "Set"
+msgstr "Set"
+
+#: Apply
+msgid "Apply "
+msgstr "Terapkan"
+
+#: Thresh
+msgid "Thresh"
+msgstr "Mengirik"
+
+#: Update
+msgid "Update"
+msgstr "Mutakhir"
+
+#: AdjTypeErr
+msgid "Requires an 8-bit grayscale image or an RGB stack"
+msgstr "Diperlukan citra dengan skala keabuan 8-bit atau tumpukan RGB"
+
+#: LUT1
+msgid "Apply LUT to all"
+msgstr "Terapkan LUT untuk semua"
+
+#: LUT2
+msgctxt "LUT2"
+msgid "slices in the stack?"
+msgstr "Potongan di dalam tumpukan"
+
+#: RGB1
+msgid "Apply brightness and contrast settings to all"
+msgstr "Terapkan pengaturan kecerlangan dan kontras untuk semua"
+
+#: RGB2
+msgctxt "RGB2"
+msgid "slices in the stack?"
+msgstr "Potongan di dalam tumpukan"
+
+#: SetMinMaxTitle
+msgid "Set Min and Max"
+msgstr "Atur Min dan Maks"
+
+#: MinVal
+msgid "Minimum Displayed Value:"
+msgstr "Nilai Minimum yang Ditampilkan"
+
+#: MaxVal
+msgid "Maximum Displayed Value:"
+msgstr "Nilai Maksimum yang Ditampilkan"
+
+#: SetWLTitle
+msgid "Set W&L"
+msgstr "Atur W&L"
+
+#: WinCenter
+msgid "Window Center (Level):"
+msgstr "Pusat Jendela (Tingkat):"
+
+#: WinWidth
+msgid "Window Width:"
+msgstr "Lebar Jendela:"
+
+#: NoImg
+msgid "No Image"
+msgstr "Tidak ada Citra"
+
+#. ## Analyser
+#: SetMeasurementsTitle
+msgid "Set Measurements"
+msgstr "Atur Pengukuran"
+
+#: measurements
+msgid "measurements"
+msgstr "pengukuran"
+
+#: Area
+msgid "Area"
+msgstr "Area"
+
+#: MeanGray
+msgid "Mean Grey Value"
+msgstr "Nilai rata-rata abu-abu"
+
+#: StDev
+msgid "Standard Deviation"
+msgstr "Standar Deviasi"
+
+#: ModalGray
+msgid "Modal Grey Value"
+msgstr "Pengandaian Nilai Abu-abu"
+
+#: MinMaxGray
+msgid "Min & Max Grey Value"
+msgstr "Nilai Abu-abu Min & Maks"
+
+#: Centroid
+msgid "Centroid"
+msgstr "Centroid"
+
+#: MassCenter
+msgid "Center of Mass"
+msgstr "Pusat Massa"
+
+#: Perimeter
+msgid "Perimeter"
+msgstr "Garis Keliling Lingkaran"
+
+#: Bounds
+msgid "Bounding Rectangle"
+msgstr "Garis Keliling Bujur Sangkar"
+
+#: FitEllipse
+msgid "Fit Ellipse"
+msgstr "Fit Elips"
+
+#: Circularity
+msgid "Circularity"
+msgstr "Bentuk Bundar"
+
+#: FeretDiam
+msgid "Feret's Diameter"
+msgstr "Diameter Feret"
+
+#: ThreshLimit
+msgid "Limit to Threshold"
+msgstr "Batas untuk Ambang Batas"
+
+#: ImgName
+msgid "Display Image Name"
+msgstr "Tampilkan Nama Citra"
+
+#: InvertY
+msgid "Invert Y Coordinates"
+msgstr "Ubah Koordinat Y"
+
+#: DeciPlaces
+msgctxt "DeciPlaces"
+msgid "Decimal Places:"
+msgstr "Penempatan Desimal"
+
+#: Val
+msgid "Value"
+msgstr "Nilai"
+
+#: FileName
+msgid "Name"
+msgstr "Nama"
+
+#: Angle
+msgid "Angle"
+msgstr "Sudut"
+
+#: Length
+msgid "Length "
+msgstr "Panjang"
+
+#. ### Shorter labels
+#: SD
+msgid "SD"
+msgstr "SD"
+
+#: Mean
+msgid "Moy."
+msgstr "Moy."
+
+#. ## ThresholdAdjuster
+#: Threshold
+msgid "Threshold"
+msgstr "Ambang Batas"
+
+#: RedThresh
+msgid "Red"
+msgstr "Merah"
+
+#: BWThresh
+msgid "Black & White"
+msgstr "Hitam & Putih"
+
+#: OverUnder
+msgid "Over/Under"
+msgstr "Lebih/Kurang"
+
+#: ThreshLevels
+msgid "Set Threshold Levels"
+msgstr "Atur Tingkat Ambang Batas"
+
+#: LowThreshLevel
+msgid "Lower Threshold Level:"
+msgstr "Tingkat Ambang Batas terendah"
+
+#: UpThreshLevel
+msgid "Upper Threshold Level:"
+msgstr "Tingkat Ambang Batas tertinggi"
+
+#: RGBThreshErr
+msgid "RGB images cannot be thresolded."
+msgstr "Citra RGB tidak bisa memiliki ambang batas"
+
+#. ## NewPlugin
+#: NPTitle
+msgid "Nouveau..."
+msgstr "Baru..."
+
+#: Type
+msgid "Type"
+msgstr "Tipe"
+
+#. ## Recorder
+#: Record
+msgid "Record"
+msgstr "Rekam"
+
+#: CreateMacro
+msgid "Create Macro"
+msgstr "Buat Makro"
+
+#: CreatePlugin
+msgid "Create Plugin"
+msgstr "Buat Colok-Masuk"
+
+#. ## Command Lister
+#: Commands
+msgid "Commands"
+msgstr "Perintah"
+
+#. ### 2 FIELDS SEPARATED BY \t
+#: CommandLabels
+msgid "Command\tPlugin"
+msgstr "Perintah\tColok-Masuk"
+
+#: KbdShortcuts
+msgid "Keyboard Shortcuts"
+msgstr "Shortcut di Papan Ketik"
+
+#. ### 2 FIELDS SEPARATED BY \t
+#: KbdShortcutsLabels
+msgid "Hot Key\tCommand"
+msgstr "Kunci Panas\tPerintah"
+
+#. ## ScaleDialog
+#: ScDiagTitle
+msgid "Set Scale"
+msgstr "Atur Skala"
+
+#: ScDiagDistPix
+msgid "Distance in Pixels:"
+msgstr "Jarak dalam Piksel"
+
+#: ScDiagDist
+msgid "Real Distance:"
+msgstr "Jarak Sebenarnya"
+
+#: ScDiagRatio
+msgid "Width/Height Ratio:"
+msgstr "Perbandingan Lebar/Panjang"
+
+#: ScDiagUnit
+msgid "Unit of Length:"
+msgstr "Satuan Panjang:"
+
+#: ScDiagScale
+msgid "Scale:"
+msgstr "Skala:"
+
+#: ScDiagGlobal
+msgctxt "ScDiagGlobal"
+msgid "Global"
+msgstr "Global"
+
+#: ScDiagNoScale
+msgid "<No Scale>"
+msgstr "<Tidak ada Skala>"
+
+#. ## SurfacePlotter
+#: SfcPlTitle
+msgid "Surface Plotter"
+msgstr "Plotter Permukaan"
+
+#: SfcPlImgTitle
+msgid "Surface Plot"
+msgstr "Plot Permukaan"
+
+#: SfcPlDrSlice
+msgid "Drawing slice"
+msgstr "Potongan Gambar"
+
+#: SfcPlMult
+msgid "Number of samples"
+msgstr "Jumlah Sampel"
+
+#: SfcPlWire
+msgid "Draw wireframe"
+msgstr "Gambar Bingkai Hitam"
+
+#: SfcPlShade
+msgid "Shade"
+msgstr "Bayangan"
+
+#: SfcPlAxis
+msgid "Draw axis"
+msgstr "Gambar Sumbu"
+
+#: SfcPlInvert
+msgid "Source Background is Lighter"
+msgstr "Latar belakang sumber lebih terang"
+
+#: SfcPlBlack
+msgid "Fill Plot Background with Black"
+msgstr "Isi Plot Latar Belakang dengan Hitam"
+
+#: SfcPlPoly
+msgid "Fill Plot"
+msgstr "Isi Plot"
+
+#: SfcPlSmooth
+msgid "Smooth"
+msgstr "Halus"
+
+#. ## Printer
+#: PageSetup
+msgid "Page Setup"
+msgstr "Tata Halaman"
+
+#: PrintScaling
+msgid "Scaling"
+msgstr "Penskalaan"
+
+#: PrintBorder
+msgid "Draw Border"
+msgstr "Gambar Tepi"
+
+#: PrintTitle
+msgid "Print Title"
+msgstr "Cetak Judul"
+
+#: PrintCenter
+msgid "Center on Page"
+msgstr "Arahkan ke tengah halaman"
+
+#. ## Rotator
+#: Rotate
+msgid "Rotate"
+msgstr "Putar"
+
+#: Interpolate
+msgid "Interpolate"
+msgstr "Interpolasi"
+
+#: AngleErr
+msgid "Angle is invalid."
+msgstr "Sudut tidak benar"
+
+#. ## Options
+#: OptMiscTitle
+msgid "Miscellaneous Options"
+msgstr "Aneka Opsi"
+
+#: OptHistBin
+msgid "Real Histogram Bins:"
+msgstr "Keranjang Histogram benar:"
+
+#: OptDivZero
+msgid "Divide by Zero Value:"
+msgstr "Bagi dengan Nilai Nol:"
+
+#: OptCursor
+msgid "Use Pointer Cursor"
+msgstr "Gunakan Kursor Penunjuk "
+
+#: OptScale
+msgid "Scale When Converting"
+msgstr "Skala Saat Diubah"
+
+#: OptStackDiag
+msgid "Hide \"Process Stack?\" Dialog"
+msgstr "Sembunyikan \"Proses Tumpuk?\" Dialog"
+
+#: OptAntialias
+msgid "Antialiased Text"
+msgstr "Teks Anti Alias"
+
+#: OptInterpolate
+msgid "Interpolate Images <100%"
+msgstr "Interpolasi Citra <100%"
+
+#: OptOpen
+msgid "Open Images at 100%"
+msgstr "Buka Citra 100%"
+
+#: OptDebug
+msgid "Debug Mode"
+msgstr "Mode Awakutu"
+
+#: OptLine
+msgid "Line width:"
+msgstr "Lebar Garis:"
+
+#: OptJpeg
+msgid "JPEG quality (0-100):"
+msgstr "Kualitas JPEG  (0-100):"
+
+#: OptMark
+msgid "Mark Width:"
+msgstr "Tandai Lebar:"
+
+#. ## Fonts
+#: FontsTitle
+msgid "Fonts"
+msgstr "Huruf"
+
+#: FontPlain
+msgid "Plain"
+msgstr "Datar"
+
+#: FontBold
+msgid "Bold"
+msgstr "Tebal"
+
+#: FontIt
+msgid "Italic"
+msgstr "miring"
+
+#: FontBoldIt
+msgid "Bold+Italic"
+msgstr "Tebal+Miring"
+
+#: FontPoint
+msgid "pt"
+msgstr "pt"
+
+#. ## Fitter
+#: FitterTitle
+msgid "Curve Fitter"
+msgstr "Fitter Kurva"
+
+#: Fit
+msgid "Fit..."
+msgstr "Fit..."
+
+#: FitFncErr
+msgid "No function available"
+msgstr "Tidak ada fungsi yang tersedia"
+
+#: FitImgErr
+msgid "First select the image to be transformed"
+msgstr "Pertama: pilih citra yang akan ditransformasikan"
+
+#: FitterSuffix
+msgid "-transformed"
+msgstr "-transformasikan"
+
+#. ## Resizer
+#: ResizeRoiErr
+msgid ""
+"These commands\n"
+"do not work with line selections."
+msgstr ""
+"Perintah \n"
+"tidak bisa dilakukan dengan garis yang dipilih"
+
+#: ResizeTitle
+msgid "Resize"
+msgstr "Ubah Ukuran"
+
+#: ResizeConstrain
+msgid "Constrain Aspect Ratio"
+msgstr "Pembatasan Aspek Perbandingan"
+
+#: ResizeWarn
+msgid "NOTE: Undo is not available"
+msgstr "CAT: Kembali ke sebelumnya tidak tersedia"
+
+#: ResizeErr
+msgid "Width or height are invalid."
+msgstr "Lebar atau tinggi salah"
+
+#: ResizeLost1
+msgid ""
+"SalsaJ ran out of memory causing \n"
+"the last"
+msgstr ""
+"SalsaJ kehabisan memori menyebabkan \n"
+"terakhir"
+
+#: ResizeLost2
+msgid "slices to be lost."
+msgstr "potongan hilang"
+
+#. ## CanvasResizer NEW
+#: CanvasResizerTitle1
+msgid "Resize Image Canvas"
+msgstr "Ubah Ukuran Kanvas Citra"
+
+#: CanvasResizerTitle2
+msgid "Resize Stack Canvas"
+msgstr "Ubah Ukuran Kanvas Tumpuk"
+
+#: Position
+msgid "Postion"
+msgstr "Posisi"
+
+#: ZeroFile
+msgid "Zero Fill"
+msgstr "Tidak Ada Isi"
+
+#: Top-Left
+msgid "Top-Left "
+msgstr "Kiri-Atas"
+
+#: Top-Center
+msgid "Top-Center"
+msgstr "Tengah- Atas"
+
+#: Top-Right
+msgid "Top-Right"
+msgstr "Kanan-Atas"
+
+#: Center-Left
+msgid "Center-Left"
+msgstr "Kiri-Tengah"
+
+#: Center
+msgid "Center"
+msgstr "Tengah"
+
+#: Center-Right
+msgid "Center-Right"
+msgstr "Kanan-Tengah"
+
+#: Bottom-Left
+msgid "Bottom-Left"
+msgstr "Kiri-Bawah"
+
+#: Bottom-Center
+msgid "Bottom-Center"
+msgstr "Tengah-Bawah"
+
+#: Bottom-Right
+msgid "Bottom-Right"
+msgstr "Kanan-Bawah"
+
+#. ## Montage Maker NEW
+#: MakeMontage
+msgid "Make Montage"
+msgstr "Buat Montase"
+
+#: Columns
+msgid "Columns"
+msgstr "Kolom"
+
+#: Rows
+msgid "Rows"
+msgstr "Baris"
+
+#: ScaleFactor
+msgid "Scale Factor"
+msgstr "Faktor Skala"
+
+#: FirstSlice
+msgid "First Slice"
+msgstr "Potongan Pertama"
+
+#: LastSlice
+msgid "Last Slice"
+msgstr "Potongan Terakhir"
+
+#: Increment
+msgctxt "Increment"
+msgid "Increment"
+msgstr "Kenaikan"
+
+#: BorderWidth
+msgid "Border Width"
+msgstr "Lebar Tepi"
+
+#: LabelSlices
+msgid "Label Slices"
+msgstr "Label Potongan"
+
+#: UseForegroundColor
+msgid "Use Foreground Color"
+msgstr "Gunakan Warna Latar Depan"
+
+#. ## ImageProperties NEW
+#: Channels
+msgid "Channels"
+msgstr "Saluran"
+
+#: Frames
+msgid "Frames"
+msgstr "Bingkai"
+
+#: Pixel_Width
+msgid "Pixel Width"
+msgstr "Lebar Piksel"
+
+#: Pixel_Height
+msgid "Pixeln Height"
+msgstr "Tinggi Pikseln"
+
+#: Voxel_Depth
+msgid "Voxel Depth"
+msgstr "Kedalaman Voxel"
+
+#: FrameInterval
+msgid "Frame Interval"
+msgstr "Interval Bingkai"
+
+#: Origin
+msgid "Origin (pixels)"
+msgstr "Asal (Piksel)"
+
+#: Global
+msgctxt "Global"
+msgid "Global"
+msgstr "Global"
+
+#. ## SimpleCommands
+#: NotLocked
+msgid "is not locked"
+msgstr "tidak terkunci"
+
+#: Unlocked
+msgid "is now unlocked"
+msgstr "sekarang sudah tidak terkunci"
+
+#: Rename
+msgid "Rename"
+msgstr "Ubah Nama"
+
+#: RenameName
+msgid "New title:"
+msgstr "Judul baru:"
+
+#. ## Duplicater
+#: DupliSuffix
+msgid "-copy"
+msgstr "-salin"
+
+#: DupliTitle
+msgid "Duplicate"
+msgstr "Duplikat"
+
+#: DupliNewName
+msgid "Title:"
+msgstr "Judul:"
+
+#: DupliStack
+msgid "Duplicate Entire Stack?"
+msgstr "Duplikasi seluruh tumpukan?"
+
+#. ## Scaler
+#: ScalerTitle
+msgid "Scale"
+msgstr "Skala"
+
+#: ScalerX
+msgid "X Scale"
+msgstr "Skala X"
+
+#: ScalerY
+msgid "Y Scale"
+msgstr "Skala Y"
+
+#: ScalerErr
+msgid "X or Y scale are invalid."
+msgstr "Skala X atau Y tidak benar"
+
+#: ScalerSuffix
+msgid "-rescaled"
+msgstr "-ubah skala"
+
+#: ScalerBackground
+msgid "Fill with Background Color"
+msgstr "isi dengan warna latar belakang"
+
+#. ## ScaleBar
+#: ScaleBarTitle
+msgid "ScaleBar Plus"
+msgstr "Tambah BatangSkala "
+
+#: ScaleBarWidth
+msgid "Width in"
+msgstr "Lebar dalam"
+
+#: ScaleBarHeight
+msgid "Height in pixels"
+msgstr "Tinggi dalam piksel"
+
+#: ScaleBarFont
+msgid "Font Size"
+msgstr "Ukuran Huruf"
+
+#: ScaleBarColor
+msgctxt "ScaleBarColor"
+msgid "Color"
+msgstr "Warna"
+
+#: ScaleBarBackground
+msgid "Background"
+msgstr "Latar Belakang"
+
+#: ScaleBarLocation
+msgid "Location"
+msgstr "Lokasi"
+
+#: ScaleBarBold
+msgctxt "ScaleBarBold"
+msgid "Bold Text"
+msgstr "Tebalkan Teks"
+
+#: ScaleBarHide
+msgid "Hide Text"
+msgstr "Sembunyikan Teks"
+
+#: ScaleBarSerif
+msgid "Serif Font"
+msgstr "Huruf Serif"
+
+#. ## LutViewer
+#: LUTTitle
+msgid "LookUp Table"
+msgstr "Mencari Tabel"
+
+#. ### 4 FIELDS SEPARATED BY \t
+#: LUTHead
+msgid "Index\tRed\tGreen\tBlue"
+msgstr "Indeks\tMerah\tHijau\tBiru"
+
+#: LUTTextTitle
+msgid "LUT"
+msgstr "LUT"
+
+#. ## LutLoader
+#: LutRGBErr
+msgid "RGB images do not use LUTs."
+msgstr "Citra RGB tidak menggunakan LUT"
+
+#. ## Profiler
+#: ProOptTitle
+msgid "Profile Plot Options"
+msgstr "Opsi Plot Profil"
+
+#: ProOptScale
+msgid "Fixed Y-axis Scale"
+msgstr "Skala tetap sumbu-Y "
+
+#: ProOptSave
+msgid "Do Not Save X-Values"
+msgstr "Jangan Simpan Nilai-X"
+
+#: ProOptAuto
+msgid "Auto-close"
+msgstr "Tutup-otomatis"
+
+#: ProOptVert
+msgid "Vertical Profile"
+msgstr "Profil Vertikal"
+
+#. ## RoiManager
+#: RoiTitle
+msgid "Roi Manager"
+msgstr "Manajer ROI"
+
+#: RoiAdd
+msgctxt "RoiAdd"
+msgid "Add"
+msgstr "Tambah"
+
+#: RoiAdd&Draw
+msgctxt "RoiAdd&Draw"
+msgid "Delete"
+msgstr "Hapus"
+
+#: RoiDel
+msgctxt "RoiDel"
+msgid "Delete"
+msgstr "Hapus"
+
+#: RoiOpen
+msgctxt "RoiOpen"
+msgid "Open"
+msgstr "Buka"
+
+#: RoiOpenAll
+msgid "Open All"
+msgstr "Buka Semua"
+
+#: RoiSave
+msgid "Save"
+msgstr "Simpan"
+
+#: RoiSel
+msgid "Select All"
+msgstr "Pilih Semua"
+
+#: RoiMeasure
+msgid "Measure"
+msgstr "Ukur"
+
+#: RoiDraw
+msgid "Draw"
+msgstr "Gambar"
+
+#: RoiFill
+msgid "Fill"
+msgstr "Isi"
+
+#: RoiErr1
+msgid "The active image does not have an ROI."
+msgstr "Citra aktif tidak memiliki ROI"
+
+#: RoiErr2
+msgid "The ROI list is empty."
+msgstr "Daftar ROI kosong"
+
+#: RoiErr3
+msgid "At least one ROI in the list must be selected."
+msgstr "Setidaknya pilih satu ROI di daftar"
+
+#: RoiErr4
+msgid "This ROI does not fit the current image."
+msgstr "ROI ini tidak sesuai dengan citra saat ini"
+
+#: RoiOpenTitle
+msgid "Open ROI..."
+msgstr "Buka ROI..."
+
+#: RoiOpenFolder
+msgid "Select a file in the folder..."
+msgstr "Pilih Berkas di dalam Pelipat"
+
+#: RoiSaveTitle
+msgid "Save ROI..."
+msgstr "Simpan ROI..."
+
+#. ## CalibrationBar
+#: CaliTitle
+msgid "Calibration Bar"
+msgstr "Kalibrasi Batang"
+
+#: CaliLoc
+msgid "Location:"
+msgstr "Lokasi:"
+
+#: CaliFill
+msgid "Fill Colour:"
+msgstr "Isi Warna:"
+
+#: CaliLab
+msgid "Label Colour:"
+msgstr "Label Warna:"
+
+#: CaliNb
+msgid "Number of Labels:"
+msgstr "Jumlah Label:"
+
+#: CaliPlaces
+msgctxt "CaliPlaces"
+msgid "Decimal Places:"
+msgstr "Lokasi Desimal:"
+
+#: CaliSize
+msgid "Font Size:"
+msgstr "Ukuran Huruf:"
+
+#: CaliZoom
+msgid "Zoom Factor:"
+msgstr "Faktor Zum:"
+
+#: CaliBold
+msgctxt "CaliBold"
+msgid "Bold Text"
+msgstr "Tebal teks"
+
+#: CaliWithBar
+msgid "with bar"
+msgstr "dengan batang"
+
+#: CaliUpR
+msgid "Upper Right"
+msgstr "Kanan Atas"
+
+#: CaliUpL
+msgid "Upper Left"
+msgstr "Kiri Atas"
+
+#: CaliDoR
+msgid "Lower Right"
+msgstr "Kanan Bawah"
+
+#: CaliDoL
+msgid "Lower Left"
+msgstr "Kiri Bawah"
+
+#: CaliSel
+msgid "At Selection"
+msgstr "Pada Pilihan"
+
+#. ## FolderOpener
+#: FoldOpenTitle
+msgid "Open Image Sequence..."
+msgstr "Buka Citra Urutan..."
+
+#: FoldOpenErrTitle
+msgid "Import Error:"
+msgstr "Impor Salah:"
+
+#: FoldOpenErr1
+msgid ""
+"This folder does not appear to contain any TIFF,\n"
+"FITS, JPEG, BMP, GIF, or PGM files."
+msgstr ""
+"Pelipat tidak memuat berkas  TIFF,\n"
+"FITS, JPEG, BMP, GIF, atau PGM."
+
+#: FoldOpenErr2
+msgid "None of the"
+msgstr "Tidak satupun dari"
+
+#: FoldOpenErr3
+msgid "files contain  in their name the string"
+msgstr "Berkas memuat  dalam string nama"
+
+#: FoldOpenErr4
+msgid ": wrong dimensions"
+msgstr ": dimensi yang salah"
+
+#: FoldOpenErr5
+msgid ": wrong type"
+msgstr ": tipe yang salah"
+
+#: FoldOpenErr6
+msgid ": unable to open"
+msgstr ": tidak dapat dibuka"
+
+#: FoldOptTitle
+msgid "Sequence Options"
+msgstr "Opsi Urutan"
+
+#: FoldOpt1
+msgid "Number of Images"
+msgstr "Jumlah Citra"
+
+#: FoldOpt2
+msgid "Starting Image"
+msgstr "Memulai Citra"
+
+#: FoldOpt3
+msgctxt "FoldOpt3"
+msgid "Increment"
+msgstr "Kenaikan"
+
+#: FoldOpt4
+msgid "File Name Contains"
+msgstr "Nama Berkas memuat"
+
+#: FoldOpt5
+msgid "Convert to 8-bit Greyscale"
+msgstr "Ubah ke Keabuan 8-bit"
+
+#: FoldOpt6
+msgid "Open 1/2 Size"
+msgstr "Buka Ukuran 1/2"
+
+#. ## URLOpener
+#: URLDiagTitle
+msgid "Enter URL"
+msgstr "Masukkan URL"
+
+#: URLDiagLab
+msgid "Enter the URL of an image to open:"
+msgstr "Masukkan URL citra untuk dibuka"
+
+#. ## Animator
+#: AnimOptTitle
+msgid "Animation Options"
+msgstr "Opsi Animasi"
+
+#: AnimOptSpeed
+msgid "Speed (1-100 fps):"
+msgstr "Kecepatan (1-100 fps): "
+
+#: AnimOptLoop
+msgid "Loop Back and Forth"
+msgstr "Loop Mundur dan Maju"
+
+#: AnimOptStart
+msgid "Start Animation"
+msgstr "Mulai Animasi"
+
+#: AnimSlice
+msgid "Set Slice"
+msgstr "Atur Potongan"
+
+#: AnimNb
+msgid "Slice number"
+msgstr "Nomer Potongan"
+
+#. ## TextWriter
+#: TWErrTitle
+msgid "Save As Text"
+msgstr "Simpan sebagai Teks"
+
+#: TWErrMsg
+msgid "This command requires a TextWindow"
+msgstr "Perintah membutuhkan JendelaTeks"
+
+#. ## Calibrator
+#: CalibrTitle
+msgid "Calibrate..."
+msgstr "Kalibrasi..."
+
+#: CalibrFunc
+msgid "Function:"
+msgstr "Fungsi:"
+
+#: CalibrGlob
+msgid "Global calibration"
+msgstr "Kalibrasi Global"
+
+#: Calibrator
+msgid "Calibrator:"
+msgstr "Kalibrator:"
+
+#: CalibrErr1
+msgid "Please select a function"
+msgstr "Silahkan pilih Fungsi"
+
+#: CalibrErr16b
+msgid ""
+"Calibration of 16-bit images, except with straight\n"
+"line functions, is currently not supported."
+msgstr ""
+"Kalibrasi citra 16-bit, kecuali dengan fungsi garis\n"
+"lurus saat ini tidak didukung"
+
+#: CalPixelInverter
+msgid "Pixel Inverter"
+msgstr "Piksel Inverter"
+
+#: CalibrMan
+msgid ""
+"To create a calibration curve, the left column must\n"
+"contain a list of measured mean pixel values and the\n"
+"right column must contain the same number of calibration\n"
+"standard values."
+msgstr ""
+"Untuk membuat kalibrasi kurva, kolom kiri harus\n"
+"memuat daftar nilai ukuran piksel rata-rata dan\n"
+"kolom kanan harus memuat jumlah nilai standar\n"
+"kalibrasi yang sama"
+
+#: CalibrFuncTitle
+msgid "Calibration function"
+msgstr "Fungsi kalibrasi"
+
+#. ## Recorder
+#: Recorder
+msgid "Recorder"
+msgstr "Rekaman"
+
+#: 32birReqErr
+msgid "32-bit float image required"
+msgstr "Dipelrukan Citra \"float\" 32-bit"
+
+#: OptHistory
+msgid "Last used files:"
+msgstr "Berkas terakhir yang digunakan:"
+
+#: OptFiles
+msgid "Files"
+msgstr "Berkas"
+
+#: Translate
+msgid "Translate"
+msgstr "Terjemahkan"
+
+#: TX
+msgid "Translation on X"
+msgstr "Penerjemahan pada X"
+
+#: TY
+msgid "Translation on Y"
+msgstr "Penerjemahan pada Y"
+
+#: TxErr
+msgid "Translation on X is invalid"
+msgstr "Penerjemahan pada X salah"
+
+#: TyErr
+msgid "Translation en Y est invalide"
+msgstr "Penerjemahan pada Y salah"
+
+#. ## Option JFile Chooser
+#: OptJFileChooser
+msgid "Open/Save Using JFileChooser"
+msgstr "Buka/Simpan Menggunakan PemillihBerkasJ"
+
+#: ProOptHoriz
+msgid "Horizontal Profile"
+msgstr "Profil Horisontal"
+
+#. ## Spectrum Radio...
+#: GaussFitResults
+msgid "Gaussian fit results"
+msgstr "Hasil fit Gaussian"
+
+#: ChannelRS
+msgid "Channel"
+msgstr "Saluran"
+
+#: VelocityRS
+msgid "Velocity"
+msgstr "Kecepatan"
+
+#: unitsVelocityRS
+msgid "km/s"
+msgstr "km/det"
+
+#: FrequencyRS
+msgid "Frequency"
+msgstr "Frekuensi"
+
+#: unitsFrequencyRS
+msgid "MHz"
+msgstr "MHz"
+
+#: WavelengthRS
+msgid "Wavelength"
+msgstr "Panjang Gelombang"
+
+#: unitsWavelengthRS
+msgid "cm"
+msgstr "cm"
+
+#: IntensityRS
+msgid "Intensity"
+msgstr "Intensitas"
+
+#: error0
+msgid "This does not appear to be a FITS file."
+msgstr "Ini tidak tampak seperti berkas FITS"
+
+#: error1
+msgid "too few points to fit"
+msgstr "Terlalu sedikit titik untuk fit"
+
+#: error2
+msgid "singular matrix"
+msgstr "matriks tunggal"
+
+#: chooseInter
+msgid "choose two intervals"
+msgstr "pilih dua interval"
+
+#: Finter
+msgid "first interval"
+msgstr "interval pertama"
+
+#: Sinter
+msgid "second interval"
+msgstr "interval kedua"
+
+#: chooseOder
+msgid "choose order of baseline fit (0<order<5)"
+msgstr "pilih urutan fit garis pangkal (0<urutan<5)"
+
+#: order
+msgid "Order"
+msgstr "Urutan"
+
+#: DisplayZero
+msgid "display zero line in blue"
+msgstr "Tampilkan garis nol di Biru"
+
+#: GaussianfitTitle
+msgid "Gaussian fit of spectral line"
+msgstr "Fit Gaussian garis spektrum"
+
+#: ChooseParam
+msgid "Choose parameters"
+msgstr "Pilih Parameter"
+
+#: interval
+msgid "interval"
+msgstr "interval"
+
+#: amplitudeRS
+msgid "amplitude"
+msgstr "amplitudo"
+
+#: centerRS
+msgid "center"
+msgstr "tengah"
+
+#: widthRS
+msgid "width"
+msgstr "lebar"
+
+#: eraseRS
+msgid "erase the last"
+msgstr "hapus yang terakhir"
+
+#: subtractRS
+msgid "Subtract baseline"
+msgstr "kurangi garis pangkal"
+
+#: GaussianFit
+msgid "Gaussian fit"
+msgstr "fit Gaussian"
+
+#: baseline
+msgid "Baseline"
+msgstr "Garis Pangkal"
+
+#. ## Optical Spectrum...
+#: lambdaOS
+msgid "Lambda[A]"
+msgstr "Lambda[A]"
+
+#: fluxOS
+msgid "Flux[ADU]"
+msgstr "Flux[ADU]"

@@ -1,0 +1,92 @@
+#. extracted from ColorBundle.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-02 10:48+0200\n"
+"PO-Revision-Date: 2010-11-18 18:29+0200\n"
+"Last-Translator: euhouro <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.0.3\n"
+
+#: BackGColor
+msgid "Background Color"
+msgstr "culoare de fond"
+
+#: BlackColor
+msgid "black"
+msgstr "negru"
+
+#: BlueColor
+msgid "blue"
+msgstr "albastru"
+
+#: Clipboard
+msgid "Clipboard"
+msgstr "Clipboard"
+
+#: ColorNone
+msgid "none"
+msgstr "nici unu"
+
+#: ColorRGB
+msgid "R/V/B"
+msgstr "R/V/B"
+
+#: CyanColor
+msgid "cyan"
+msgstr "azuriu"
+
+#: DGrayColor
+msgid "dark gray"
+msgstr "gri inchis"
+
+#: ForGColor
+msgid "Foreground Color"
+msgstr "culoare de prim plan"
+
+#: GrayColor
+msgid "gray"
+msgstr "gri"
+
+#: GreenColor
+msgid "green"
+msgstr "verde"
+
+#: LGrayColor
+msgid "light gray"
+msgstr "gri deschis"
+
+#: MagentaColor
+msgid "magenta"
+msgstr "purpuriu"
+
+#: OrangeColor
+msgid "orange"
+msgstr "portocaliu"
+
+#: Ramp
+msgid "Ramp"
+msgstr "rampa"
+
+#: RedColor
+msgid "red"
+msgstr "rosu"
+
+#: SelectionColor
+msgid "Selection Color"
+msgstr "selectie de culori"
+
+#: WhiteColor
+msgid "white"
+msgstr "alb"
+
+#: YellowColor
+msgid "yellow"
+msgstr "galben"

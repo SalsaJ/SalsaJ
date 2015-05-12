@@ -1,0 +1,1074 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="MenusBundle_el_GR.po" source-language="en-US" datatype="plaintext" target-language="el">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Value">
+        <source>Value</source>
+        <target state="translated">Τιμή</target>
+        <note from="developer">###</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Count__%04__Count">
+        <source>Count</source>
+        <target state="translated">Μέτρηση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mean">
+        <source>Mean</source>
+        <target state="translated">Μέση Τιμή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="StdDev">
+        <source>StdDev</source>
+        <target state="translated">Τυπική Απόκλιση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mode">
+        <source>Mode</source>
+        <target state="translated">Επικρατούσα Τιμή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Min">
+        <source>Min</source>
+        <target state="translated">Ελάχιστη Τιμή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Max">
+        <source>Max</source>
+        <target state="translated">Μέγιστη Τιμή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bins">
+        <source>Bins</source>
+        <target state="translated">Τάξεις</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bin Width">
+        <source>Bin Width</source>
+        <target state="translated">Εύρος Τάξεων</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Name">
+        <source>Name</source>
+        <target state="translated">Όνομα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Width">
+        <source>Width</source>
+        <target state="translated">Πλάτος </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Height">
+        <source>Height</source>
+        <target state="translated">Ύψος </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pixels">
+        <source>pixels</source>
+        <target state="translated">Εικονοστοιχεία </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slices">
+        <source>Slices</source>
+        <target state="translated">Φέτες</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Untitled">
+        <source>Untitled</source>
+        <target state="translated">Χωρίς Επικεφαλίδα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear Outside">
+        <source>Clear Outside</source>
+        <target state="translated">Σβήσιμο Εκτός </target>
+        <note from="developer">###Menu Plus</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill">
+        <source>Fill</source>
+        <target state="translated">Γέμισμα </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw">
+        <source>Draw</source>
+        <target state="translated">Μαρκάρισμα </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Invert">
+        <source>Invert</source>
+        <target state="translated">Αντιστροφή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Next">
+        <source>Open Next</source>
+        <target state="translated">Άνοιξε Επόμενο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paste Control...">
+        <source>Paste Control...</source>
+        <target state="translated">Ρυθμίσεις Επικόλλησης...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Selection">
+        <source>Selection</source>
+        <target state="translated">Επιλογή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Options">
+        <source>Options</source>
+        <target state="translated">Επιπλέον Ρυθμίσεις</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Analyze Particles...">
+        <source>Analyze Particles...</source>
+        <target state="translated">Ανάλυση Σωματιδίων...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Summarize">
+        <source>Summarize</source>
+        <target state="translated">Σύνοψη</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Distribution">
+        <source>Distribution</source>
+        <target state="translated">Διανομή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Label">
+        <source>Label</source>
+        <target state="translated">Ετικέτα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear Results">
+        <source>Clear Results</source>
+        <target state="translated">Εκκαθάριση Αποτελεσμάτων</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Measurements...">
+        <source>Set Measurements...</source>
+        <target state="translated">Ορισμός Μετρήσεων...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Scale...">
+        <source>Set Scale...</source>
+        <target state="translated">Ορισμός Κλίμακας...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibrate...">
+        <source>Calibrate...</source>
+        <target state="translated">Βαθμονόμηση...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Smooth">
+        <source>Smooth</source>
+        <target state="translated">Λείανση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sharpen">
+        <source>Sharpen</source>
+        <target state="translated">Όξυνση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Find Edges">
+        <source>Find Edges</source>
+        <target state="translated">Εντοπισμός Άκρων</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enhance Contrast">
+        <source>Enhance Contrast</source>
+        <target state="translated">Αύξηση Αντίθεσης</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Noise">
+        <source>Noise</source>
+        <target state="translated">Θόρυβος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shadows">
+        <source>Shadows</source>
+        <target state="translated">Σκιές</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Binary">
+        <source>Binary</source>
+        <target state="translated">Δυαδική Επεξεργασία</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Operations">
+        <source>Operations</source>
+        <target state="translated">Χειρισμοί</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Single Image Operators">
+        <source>Single Image Operators</source>
+        <target state="translated">Χειριστές Μεμονωμένης Εικόνας</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import">
+        <source>Import</source>
+        <target state="translated">Εισαγωγή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Subtract Background...">
+        <source>Subtract Background...</source>
+        <target state="translated">Αφαίρεση Υποβάθρου...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Filters">
+        <source>Filters</source>
+        <target state="translated">Φίλτρα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Photometry">
+        <source>Photometry</source>
+        <target state="translated">Φωτομετρία</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Photometry Settings">
+        <source>Photometry Settings</source>
+        <target state="translated">Παράμετροι Φωτομετρίας</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear Photometry Results">
+        <source>Clear Photometry Results</source>
+        <target state="translated">Εκκαθάριση Αποτελεσμάτων Φωτομετρίας</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radio Spectrum...">
+        <source>Radio Spectrum...</source>
+        <target state="translated">Φάσμα ραδιοκυμάτων...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Optical Spectrum...">
+        <source>Optical Spectrum...</source>
+        <target state="translated">Οπτικό Φάσμα...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Webcam">
+        <source>Webcam</source>
+        <target state="translated">Κάμερα Ιστού</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SalsaJ [enter]">
+        <source>SalsaJ [enter]</source>
+        <target state="translated">SalsaJ (πιέστε ENTER)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File">
+        <source>File</source>
+        <target state="translated">Αρχείο</target>
+        <note from="developer">### real menu entries</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New">
+        <source>New</source>
+        <target state="translated">Δημιουργία...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open">
+        <source>Open</source>
+        <target state="translated">Άνοιγμα...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Recent">
+        <source>Open Recent</source>
+        <target state="translated">Άνοιξε πρόσφατο</target>
+        <note from="developer">##NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close">
+        <source>Close</source>
+        <target state="translated">Κλείσιμο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save__%04__Save">
+        <source>Save</source>
+        <target state="translated">Αποθήκευση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save As">
+        <source>Save As</source>
+        <target state="translated">Αποθήκευση Ως</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Revert">
+        <source>Revert</source>
+        <target state="translated">Αναστροφή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Page Setup...">
+        <source>Page Setup...</source>
+        <target state="translated">Διαμόρφωση Σελίδας...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Print...">
+        <source>Print...</source>
+        <target state="translated">Εκτύπωση...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Quit">
+        <source>Quit</source>
+        <target state="translated">Κλείσιμο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to quit?">
+        <source>Are you sure you want to quit?</source>
+        <target state="translated">Είστε σίγουροι ότι θέλετε να βγείτε;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Edit">
+        <source>Edit</source>
+        <target state="translated">Επεξεργασία </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Undo">
+        <source>Undo</source>
+        <target state="translated">Αναίρεση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cut">
+        <source>Cut</source>
+        <target state="translated">Αποκοπή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy">
+        <source>Copy</source>
+        <target state="translated">Αντιγραφή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paste">
+        <source>Paste</source>
+        <target state="translated">Επικόλληση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear">
+        <source>Clear</source>
+        <target state="translated">Σβήσιμο </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Crop">
+        <source>Crop</source>
+        <target state="translated">Περικοπή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Capture Screen">
+        <source>Capture Screen</source>
+        <target state="translated">Επιλογή Περιοχής Οθόνης</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Repeat Command">
+        <source>Repeat Command</source>
+        <target state="translated">Επανάληψη Εντολής</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image">
+        <source>Image</source>
+        <target state="translated">Εικόνα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Type">
+        <source>Type</source>
+        <target state="translated">Τύπος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="8-bit">
+        <source>8-bit</source>
+        <target state="translated">8-bit</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="16-bit">
+        <source>16-bit</source>
+        <target state="translated">16-bit</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="32-bit">
+        <source>32-bit</source>
+        <target state="translated">32-bit</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB Colour ">
+        <source>RGB Colour </source>
+        <target state="translated">Χρώμα RGB </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Adjust">
+        <source>Adjust</source>
+        <target state="translated">Προσαρμογή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Show Info...">
+        <source>Show Info...</source>
+        <target state="translated">Εμφάνιση Πληροφοριών...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Properties...">
+        <source>Properties...</source>
+        <target state="translated">Ιδιότητες...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Axis properties">
+        <source>Axis properties</source>
+        <target state="translated">Ιδιότητες</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Color">
+        <source>Color</source>
+        <target state="translated">Χρώμα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Colors Sample...">
+        <source>Colors Sample...</source>
+        <target state="translated">Δείγμα Χρωμάτων...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stacks">
+        <source>Stacks</source>
+        <target state="translated">Στοίβες</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Duplicate...">
+        <source>Duplicate...</source>
+        <target state="translated">Αντιγραφή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rename...">
+        <source>Rename...</source>
+        <target state="translated">Μετονομασία</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale...">
+        <source>Scale...</source>
+        <target state="translated">Κλίμακα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lookup Tables">
+        <source>Lookup Tables</source>
+        <target state="translated">Χρωματική Αντιστοίχηση (LUT)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Show LUT">
+        <source>Show LUT</source>
+        <target state="translated">Εμφάνιση LUT</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Invert LUT">
+        <source>Invert LUT</source>
+        <target state="translated">Αντιστροφή LUT</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Process">
+        <source>Process</source>
+        <target state="translated">Επεξεργασία</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image Calculator...">
+        <source>Image Calculator...</source>
+        <target state="translated">Υπολογιστής Εικόνων...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotate">
+        <source>Rotate</source>
+        <target state="translated">Περιστροφή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zoom">
+        <source>Zoom</source>
+        <target state="translated">Μεγένθυση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Analyze">
+        <source>Analyze</source>
+        <target state="translated">Ανάλυση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Measure">
+        <source>Measure</source>
+        <target state="translated">Μέτρηση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Scale">
+        <source>Set Scale</source>
+        <target state="translated">όρισε μέγεθος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scale Bar">
+        <source>Scale Bar</source>
+        <target state="translated">ράβδος μεγέθους</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calibration Bar">
+        <source>Calibration Bar</source>
+        <target state="translated">ράβδος ρύθμισης</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Histogram">
+        <source>Histogram</source>
+        <target state="translated">Ιστόγραμμα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Plot Profile">
+        <source>Plot Profile</source>
+        <target state="translated">Γράφημα Κατατομής...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Surface Plot...">
+        <source>Surface Plot...</source>
+        <target state="translated">Γράφημα Επιφάνειας...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tools">
+        <source>Tools</source>
+        <target state="translated">Εργαλεία</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Window">
+        <source>Window</source>
+        <target state="translated">Παράθυρο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Show All">
+        <source>Show All</source>
+        <target state="translated">Δείξε Όλα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Put Behind [tab]">
+        <source>Put Behind [tab]</source>
+        <target state="translated">Μεταφορά Πίσω (πιέστε TAB)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cascade">
+        <source>Cascade</source>
+        <target state="translated">Σε Διαδοχή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tile">
+        <source>Tile</source>
+        <target state="translated">Σε Παράθεση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Help">
+        <source>Help</source>
+        <target state="translated">Βοήθεια</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="About Plugins">
+        <source>About Plugins</source>
+        <target state="translated">Σχετικά με τα Plugins</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="EU-HOU Web Site...">
+        <source>EU-HOU Web Site...</source>
+        <target state="translated">Ιστοσελίδα EU-HOU...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Online Docs...">
+        <source>Online Docs...</source>
+        <target state="translated">Αρχεία στο Διαδίκτυο...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="About SalsaJ...">
+        <source>About SalsaJ...</source>
+        <target state="translated">Σχετικά με το SalsaJ...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stop Photometry">
+        <source>Stop Photometry</source>
+        <target state="translated">Διακοπή Φωτομετρίας</target>
+        <note from="developer">##Photometry</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="An error occured.">
+        <source>An error occured.</source>
+        <target state="translated">Σημειώθηκε σφάλμα.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Star's Center :">
+        <source>Star's Center :</source>
+        <target state="translated">Κέντρο Άστρου:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AutoAuto__%04__Auto">
+        <source>Auto</source>
+        <target state="translated">Αυτόματο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Forced Coordinates">
+        <source>Forced Coordinates</source>
+        <target state="translated">Επιβεβλημένες Συντεταγμένες</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sky :">
+        <source>Sky :</source>
+        <target state="translated">Ουρανός :</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AutoFWHM__%04__Auto">
+        <source>Auto</source>
+        <target state="translated">Αυτόματο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AutoSky__%04__Auto">
+        <source>Auto</source>
+        <target state="translated">Αυτόματο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Forced Star Raduis">
+        <source>Forced Star Raduis</source>
+        <target state="translated">Επιβεβλημένη Ακτίνα Άστρου</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Forced Sky Radius">
+        <source>Forced Sky Radius</source>
+        <target state="translated">Επιβεβλημένη Ακτίνα Ουρανού</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Forced Sky Value">
+        <source>Forced Sky Value</source>
+        <target state="translated">Επιβεβλημένη Τιμή Ουρανού</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Star Radius :">
+        <source>Star Radius :</source>
+        <target state="translated">Ακτίνα Άστρου :</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Straight Lines">
+        <source>Straight Lines</source>
+        <target state="translated">Ευθείες Γραμμές</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Segmented Lines">
+        <source>Segmented Lines</source>
+        <target state="translated">Τμηματικές Γραμμές </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Freehand Lines">
+        <source>Freehand Lines</source>
+        <target state="translated">Ελεύθερες Γραμμές</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Profile Lines">
+        <source>Profile Lines</source>
+        <target state="translated">Γραμμές Προφίλ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rectangle">
+        <source>Rectangle</source>
+        <target state="translated">Ορθογώνιο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Oval">
+        <source>Oval</source>
+        <target state="translated">Οβάλ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Polygon">
+        <source>Polygon</source>
+        <target state="translated">Πολύγωνο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Plugins">
+        <source>Plugins</source>
+        <target state="translated">Plugins</target>
+        <note from="developer">### STUFF FROM THE Plugins MENU not in EHOUProps</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Macros">
+        <source>Macros</source>
+        <target state="translated">Μακροεντολές</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shortcuts">
+        <source>Shortcuts</source>
+        <target state="translated">Συντομεύσεις</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Utilities">
+        <source>Utilities</source>
+        <target state="translated">Χρήσιμα Εργαλεία</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Plugins folder not found at">
+        <source>Plugins folder not found at</source>
+        <target state="translated">Ο φάκελος των Plugins δεν βρέθηκε στο</target>
+        <note from="developer">### COMMANDS END HERE
+#### ERROR MESSAGES</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unrecognized command:">
+        <source>Unrecognized command:</source>
+        <target state="translated">Άγνωστη εντολή:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Selection required.">
+        <source>Selection required.</source>
+        <target state="translated">Απαιτείται επιλογή.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stack required.">
+        <source>Stack required.</source>
+        <target state="translated">Απαιτείται χρήση στοίβας.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This operation is impossible with a stack.">
+        <source>This operation is impossible with a stack.</source>
+        <target state="translated">Δεν είναι δυνατή αυτή η λειτουργία με χρήση στοίβας.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This command requires an image of type:">
+        <source>This command requires an image of type:</source>
+        <target state="translated">Αυτή η εντολή απαιτεί μια εικόνα της μορφής:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="There are no images open.">
+        <source>There are no images open.</source>
+        <target state="translated">Δεν υπάρχουν ανοικτές εικόνες.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This plugin or macro requires a newer SalsaJ">
+        <source>This plugin or macro requires a newer SalsaJ</source>
+        <target state="translated">Αυτό το plugin ή μακροεντολή απαιτεί νεότερη έκδοση του SalsaJ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Plugin not found:">
+        <source>Plugin not found:</source>
+        <target state="translated">Δεν βρέθηκε το plugin:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image not found: ">
+        <source>Image not found: </source>
+        <target state="translated">Δεν βρέθηκε η εικόνα:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="or no images are open.">
+        <source>or no images are open.</source>
+        <target state="translated">ή δεν υπάρχουν ανοικτές εικόνες</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unable to find window with the title:">
+        <source>Unable to find window with the title:</source>
+        <target state="translated">Αδύνατη η εύρεση παραθύρου με επικεφαλίδα:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Line or rectangular selection required.">
+        <source>Line or rectangular selection required.</source>
+        <target state="translated">Απαιτείται επιλογή γραμμής ή ορθογωνίου.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Polygon or 'polyline' selection required.">
+        <source>Polygon or 'polyline' selection required.</source>
+        <target state="translated">Απαιτείται επιλογή πολυγώνου ή τεθλασμένης γραμμής.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Uncalibrated image required.">
+        <source>Uncalibrated image required.</source>
+        <target state="translated">Απαιτείται μη βαθμονομημένη εικόνα.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Both images must have same calibration.&#10;Try to convert images into 32-bits image type.">
+        <source>Both images must have same calibration.
+Try to convert images into 32-bits image type.</source>
+        <target state="translated">Και οι δύο εικόνες πρέπει να έχουν την ίδια βαθμονόμηση.
+Δοκιμάστε μετατροπή των εικόνων σε μορφή 32-bit.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RGB images are unsupported.">
+        <source>RGB images are unsupported.</source>
+        <target state="translated">Εικόνες RGB δεν υποστηρίζονται.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The selection must be a horizontal line">
+        <source>The selection must be a horizontal line</source>
+        <target state="translated">Η επιλογή πρέπει να είναι οριζόντια γραμμή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear Outside does not work with line selections.">
+        <source>Clear Outside does not work with line selections.</source>
+        <target state="translated">Η εξωτερική επιλογή δεν συνδυάζεται με την επιλογή γραμμών</target>
+        <note from="developer"># modifie par Nicolas le 15/09/06</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="grayscale">
+        <source>grayscale</source>
+        <target state="translated">κλίμακα του γκρι</target>
+        <note from="developer">#### OTHER</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pixels/second">
+        <source>pixels/second</source>
+        <target state="translated">εικονοστοιχεία ανά δευτερόλεπτο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="million pixels/second">
+        <source>million pixels/second</source>
+        <target state="translated">εκατομμύρια εικονοστοιχεία ανά δευτερόλεπτο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="seconds">
+        <source>seconds</source>
+        <target state="translated">δευτερόλεπτα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Distance">
+        <source>Distance</source>
+        <target state="translated">Απόσταση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="milliseconds">
+        <source>milliseconds</source>
+        <target state="translated">χιλιοστοδευτερόλεπτα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="% done">
+        <source>% done</source>
+        <target state="translated">% ολοκληρώθηκε</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="done in">
+        <source>done in</source>
+        <target state="translated">έγινε σε </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Results">
+        <source>Results</source>
+        <target state="translated">Αποτελέσματα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Error!">
+        <source>Error!</source>
+        <target state="translated">Σφάλμα!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Message">
+        <source>Message</source>
+        <target state="translated">Μήνυμα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Process Stack?">
+        <source>Process Stack?</source>
+        <target state="translated">Επεξεργασία Στοίβας;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Plot of">
+        <source>Plot of</source>
+        <target state="translated">Γράφημα του</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Memory:">
+        <source>Memory:</source>
+        <target state="translated">Μνήμη:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Process all">
+        <source>Process all</source>
+        <target state="translated">Επεξεργασία όλων</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slices?">
+        <source>Slices?</source>
+        <target state="translated">Φέτες;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="There is NO Undo possible afterwards">
+        <source>There is NO Undo possible afterwards</source>
+        <target state="translated">Κατόπιν αυτού είναι Αδύνατη η Ακύρωση.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ok">
+        <source>Ok</source>
+        <target state="translated">Ναι</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No">
+        <source>No</source>
+        <target state="translated">Όχι</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cancel">
+        <source>Cancel</source>
+        <target state="translated">Ακύρωση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Images must be the same type.">
+        <source>Images must be the same type.</source>
+        <target state="translated">Οι εικόνες πρέπει να είναι του ίδιου τύπου.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image is too large to paste.">
+        <source>Image is too large to paste.</source>
+        <target state="translated">Η εικόνα είναι πολύ μεγάλη για να επικολληθεί.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="in progress...">
+        <source>in progress...</source>
+        <target state="translated">σε εξέλιξη...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clipboard">
+        <source>Clipboard</source>
+        <target state="translated">Πρόχειρο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clipboard is empty.">
+        <source>Clipboard is empty.</source>
+        <target state="translated">Το Πρόχειρο είναι κενό.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unable to copy to Clipboard.">
+        <source>Unable to copy to Clipboard.</source>
+        <target state="translated">Αδύνατη η αντιγραφή στο Πρόχειρο.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="List">
+        <source>List</source>
+        <target state="translated">Κατάλογος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Plot Values">
+        <source>Plot Values</source>
+        <target state="translated">Τιμές Γραφήματος.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copying plot values...">
+        <source>Copying plot values...</source>
+        <target state="translated">Αντιγραφή Τιμών Γραφήματος...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Saving plot values...">
+        <source>Saving plot values...</source>
+        <target state="translated">Αποθήκευση Τιμών Γραφήματος...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="characters copied to Clipboard">
+        <source>characters copied to Clipboard</source>
+        <target state="translated">χαρακτήρες αντιγράφηκαν στο Πρόχειρο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select All">
+        <source>Select All</source>
+        <target state="translated">Επιλογή Όλων</target>
+        <note from="developer">## TEXT CANVAS POPUP &amp; TEXT WINDOW MENU</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy All">
+        <source>Copy All</source>
+        <target state="translated">Αντιγραφή Όλων</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save As Text">
+        <source>Save As Text</source>
+        <target state="translated">Αποθήκευση ως κείμενο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="lines copied to clipboard">
+        <source>lines copied to clipboard</source>
+        <target state="translated">γραμμές αντιγράφηκαν στο Πρόχειρο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Text File...">
+        <source>Open Text File...</source>
+        <target state="translated">Άνοιγμα Αρχείου Κειμένου...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Opening:">
+        <source>Opening:</source>
+        <target state="translated">Άνοιγμα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Text Image">
+        <source>Open Text Image</source>
+        <target state="translated">Άνοιγμα Εικόνας Κειμένου</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Index&#9;Image&#9;X&#9;Y&#9;Star's intensity&#9;Star's radius&#9;Sky's intensity&#9;Sky's radius&#9;Message">
+        <source>Index	Image	X	Y	Star's intensity	Star's radius	Sky's intensity	Sky's radius	Message</source>
+        <target state="translated"> Ευρετήριο	 Εικόνα	 X	 Y	 Ένταση Άστρου	 Ακτίνα Άστρου	 Ένταση Ουρανού	 Ακτίνα Ουρανού	 Μήνυμα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unreliable value">
+        <source>Unreliable value</source>
+        <target state="translated">Μ αξιόπιστη τιμή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save ?">
+        <source>Save ?</source>
+        <target state="translated">Αποθήκευση;</target>
+        <note from="developer">## SaveChangesDialog</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SaveCmd__%04__Save">
+        <source>Save</source>
+        <target state="translated">Αποθήκευση </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save changes to">
+        <source>Save changes to</source>
+        <target state="translated">Αποθήκευση αλλαγών στο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Type, then">
+        <source>Type, then</source>
+        <target state="translated">Πληκτρολογήστε, μετά</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ctrl-D">
+        <source>Ctrl-D</source>
+        <target state="translated">Ctrl-D</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Straight Line">
+        <source>Straight Line</source>
+        <target state="translated">Ευθεία Γραμμή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="2nd Degree Polynomial">
+        <source>2nd Degree Polynomial</source>
+        <target state="translated">Πολυώνυμο 2ου Βαθμού</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="3rd Degree Polynomial">
+        <source>3rd Degree Polynomial</source>
+        <target state="translated">Πολυώνυμο 3ου Βαθμού</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="4th Degree Polynomial">
+        <source>4th Degree Polynomial</source>
+        <target state="translated">Πολυώνυμο 4ου Βαθμού</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Exponential">
+        <source>Exponential</source>
+        <target state="translated">Εκθετικό</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Power">
+        <source>Power</source>
+        <target state="translated">Δύναμη</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="log">
+        <source>log</source>
+        <target state="translated">Λογάριθμος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rodbard">
+        <source>Rodbard</source>
+        <target state="translated">Rodbard</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gamma Variate">
+        <source>Gamma Variate</source>
+        <target state="translated">Μεταβλητή Γάμμα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Simplex Fitting Options">
+        <source>Simplex Fitting Options</source>
+        <target state="translated">Επιλογές Προσαρμογής Simplex</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Function name:">
+        <source>Function name:</source>
+        <target state="translated">Όνομα Συνάρτησης:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Formula:">
+        <source>Formula:</source>
+        <target state="translated">Μαθηματικός Τύπος:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Initial">
+        <source>Initial</source>
+        <target state="translated">Αρχική</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maximum iterations:">
+        <source>Maximum iterations:</source>
+        <target state="translated">Μέγιστος αριθμός επαναλήψεων:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Number of restarts:">
+        <source>Number of restarts:</source>
+        <target state="translated">Αριθμός επανεκκινήσεων:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Error tolerance [1*10^(-x)]:">
+        <source>Error tolerance [1*10^(-x)]:</source>
+        <target state="translated">Ανοχή σφάλματος [1*10^(-x)]:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Parameter setting canceled.&#10;Using default parameters.">
+        <source>Parameter setting canceled.
+Using default parameters.</source>
+        <target state="translated">Η εισαγωγή παραμέτρων ακυρώθηκε.
+Χρήση προεπιλεγμένων παραμέτρων</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&#10;Number of iterations:">
+        <source>
+Number of iterations:</source>
+        <target state="translated">
+Αριθμός επαναλήψεων:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&#10;Maximum number of iterations:">
+        <source>
+Maximum number of iterations:</source>
+        <target state="translated">
+Μέγιστος αριθμός επαναλήψεων:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&#10;Sum of residuals squared:">
+        <source>
+Sum of residuals squared:</source>
+        <target state="translated">
+Άθροισμα τετραγώνων των αποκλίσεων:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&#10;Standard deviation:">
+        <source>
+Standard deviation:</source>
+        <target state="translated">
+Τυπική απόκλιση:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&#10;Goodness of fit:">
+        <source>
+Goodness of fit:</source>
+        <target state="translated">
+Έλεγχος καλής προσαρμογής:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&#10;Parameters:">
+        <source>
+Parameters:</source>
+        <target state="translated">
+Παράμετροι:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Histogram of">
+        <source>Histogram of</source>
+        <target state="translated">Ιστόγραμμα του </target>
+        <note from="developer">##Histogram</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Histogramme">
+        <source>Histogramme</source>
+        <target state="translated">Ιστόγραμμα</target>
+        <note from="developer">##NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Log">
+        <source>Log</source>
+        <target state="translated">Λογάριθμος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="HistoCount__%04__Count">
+        <source>Count</source>
+        <target state="translated">Μέτρηση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="X min">
+        <source>X min</source>
+        <target state="translated">Χ ελάχιστο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="X max">
+        <source>X max</source>
+        <target state="translated">Χ μέγιστο</target>
+        <note from="developer">##NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Y max">
+        <source>Y max</source>
+        <target state="translated">Υ μέγιστο</target>
+        <note from="developer">##NEW</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="value&#9;count">
+        <source>value	count</source>
+        <target state="translated">τιμή	μέτρηση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copying Histogram values">
+        <source>Copying Histogram values</source>
+        <target state="translated">Αντιγραφή τιμών Ιστογράμματος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Use min/max or">
+        <source>Use min/max or</source>
+        <target state="translated">Χρησιμοποίηση ελάχιστου/μέγιστου ή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill With">
+        <source>Fill With</source>
+        <target state="translated">Γέμισμα Με</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Grey Value">
+        <source>Grey Value</source>
+        <target state="translated">Τιμή του Γκρι</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="University Pierre et Marie Curie (Paris)">
+        <source>University Pierre et Marie Curie (Paris)</source>
+        <target state="translated">Πανεπιστήμιο Παρισιού Pierre et Marie Curie</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Based on ImageJ (W. Rasband - NIH)">
+        <source>Based on ImageJ (W. Rasband - NIH)</source>
+        <target state="translated">Με βάση το ImageJ (W. Rasband - NIH)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="PUBLIC DOMAIN">
+        <source>PUBLIC DOMAIN</source>
+        <target state="translated">ΕΛΕΥΘΕΡΗ ΧΡΗΣΗ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Translation">
+        <source>Translation</source>
+        <target state="translated">Μετάφραση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="commands,">
+        <source>commands,</source>
+        <target state="translated">εντολές,</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Version ">
+        <source>Version </source>
+        <target state="translated">Έκδοση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="macro">
+        <source>macro</source>
+        <target state="translated">μακροεντολή</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Credits">
+        <source>Credits</source>
+        <target state="translated">Πιστώσεις</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="credits_SalsaJ_uk.html">
+        <source>credits_SalsaJ_uk.html</source>
+        <target state="translated">credits_SalsaJ_el.html</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="http://www.euhou.net/docupload/files/software/manuel/Documentation.html">
+        <source>http://www.euhou.net/docupload/files/software/manuel/Documentation.html</source>
+        <target state="translated">http://www.euhou.net/docupload/files/software/manuel/Documentation.html</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File can't be found or is not in TIFF, JPEG, GIF, BMP, DICOM, FITS, PGM,&#10;ZIP, LUT, ROI or text format.">
+        <source>File can't be found or is not in TIFF, JPEG, GIF, BMP, DICOM, FITS, PGM,
+ZIP, LUT, ROI or text format.</source>
+        <target state="translated">Το αρχείο δεν μπορεί να βρεθεί ή δεν είναι σε μορφή TIFF, JPEG, GIF, BMP, DICOM, FITS, PGM,
+ZIP, LUT, ROI ή μορφή κειμένου.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Get cross-hair position">
+        <source>Get cross-hair position</source>
+        <target state="translated">Λήψη θέσης cross-hair</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="x&#9;&#9;y">
+        <source>x		y</source>
+        <target state="translated">x		y</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Object">
+        <source>Object</source>
+        <target state="translated">Αντικείμενο</target>
+        <note from="developer">#FITS</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Telescope">
+        <source>Telescope</source>
+        <target state="translated">Τηλεσκόπιο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Instrument">
+        <source>Instrument</source>
+        <target state="translated">Όργανο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Observer">
+        <source>Observer</source>
+        <target state="translated">Παρατηρητής</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Exposure time">
+        <source>Exposure time</source>
+        <target state="translated">Χρόνος έκθεσης</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Date of observation">
+        <source>Date of observation</source>
+        <target state="translated">Ημερομηνία παρατήρησης</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Filter">
+        <source>Filter</source>
+        <target state="translated">Φίλτρο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Declination">
+        <source>Declination</source>
+        <target state="translated">Απόκλιση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Right Ascension">
+        <source>Right Ascension</source>
+        <target state="translated">Ορθή Αναφορά</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Universal Time">
+        <source>Universal Time</source>
+        <target state="translated">Παγκόσμιος Χρόνος</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

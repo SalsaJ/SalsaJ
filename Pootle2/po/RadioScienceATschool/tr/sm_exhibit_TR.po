@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-07-05 21:54+0200\n"
+"Last-Translator: Ömer Ender <omerender@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#  Thank you for your help to translate this file.
+#: text001
+msgid "receive radio wave"
+msgstr "radyo dalgasını almak"
+
+#: text002
+msgid "The Sun is our star: a gigantic ball of gas, the Sun is shining because of nuclear reactions. Its temperature is very high: several thousands of degrees."
+msgstr ""
+"Yıldızımız olan Güneş: gazdan dev bir top, gerçekleşen nükleer "
+"reaksiyonlarından dolayı parlıyor. Sıcaklığı çok yüksek: binlerce dereceye "
+"ulaşıyor."
+
+#: text003
+msgid "THE FM RADIO FROM STARS"
+msgstr "THE FM RADIO FROM STARS"
+
+#: text004
+msgid "So stars are emitting radio waves... ?"
+msgstr "Yani yıldızlar radyo dalgalarımı yayıyorlar... ?"
+
+#: text005
+msgid "If we  could tune a radio to the FM frequency of 160MHz, we could hear... the Sun ! What a weird music!"
+msgstr ""
+"Eğer biz  radyomuzun FM frekansını 160MHz e ayarlayabilseydik, güneşi... "
+"duyuyor olurduk ! Ne garip bir müzik!"
+
+#: text006
+msgid "the horsehead nebula"
+msgstr "atbaşı bulutlusu"
+
+#: text007
+msgid "6000.C"
+msgstr "6000.C"
+
+#: text008
+msgid "QUIZZ"
+msgstr "QUIZZ"
+
+#: text009
+msgid "During World War II, a plane could hide from radar while flying facing the sun."
+msgstr ""
+"II. Dünya Savaşı sırasında, bir uçak güneşe bakacak şekilde uçtuğunda "
+"radardan gizlenebiliyordu."
+
+#: text010
+msgid "True or False?"
+msgstr "Doğru yada Yanlış?"
+
+#: text011
+msgid "THE radio WAVES: invisible WAVEs that are not SOUND waves"
+msgstr ""
+"THE radio WAVES: invisible WAVEs that are not SOUND waves\n"
+"Radyo dalgaları ses dalgası gibi yayılmayan görünmez dalgalardır"
+
+#: text012
+msgid "We receive radio waves from the Universe, but what can we actually hear?"
+msgstr ""
+"Evrenden gele radyo dalgalarını alıyoruz, fakat gerçekte ne duyabiliyoruz?"
+
+#: text013
+msgid "It doesnt matter: nobody is listening to the stars. In fact, stellar radio waves are used to take a picture, more like a radar."
+msgstr ""
+"Önemli değil: kimse yıldızları dinlemiyor. Aslıda yıldızsal radyo dalgaları "
+"bir resim çekmek için kullanılıyor, daha fazla bir radar gibi."
+
+#: text014
+msgid "Radio astronomers listen to the stars with headphones."
+msgstr "Radyo gökbilimcileri kulaklıkları ile yıldız dinler."
+
+#: text015
+msgid "Let's compare Stars in the radio and optical domain"
+msgstr "Gelin yıldızları radyo ve optik etki alanlarında karşılaştıralım"
+
+#: text016
+msgid "Our eyes can see visible light from stars: we see the colors inside a  rainbow. Our sun is yellow, but red stars, blue, white, brown, ... also exist!"
+msgstr ""
+"Yıldızlarda gelen görünür ışıkları gözlerimiz algılayabiliyor: bir "
+"gökkuşağının içindeki  rekleri görebiliriz. Güneşimiz sarı rekte fakat "
+"kırmızı yıldızlar, mavi, beyaz, kahverengi, ... olanlar da bulunuyor!"
+
+#: text017
+msgid "Radio waves can be used to detect invisible galaxies."
+msgstr "Radyo dalgaları görünemeyen galaksileri keşfetmek için kullanılabilir."
+
+#: text018
+msgid "The radio of the stars is not very melodious. It is emitted by the atoms and the molecules of gas that are heated by the stars. Its more like a kind of noise, like the scratchy sound of an old vinyl record."
+msgstr ""
+"Yıldızlardan gelen radyo dalgaları çok melodik değildir. Bu dalgalar "
+"yıldılar tarafından ısıtılan atomlar ve gaz moleküllerinden yayınlanırlar. "
+"Bu dalgalar daha çok bir çeşit gürültüdür, eski bir plak çalardan çıkan "
+"cızırtı sesi gibidir."
+
+#: text019
+msgid "Radio waves show us parts of planets and galaxies, in particular where atoms and molecules of hydrogen and carbon monoxide lie. For the Sun, radio waves show magnetic storms, in the form of spots on its surface."
+msgstr ""
+"Radyo dalgaları bizlere gezegenlerin ve galaksilerin bölümlerini "
+"gösterirler, özellikle hidrojen ve karbonmonoksit moleküllerin ve atomların "
+"bulunduğu bölgeleri gösterirler. Güneşimiz için radyo dalgaları bizlere "
+"manyetik fırtınaları yüzeydeki leke formunda gösterirler."
+
+#: text020
+msgid "MAGNETIC FIELDS"
+msgstr "MAGNETIC FIELDS"
+
+#: text021
+msgid "The song of stars?"
+msgstr "Yıldızların şarkısı?"
+
+#: text022
+msgid "exoplanets"
+msgstr ""
+
+#: text023
+msgid "pulsars, the radio lighthouse of the Universe"
+msgstr "pulsarlar, Evrenin radyo feneri"
+
+#: text024
+msgid "In 1054 BC, the chinese people were able to observe a bright new star in the sky: it was a supernovae explosion. A millenium later, we can observe a beautiful nebula in the same place: the Crab nebula. At its very center lies a peculiar star: a pulsar."
+msgstr ""
+"M.Ö. 1054 yılında, Çinde insanlar gökyüzünde parlak yeni bir yıldız "
+"gözlemledi: bu bir süpernova patlamasıydı. Bin yıl sonra biz aynı yerde "
+"güzel bir bulutsu gözlemleyebiliyoruz: Yengeç Bulutsusu. Onun merkezinde "
+"tuhaf bir yıldız yatıyor: bir pulsar."
+
+#: text025
+msgid "The pulsar signals come from extra-terrestrials"
+msgstr "Pulsarın sinyalleri dünyanın dışında geliyor"
+
+#: text026
+msgid "SUPERNOVAE"
+msgstr "SUPERNOVAE"
+
+#: text027
+msgid "Like a spinning top, a pulsar is rotating around"
+msgstr "Bir pulsar, etrafında dönen bir top gibi dönüyor"
+
+#: text028
+msgid "Radio emission from the Sun"
+msgstr "Güneşten gelen radyo yayını"
+
+#: text029
+msgid "Optical emission from the Sun"
+msgstr "Güneşten gelen optiksel yayın"
+
+#: text030
+msgid "Comparing the strength of the signal coming from the stars to that of a mobile phone"
+msgstr ""
+"Yıldızlardan gelen sinyal gücünün bir cep telefonu sinyal gücü ile "
+"karşılaştırılması"
+
+#: text031
+msgid "At full power, a mobile phone can emit up to 1 Watt. The antenna of the phone compagnies mounted on the roofs of some buildings are very small : they only measure 1 meter, and thats enough to transmit the radio signal."
+msgstr ""
+"Bir cep telefonu tam güçte 1 Watt'a kadar yayın yapabilir. Bazı binaların "
+"çatılarına monte edilen cep telefon şirketlerinin antenleri çok kısadır : "
+"onlar sadece 1 metre boyunda ve bu boy radyo sinyalini iletmek için "
+"yeterlidir."
+
+#: text032
+msgid "A mobile phone can perturb the signal of a radio telescope."
+msgstr "Bir cep telefonu radyo teleskop sinyalini karıştırtırabilir."
+
+#: text033
+msgid "To receive radio waves from stars, SWITCH OFF YOUR MOBILE"
+msgstr ""
+"Yıldızlardan gelen radyo dalgaları almak için, CEP TELEFONUNUZU KAPATIN "
+"-SWITCH OFF YOUR MOBILE"
+
+#: text034
+msgid "In contrast, to receive radio signal from stars, radio astronomers have to use huge antennas, of a size up to 300 meter. For example galaxies that are emitting radio waves are very far away (millions of light-years). As a result, the signal arriving on earth is very weak."
+msgstr ""
+"Buna karşın, yıldızlardan gelen radyo sinyali almak için, radyo "
+"gökbilimciler 300 metre boyutlarına ulaşan büyük antenler kullanmak zorunda. "
+"Örneğin radyo dalgaları yayan galaksiler çok (milyonlarca ışık-yılı) uzakta "
+"bulunurlar. Bunun sonucunda, dünya üzerine gelen sinyaller çok zayıftır."
+
+#: text035
+msgid "How to receive the weak radio waves of the stars : with Huge radio telescopes"
+msgstr ""
+"Zayıf radyo dalgaları yıldızlardan nasıl alacaksınız : Kocaman radyo "
+"teleskoplar ile"
+
+#: text036
+msgid "For that reason, astronomers build huge radio telescopes. It allows the study of galaxies very far away, at billion of light-years from Earth. The form of the dish can vary depending on the location and the cost."
+msgstr ""
+"Bu nedenle astronomlar büyük radyo teleskop inşa ederler. Bu teleskoplar "
+"onlara Dünya'dan milyarlarca ışık yılı uzaklıktaki galaksileri çalışma "
+"olanağı sağlar. Kullanılacak çanağın formu, konuma ve maliyetine göre "
+"değişebilir."
+
+#: text037
+msgid "With a dish twice as big, one can receive a signal two times stronger."
+msgstr ""
+"İki kat daha büyük bir çanak ile, iki kat daha güçlü bir sinyal "
+"alabilirsiniz."
+
+#: text038
+msgid "TELESCOPE"
+msgstr "TELESCOPE"
+
+#: text039
+msgid "The bigger the antenna is, the more sensitive it is to radio waves. The satellite dishes used for receiving the television signal illustrate that very well: a big dish receives a better signal."
+msgstr ""
+"Daha büyük anten, radyo dalgalarına daha duyarlı bir anten demektir. "
+"Televizyon sinyali almak için kullanılan çanak antenler bu durumu çok iyi "
+"göstermektedir: büyük bir çanak daha iyi bir sinyal alır."
+
+#: text040
+msgid "Arecibo (Puerto Rico, Caribbean Sea) 305 m in diameter"
+msgstr "Arecibo (Porto Riko, Karayip Denizi) çapı 305 m"
+
+#: text041
+msgid "Nancay (France) 300 m of length"
+msgstr "Nancay (Fransa) 300 m uzunluğunda"
+
+#: text042
+msgid "Green Bank (United States) 105 m in diameter"
+msgstr "Green Bank (ABD) 105 m çapında"
+
+#: text043
+msgid "ANTENNAE"
+msgstr "ANTENNAE"
+
+#: text044
+msgid "the Sun"
+msgstr "Güneş"
+
+#: text045
+msgid "Radar sreen - NAVY (USA)"
+msgstr "Radar ekranı - NAVY (USA)"
+
+#: text046
+msgid "In addition to bring us light, the Sun emits radio waves, in all the FM band, and beyond! Besides, the Suns emission is more powerful than any of our FM radios. But our favorite FM emitters are only a few km away, whereas the Sun is very far from the Earth: at 150 million km! The signal coming from the Sun is therefore too weak to actually prevent us from listening to our favourite radio stations. PHEW!"
+msgstr ""
+"Bize ışık göndermenin yanı sıra, Güneş tüm FM bandında ve ötesinde radyo "
+"dalgaları yayar.  Ayrıca, Güneşin yaydığı dalgalar bizim kullandığımız FM "
+"radyo dalgalarının herhangi birinden çok daha güçlüdür. Fakat bizim en "
+"sevdiğimiz FM vericilerin sadece bir kaç km lik yayın alanı vardır. Oysa "
+"Güneş, Dünya'dan çok uzak: 150 milyon km! Bu nedenle Güneş'ten gelen "
+"sinyaller aslında bizim en sevdiğimiz radyo kanallarını dinlememizi "
+"engellemek için çok zayıf. Vay be!"
+
+#: text047
+msgid "The radio waves from stars can, as FM radio, be received anytime, day and night, whereas their bright light can only be seen at night, when the Sun has set."
+msgstr ""
+"Yıldızlardan yayınlanan radyo dalgaları FM radyo dalgaları gibi herhangi bir "
+"zaman, gece ve gündüz, algılanabilir. Oysa onların yaydığı parlak ışık, "
+"sadece akşam, Günes battıktan sonra algılanabilir."
+
+#: text048
+msgid "One galaxy can host billions of stars. In some galaxies, the center is buried deep inside lots of dust clouds that shield the light from the galaxy. But radio waves can pierce through the clouds and thus can be observed. This is called a  radiogalaxy."
+msgstr ""
+"Bir galaksi milyarlarca yıldız barındırabilir. Bazı galaksilerin, merkezi "
+"çok derinlerde galaksiden gelen ışığa kalkan olan toz bulutlarıyla "
+"gömülüdür. Ama radyo dalgaları bulutları delip geçebilir ve bu nedenle "
+"görülebilir. Bu, bir  radiogalaxy olarak adlandırılır."
+
+#: text049
+msgid "1 m"
+msgstr "1 m"
+
+#: text050
+msgid "25 m"
+msgstr "25 m"
+
+#: text051
+msgid "1 light-year is the distance traveled by light in 1 year: it's a huge distance! The light travels very fast: 300 000 km per second! At this speed, you could get to the Moon in 1seconde, and to the Sun in 8minutes...  and to the Andromeda galaxy in 2million years !"
+msgstr ""
+"1 ışık yılı ışığın 1 yıl içinde aldığı yoldur: bu çok büyük bir mesafedir! "
+"Işık çok hızlı gidiyor: saniyede 300 000 km! Bu hızda yapılan yolculuk ile 1 "
+"saniyede Aya ve 8 dakikada ise Güneşe varabilirsiniz...  ve 2 milyon yılda "
+"da Andromeda galaksisine !"
+
+#: text052
+msgid "If you compare the signal coming from the Sun and the signal from a mobile phone, the signal of the mobile phone is a billion time stronger "
+msgstr ""
+"Bir cep telefonundan gelen sinyali Güneş'ten gelen sinyal ile "
+"karşılaştırsak, cep telefonu sinyalinin bir milyar kez daha güçlü olduğu "
+"buluruz "
+
+#: text053
+msgid "Effelsberg (Germany) 100 m in diameter"
+msgstr "Effelsberg (Almanya) 100 m çapında"
+
+#: text054
+msgid "The Future of radioastronomy: radio telescopes for  amateurs in Europe"
+msgstr "Radyoastronominin geleceği:  amatörler için radyo teleskobu"
+
+#: text055
+msgid "A European network of radio telescope is currently under development for the student in secondary schools."
+msgstr ""
+"Avrupa ağına bağlı bir radyo teleskobu ortaöğretim okullarında öğrenci için "
+"gelişim aşamasındadır."
+
+#: text056
+msgid "A small telescope is easy to buy... but what about a small radio telescope?"
+msgstr ""
+"Küçük bir teleskobu satın almak kolay... fakat küçük bir radyo telekobu için "
+"ne demeli?"
+
+#: text057
+msgid "Two prototypes of 2,3m in diameter were developed in the EU-HOU project: www.euhou.net by the Onsala observatory in Sweden. It has been used in European classrooms since 2005 via Internet. With these radio telescopes, it is possible to observe the gas of the Milky Way, even in big cities, and even in daylight."
+msgstr ""
+"İsveç'te Onsala gözlemevi tarafından: www.euhou.net çapı 2,3 m olan iki "
+"prototip EU-HOU projesi geliştirilmiştir. Bu proje 2005 yılından beri "
+"Avrupada internet yoluyla derslik kullanılmaktadır. Bu radyo teleskoplar "
+"ile, büyük şehirlerde ve hatta gün ışığında bile Samanyolu'nundaki gazları "
+"gözlemlemek mümkündür."
+
+#: text058
+msgid "Can we contribute to find intelligent life in the Universe? "
+msgstr ""
+"Evren'de zeki yaşam formlarını bulmak için bizde katkıda bulunabilirmiyiz? "
+
+#: text059
+msgid "Thanks to the Internet, it will be soon possible to observe the gas of the Milky Way with a radio telescope from any European classroom."
+msgstr ""
+"İnternet sayesinde, herhangi bir Avrupa sınıfından bir radyo teleskobu ile "
+"Samanyolu'da gaz gözlemlemek yakında mümkün olacaktır."
+
+#: text060
+msgid "EU-HOU project"
+msgstr "EU-HOU projesi"
+
+#: text061
+msgid "Yes: with a clever screensaver system installed on their computers, more that 3 million users contribute to search for intelligent signal from the galaxy. It is the program  SETI @ HOME. To get involved, see setiathome.berkeley.edu"
+msgstr ""
+"Evet: bilgisayarlarında yüklü akıllı bir ekran koruyucu sistemi ile, 3 "
+"milyondan fazla kullanıcı galaksiden akıllı sinyal aramak için katkıda "
+"bulunuyor. Bu program  SETI @ HOME. Katılmak için, bkz "
+"setiathome.berkeley.edu"
+
+#: text062
+msgid "SETI"
+msgstr "SETI"
+
+#: text063
+msgid "Onsala (Sweden) Small antenna of 2,3m in diameter"
+msgstr "Onsala (İsveç) 2,3m çapında küçük anten"
+
+#: text064
+msgid "Exobiology Searching for Life in the Universe"
+msgstr "Exobiology Evrende canlıların varlığını inceleyen bilim dalı"
+
+#: text065
+msgid "Some antennae are used to listen to extraterrestrial signals, in case they really exist."
+msgstr ""
+"Bazı antenler, gerçekte var olma durumda, dünyadışı sinyallere kulak vermek "
+"için kullanılır."
+
+#: text066
+msgid "There are planets orbiting around the Sun: The Solar System. In order: Mercure, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune."
+msgstr ""
+"Güneş çevresinde dolanan gezegenler vardır: Güneş Sistemi. Sırasıyla: "
+"Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs ve Neptün."
+
+#: text067
+msgid "In 1992, a Polish researcher, Alex Wolszcan, observe the pulsar (bip bip bip) PSR 1257+12 with the Arecibo radio telescope. To his great surprise, he discover the first planetary system beyond the Sun: extrasolar planets! These new planets are particularly interesting because they are like the Earth. But they are so far away, 900 light-years, that we wont get much more information for a long time!"
+msgstr ""
+"Polonyalı bir araştırmacı, 1992 yılında, Alex Wolszcan, Arecibo radyo "
+"teleskobu ile pulsar (Bip Bip bip) PSR 1257 +12 gözlemler. Güneş'in ötesinde "
+"ilk gezegen sistemi keşfetmesi onun için büyük sürpriz oldu! Güneşdışı "
+"gezegenler: Bu yeni gezegenler özellikle ilginçtir çünkü onlar Dünya'ya "
+"benziyorlar. Ama uzun bir süre onlardan çok daha fazla bilgi alamayacak "
+"kadar çok uzaktalar. 900 ışık yılı!"
+
+#: text068
+msgid "Fortunately, since then more than 300 extrasolar planets have been discovered. They are everywhere inside our Galaxy. Maybe some day we will discover life on one of these planets. Life could be brought by comets travelling through space. On Earth, comets brought complex molecules that played a role in the development of life."
+msgstr ""
+"Neyse ki, o günden bu yana 300'den fazla güneşdışı gezegen keşfedildi. Onlar "
+"Galaksimizin içinde her yerdeler. Belki bir gün bu gezegenlerden birininde "
+"hayat keşfedeceğiz. Yaşam uzayda yolculuk eden kuyruklu yıldızlardan "
+"tarafından getirilmiş olabilir. Kuyruklu yıldızlar, Dünya üzerine, karmaşık "
+"moleküller getirerek hayatın gelişmesinde önemli bir rol oynadı."
+
+#: text069
+msgid "planetes"
+msgstr "gezegenler"
+
+#: text070
+msgid "Observatories, High technology inside"
+msgstr "Gözlemevleri, Yüksek teknoloji içerir"
+
+#: text071
+msgid "With a radio telescope the size of the Earth, its possible to observe a planet the size of Jupiter somewhere else in our Galaxy, at many light-years from us."
+msgstr ""
+"Dünyanın büyüklüğünde bir radyoteleskobu ile, Galaksimiz içinde bir yerde, "
+"bir çok ışık yılı uzaklıkta Jüpite büyüklüğünde bir gezegeni "
+"gözlemleyebiliriz."
+
+#: text072
+msgid "FOREST of antennae"
+msgstr "FOREST antenlerin ormanı"
+
+#: text073
+msgid "With a digital camera, there is more detail when there are more pixels. In the same way, we can use a network of radio telescopes to increase the detail: the more antennas you have, the more precise you get!"
+msgstr ""
+"Bir dijital kamerada, daha fazla piksel olduğunda daha fazla ayrıntı vardır. "
+"Aynı şekilde, detayı artırmak için radyo teleskoplar ile bir ağ "
+"kullanabiliriz: Ne kadar çok antenin varsa, detayların o kadar kesin olur!"
+
+#: text074
+msgid "To see more details in distant galaxies, forests of radio antennae are built around the world: 27 antennae for the VLA in New Mexico (USA), 30 antennas in Pune (India), 64 antennas in the Andes (Chile)."
+msgstr ""
+"Uzak galaksilerdeki daha fazla ayrıntıyı yakalamak için, dünyanın etrafında "
+"yoğun sayıda radyo antenleri inşa ediliyor: Meksika (ABD) da VLA için 27 "
+"anten, 30 anten Pune (Hindistan) da, 64 anten Andes (Şili) de."
+
+#: text075
+msgid "The radio signal from the antennas is mixed and analysed by very powerful computer. We can even mix the signal from antennae located on different continents to simulate a giant antenna the size of the Earth!"
+msgstr ""
+"Antenlerden gelen radyo sinyali çok güçlü bir bilgisayar tarafından "
+"karıştırılır ve analiz edilir. Dev bir anten boyutu simüle etmek için "
+"Dünya'nın farklı kıtalarında bulunan antenlerden gelen sinyalleri bile "
+"karıştırabiliriz!"
+
+#: text076
+msgid "The first radio antenna radars were actually built by the military during World War II: they could listen to the Sun!"
+msgstr ""
+"İlk radyo anteni radarlar aslında İkinci Dünya Savaşı sırasında ordu "
+"tarafından inşa edildi: Onlar Güneşi dinleyebiliyordu!"
+
+#: text077
+msgid "the Solar System"
+msgstr "Güneş Sistemi"
+
+#: text078
+msgid "exoplanets"
+msgstr "ötegezegenler"
+
+#: text079
+msgid "the regular signal received from a pulsar"
+msgstr "bir pulsardan alınan düzenli sinyal"
+
+#: text080
+msgid "ALMA (Chile)"
+msgstr "ALMA (Şili)"
+
+#: text081
+msgid "Plateau de Bure (Alpes)"
+msgstr "Plateau de Bure (Alpler)"
+
+#: text082
+msgid "SKA (in project)"
+msgstr "SKA (proje aşamasında)"
+
+#: text083
+msgid "des radiotelescopes pour capter les ondes de le univers"
+msgstr "evrendeki dalgaları almak için radyoteleskoplar"
+
+# add the name of the translator here
+#: text084
+msgid "Credits :Observatoire de Paris Sciences a l'école NASA, ESO, ESA Conception and implementation : Olivier Marco, Aurore Mathon, Yannick Libert"
+msgstr ""
+"Katkıda Bulunanlar :Observatoire de Paris Sciences a l'école NASA, ESO, ESA "
+"Tasarım ve Uygulama : Olivier Marco, Aurore Mathon, Yannick Libert"
+
+#: text085
+msgid "Radio wave emitted by the galaxy M87"
+msgstr "Galaksi M87 yaydığı radyo dalgası"
+
+#: text086
+msgid "The Crab nebula- M1 the remains of a supernova explosion."
+msgstr "Yengeç Bulutsusu- M1 bir süpernova patlaması kalıntısı."
+
+#: text087
+msgid "Receive Galactic Signal"
+msgstr "Galaktik Sinyal Alma"
+
+#: text088
+msgid "SUN radio"
+msgstr "SUN radyo"
+
+#: text089
+msgid "atoms"
+msgstr "atomlar"
+
+#: text090
+msgid "Very Large Array, USA"
+msgstr "Very Large Array, USA"
+
+#: text091
+msgid "international collaboration"
+msgstr "uluslararası işbirliği"
+
+#: text092
+msgid "radiotelescopes tuned up to the Universe"
+msgstr "Evrene ayarlanmış radyoteleskoplar"

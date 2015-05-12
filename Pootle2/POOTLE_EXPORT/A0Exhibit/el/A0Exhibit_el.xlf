@@ -1,0 +1,667 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="A0Exhibit_el.po" source-language="en-US" datatype="plaintext" target-language="el">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Imagine light as a superposition of many individual waves that have different wavelengths (a wavelength is the distance over which the wave’s pattern repeats). For the light visible by human eyes, each wavelength can be associated with a colour. Have you ever tried illuminating a prism with a lamp? You obtain a beautiful rainbow, which is revealing the decomposition of the visible light into its single colours (or single wavelengths).  For a human eye, the visible range of wavelength lies between 400 and 700 nanometres (0.000000001 metres). We can see 400 nm as blue, and 700 nm as red.  But there are more wavelengths that our eyes cannot see: some shorter than blue, and some longer than red.">
+        <source>Imagine light as a superposition of many individual waves that have different wavelengths (a wavelength is the distance over which the wave’s pattern repeats). For the light visible by human eyes, each wavelength can be associated with a colour. Have you ever tried illuminating a prism with a lamp? You obtain a beautiful rainbow, which is revealing the decomposition of the visible light into its single colours (or single wavelengths).  For a human eye, the visible range of wavelength lies between 400 and 700 nanometres (0.000000001 metres). We can see 400 nm as blue, and 700 nm as red.  But there are more wavelengths that our eyes cannot see: some shorter than blue, and some longer than red.</source>
+        <target state="translated">Φανταστείτε το φως σαν επικάλυψη πολλών διαφορετικών μηκών κύματος (η απόσταση ανάμεσα σε δύο κορυφές ή δύο κατώτερα σημεία μιας κυματομορφής). Για το φως που είναι ορατό στο ανθρώπινο μάτι, κάθε μήκος κύματος συνδέεται με ένα χρώμα. Προσπαθήσατε ποτέ να φωτίσετε ένα πρίσμα με μια λάμπα; Θα πάρετε ένα όμορφο ουράνιο τόξο, που αναδεικνύει την ανάλυση του ορατού φωτός στα χρώματά του (δηλ. στα επί μέρους μήκη κύματος). Για το ανθρώπινο μάτι, η περιοχή ορατών μηκών κύματος βρίσκεται ανάμεσα στα 400 και 700 νανόμετρα (1nm = 0.000000001 μέτρo). Τα 400 nm αντιστοιχούν σε μπλε χρώμα και τα 700 nm σε κόκκινο. Όμως υπάρχουν περισσότερα μήκη κύματος από εκείνα που μπορούν να δουν τα μάτια μας: κάποια μικρότερα - μπλε και κάποια μεγαλύτερα - κόκκινα.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="visible">
+        <source>visible</source>
+        <target state="translated">ορατό</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What is a radio signal? ">
+        <source>What is a radio signal? </source>
+        <target state="translated">Τι είναι ένα ραδιοσήμα;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Light is a wave...">
+        <source>Light is a wave...</source>
+        <target state="translated">Το φως είναι κύμα..</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sunlight">
+        <source>sunlight</source>
+        <target state="translated">ηλιακό φως</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="intensity">
+        <source>intensity</source>
+        <target state="translated">ένταση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Red">
+        <source>Red</source>
+        <target state="translated">Κόκκινο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Orange">
+        <source>Orange</source>
+        <target state="translated">Πορτοκαλί</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Yellow">
+        <source>Yellow</source>
+        <target state="translated">Κίτρινο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Green">
+        <source>Green</source>
+        <target state="translated">Πράσινο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Blue">
+        <source>Blue</source>
+        <target state="translated">Μπλε</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Indigo">
+        <source>Indigo</source>
+        <target state="translated">Λουλακί</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Violet">
+        <source>Violet</source>
+        <target state="translated">Βιολετί</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="(Newton’s primary colours defined in 1672)">
+        <source>(Newton’s primary colours defined in 1672)</source>
+        <target state="translated">(Τα πρωτεύοντα χρώματα που όρισε ο Νεύτωνας το 1672)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AM">
+        <source>AM</source>
+        <target state="translated">ΑΜ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FM">
+        <source>FM</source>
+        <target state="translated">FM</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="VHF">
+        <source>VHF</source>
+        <target state="translated">VHF</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="UHF">
+        <source>UHF</source>
+        <target state="translated">UHF</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="microwaves">
+        <source>microwaves</source>
+        <target state="translated">μικροκύματα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cell phone">
+        <source>cell phone</source>
+        <target state="translated">κινητό τηλέφωνο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Wifi Bluetooth">
+        <source>Wifi Bluetooth</source>
+        <target state="translated">Wifi Bluetooth</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="radars">
+        <source>radars</source>
+        <target state="translated">ραντάρ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="atomic hydrogen line">
+        <source>atomic hydrogen line</source>
+        <target state="translated">γραμμή ατομικού υδρογόνου</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="CO emission line">
+        <source>CO emission line</source>
+        <target state="translated">Γραμμή εκπομπής CO</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="thermographic camera">
+        <source>thermographic camera</source>
+        <target state="translated">θερμογραφική κάμερα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="TV remote control">
+        <source>TV remote control</source>
+        <target state="translated">Τηλεχειρηστήριο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="UV desinfectant">
+        <source>UV desinfectant</source>
+        <target state="translated">Απολυμαντικό UV</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radiography (here, Radio is for Radiation!)">
+        <source>Radiography (here, Radio is for Radiation!)</source>
+        <target state="translated">Ραδιογραφία (εδώ, Ραδιο σημαίνει Ακτινοβολία)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Dr. Banner’s experiments">
+        <source>Dr. Banner’s experiments</source>
+        <target state="translated">Τα πειράματα του Δρος Banner</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="RADIO">
+        <source>RADIO</source>
+        <target state="translated">ΡΑΔΙΟ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="IR">
+        <source>IR</source>
+        <target state="translated">ΥΠΕΡΥΘΡΟ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="UV">
+        <source>UV</source>
+        <target state="translated">ΥΠΕΡΙΩΔΕΣ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="X-RAY">
+        <source>X-RAY</source>
+        <target state="translated">ΑΚΤΙΝΕΣ Χ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="GAMMA RAY">
+        <source>GAMMA RAY</source>
+        <target state="translated">ΑΚΤΙΝΕΣ ΓΑΜΜΑ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="visible light">
+        <source>visible light</source>
+        <target state="translated">ορατό φως</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Light also carries energy, and the amount of energy depends on the wavelength: the shorter the wavelength, the more energetic the light beam is. Take short wavelength UV light for example: a little is good for the tan, but too much can cause sunburns! Conversely, longer wavelengths are associated with weaker energies. FM radio emissions for example, are harmless to us. In the Universe at large, energetic phenomenon like supernovae emits lots of X-Rays and Gamma Ray which are even more energetic than UV. But the cold gas lying in between stars, or some cold dust particles for example, emit low energy radiations at long wavelengths that fall into the Radio domain.">
+        <source>Light also carries energy, and the amount of energy depends on the wavelength: the shorter the wavelength, the more energetic the light beam is. Take short wavelength UV light for example: a little is good for the tan, but too much can cause sunburns! Conversely, longer wavelengths are associated with weaker energies. FM radio emissions for example, are harmless to us. In the Universe at large, energetic phenomenon like supernovae emits lots of X-Rays and Gamma Ray which are even more energetic than UV. But the cold gas lying in between stars, or some cold dust particles for example, emit low energy radiations at long wavelengths that fall into the Radio domain.</source>
+        <target state="translated">Το φως επίσης μεταφέρει ενέργεια και το ποσό ενέργειας εξαρτάται από το μήκος κύματος: όσο μικρότερο το μήκος κύματος τόσο πιο ενεργητική είναι μια δέσμη φωτός. Πάρτε για παράδειγμα την ακτινοβολία υπεριώδους, σε μικρές ποσότητες είναι ωφέλιμη και δίνει ένα όμορφο χρώμα στο δέρμα, αλλά μεγάλες ποσότητες μπορεί να οδήγήσουν σε εγκαύματα. Αντιστρόφως, τα μεγάλα μήκη κύματος συνδέονται με χαμηλότερες ενέργειες. Οι ραδιο-εκπομπές FM για παράδειγμα, είναι ακίνδυνες για εμάς. Γενικά στο Σύμπαν τα ενεργητικά φαινόμενα, όπως είναι οι υπερκαινοφανείς, εκπέμπουν μεγάλα ποσά ακτίνων Χ και γάμμα που έχουν ακόμη μεγαλύτερη ενέργεια από την υπεριώδη ακτινοβολία. Αλλά το κρύο αέριο που βρίσκεται ανάμεσα στα άστρα ή τα κρύα σωματίδια σκόνης για παράδειγμα, εκπέμπουν ακτινοβολία χαμηλής ενέργειας σε μεγάλα μήκη κύματος που βρίσκονται στην περιοχή των ραδιοκυμάτων.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Why is this gas cold? There are stars everywhere, so shouldn’t it be very hot?! Well, it’s true that a galaxy can contain something like a hundred billion of stars. But the distance between them is huge! For example, Proxima Centauri is the closest star from the Sun. It’s at 4.2 light-years from us. That means 40,000,000,000,000 km! At those kinds of distances, the stars do not heat the gas very much!  That’s why astronomers observe the interstellar gas in radio!">
+        <source>Why is this gas cold? There are stars everywhere, so shouldn’t it be very hot?! Well, it’s true that a galaxy can contain something like a hundred billion of stars. But the distance between them is huge! For example, Proxima Centauri is the closest star from the Sun. It’s at 4.2 light-years from us. That means 40,000,000,000,000 km! At those kinds of distances, the stars do not heat the gas very much!  That’s why astronomers observe the interstellar gas in radio!</source>
+        <target state="translated">Γιατί αυτό το αέριο είναι κρύο;  Αφού υπάρχουν παντού άστρα δεν θα έπρεπε να είναι θερμό; Είναι αλήθεια οτι ένας γαλαξίας μπορεί να περιέχει εκατοντάδες δισεκατομμυρίων άστρα. Όμως οι μεταξύ τους αποστάσεις είναι τεράστιες. Για παράδειγμα το Εγγύς του Κενταύρου, που είναι το κοντινότερο άστρο στον Ήλιο μας, απέχει 4.2 έτη φωτός. Αυτό σημαίνει 40,000,000,000,000 χλμ! Σε τέτοιες αποστάσεις τα άστρα δεν μπορούν να ζεστάνουν το αέριο πολύ. Γι' αυτό οι αστρονόμοι χρειάζονται τα ραδιοκύματα για να ανιχνεύσουν το διαστρικό αέριο!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Light can be considered as a wave, and also as a particle. Like a wave, it can create interference patterns, like two water waves hitting each other. But it can also be emitted photon by photon, and the photons can be counted in a receiver! Difficult to imagine? Well, take a cylinder. If you illuminate it on its side, its shadow is a square. But illuminate its face, and its shadow becomes a sphere!">
+        <source>Light can be considered as a wave, and also as a particle. Like a wave, it can create interference patterns, like two water waves hitting each other. But it can also be emitted photon by photon, and the photons can be counted in a receiver! Difficult to imagine? Well, take a cylinder. If you illuminate it on its side, its shadow is a square. But illuminate its face, and its shadow becomes a sphere!</source>
+        <target state="translated">Το φως μπορεί να θεωρηθεί κύμα αλλά επίσης και σωματίδιο. Όπως κάθε κύμα μπορεί να δημιουργήσει συμβολομορφές, όπως δύο κύματα νερού που συγκρούονται. Αλλά μπορεί και να εκπέμπεται φωτόνιο-φωτόνιο, και τα φωτόνια μπορούν να καταμετρηθούν σε ένα δέκτη! Δύσκολο να το φανταστείτε; Πάρτε έναν κύλινδρο. Αν τον φωτίσετε από το πλάι η σκιά του φαινεται τετράγωνη. Αν τον φωτίσετε από μπροστά η σκιά του γίνεται σφαιρική!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Did you know?">
+        <source>Did you know?</source>
+        <target state="translated">Το γνωρίζατε;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="So radio waves are just a kind of light. ">
+        <source>So radio waves are just a kind of light. </source>
+        <target state="translated">Οπότε τα ραδιοκύματα είναι απλά μια μορφή φωτός.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What do we use them for?">
+        <source>What do we use them for?</source>
+        <target state="translated">Σε τι τα χρησιμοποιούμε;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="On Earth, we use radio waves mainly for communication purpose. Why? Because they propagate easily through the atmosphere, and even under water.  The radio domain is a wide range of wavelengths, extending from kilometres to millimetres. The way they propagate strongly depends on their wavelength, and we take advantage of these different modes of propagation to create our very complex and diverse communication system:">
+        <source>On Earth, we use radio waves mainly for communication purpose. Why? Because they propagate easily through the atmosphere, and even under water.  The radio domain is a wide range of wavelengths, extending from kilometres to millimetres. The way they propagate strongly depends on their wavelength, and we take advantage of these different modes of propagation to create our very complex and diverse communication system:</source>
+        <target state="translated">Στην Γη χρησιμοποιούμε τα ραδιοκύματα κυρίως για επικοινωνιακούς σκοπούς. Ο λόγος είναι οτι διαδίδονται εύκολα στην ατμόσφαιρα, ακόμη και κάτω από το νερό. Η περιοχή ραδιοκυμάτων περιλαμβάνει πολλά διαφορετικά μήκη κύματος, από χιλιοστόμετρα ως χιλιόμετρα. Ο τρόπος διάδοσής τους εξαρτάται σε μεγάλο βαθμό από το μήκος κύματός τους και εμείς χρησιμοποιούμε αυτούς τους διαφορετικούς τρόπους διάδοσης για να δημιουργησουμε το δικό μας πολύπλοκο σύστημα επικοινωνίας.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Kilometre wavelengths propagate through surface waves and follow the curvature of the Earth. With enough emission power, they can reach up to 1000 km. They also propagate under water, that’s why they are often used by submarines. Be careful though, it’s not Sonar! Sonar stands for SOund Navigation And Ranging. It’s a technique that uses sound propagation underwater, not light!  Amateur radio operators use decametre wavelengths. These wavelengths are very interesting because they are reflected by the Earth’s ionosphere. This means that an amateur radio signal sent to the sky bounces onto the ionosphere back to Earth, and propagates very far. Sometimes it can even reach the antipodes! Why sometimes? Well the reflection processes depends on the state of the ionosphere.  Wavelengths below about a metre propagate directly in straight lines from the emitter, almost like visible light. It’s the domain of FM broadcasting, TV emission, Wi-Fi, Bluetooth, etc. These wavelengths are less affected by the ionosphere, that’s why we need satellites to relay them and send them back to Earth.">
+        <source>Kilometre wavelengths propagate through surface waves and follow the curvature of the Earth. With enough emission power, they can reach up to 1000 km. They also propagate under water, that’s why they are often used by submarines. Be careful though, it’s not Sonar! Sonar stands for SOund Navigation And Ranging. It’s a technique that uses sound propagation underwater, not light!  Amateur radio operators use decametre wavelengths. These wavelengths are very interesting because they are reflected by the Earth’s ionosphere. This means that an amateur radio signal sent to the sky bounces onto the ionosphere back to Earth, and propagates very far. Sometimes it can even reach the antipodes! Why sometimes? Well the reflection processes depends on the state of the ionosphere.  Wavelengths below about a metre propagate directly in straight lines from the emitter, almost like visible light. It’s the domain of FM broadcasting, TV emission, Wi-Fi, Bluetooth, etc. These wavelengths are less affected by the ionosphere, that’s why we need satellites to relay them and send them back to Earth.</source>
+        <target state="translated">Τα μήκη κύματος της τάξης των χιλιομετρων διαδίδονται με επιφανειακά κύματα και ακολουθούν την καμπυλότητα της Γης. Εάν έχουν αρκετή ισχύ εκπομπής μπορούν να φτάσουν και σε απόσταση 1000 χλμ. Επίσης διαδίδονται και μέσα στο νερό γι' αυτό και χρησιμοποιούνται συχνά από τα υποβρύχια. Προσοχή ομως, δεν είναι Sonar, αυτό είναι ακρωνύμιο των λέξεων Sound Navigation and Ranging και είναι μια τεχνική που χρησιμοποιεί την υποβρύχια διάδοση του ήχου όχι του φωτός! Οι ερασιτέχνες χειριστές ραδιοκυμάτων χρησιμοποιούν δεκαμετρικά μήκη κύματος, τα οποία είναι πολύ ενδιαφέροντα γιατί ανακλώνται στην ιονόσφαιρα της Γης. Αυτό σημαίνει οτι ένα ερασιτεχνικό ραδιοσήμα που κατευθύνεται προς τον ουρανό ανακλάται στην ιονόσφαιρα πίσω προς τη Γη και διαδίδεται τόσο μακριά που μερικές φορές μπορεί να φτάσει ακόμη και στους αντίποδες. Γιατί μερικές φορές; Γιατί το είδος της ανάκλασης εξαρτάται από την κατάσταση της ιονόσφαιρας. Μήκη κύματος κάτω του μέτρου διαδίδονται ευθύγραμμα από την εκπέμπουσα πηγή, σχεδόν όπως το ορατό φως. Σε αυτά τα μήκη κύματος εκπέμπουν οι ραδιοφωνικές μεταδόσεις FM, οι τηλεοπτικές εκπομπές, τα WiFi, Bluetooth, κλπ. Αυτά τα μήκη κύματος δεν επηρεάζονται τόσο από την ιονόσφαιρα, γι' αυτό χρειαζόμαστε δορυφόρους για την αναμετάδοσή τους πίσω στη Γη.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ionosphere">
+        <source>ionosphere</source>
+        <target state="translated">ιονόσφαιρα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="KILOMETER wavelenghts">
+        <source>KILOMETER wavelenghts</source>
+        <target state="translated">ΧΙΛΙΟΜΕΤΡΙΚΑ μήκη κύματος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="DECAMETER wavelenghts">
+        <source>DECAMETER wavelenghts</source>
+        <target state="translated">ΔΕΚΑΜΕΤΡΙΚΑ μήκη κύματος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="METER wavelenghts">
+        <source>METER wavelenghts</source>
+        <target state="translated">ΜΕΤΡΙΚΑ μήκη κύματος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="So radio waves are light, not sound. How come I can listen to my favourite songs with my radio? Well, suppose you want to share a song with your friend, 100m away from you. You could shout it very loudly but it would require a huge amount of energy to be heard, which would most likely result in a sore throat and some angry neighbours… Instead you could use your flashlight, translate it into Morse code and send it to your friend. By doing that, you have solved the problem of energy and distance, but you have lost a lot of information in the process. To keep all the information, you have to code the light you are sending in a specific way, so that your friend can receive and decode it easily.  This is called signal processing. Frequency Modulation (FM yes, like in FM radio!) is a kind of signal processing that is very easy and cheap to implement. You just modulate the light signal you are sending (the carrier wave) by varying its instantaneous frequency according to that of your message (your song for example). The signal is sent «modulated», and your radio «demodulates» it back to its original form and transmits it to its speakers, thus converting light back into sound!">
+        <source>So radio waves are light, not sound. How come I can listen to my favourite songs with my radio? Well, suppose you want to share a song with your friend, 100m away from you. You could shout it very loudly but it would require a huge amount of energy to be heard, which would most likely result in a sore throat and some angry neighbours… Instead you could use your flashlight, translate it into Morse code and send it to your friend. By doing that, you have solved the problem of energy and distance, but you have lost a lot of information in the process. To keep all the information, you have to code the light you are sending in a specific way, so that your friend can receive and decode it easily.  This is called signal processing. Frequency Modulation (FM yes, like in FM radio!) is a kind of signal processing that is very easy and cheap to implement. You just modulate the light signal you are sending (the carrier wave) by varying its instantaneous frequency according to that of your message (your song for example). The signal is sent «modulated», and your radio «demodulates» it back to its original form and transmits it to its speakers, thus converting light back into sound!</source>
+        <target state="translated">Επομένως τα ραδιοκύματα είναι φωτεινά, όχι ηχητικά κύματα. Πώς λοιπόν μπορώ να ακούσω την αγαπημένη μου μουσική στο ραδιόφωνο; Υποθέστε οτι θέλετε να μποραστείτε ένα τραγούδι με κάποιο φίλο σας που βρίσκεται σε απόσταση 100 μέτρων από σας. Θα μπορούσατε να το τραγουδήσετε πολύ δυνατά αλλά αυτό θα απαιτούσε την κατανάλωση πολύ μεγάλης ποσότητας ενέργειας για να ακουστείτε, με πιθανότερο αποτέλεσμα πονόλαιμο και εξαγριωμένους γείτονες.. Αντιθέτως, θα μπορούσατε να χρησιμοποιήσετε τον φακό σας, να το μεταφράσετε σε σήματα Morse και να τα στείλετε στον φίλο σας. Με αυτό τον τρόπο λύνετε τα προβλήματα της κατανάλωσης ενέργειας και της μεγάλης απόστασης, αλλά χάνετε μεγάλο μέρος της πληροφορίας. Για να κρατήσετε όλη την πληροφορία κατά την αναμετάδοση πρέπει να κωδικοποιήσετε το φως που στέλνετε με έναν ιδιαίτερο τρόπο, έτσι ώστε ο φίλος σας να μπορεί να το αποκωδικοποιήσει εύκολα. Αυτή η διαδικασία ονομάζεται επεξεργασία σήματος. Η τεχική Frequency Modulation (FM, στα ελληνικά Διαμόρφωση Συχνότητας) είναι μια μορφή επεξεργασίας σήματος που είναι εύκολη και φθηνή στην εφαρμογή της. Απλά διαμορφώνετε τη συχνότητα του φωτεινού σήματος που στέλνετε (φέρον κύμα)  μεταβάλλοντάς την ανάλογα  με το πλάτος του σήματος πληροφορίας (ακουστικό σήμα, το τραγούδι σας στο παραπάνω παράδειγμα). Το κύμα αποστέλλεται έτσι "διαμορφωμένο" και το ραδιόφωνό σας το "αποδιαμορφώνει" πίσω στην αρχική του μορφή και το μεταδίδει στα μεγάφωνα, μετατρέποντας το φως πάλι σε ήχο!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Other signal processing methods are used, like Amplitude Modulation (AM) or Phase Modulation (PM) to transmit information. Wi-Fi, for example, uses a combination of FM and PM.">
+        <source>Other signal processing methods are used, like Amplitude Modulation (AM) or Phase Modulation (PM) to transmit information. Wi-Fi, for example, uses a combination of FM and PM.</source>
+        <target state="translated">Άλλες τεχνικές επεξεργασίας σήματος χρησιμοποιούνται, όπως το Amplitude Modulation (AM, στα ελληνικά Διαμόρφωση Πλάτους) ή Phase Modulation (PM, στα ελληνικά Διαμόρφωση Φάσης) για να μεταδίδουν την πληροφορία. Το Wi-Fi, για παράδειγμα, χρησιμοποιεί ένα συνδυασμό των FM και PM.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The ionosphere is a layer of electrons and other electrically charged particles in the upper atmosphere. It starts at around 80 km from the ground. At this altitude, the atmosphere is too thin to shield the particles from the Solar radiation. Atoms and molecules are hit directly with very energetic light like UV and X-Ray, and this causes them to break and lose some electrons. Their neutral balance is disturbed and they become electrically charged. The resulting mixture of electrons and charged particles is called plasma, and it is responsible for the reflection power of the ionosphere at decametre wavelengths.  During the day, Sunbeams hit the ionosphere and produce a lot of charged particles; the ionosphere becomes unstable and cannot reflect the radio signals very efficiently. But at night, the ionosphere is less perturbed and almost acts as a smooth mirror. This is why amateur radio operators prefer to send their long-distance call during the night!">
+        <source>The ionosphere is a layer of electrons and other electrically charged particles in the upper atmosphere. It starts at around 80 km from the ground. At this altitude, the atmosphere is too thin to shield the particles from the Solar radiation. Atoms and molecules are hit directly with very energetic light like UV and X-Ray, and this causes them to break and lose some electrons. Their neutral balance is disturbed and they become electrically charged. The resulting mixture of electrons and charged particles is called plasma, and it is responsible for the reflection power of the ionosphere at decametre wavelengths.  During the day, Sunbeams hit the ionosphere and produce a lot of charged particles; the ionosphere becomes unstable and cannot reflect the radio signals very efficiently. But at night, the ionosphere is less perturbed and almost acts as a smooth mirror. This is why amateur radio operators prefer to send their long-distance call during the night!</source>
+        <target state="translated">Η ιονόσφαιρα είναι μια ζώνη ηλεκτρονίων και άλλων ηλεκτρικά φορτισμένων σωματιδίων στην ανώτερη ατνόσφαιρα. Ξεκινά από ύψος 80 χλμ. πάνω από το έδαφος. Σε αυτό το υψόμετρο η ατμόσφαιρα είναι πολύ αραιά για να προστατέψει τα σωματίδια από την ηλιακή ακτινοβολία. Έτσι άτομα και μόρια είναι εκτεθειμένα σε πολύ ενεργητική ακτινοβολία όπως υπεριώδεις και ακτίνες Χ, με αποτέλεσμα να χάνουν κάποια ηλεκτρόνια και από ουδέτερα να μετατρέπονται σε ηλεκτρικά φορτισμένα σωματίδια. Το μίγμα ελεκτρονίων και ηλεκτρικά φορτισμένων σωματιδίων που προκύπτει ονομάζεται "πλάσμα" και είναι εκείνο που ευθύνεται για την ανάκλαση από την ιονόσφαιρα των δεκαμετρικών μηκών κύματος. Κατά τη διάρκεια της ημέρας, το ηλιακό φως προσπίπτει στην ιονόσφαιρα παράγοντας πολλά φορτισμένα σωματίδια, με αποτέλεσμα η ιονόσφαιρα να γίνεται ασταθής και να μην μπορεί να ανακλάσει αποτελεσματικά τα ραδιοκύματα. Αλλά τη νύκτα, η ιονόσφαιρα είναι λιγότερο διαταραγμένη και ενεργεί σχεδόν σαν ένας λείος καθρέπτης. Γι' αυτό και οι ερασιτέχνες ραδιοχειριστές προτιμούν να στέλνουν τα μακρινά μηνύματά τους τη νύκτα!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frequency Modulation (F.M.)">
+        <source>Frequency Modulation (F.M.)</source>
+        <target state="translated">Διαμόρφωση Συχνότητας (F.M.)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What is the ionosphere?">
+        <source>What is the ionosphere?</source>
+        <target state="translated">Τι είναι η ιονόσφαιρα;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="While light can propagate in empty spaces, sound cannot. This is because sound waves need a medium they can vibrate into. You can listen to a piano melody because each time the pianist presses a key, a small hammer hits a string and makes it vibrate. The vibration then propagates into the air, until it reaches a receiver like a human ear for example. The ear is in fact a small vibrating membrane (the ear-drum) connected to small bones that transmits the vibration to our nervous system.">
+        <source>While light can propagate in empty spaces, sound cannot. This is because sound waves need a medium they can vibrate into. You can listen to a piano melody because each time the pianist presses a key, a small hammer hits a string and makes it vibrate. The vibration then propagates into the air, until it reaches a receiver like a human ear for example. The ear is in fact a small vibrating membrane (the ear-drum) connected to small bones that transmits the vibration to our nervous system.</source>
+        <target state="translated">Ενώ το φως μπορεί να μεταδοθεί στον κενό χώρο, ο ήχος δεν μπορεί. Αυτό οφείλεται στο γεγονός ότι τα ηχητικά κύματα χρειάζονται ένα μέσο διάδοσης μέσα στο οποίο μπορούν να δονούνται. Μπορείτε να ακούσετε μια μελωδία στο πιάνο, γιατί κάθε φορά που ο πιανίστας πιέζε ένα κλειδί, ένα μικρό σφυρί χτυπά μια χορδή και την κάνει να δονείται. Η δόνηση μεταδίδεται στη συνέχεια στον αέρα, μέχρις ότου φθάσει σε ένα δέκτη, όπως είναι το ανθρώπινο αυτί για παράδειγμα. Το αυτί είναι στην πραγματικότητα μια μικρή δονούμενη μεμβράνη (το τύμπανο του αυτιού) που συνδέεται με μικρά οστά η οποία μεταδίδει τη δόνηση στο νευρικό μας σύστημα.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Light and sound are both waves, but their nature is very different.">
+        <source>Light and sound are both waves, but their nature is very different.</source>
+        <target state="translated">Το φως και ο ήχος είναι και τα δύο κύματα, αλλά η φύση τους είναι πολύ διαφορετική.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Why do astronomers use ">
+        <source>Why do astronomers use </source>
+        <target state="translated">Γιατί οι αστρονόμοι χρησιμοποιούν</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="very big telescopes?">
+        <source>very big telescopes?</source>
+        <target state="translated">πολύ μεγάλα τηλεσκόπια;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="One crucial parameter when observing the sky is the spatial resolution. The spatial resolution is the smallest detail a telescope can observe. The smaller it is, the more details you will observe on your source. The resolution of a telescope, Θ, is proportional to the wavelength, λ, at which you are observing, and inversely proportional to the diameter of the telescope, Φ. Or simply put:   So, the more precision we want, the bigger the telescope must be, especially at high wavelengths.  How big? Well, let’s do the maths. Let say I want to see someone standing on the Moon with an optical telescope., and to see him with a bit of detail, I want to make an image of him that has a height of 10 pixels. The man on the Moon is 2m tall.  First, let’s calculate his apparent size. The apparent size is the angle δ under which an object of size d is seen at a distance D. Using trigonometric relations, it’s fairly easy to find that sin(δ) = d/D. As δ is very small, this simplifies to δ ≈ d/D.  ">
+        <source>One crucial parameter when observing the sky is the spatial resolution. The spatial resolution is the smallest detail a telescope can observe. The smaller it is, the more details you will observe on your source. The resolution of a telescope, Θ, is proportional to the wavelength, λ, at which you are observing, and inversely proportional to the diameter of the telescope, Φ. Or simply put:   So, the more precision we want, the bigger the telescope must be, especially at high wavelengths.  How big? Well, let’s do the maths. Let say I want to see someone standing on the Moon with an optical telescope., and to see him with a bit of detail, I want to make an image of him that has a height of 10 pixels. The man on the Moon is 2m tall.  First, let’s calculate his apparent size. The apparent size is the angle δ under which an object of size d is seen at a distance D. Using trigonometric relations, it’s fairly easy to find that sin(δ) = d/D. As δ is very small, this simplifies to δ ≈ d/D.  </source>
+        <target state="translated">Μια κρίσιμη παράμετρος κατά την παρατήρηση του ουρανού είναι η χωρική ανάλυση, ή διακριτική ικανότητα, και αναφέρεται στη μικρότερη λεπτομέρεια την οποία μπορεί να διακρίνει ένα τηλεσκόπιο. Όσο μικρότερη είναι τόσο περισσότερες λεπτομέρειες μπορειτε να παρατηρήσετε στην φωτεινή πηγή. Η ανάλυση ενός τηλεσκοπίου, Θ, είναι ανάλογη με το μήκος κύματος, λ στο οποίο παρατηρούμε και αντιστρόφως ανάλογη με τη διάμετρο του τηλεσκοπίου, Φ. Ας το θέσουμε απλά: όσο μεγαλύτερη ακρίβεια θέλουμε τόσο μεγαλύτερο πρέπει να είναι το τηλεσκόπιο ειδικά στα μεγάκα μήκη κύματος.  Πόσο μεγάλο; Λοιπόν, ας κάνουμε έναν υπολογισμό: Ας πούμε οτι θέλω να δω κάποιον που στέκεται στο φεγγάρι με ένα οπτικό τηλεσκόπιο και μάλιστα να τον δω με κάποιες λεπτομέρειες, κάνοντας μια εικόνα ύψους 10 pixels. Ο άνθρωπος στο φεγγάρι έχει ύψος 2 μέτρων.   Κατ 'αρχάς, ας υπολογίσουμε το φαινόμενο μέγεθός του, που ορίζεται ως η γωνία δ υπό την οποία ένα αντικείμενο μεγέθους d είναι ορατό σε απόσταση D. Χρησιμοποιώντας τριγωνομετρικές σχέσεις, είναι αρκετά εύκολο να βρείτε ότι το ημίτονο(δ) = d / D. Καθώς το δ είναι πολύ μικρό, αυτό απλοποιεί την σχέση σε δ ≈ d / D.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Diameter">
+        <source>Diameter</source>
+        <target state="translated">Διάμετρος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Here, D is the distance to the Moon, which is hidden somewhere in this poster. If you want to calculate δ be careful that d and D are in the same units! You obtain δ in radian.  Now, we said we need 10 pixels to sample our image of the man, so our spatial resolution Θ should be equal to δ/10  Using the formula of the spatial resolution, and the center wavelength of the visible spectrum (it’s probably somewhere on another poster, you will have to look for it – again: be careful with the units!), you can now calculate the diameter of the telescope you will have to build.  You have it? Here’s a hint: it’s roughly the width of Central park in New York. It’s also 3 times the height of the Eiffel Tower…  This explains why astronomers always thrive for bigger telescopes! And the spatial resolution issue becomes critical at longer wavelengths. For radio observations, the telescopes are gigantic.">
+        <source>Here, D is the distance to the Moon, which is hidden somewhere in this poster. If you want to calculate δ be careful that d and D are in the same units! You obtain δ in radian.  Now, we said we need 10 pixels to sample our image of the man, so our spatial resolution Θ should be equal to δ/10  Using the formula of the spatial resolution, and the center wavelength of the visible spectrum (it’s probably somewhere on another poster, you will have to look for it – again: be careful with the units!), you can now calculate the diameter of the telescope you will have to build.  You have it? Here’s a hint: it’s roughly the width of Central park in New York. It’s also 3 times the height of the Eiffel Tower…  This explains why astronomers always thrive for bigger telescopes! And the spatial resolution issue becomes critical at longer wavelengths. For radio observations, the telescopes are gigantic.</source>
+        <target state="translated">Εδώ, D είναι η απόσταση από τη Σελήνη, που είναι κρυμμένη κάπου σε αυτή την αφίσα. Αν θέλετε να υπολογίσετε το δ προσέξτε τα d και D να είναι στις ίδιες μονάδες! Έτσι παίρνετε το δ σε ακτίνια. Είπαμε ότι η εικόνα μας πρέπει να έχει ύψος 10 pixels, επομένως η ανάλυση Θ θα πρέπει να είναι ίση με δ/10.   Χρησιμοποιώντας τον τύπο της χωρικής ανάλυσης και το κεντρικό μήκος κύματος του ορατού φάσματος (είναι πιθανώς κάπου σε μία άλλη αφίσα, θα πρέπει να ψάξετε για αυτό - και πάλι: να είστε προσεκτικοί με τις μονάδες), μπορείτε να υπολογίσετε τώρα τη διάμετρο του τηλεσκοπίου που θα πρέπει να φτιάξετε!.  Το βρήκατε; Για να σας βοηθήσουμε: Είναι περίπου το πλάτος του Κεντρικού πάρκου στη Νέα Υόρκη. Είναι επίσης 3 φορές το ύψος του Πύργου του Άιφελ ...     Αυτό εξηγεί γιατί οι αστρονόμοι πάντα προσδοκούν την κατασκευή μεγαλύτερων τηλεσκοπίων! Και το θέμα της χωρικής ανάλυσης γίνεται ζωτικής σημασίας σε μεγαλύτερα μήκη κύματος: για τις παρατηρήσεις στα ραδιοκύματα τα τηλεσκόπια είναι τεράστια.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Take for example the Arecibo Observatory: this huge telescope of 305 m diameter is the largest telescope ever built. It is located on the island of Puerto Rico, in the Caribbean. It observes a wide area of centimetre wavelengths. Its impressive size has earned him several appearances in movies, like in the James Bond film: GoldenEye. Another example is the Nançay Radio Telescope in France:  Located 2h south of Paris in the Sologne forest near Orleans, this 460 m long radio telescope has two huge mirrors: a plane one of 200x40 m and a spherical one of 300x35 m. Centimetre radio waves are collected by the focal carriage at the centre of the instrument. The plane mirror is movable vertically, only allowing observations of objects passing through the local meridian. It is thus called a meridian instrument. ">
+        <source>Take for example the Arecibo Observatory: this huge telescope of 305 m diameter is the largest telescope ever built. It is located on the island of Puerto Rico, in the Caribbean. It observes a wide area of centimetre wavelengths. Its impressive size has earned him several appearances in movies, like in the James Bond film: GoldenEye. Another example is the Nançay Radio Telescope in France:  Located 2h south of Paris in the Sologne forest near Orleans, this 460 m long radio telescope has two huge mirrors: a plane one of 200x40 m and a spherical one of 300x35 m. Centimetre radio waves are collected by the focal carriage at the centre of the instrument. The plane mirror is movable vertically, only allowing observations of objects passing through the local meridian. It is thus called a meridian instrument. </source>
+        <target state="translated">Πάρτε για παράδειγμα το Αστρεοσκοπείο Arecibo: αυτό το τεράστιο τηλεσκόπιο διαμέτρου 305 μέτρων είναι το μεγαλύτερο τηλεσκόπιο που κατασκευάστηκε ποτέ. Βρίσκεται στο νησί του Πουέρτο Ρίκο, στην Καραϊβική. Είανι ευαίσθητο σε μια μεγάλη περιοχή μηκών κύματος της τάξης του εκατοστομέτρων .Το εντυπωσιακό μέγεθος είχε ως αποτέλεσμα να εμφανισθεί σε αρκετές ταινίες, όπως στο GoldenEye του James Bond. Ένα άλλο παράδειγμα τέτοιου ραδιοτηλεσκοπίου είναι το Nancay Radio Telescope στη Γαλλία:   Βρίσκεται 2 ώρες νότια του Παρισιού στο δάσος Sologne κοντά στην Ορλεάνη, το 460 μ. ραδιοτηλεσκόπιο έχει δύο τεράστια κάτοπτρα: ένα απλό  200x40 μ. και ένα σφαιρικό 300x35 μ. Τα ραδιοκύματα εκατοστομέτρων συλλέγονται μέσω εστιακής μεταφοράς στο κέντρο του οργάνου. Ο απλός καθρέφτης μπορεί να κινείται κατακόρυφα, επιτρέποντας μόνο τις παρατηρήσεις των αντικειμένων που διέρχονται από τον τοπικό μεσημβρινό. Γι'αυτό ονομάζεται μεσημβρινό όργανο.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="A diameter of 305 m is impressive in size, and it’s also a technical challenge to keep the surface of the mirror regular so that the radio signals can converge to the same point. So does that mean that it is the best we could ever do? Well, hopefully we will be able to do even better. One observing technique can overcome this limit: it’s called interferometry.">
+        <source>A diameter of 305 m is impressive in size, and it’s also a technical challenge to keep the surface of the mirror regular so that the radio signals can converge to the same point. So does that mean that it is the best we could ever do? Well, hopefully we will be able to do even better. One observing technique can overcome this limit: it’s called interferometry.</source>
+        <target state="translated">Μία διάμετρος 305 ,μέτρων είναι εντυπωσιακή και αποτελεί μια τεχνική πρόκληση να μπορέσουμε να διατηρήσουμε την επιφάνεια του κατόπτρου ομαλή έτσι ώστε τα ραδιοσήματα να συγκλίνουν στο ίδιο σημείο. Είναι όμως αυτό το καλύτερο που θα μπορούσαμε ποτέ να κάνουμε; Λοιπόν, ελπίζουμε ότι θα μπορέσουμε να κάνουμε ακόμα περισσότερα: υπάρχει μια τεχνική παρατήρησης που μπορεί να ξεπεράσει αυτό το όριο: το όνομά της είναι συμβολομετρία.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Arecibo Observatory">
+        <source>The Arecibo Observatory</source>
+        <target state="translated">Το παρατηρητήριο Arecibo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Nançay Radio Telescope">
+        <source>The Nançay Radio Telescope</source>
+        <target state="translated">Το ραδιοτηλεσκόπιο Nancay</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="the Interferometry Technique ">
+        <source>the Interferometry Technique </source>
+        <target state="translated">η Τεχνική της Συμβολομετρίας</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Better, stronger, but a bit more difficult!">
+        <source>Better, stronger, but a bit more difficult!</source>
+        <target state="translated">Καλύτερη, πιο ισχυρή, αλλά είναι λίγο πιο δύσκολη!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The difficulty in achieving high resolutions with single-dish radio telescopes has led the use of another observing technique: Interferometry.   First of all, what is interference? To understand the concept of interference, let’s visualise the light as a wave. If a surface with two small holes in it gets illuminated, it should produce this effect:">
+        <source>The difficulty in achieving high resolutions with single-dish radio telescopes has led the use of another observing technique: Interferometry.   First of all, what is interference? To understand the concept of interference, let’s visualise the light as a wave. If a surface with two small holes in it gets illuminated, it should produce this effect:</source>
+        <target state="translated">Η δυσκολία να επιτευχθεί υψηλή ανάλυση με μεμονωμένα ραδιοτηλεσκόπια οδήγησε στη χρήση μιας άλλης τεχνικής παρατήρησης της συμβολομετρίας.    Για να κατανοήσουμε την έννοια της "παρεμβολής" ας φανταστούμε το φως σαν ένα κύμα. Εάν φωτίσουμε μια επιφάνεια με δύο μικρές τρύπες, τότε θα δημιουργηθεί το εξής φαινόμενο:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Where the two waves coming out the holes overlap, they will add up if they are in phase, or cancel each other when they are out of phase. Something similar to this happen when you push someone on a swing: your friend will gain height only if your movements are in phase with the movements of the swing. With the light experiment depicted above, here is what you can observe on a screen:">
+        <source>Where the two waves coming out the holes overlap, they will add up if they are in phase, or cancel each other when they are out of phase. Something similar to this happen when you push someone on a swing: your friend will gain height only if your movements are in phase with the movements of the swing. With the light experiment depicted above, here is what you can observe on a screen:</source>
+        <target state="translated">Εκεί όπου τα δύο κύματα φωτός που προέρχονται από τις δύο μικρές τρύπες επικαλύπτοντα, θα προστεθουν έαν βρίσκονται σε κοινή φάση, ή θα ακυρωθούν αν βρίσκονται σε αντίθετη φάση. Ένα ανάλογο παράδειγμα είναι το σπρώξμο της κούνιας: εάν οι ωθήσεις σας είναι σε φάση με τις κινησεις της κούνιας τότε αυτή θα ανέβει πολύ ψηλά. Αντίστοιχα στο παράδειγμα με τη δέσμη φωτός να τι θα παρατηρήσετε σε μια οθόνη: </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Want to do this at home? Well, that’s fairly easy as long as you have a laser pointer and three pieces of pencil lead. Hold the three pieces of lead between your thumb and your index, and try to make them as parallel as possible. Put them in front of your laser pointer, and look at the result on the wall: there you have it! You’ve just created interferences!">
+        <source>Want to do this at home? Well, that’s fairly easy as long as you have a laser pointer and three pieces of pencil lead. Hold the three pieces of lead between your thumb and your index, and try to make them as parallel as possible. Put them in front of your laser pointer, and look at the result on the wall: there you have it! You’ve just created interferences!</source>
+        <target state="translated">Θέλετε να το κάνετε αυτό στο σπίτι; Είναι αρκετά εύκολο αν έχετε έναν δείκτη με λέιζερ και τρία κομμάτια μολύβδου από μολύβι. Κρατήστε τα τρία κομμάτια του μολύβδου μεταξύ του αντίχειρα και το δείκτη σας, και προσπαθήστε να είναι παράλληλα. Έπειτα βάλτε τα μπροστά από τον δείκτη λέιζερ και κάντε τα όσο το δυνατόν παράλληλα. Δείτε το αποτέλεσμα στον τοίχο! Μόλις δημιουργήσσατε παρεμβολές !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="So what happens with an astronomical source in radio waves?">
+        <source>So what happens with an astronomical source in radio waves?</source>
+        <target state="translated">Λοιπόν τι συμβαίνει με μια αστρονομική πηγή στα ραδιοκύματα;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Plateau de Bure Interferometer: on a plateau in the south of France, near Gap, is a network of six antennas of 15 m in diameter, observing in the millimetre range. They can move on rails and their maximum extension can reach up to 700 m.">
+        <source>The Plateau de Bure Interferometer: on a plateau in the south of France, near Gap, is a network of six antennas of 15 m in diameter, observing in the millimetre range. They can move on rails and their maximum extension can reach up to 700 m.</source>
+        <target state="translated">Το ραδιοσυμβολόμετρο Plateau de Bure βρίσκεται σε ένα οροπέδιο στη νότια Γαλλία, κοντά στο Gap. Είναι ένα δίκτυο από έξι κεραίες διαμέτρου 15 μ. η κάθε μια, ευαίσθητων  στην περιοχή των χιλιοστομετρικών μηκών κύματος. Οι κεραίες μπορούν να κινούνται πάνω σε ράγες και αυτή η διάταξη μπορεί να φτάσει σε μέγιστη έκταση 700 m.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Very Large Array: featured in the famous movie Contact. This interferometer is located in the desert plains of New Mexico, near Socorro, and observes in centimetre wavelengths. It’s a network of 27 movable antennas, put together to reach impressive spatial resolutions. Indeed the, array configurations are spanning from 1 km up to 36 km!">
+        <source>The Very Large Array: featured in the famous movie Contact. This interferometer is located in the desert plains of New Mexico, near Socorro, and observes in centimetre wavelengths. It’s a network of 27 movable antennas, put together to reach impressive spatial resolutions. Indeed the, array configurations are spanning from 1 km up to 36 km!</source>
+        <target state="translated">Το ραδιοτηλεσκόπιο Very Large Array (Πολύ Μεγάλη Διάταξη) : εμφανίστηκε στη διάσημη ταινία Contact. Αυτό το ραδιοσυμβολόμετρο βρίσκεται στις πεδιάδες της ερήμου του Νέου Μεξικού, κοντά στο Socorro, και είναι ευαίσθητο σε εκατοστομετρικά μήκη κύματος. Πρόκειται για ένα δίκτυο από 27 κινητές κεραίες, ειδικά κατανεμημένες για να προσφέρουν παρατηρήσεις μέγιστης διακριτικής ικανότητας. Πράγματι με αυτό τον τρόπο μπορούν να επιτευχθούν διατάξεις που εκτείνονται από 1 ως 36 χιλιόμετρα.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="In a simple two-element radio interferometer, the signals from source alternately arrive in phase and out of phase as the Earth rotates and causes a change in the difference in path (the “d” on the picture) from the radio source to the two elements of the interferometer. This produces interference fringes in a manner similar to what was shown in the double slit experiment with visible light.  If the radio source has finite angular size, then “d” varies across the source. The measured interference fringes from the interferometer pair thus depend on the detailed nature of the radio «brightness» distribution in the sky. For a radio interferometer with several antennas, each pair produces different fringes, and information from the fringes can be used to reconstruct the original image.">
+        <source>In a simple two-element radio interferometer, the signals from source alternately arrive in phase and out of phase as the Earth rotates and causes a change in the difference in path (the “d” on the picture) from the radio source to the two elements of the interferometer. This produces interference fringes in a manner similar to what was shown in the double slit experiment with visible light.  If the radio source has finite angular size, then “d” varies across the source. The measured interference fringes from the interferometer pair thus depend on the detailed nature of the radio «brightness» distribution in the sky. For a radio interferometer with several antennas, each pair produces different fringes, and information from the fringes can be used to reconstruct the original image.</source>
+        <target state="translated">Σε ένα απλό ραδιο συμβολόμετρο δύο στοιχείων, τα σήματα από την πηγή φθάνουν εναλλάξ εντός και εκτός φάσεως, καθώς η Γη περιστρέφεται και προκαλεί μια αλλαγή στην διαφορά διαδρομής ("d" στην εικόνα) από την ραδιο πηγή στα δύο στοιχεία του συμβολόμετρου. Αυτό παράγει κροσσούς συμβολής με έναν τρόπο παρόμοιο με αυτόν που είδαμε στο πείραμα της διπλής σχισμής με ορατό φως. Εάν η ραδιο πηγή έχει πεπερασμένο γωνιακό μέγεθος, τότε το "d" ποικίλλει κατά μήκος της πηγής. Οι μετρούμενοι κροσσοί συμβολής που παράγονται από το συμβολόμετρο δύο στοιχείων επομένως εξαρτώνται από τη λεπτομερή φύση της κατανομής της ραδιο «φωτεινότητας» στον ουρανό. Για ένα ραδιο συμβολόμετρο με πολλές κεραίες, κάθε ζεύγος παράγει διαφορετικούς κροσσούς και η πληροφορία που εξάγεται μπορεί να χρησιμοποιηθεί για την ανακατασκευή της αρχικής εικόνας της πηγής.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Atacama Large Millimeter Array (ALMA) will initially be composed of 66 high-precision antennas working together at millimeter and submillimeter wavelengths, with a possible extension in the future. Thanks to its high resolution and sensitivity, ALMA will bring a new vision of the Universe, allowing scientists to unravel longstanding and important astronomical mysteries.">
+        <source>The Atacama Large Millimeter Array (ALMA) will initially be composed of 66 high-precision antennas working together at millimeter and submillimeter wavelengths, with a possible extension in the future. Thanks to its high resolution and sensitivity, ALMA will bring a new vision of the Universe, allowing scientists to unravel longstanding and important astronomical mysteries.</source>
+        <target state="translated">Το Atacama Large Millimeter Array (ALMA) αρχικά αποτελείται από 66 κεραίες υψηλής ακρίβειας, ευαίσθητες στα  χιλιοστομετρικά και υπό-χιλιοστομετρικά μήκη κύματος, και πιθανόν να επεκταθεί και άλλο στο μέλλον. Χάρη στην υψηλή ανάλυση και ευαισθησία του, το ALMA θα προσφέρει μια νέα ματιά στο Σύμπαν, επιτρέποντας στους επιστήμονες να διαλευκάνουν σημαντικά μακροχρόνια αστρονομικά μυστήρια.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Now you know how to reconstruct an image from interference patterns. But what’s the point of all this? It’s a very important point: in interferometry, the spatial resolution is not calculated from the diameter of the telescopes, but from the longest distance between a pair of telescopes! This means that an interferometer with telescopes distant from 1 km can obtain an image as if it was taken by a single-dish telescope of this diameter!">
+        <source>Now you know how to reconstruct an image from interference patterns. But what’s the point of all this? It’s a very important point: in interferometry, the spatial resolution is not calculated from the diameter of the telescopes, but from the longest distance between a pair of telescopes! This means that an interferometer with telescopes distant from 1 km can obtain an image as if it was taken by a single-dish telescope of this diameter!</source>
+        <target state="translated">Τώρα ξέρετε πώς να ανακατασκευάσετε μια εικόνα από τους κροσσούς συμβολής. Αλλά ποιο είναι το νόημα όλων αυτών; Υπάρχει ένα πολύ σημαντικό χαρακτηριστικό: στην συμβολομετρία η χωρική ανάλυση δεν υπολογίζεται από τη διάμετρο των τηλεσκοπίων, αλλά από τη μέγιστη απόσταση ανάμεσα σε ένα ζεύγος τηλεσκοπίων! Αυτό σημαίνει ότι ένα συμβολόμετρο τηλεσκοπίων που απέχουν 1 χιλιόμετρο μεταξύ τους, μπορεί να λάβει μια εικόνα σαν αυτή να είχε ληφθεί από μια μοναδική κεραία αυτής της διαμέτρου!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="In recognition of their contributions to the development of radio interferometry using the earth-rotation synthesis, two British Astronomers Martin Ryle and Antony Hewish were awarded the 1974 Nobel Prize for Physics.">
+        <source>In recognition of their contributions to the development of radio interferometry using the earth-rotation synthesis, two British Astronomers Martin Ryle and Antony Hewish were awarded the 1974 Nobel Prize for Physics.</source>
+        <target state="translated">Σε αναγνώριση της συμβολής τους στην ανάπτυξη της ραδιο συμβολομετρίας χρησιμοποιώντας τη σύνθεση λόγω περιστροφής της Γης, το βραβείο Νόμπελ Φυσικής απομενήθηκε το 1974 στους δύο Βρετανούς Αστρονόμους Martin Ryle και Antony Hewish.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="From the Sky to the Computer: ">
+        <source>From the Sky to the Computer: </source>
+        <target state="translated">Από τον Ουρανό στον Υπολογιστή:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What is the receiver made of?  As we are going to tackle the technical aspect of radio observations, we should adapt a bit our vocabulary. It will be more practical to talk about frequencies instead of wavelengths, because hardware sample the incoming signal at a certain frequency rate. If the radio signal is expressed in frequency too, it’s more convenient to compare them to each other. And switching from wavelength λ to frequency υ, is easy: we use this simple relation υ=c/λ (where c is the speed of light)  In a simple chain of acquisition, the first element that collects the radio signal is a small antenna, which can take several forms depending on the wavelength. For short radio wavelengths, millimetres for example, the antenna is a corrugated horn, plugged to a waveguide. For longer wavelengths like centimetre, a simple copper wire is enough.">
+        <source>What is the receiver made of?  As we are going to tackle the technical aspect of radio observations, we should adapt a bit our vocabulary. It will be more practical to talk about frequencies instead of wavelengths, because hardware sample the incoming signal at a certain frequency rate. If the radio signal is expressed in frequency too, it’s more convenient to compare them to each other. And switching from wavelength λ to frequency υ, is easy: we use this simple relation υ=c/λ (where c is the speed of light)  In a simple chain of acquisition, the first element that collects the radio signal is a small antenna, which can take several forms depending on the wavelength. For short radio wavelengths, millimetres for example, the antenna is a corrugated horn, plugged to a waveguide. For longer wavelengths like centimetre, a simple copper wire is enough.</source>
+        <target state="translated">Από τι είναι φτιαγμένος ο δέκτης; Καθώς θα προσεγγίσουμε τις τεχνικές πλευρές των ραδιο παρατηρήσεων, θα πρέπει να προσαρμόσουμε λίγο το λεξιλόγιό μας. Θα είναι πιο πρακτικό να μιλάμε για συχνότητες αντί για μήκη κύματος, επειδή τα όργανα λαμβάνουν το εισερχόμενο σήμα σε ένα ορισμένο ρυθμό συχνοτήτων. Εάν εκφράσουμε το ραδιο σήμα επίσης σε συχνότητα, είναι ευκολότερο να τα συγκρίνουμε μεταξύ τους. Και η μετάβαση από το μήκος κύματος λ στη συχνότητα ν, είναι εύκολη: χρησιμοποιούμε αυτή την απλή σχέση   ν = c / λ   (όπου c είναι η ταχύτητα του φωτός)     Σε μια απλή αλυσιδωτή λήψη, το πρώτο στοιχείο που συλλέγει το ραδιο σήμα είναι μια μικρή κεραία , η οποία μπορεί να λάβει διάφορες μορφές ανάλογα με το μήκος κύματος. Για μικρά μήκη ραδιοκυμάτων, χιλιοστά για παράδειγμα, η κεραία είναι ένα κυματοειδές κέρατο συνδεδεμένο με έναν κυματοδηγό. Για μεγαλύτερα μήκη κύματος, της τάξης των εκατοστών, ένα απλό χάλκινο σύρμα είναι αρκετό.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="the Hitchhiker’s Guide to the radio Universe">
+        <source>the Hitchhiker’s Guide to the radio Universe</source>
+        <target state="translated">ο Οδηγός Ωτοστόπ για το ραδιο Σύμπαν </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="As you can see from the picture, the atmosphere is transparent for a large part of the radio domain. This means that observations are possible in daylight! Think about the poor radio astronomers who never get to sleep…">
+        <source>As you can see from the picture, the atmosphere is transparent for a large part of the radio domain. This means that observations are possible in daylight! Think about the poor radio astronomers who never get to sleep…</source>
+        <target state="translated">Όπως μπορείτε να δείτε από την εικόνα, η ατμόσφαιρα είναι διαφανής για ένα μεγάλο τμήμα της φασματικής περιοχής των ραδιοκυμάτων. Αυτό σημαίνει ότι μπορούμε να κάνουμε παρατηρήσεις ακόμη και με το φως της ημέρας! Σκεφτείτε τους φτωχούς ραδιοαστρονόμους που δεν μπορούν ποτέ να κοιμηθούν ...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Atmospheric opacity">
+        <source>Atmospheric opacity</source>
+        <target state="translated">Ατμοσφαιρική   αδιαφάνεια</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The signal is collected with the primary reflector of the telescope. It usually has the shape of a parabola, though it could also be spherical. The important property of this primary reflector is that it converges the signal to a single point, called the focal point. At the focal point, there can be the receiver itself, or another mirror called the sub-reflector that relays the signal to the receiver.">
+        <source>The signal is collected with the primary reflector of the telescope. It usually has the shape of a parabola, though it could also be spherical. The important property of this primary reflector is that it converges the signal to a single point, called the focal point. At the focal point, there can be the receiver itself, or another mirror called the sub-reflector that relays the signal to the receiver.</source>
+        <target state="translated">Το σήμα συλλέγεται με το πρωτεύον κάτοπτρο του τηλεσκοπίου που συνήθως έχει παραβολικό σχήμα αν και θα μπορούσε να είναι σφαιρικό επίσης. Η σημαντική ιδιότητα αυτού του πρωτεύοντοςανακλαστήρα είναι ότι συγκλίνει το σήμα σε ένα μόνο σημείο, το οποίο ονομάζεται εστιακό σημείο. Στο σημείο εστίασης μπορεί να βρισκεται ο ίδιος ο δέκτης, ή ένα άλλο κάτοπτρο που ονομάζεται υπο-ανακλαστήρας, που αναμεταδίδει το σήμα προς το δέκτη.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copper wire for centimetre wavelengths reception.">
+        <source>Copper wire for centimetre wavelengths reception.</source>
+        <target state="translated">Σύρμα από χαλκό για λήψη εκατοστομετρικών μηκών κύματος.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Corrugated horn for millimetre wavelengths reception.">
+        <source>Corrugated horn for millimetre wavelengths reception.</source>
+        <target state="translated">Κυματοειδές κέρατο για λήψη μήκους κύματος σε χιλιοστά.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radio light">
+        <source>Radio light</source>
+        <target state="translated">Ραδιο φως</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Focal point">
+        <source>Focal point</source>
+        <target state="translated">Εστιακό σημείο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sub reflector">
+        <source>Sub reflector</source>
+        <target state="translated">Υπο ανακλαστήρας</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Primary reflector">
+        <source>Primary reflector</source>
+        <target state="translated">Πρωτεύων ανακλαστήρας</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The small antenna is then linked to a filter that selects the range of frequencies around the frequency of interest. A high frequency amplifier boosts the resulting signal. Once amplified, the trick is to convert the analog signal (a smoothly variating voltage) to a digital signal (an encoded version). But the source frequencies are too high to be sampled with any ordinary hardware! The sample rate is just too high, even an expensive state-of-the-art analog to digital converter could not do it… But here is a simple solution: why not shift the frequency to a much lower one, so that it can be analysed?! Well, this is called heterodyne detection, and it is a technique that is frequently used in radio reception, not only in astronomy, but also in communication.">
+        <source>The small antenna is then linked to a filter that selects the range of frequencies around the frequency of interest. A high frequency amplifier boosts the resulting signal. Once amplified, the trick is to convert the analog signal (a smoothly variating voltage) to a digital signal (an encoded version). But the source frequencies are too high to be sampled with any ordinary hardware! The sample rate is just too high, even an expensive state-of-the-art analog to digital converter could not do it… But here is a simple solution: why not shift the frequency to a much lower one, so that it can be analysed?! Well, this is called heterodyne detection, and it is a technique that is frequently used in radio reception, not only in astronomy, but also in communication.</source>
+        <target state="translated">Η μικρή κεραία τότε συνδέεται με ένα φίλτρο που επιλέγει το φάσμα συχνοτήτων γύρω από τη συχνότητα που μας ενδιαφέρει. Ένας ενισχυτής υψηλής συχνότητας ενισχύει το σήμα που προκύπτει. Αφού ενισχυθεί, το θέμα είναι να μετατραπεί από αναλογικό σήμα (μια ομαλά μεταβαλλόμενη τάση) σε ψηφιακό σήμα (μία κωδικοποιημένη έκδοση). Αλλά οι συχνότητες της πηγής είναι υπερβολικά υψηλές για δειγματοληψία με οποιοδήποτε συνηθισμένο όργανο! Ο ρυθμός δειγματοληψίας ςίναι πολύ υψηλός, ακόμη και ένας τελευταίας τεχνολογίας, ακριβός μετατροπέας αναλογικού σήματος σε ψηφιακό  δεν θα μπορούσε να το κάνει ...   Αλλά υπάρχει μια απλή λύση: γιατί να μην μετατρέψουμε τη συχνότητα σε πολύ χαμηλότερη, έτσι ώστε να μπορέσουμε να την αναλύσουμε;! Λοιπόν, αυτό ονομάζεται ανίχνευση ετερόδυνων, και είναι μια τεχνική που χρησιμοποιείται συχνά στη ράδιο λήψη, όχι μόνο στην αστρονομία, αλλά επίσης και στην επικοινωνία.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="In heterodyne detection, the signal is mixed with a known signal, generated locally by a stable laser. It is called the Local Oscillator. The Local Oscillator has a frequency (FLO) close to that of the sky signal (FSKY), and it can be tuned so that the difference between FLO and FSKY is equal to a fixed frequency that is called the Intermediate Frequency. To put it simply:  F SKY - F LO = F Intermediate The Intermediate Frequency is just the right frequency to be sampled by cheaper hardware, less difficult to build and more reliable. Once converted into bits, the signal can be analysed by software and shifted back to the real observed frequency just by numerically adding back again FLO.">
+        <source>In heterodyne detection, the signal is mixed with a known signal, generated locally by a stable laser. It is called the Local Oscillator. The Local Oscillator has a frequency (FLO) close to that of the sky signal (FSKY), and it can be tuned so that the difference between FLO and FSKY is equal to a fixed frequency that is called the Intermediate Frequency. To put it simply:  F SKY - F LO = F Intermediate The Intermediate Frequency is just the right frequency to be sampled by cheaper hardware, less difficult to build and more reliable. Once converted into bits, the signal can be analysed by software and shifted back to the real observed frequency just by numerically adding back again FLO.</source>
+        <target state="translated">Κατά την ανίχνευση ετερόδυνων, το λαμβανόμενο σήμα αναμιγνύεται με ένα γνωστό σήμα που παράγεται τοπικά από ένα σταθερό λέιζερ. Αυτό ονομάζεται Τοπικός Ταλαντωτής. Ο Τοπικός Ταλαντωτής έχει συχνότητα (FLO) παρόμοια με αυτή του σήματος του ουρανού (FSKY), και μπορεί να ρυθμιστεί έτσι ώστε η διαφορά μεταξύ των FLO και FSKY να ισούται με μία σταθερή συχνότητα που ονομάζεται Ενδιάμεση Συχνότητα. Για να το θέσουμε απλά:   FSKY - FLO = F Ενδιάμεση. H Ενδιάμεση Συχνότητα είναι ακριβώς η κατάλληλη συχνότητα για δειγματοληψία από φθηνότερα όργανα, που είναι ευκολότερο να κατασκευαστούν και πιο αξιόπιστα. Μόλις μετατραπεί σε δυαδικά ψηφία, το σήμα μπορεί να αναλυθεί από το κατάλληλο λογισμικό και να μετατραπεί πάλι στην πραγματική παρατηρούμενη συχνότητα απλά προσθέτοντας αριθμητικά πάλι την FLO.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Now that we have our signal in a computer, let’s do some science!">
+        <source>Now that we have our signal in a computer, let’s do some science!</source>
+        <target state="translated">Τώρα που έχουμε το σήμα μας σε έναν υπολογιστή, ας κάνουμε και λίγη επιστημονική εργασία!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="A simplified schematic of the heterodyne detection process.">
+        <source>A simplified schematic of the heterodyne detection process.</source>
+        <target state="translated">Ένα απλοποιημένο σχήμα της ανίχνευσης ετερόδυνων.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radio Sources of the Universe ">
+        <source>Radio Sources of the Universe </source>
+        <target state="translated">Ραδιοπηγές του Σύμπαντος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What are we receiving from the sky?">
+        <source>What are we receiving from the sky?</source>
+        <target state="translated">Τι λαμβάνουμε από τον ουρανό;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Sun is one of the closest astronomical radio sources. Most of its radio emission comes from its corona, a layer above the photosphere where there are a lot of charged particles forming what is called plasma. Radio emission can also arise from magnetic storms, which form spots on its surface.">
+        <source>The Sun is one of the closest astronomical radio sources. Most of its radio emission comes from its corona, a layer above the photosphere where there are a lot of charged particles forming what is called plasma. Radio emission can also arise from magnetic storms, which form spots on its surface.</source>
+        <target state="translated">Ο Ήλιος   είναι μια από τις κοντινότερες αστρονομικές πηγές ράδιοκυμάτων. Το μεγαλύτερο μέρος της ραδιο-ακτινοβολίας προέρχεται από το στέμμα του, που είναι μια ζώνη πάνω από την φωτόσφαιρα του Ήλου, όπου υπάρχουν πολλά φορτισμένα σωματίδια που αποτελούν αυτό που ονομάζουμε πλάσμα. Ράδιο εκπομπές μπορούν επίσης να προκύψουν από μαγνητικές καταιγίδες, οι οποίες σχηματίζουν κηλίδες στην επιφάνειά του.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pulsars the radio lighthouses of the Universe. Like a spinning top, a pulsar is rotating along itself continuously. The radio beams emitted by the pulsar follow its rotation, like a lighthouse on a sea shore. They are received on Earth as short signals (“bip bip bip”). Nearly 2000 pulsars have been observed in our Galaxy and billions exists in the whole Universe.">
+        <source>Pulsars the radio lighthouses of the Universe. Like a spinning top, a pulsar is rotating along itself continuously. The radio beams emitted by the pulsar follow its rotation, like a lighthouse on a sea shore. They are received on Earth as short signals (“bip bip bip”). Nearly 2000 pulsars have been observed in our Galaxy and billions exists in the whole Universe.</source>
+        <target state="translated">Πάλσαρς  οι ραδιο φάροι του Σύμπαντος. Όπως μια σβούρα έτσι και ένα πάλσαρ περιστρέφεται συνεχώς γύρω από τον εαυτό του. Οι ραδιο δέσμες που εκπέμπονται από το πάλσαρ ακολουθούν την περιστροφή του, σαν φάρος σε ακτή. Λαμβάνονται στη Γη ως σύντομα σήματα ("μπιπ μπιπ μπιπ"). Σχεδόν 2000 πάλσαρς έχουν παρατηρηθεί στο Γαλαξία μας και δισεκατομμύρια υπάρχουν σε ολόκληρο το Σύμπαν.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The pulsar lighthouse effect">
+        <source>The pulsar lighthouse effect</source>
+        <target state="translated">Το φαινόμενο του φάρου των πάλσαρς </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Galaxies are made of cold gas that emits energy in the radio domain. In some galaxies, the centre is buried deep inside lots of dust clouds that shield the visible light from us, but radio waves can pierce through the cloud and can be observed.  They are called “radio galaxies”.">
+        <source>Galaxies are made of cold gas that emits energy in the radio domain. In some galaxies, the centre is buried deep inside lots of dust clouds that shield the visible light from us, but radio waves can pierce through the cloud and can be observed.  They are called “radio galaxies”.</source>
+        <target state="translated">Οι γαλαξίες είναι φτιαγμένοι από ψυχρό αέριο που εκπέμπει ενέργεια στην φασματική περιοχή των ραδιοκυμάτων. Σε ορισμένους γαλαξίες, το κέντρο τους είναι θαμμένο βαθιά μέσα σε νέφη σκόνης τα οποία δεν επιτρέπουν στο ορατό φως να τα διαπεράσει. Όμως τα ραδιοκύματα μπορούν να διαπεράσουν τα νέφη και έτσι να καταγραφούν από τον άνθρωπο. Αυτοί οι γαλαξίες ονομάζονται "ραδιογαλαξίες".</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="False-colour image of the nearby radiogalaxy Centaurus A, showing radio (red), infrared (green) and X-ray emission (blue).">
+        <source>False-colour image of the nearby radiogalaxy Centaurus A, showing radio (red), infrared (green) and X-ray emission (blue).</source>
+        <target state="translated">Εικόνα ψευδών χρωμάτων του κοντινού ραδιογαλαξία Κενταύρου Α, που δείχνει ραδιοακτνοβολία (κόκκινο), υπέρυθρη ακτνοβολία (πράσινο) και ακτονοβολία ακτίνων-Χ (μπλε).</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Cosmic Microwave Background cosmological models predicted that if the Universe originates from a Big Bang, there should be a leftover radiation. It was first discovered in 1964 by American radio astronomers Arno Penzias and Robert Wilson. They were the first to bring a solid observational proof to the Big Bang Theory, and this earned them the 1978 Nobel Prize.">
+        <source>The Cosmic Microwave Background cosmological models predicted that if the Universe originates from a Big Bang, there should be a leftover radiation. It was first discovered in 1964 by American radio astronomers Arno Penzias and Robert Wilson. They were the first to bring a solid observational proof to the Big Bang Theory, and this earned them the 1978 Nobel Prize.</source>
+        <target state="translated">Το Κοσμικό Υπόβαθρο Μικροκυμάτων: Κοσμολογικά μοντέλα προέβλεψαν ότι εάν το Σύμπαν προέρχεται από μα Μεγάλη Έκρηξη, θα πρέπει να έχει απομείνει  μια ακτινοβολία. Αυτή ανακαλύφθηκε για πρώτη φορά το 1964 από τους Αμερικανούς ραδιοαστρονόμους Arno Penzias και Robert Wilson. Ήταν οι πρώτοι που έδωσαν μια ακλόνητη απόδειξη μέσω παρατήρησης για την Θεωρία της Μεγάλης Έκρηξης, και αυτό τους χάρισε το 1978 το βραβείο Νόμπελ.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="In 1054 BC, the Chinese people were able to observe a bright new star in the sky: it was a supernova explosion. A millennium later, we can observe a beautiful nebula in the same place: the Crab nebula. At its very centre lies a peculiar star: a pulsar.">
+        <source>In 1054 BC, the Chinese people were able to observe a bright new star in the sky: it was a supernova explosion. A millennium later, we can observe a beautiful nebula in the same place: the Crab nebula. At its very centre lies a peculiar star: a pulsar.</source>
+        <target state="translated">|Το 1054 π.Χ., οι Κινέζοι μπόρεσαν να παρατηρήσουν ένα νέο φωτεινό αστέρι στον ουρανό: ήταν μια έκρηξη σουπερνόβα. Μία χιλιετία αργότερα, μπορούμε να παρατηρήσουμε ένα όμορφο νεφέλωμα στο ίδιο σημείο: το νεφέλωμα του Καρκίνου. Ακριβώς στο κέντρο του βρίσκεται ένα περίεργο αστέρι: ένα πάλσαρ.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="From Computer to Science:">
+        <source>From Computer to Science:</source>
+        <target state="translated">Από τον Υπολογιστή στην Επιστήμη:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="what information brings a radio signal?">
+        <source>what information brings a radio signal?</source>
+        <target state="translated">τι πληροφορίες μεταφέρει ένα ραδιοσήμα;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What information can we deduce from radio observations? As you should know by now, the spatial resolution of a radio telescope is not that great, unless it’s a huge telescope of 300 m of diameter or an interferometer. For example, a 3m telescope like the one of the EU-HOU project has a resolution of 5°. It’s ten times the angular size of the Sun!  So, no image? Not with a 3m telescope, no. But with an interferometer, like the Plateau de Bure Interferometer for example, you can make some beautiful pictures like this one for example:  It traces the molecular content of a nearby galaxy called the Whirlpool galaxy. Remember, your eyes cannot see radio emission, so astronomers used this colour scale is here to help us: blue is not very intense, and red is the most intense. That means that when it’s the reddest, there are a lot of molecules in there!">
+        <source>What information can we deduce from radio observations? As you should know by now, the spatial resolution of a radio telescope is not that great, unless it’s a huge telescope of 300 m of diameter or an interferometer. For example, a 3m telescope like the one of the EU-HOU project has a resolution of 5°. It’s ten times the angular size of the Sun!  So, no image? Not with a 3m telescope, no. But with an interferometer, like the Plateau de Bure Interferometer for example, you can make some beautiful pictures like this one for example:  It traces the molecular content of a nearby galaxy called the Whirlpool galaxy. Remember, your eyes cannot see radio emission, so astronomers used this colour scale is here to help us: blue is not very intense, and red is the most intense. That means that when it’s the reddest, there are a lot of molecules in there!</source>
+        <target state="translated">Τι πληροφορίες μπορούμε να πάρουμε από τις ραδιοπαρατηρήσεις; Θα πρέπει πλέον να γνωρίζετε ότι η διακριτική ικανότητα ενός ραδιοτηλεσκοπίου δεν είναι τόσο καλή, εκτός και αν πρόκειται για ένα τεράστιο τηλεσκόπιο διαμέτρου 300 μέτρων ή για ένα συμβολόμετρο. Για παράδειγμα, ένα τηλεσκόπιο 3 μέτρων όπως αυτό του προγράμματος EU-HOU έχει διακριτική ικανότητα 5°, δηλαδή δέκα φορές το γωνιακό μέγεθος του Ήλιου!  Επομένως δεν μπορούμε να πάρουμε κάποια ακριβή εικόνα ενός ουράνιου σώματος; Όχι   με ένα τηλεσκόπιο 3 μέτρων. Αλλά με ένα συμβολόμετρο, όπως και το Συμβολόμετρο του Plateau de Bure  για παράδειγμα, μπορείτε να πάρετε κάποιες όμορφες εικόνες, όπως αυτή για παράδειγμα: απεικονίζει το μοριακό περιεχόμενο ενός κοντινού γαλαξία που ονομάζεται γαλαξίας Whirlpool. Θυμηθείτε, τα μάτια σας δεν μπορούν να δουν τα ραδιοκύματα, γι' αυτό οι αστρονόμοι χρησιμοποίησαν αυτήν την χρωματική κλίμακα για να δείξουν την ένταση της ακτινοβολίας: μπλε λιγότερο έντονη, κόκκινη περισσότερο έντονη. Επομένως πολύ κόκκινες περιοχές περιέχουν μεγάλη πυκνότητα μορίων!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="So, no chance to retrieve anything interesting with my 3m radio telescope, then? Yes! Spatial information is not the only thing an astronomer longs for. For example, radio astronomy offers a very interesting physical property: the velocity of what you observe.  How?  ">
+        <source>So, no chance to retrieve anything interesting with my 3m radio telescope, then? Yes! Spatial information is not the only thing an astronomer longs for. For example, radio astronomy offers a very interesting physical property: the velocity of what you observe.  How?  </source>
+        <target state="translated">Επομένως, δεν υπάρχει πιθανότητα να ανακτήσω κάτι ενδιαφέρον με το 3 μέτρων ραδιοτηλεσκόπιο μου;   Μα φυσικά! Η χωρική πληροφορία δεν είναι το μόνο πράγμα που ενδιαφέρει έναν αστρονόμο. Για παράδειγμα, η ραδιοαστρονομία προσφέρει μια πολύ ενδιαφέρουσα φυσική ιδιότητα: την ταχύτητα του αντικειμένου που παρατηρείτε.   Πώς;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Thanks to the Doppler effect! The Doppler effect is the change in wavelength of a wave for an observer moving relative to its source. You can experience the Doppler effect when a vehicle sounding a siren or horn approaches, passes, and recedes from you. It’s this niiiiiiiiuuuuuuuuuum sound! The light, as it’s a wave like the sound, behave the same way:">
+        <source>Thanks to the Doppler effect! The Doppler effect is the change in wavelength of a wave for an observer moving relative to its source. You can experience the Doppler effect when a vehicle sounding a siren or horn approaches, passes, and recedes from you. It’s this niiiiiiiiuuuuuuuuuum sound! The light, as it’s a wave like the sound, behave the same way:</source>
+        <target state="translated">Χάρη στο φαινόμενο Doppler! Το φαινόμενο Doppler είναι η μεταβολή στο μήκος κύματος που προσλαμβάνει ένας παρατηρητής ο οποίος κινείται σε σχέση με την πηγή. Μπορείτε να κατανοήσετε το φαινόμενο Doppler στην περίπτωση ενός οχήματος του οποίου η σειρήνα ηχεί καθώς το όχημα πλησιάζει ή απομακρύνεται, οπότε η συχνότητα της σειρήνας αυξομοιώνεται αντίστοιχα. Το φως, το οποίο είναι και αυτό ένα κύμα όπως ο ήχος, συμπεριφέρεται  με τον ίδιο τρόπο:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="As the photon approaches, its wavelength is shortened in front of it. If it’s originally a yellow photon, then it’s colour turns to blue. We call that a blueshift.  If the photon is going away, then that’s the other way around, the wavelength becomes longer. For our yellow photon, its colour turns to red. It’s a redshift!  So the Doppler effect gives information about the speed of what we are observing. For example, you can see if a star if moving away from us or if it’s coming in our direction, and we can know at what speed it moves.   It’s very useful because knowing the kinematic of the object you are observing allow you to try to reproduce it’s behaviour with computer programs, it’s called modelling. Once you have reproduce a computer model that fits a lot of observation, you can apply it to predict other observations, or guess what’s going to happen to your source in a billion years. For example, with a 3m telescope, you can observe the hydrogen emission line at 21cm. Pointing it to the Milky Way will give you a spectrum, which in that case is the density of hydrogen with respect to its velocity. If along your line of sight you intercepted two spiral arms of the Milky Way moving at a different speed, your spectrum will have two peaks, each at the velocity of its respective arm.   So, with radio observation, I can reconstruct the spiral arms of the Milky Way. How cool is that?!">
+        <source>As the photon approaches, its wavelength is shortened in front of it. If it’s originally a yellow photon, then it’s colour turns to blue. We call that a blueshift.  If the photon is going away, then that’s the other way around, the wavelength becomes longer. For our yellow photon, its colour turns to red. It’s a redshift!  So the Doppler effect gives information about the speed of what we are observing. For example, you can see if a star if moving away from us or if it’s coming in our direction, and we can know at what speed it moves.   It’s very useful because knowing the kinematic of the object you are observing allow you to try to reproduce it’s behaviour with computer programs, it’s called modelling. Once you have reproduce a computer model that fits a lot of observation, you can apply it to predict other observations, or guess what’s going to happen to your source in a billion years. For example, with a 3m telescope, you can observe the hydrogen emission line at 21cm. Pointing it to the Milky Way will give you a spectrum, which in that case is the density of hydrogen with respect to its velocity. If along your line of sight you intercepted two spiral arms of the Milky Way moving at a different speed, your spectrum will have two peaks, each at the velocity of its respective arm.   So, with radio observation, I can reconstruct the spiral arms of the Milky Way. How cool is that?!</source>
+        <target state="translated"> Καθώς μια φωτεινή πηγή πλησιάζει, το μήκος κύματος του φωτός που εκπέμπει μικραίνει ("συμπιέζεται") μπροστά της. Αν αρχικά το φως είναι κίτρινο τότε το χρώμα του γίνεται μπλε. Αυτό ονομάζεται "κυανομετατόπιση" (blueshift). Αν η φωτεινή πηγή απονακρύνεται φωτόνιο, τότε αντίστροφα το μήκος κύματος του φωτός που εκπέμπει γίνεται μεγαλύτερο. Έτσι το κίτρινο φως μετατρέπεται σε κόκκινο και αυτό ονομάζεται "ερυθρομετατόπιση"  (redshift). Επομένως το φαινόμενο Doppler μας δίνει πληροφορίες σχετικά με την κατεύθυνση κίνησης της φωτεινής πηγής που παρατηρούμε, π.χ. ενός άστρου. Και με κάποιες επί πλέον μετρήσεις είναι εύκολο να υπολογίσουμε και την ταχύτητα κίνησής της. Αυτό είναι πολύ χρήσιμο γιατί, για παράδειγμα, γνωρίζοντας την κίνηση του σώματος που παρατηρούμε μας επιτρέπει να προσπαθήσουμε να αναπαράγουμε τη συμπεριφορά του με προγράμματα ηλεκτρονικών υπολογιστών, αυτό λέγεται μοντελοποίηση. Μόλις αναπαράγετε ένα υπολογιστικό μοντέλο που ταιροάζει με τα παρατηρησιακά δεδομένα, μπορείτε να το εφαρμόσετε για την  πρόβλεψη και άλλων παρατηρήσεων, ή για να μαντέψετε τι πρόκειται να συμβεί στην πηγή σας σε ένα δισεκατομμύριο χρόνια. Για παράδειγμα, με ένα τηλεσκόπιο 3μ, μπορείτε να παρατηρήσετε τη γραμμή εκπομπής του υδρογόνου στα 21 εκατοστά. Στρέφοντας το τηλεσκόπιό σας στον Γαλαξία μας θα πάρετε ένα φάσμα, το οποίο στην περίπτωση αυτή εκφράζει την πυκνότητα του υδρογόνου σε σχέση με την ταχύτητα του. Αν κατά μήκος της νοητής γραμμής της όρασής σας παρεμβάλλονται δύο σπειροειδείς βραχίονες του Γαλαξία κινούμενοι με διαφορετική ταχύτητα, το φάσμα σας θα έχει δύο κορυφές, το καθένα με την ταχύτητα του αντίστοιχου βραχίονα του. Έτσι, με την ραδιοπαρατήρηση, μπορούμε να ανακατασκευάσουμε τους σπειροειδείς βραχίονες του Γαλαξία μας.   Πόσο τέλειο είναι αυτό;!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="You want to do that too? Well, you can. Connect to http://www.euhou.net (or flash the QR code down below) and pilot a radio telescope yourself. You will be guided through some exercises to reconstruct the spiral arms of the Milky Way, or search for Dark Matter, with the spectra you will obtain yourself. And you can see the results of your commands in real-time on the telescope thanks to a webcam filming it 24h a day.  ">
+        <source>You want to do that too? Well, you can. Connect to http://www.euhou.net (or flash the QR code down below) and pilot a radio telescope yourself. You will be guided through some exercises to reconstruct the spiral arms of the Milky Way, or search for Dark Matter, with the spectra you will obtain yourself. And you can see the results of your commands in real-time on the telescope thanks to a webcam filming it 24h a day.  </source>
+        <target state="translated">Θα θέλατε να το κάνετε και αυτό; Λοιπόν, μπορείτε να το κάνετε. Συνδεθείτε με το http://www.euhou.net (ή δείτε το QR code παρακάτω) και πιλοτάρετε ένα ραδιοτηλεσκόπιο μόνοι σας. Θα καθοδηγηθείτε  με τη βοήθεια ορισμένων ασκήσεων για να ανακατασκευάσετε τους σπειροειδείς βραχίονες του Γαλαξία, ή να αναζητήσετε  την Σκοτεινή Ύλη, με τη βοήθεια των φασμάτων που θα πάρετε μόνοι σας. Και θα μπορείτε να δείτε τα αποτελέσματα των εντολών σας σε πραγματικό χρόνο στο τηλεσκόπιο χάρης σε μία διαδικτυακή κάμερα που θα κινηματογραφεί όλο το 24ωρο.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="So, what are you waiting for?">
+        <source>So, what are you waiting for?</source>
+        <target state="translated">Λοιπόν, τι περιμένετε;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Radio Astronomy’s Timeline">
+        <source>The Radio Astronomy’s Timeline</source>
+        <target state="translated">Χρονολόγιο της Ραδιοαστρονομίας </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="A little background…">
+        <source>A little background…</source>
+        <target state="translated">Ένα μικρό ιστορικό ...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radio Astronomy">
+        <source>Radio Astronomy</source>
+        <target state="translated">Ραδιοαστρονομία</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The EU-HOUMW project presents: A short review of the radio astronomy history, along with its most famous discoveries.">
+        <source>The EU-HOUMW project presents: A short review of the radio astronomy history, along with its most famous discoveries.</source>
+        <target state="translated">Το EU-HOUMW πρότζεκτ παρουσιάζει:   Μια σύντομη ανασκόπηση της ιστορίας της ραδιοαστρονομίας,   μαζί με τις πιο διάσημες ανακαλύψεις του.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Like">
+        <source>Like</source>
+        <target state="translated">Μου αρέσει</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Message">
+        <source>Message</source>
+        <target state="translated">Μήνυμα </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="I just published a paper called A Dynamical Theory of the Electromagnetic field. I explain how electromagnetic radiations (like light, for example) exist at any wavelengths!">
+        <source>I just published a paper called A Dynamical Theory of the Electromagnetic field. I explain how electromagnetic radiations (like light, for example) exist at any wavelengths!</source>
+        <target state="translated">Μόλις δημοσίευσα ένα άρθρο που ονομάζεται Μια Δυναμική Θεωρία του Ηλεκτρομαγνητικού Πεδίου. Εξηγώ πώς ηλεκτρομαγνητικές ακτινοβολίες (όπως το φως, για παράδειγμα) υπάρχουν σε κάθε μήκος κύματος!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Like - Comment - Share">
+        <source>Like - Comment - Share</source>
+        <target state="translated">Μου αρέσει - Σχόλιο - Μοιράσου το </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Thomas Alva Edison If so, then celestial objects must emit some radio waves too…">
+        <source>Thomas Alva Edison If so, then celestial objects must emit some radio waves too…</source>
+        <target state="translated">Thomas Alva Edison Αν είναι έτσι, τότε τα ουράνια αντικείμενα θα πρέπει να εκπέμπουν επίσης κάποια ραδιοκύματα ...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Max Planck Well, according to my calculations, if we consider that the Sun is a Black Body, its radio emission should be very weak. For the moment I think it is not possible to detect it, even with our best instruments.">
+        <source>Max Planck Well, according to my calculations, if we consider that the Sun is a Black Body, its radio emission should be very weak. For the moment I think it is not possible to detect it, even with our best instruments.</source>
+        <target state="translated">Max Planck Λοιπόν, σύμφωνα με τους υπολογισμούς μου, αν θεωρήσουμε ότι ο Ήλιος είναι ένα Μέλαν Σώμα, οι ραδιοεκπομπές του θα πρέπει να είναι πολύ αδύναμες. Προς το παρόν νομίζω ότι δεν είναι δυνατό να εντοπιστεί, ακόμη και με τα καλύτερα τηλεσκόπιά μας</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Charles Nordmann I think you are right Max, I put an antenna on the Mont Blanc (in France), but I didn’t detect anything.">
+        <source>Charles Nordmann I think you are right Max, I put an antenna on the Mont Blanc (in France), but I didn’t detect anything.</source>
+        <target state="translated">Charles Nordmann Νομίζω ότι έχεις δίκιο Max, έβαλα μια κεραία πάνω στο Mont Blanc (Γαλλία), αλλά δεν εντόπισα τίποτα.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unbelievable! It was a normal day at the Bell telephone company, I was working on my radio antenna to establish transatlantic telephone communications (at 14.5 m wavelength), when I suddenly realise that I was picking up a periodic signal from the sky every day. After further investigations, it turns out to be the radio emission of the centre of the Milky Way, our Galaxy!">
+        <source>Unbelievable! It was a normal day at the Bell telephone company, I was working on my radio antenna to establish transatlantic telephone communications (at 14.5 m wavelength), when I suddenly realise that I was picking up a periodic signal from the sky every day. After further investigations, it turns out to be the radio emission of the centre of the Milky Way, our Galaxy!</source>
+        <target state="translated">Απίστευτο! Ήταν μια κανονική μέρα στην τηλεφωνική εταιρεία Bell, δούλευα στην ράδιο-κεραία μου για να επιτύχω διατλαντική τηλεφωνική επικοινωνία (σε μήκος κύματος 14.5 μ), όταν ξαφνικά συνειδητοποιώ ότι λάμβανα ένα περιοδικό σήμα από τον ουρανό κάθε μέρα. Μετά από περαιτέρω έρευνες, αποδεικνύεται να είναι η ραδιοεκπομπή από το κέντρο του Γαλαξία μας!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="James Stanley Hey Same thing happened to us. We are working with the military to build anti-aircraft radars. Every time we point the radars to the Sun, something is jamming them. I think the Sun is emitting meter wave radiations.">
+        <source>James Stanley Hey Same thing happened to us. We are working with the military to build anti-aircraft radars. Every time we point the radars to the Sun, something is jamming them. I think the Sun is emitting meter wave radiations.</source>
+        <target state="translated">James Stanley Το ίδιο πράγμα συνέβη σε μας. Συνεργαζόμασυε με τον στρατό για την κατασκευή αντιαεροπορικών ραντάρ. Κάθε φορά που τα ραντάρ σημαδεύουν τον Ήλιο, κάτι τους μπλοκάρει. Νομίζω ότι ο ήλιος εκπέμπει ακτινοβολία σε μήκη κύματος τηε τάξης του μέτρου.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Martin Ryle and Antony Hewish Thank you Karl! Owing to your great discovery, we used the Cambridge Interferometer to map the radio sky. We detected a lot of radio sources!">
+        <source>Martin Ryle and Antony Hewish Thank you Karl! Owing to your great discovery, we used the Cambridge Interferometer to map the radio sky. We detected a lot of radio sources!</source>
+        <target state="translated">Martin Ryle και Antony Hewish Σε ευχαριστούμε Karl! Χάρη στη μεγάλη σας ανακάλυψη χρησιμοποιήσαμε το συμβολόμετρο του Cambridge για την χαρτογράφηση του ουρανού στην περιχή των ραδιοκυμάτων. Εντοπίσαμε πολλές ραδιοπηγές!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="37 people like this.">
+        <source>37 people like this.</source>
+        <target state="translated">Αρέσει σε 37 άτομα.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Grote Reber, John Kraus like this.">
+        <source>Grote Reber, John Kraus like this.</source>
+        <target state="translated">Αρέσει στους Grote Reber, John Kraus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="My supervisor, the famous Jan Oort, asked me to find atomic lines in the radio domain. I found an interesting one: it is the hyperfine transition of neutral hydrogen. If my calculations are correct, this line should be at a wavelength of 21 cm. It should be a weak emission, but, hey, hydrogen is the most abundant atom in the Universe. Why not trying to observe it?">
+        <source>My supervisor, the famous Jan Oort, asked me to find atomic lines in the radio domain. I found an interesting one: it is the hyperfine transition of neutral hydrogen. If my calculations are correct, this line should be at a wavelength of 21 cm. It should be a weak emission, but, hey, hydrogen is the most abundant atom in the Universe. Why not trying to observe it?</source>
+        <target state="translated">Ο επιβλέπων καθηγητής μου, ο διάσημος Jan Oort, μου ζήτησε να βρώ ατομικές γραμμές στην φασματική περιοχή των ραδιοκυμάτων. Βρήκα μια ενδιαφέρουσα γραμμή: είναι η υπέρλεπτη μετάβαση του ουδέτερου υδρογόνου. Αν οι υπολογισμοί μου είναι σωστοί, η γραμμή αυτή θα πρέπει να παρατηρείται σε μήκος κύματος 21 εκατοστών. Θα πρέπει να είναι μια αδύναμη εκπομπή, αλλά... ένα λεπτό!  το υδρογόνο είναι το πιο άφθονο άτομο στο Σύμπαν. Γιατί να μην προσπαθήσουμε να το παρατηρήσουμε;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Edward Mills Purcell and Harold Irving Ewen You are right! We built a 1 m x 1 m horn antenna and we detected the 21 cm line! Think about all the implication for radio astronomy! At 21cm the radiation from neutral hydrogen penetrates much farther than visible light, and it is the most abundant atom in the Universe! That means that we can observe large structures, like other galaxies, very far away.">
+        <source>Edward Mills Purcell and Harold Irving Ewen You are right! We built a 1 m x 1 m horn antenna and we detected the 21 cm line! Think about all the implication for radio astronomy! At 21cm the radiation from neutral hydrogen penetrates much farther than visible light, and it is the most abundant atom in the Universe! That means that we can observe large structures, like other galaxies, very far away.</source>
+        <target state="translated">Edward Mills Purcell και Harold Irving Ewen Έχετε δίκιο! Χτίσαμε μια κερατοειδή κεραία 1μ. x 1μ. και εντοπίσαμε την γραμμή εκπομπής στα 21 εκατοστά! Σκεφτείτε όλες τις επιπτώσεις πουαυτό μπορεί να έχει για την ραδιοαστρονομία! Στα 21 εκατοστά η ακτινοβολία από το ουδέτερο υδρογόνο διεισδύει πολύ μακρύτερα απ' ότι το ορατό φως, και αυτό είναι το πιο άφθονο άτομο στο Σύμπαν! Αυτό σημαίνει ότι μπορούμε να παρατηρήσουμε μεγάλες δομές, όπως για παράδειγμα άλλους γαλαξίες που βρίσκονται πολύ μακριά.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Write a comment…">
+        <source>Write a comment…</source>
+        <target state="translated">Γράψτε ένα σχόλιο...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="We think we just found something very interesting for radio astronomy. We are working at the Bell Telephone Company, and we built an antenna that was originally used to communicate with satellites Echo and Telstar 1 (the first telecommunication satellites ever launched). We accidentally discovered an additional noise of unknown origin during observations on the wavelength 7.35 cm. This noise corresponds to a sky temperature of 2.7 K. And it fills the entire sky almost uniformly! We think that we detected the Cosmic Microwave Background predicted by the Big Bang theory.">
+        <source>We think we just found something very interesting for radio astronomy. We are working at the Bell Telephone Company, and we built an antenna that was originally used to communicate with satellites Echo and Telstar 1 (the first telecommunication satellites ever launched). We accidentally discovered an additional noise of unknown origin during observations on the wavelength 7.35 cm. This noise corresponds to a sky temperature of 2.7 K. And it fills the entire sky almost uniformly! We think that we detected the Cosmic Microwave Background predicted by the Big Bang theory.</source>
+        <target state="translated">Πιστεύουμε ότι βρήκαμε κάτι πολύ ενδιαφέρον για την ραδιοαστρονομία. Δουλεύουμε στην τηλεφωνική εταιρεία Bell, και φτιάξαμε μια κεραία που χρησιμοποιήθηκε αρχικά για να επικοινωνούμε με τους δορυφόρους Echo και Telstar 1 (οι πρώτοι δορυφόροι τηλεπικοινωνιών που εκτοξεύθηκαν στο διάστημα). Ανακαλύψαμε τυχαία έναν πρόσθετο θόρυβο άγνωστης προέλευσης κατά τη διάρκεια παρατήρησης σε μήκος κύματος 7.35 εκατοστών. Αυτός ο θόρυβος αντιστοιχεί σε θερμοκρασία 2.7 Κέλβιν και γεμίζει τον ουρανό σχεδόν ομοιόμορφα! Πιστεύουμε ότι έχουμε εντοπίσει την Κοσμική Μικροκυματική Ακτινοβολία Υποβάθρου η οποία προβλέπεται από τη θεωρία της Μεγάλης Έκρηξης.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Robert Henry Dicke Well boys, we’ve been scooped…">
+        <source>Robert Henry Dicke Well boys, we’ve been scooped…</source>
+        <target state="translated">Robert Henry Dicke Λοιπόν αγόρια, μας έχουν υπερφαλαγγίσει ...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Nobel Prize Committee Guys, you just gave the most important clue in favour of the Big Bang theory. How about a Nobel Prize in physics?">
+        <source>Nobel Prize Committee Guys, you just gave the most important clue in favour of the Big Bang theory. How about a Nobel Prize in physics?</source>
+        <target state="translated">Παιδιά της Επιτροπής Βραβείων Νόμπελ, μόλις δώσατε την πιο σημαντική ένδειξη υπέρ της θεωρίας της Μεγάλης Έκρηξης. Τι θα λέγατε για ένα βραβείο Νόμπελ Φυσικής;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Robert Wilson, Arno Penzias like this.">
+        <source>Robert Wilson, Arno Penzias like this.</source>
+        <target state="translated">Αρέσει στους Robert Wilson, Arno Penzias</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hands-On Universe, Europe ">
+        <source>Hands-On Universe, Europe </source>
+        <target state="translated">Hands-On Universe, Ευρώπη</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Connecting Classrooms to the Milky Way">
+        <source>Connecting Classrooms to the Milky Way</source>
+        <target state="translated">Σύνδέοντας την Τάξη με τον Γαλαξία</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Our project currently includes 11 countries: Germany, Belgium, Cyprus, Spain, France, Greece, Poland, Portugal, Sweden, Romania, UK, and is sustaining a growing community of teachers and educators since 2004.">
+        <source>Our project currently includes 11 countries: Germany, Belgium, Cyprus, Spain, France, Greece, Poland, Portugal, Sweden, Romania, UK, and is sustaining a growing community of teachers and educators since 2004.</source>
+        <target state="translated">Το πρόγραμμά μας στο παρόν περιλαμβάνει 11 χώρες: Γερμανία, Βέλγιο, Κύπρο, Ισπανία, Γαλλία, Ελλάδα, Πολωνία, Πορτογαλία, Σουηδία, Ρουμανία, Ηνωμένο Βασίλειο και από το 2004 υποστηρίζει μια συνεχώς αυξανόμενη κοινότητα εκπαιδευτικών και εκπαιδευτών.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The EU-HOU activities inspired the educational systems of many European countries, and some of the exercises that can be found in the website were used to design pedagogical material used in textbook.">
+        <source>The EU-HOU activities inspired the educational systems of many European countries, and some of the exercises that can be found in the website were used to design pedagogical material used in textbook.</source>
+        <target state="translated">Οι δραστηριότητες του EU-HOU έδωσαν έμπνευση στα εκπαιδευτικά συστήματα πολλών ευρωπαϊκών χωρών, και μερικές από τις ασκήσεις που υπάρχουν στην ιστοσελίδα μας χρησιμοποιήθηκαν για το σχεδιασμό του παιδαγωγικού υλικού που χρησιμοποιείται στα διδακτικά βιβλία.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The network of 6 radio telescopes, in France, Portugal, Spain, Poland, and Romania, allows on-line observations of the gas of the Milky Way in classrooms. These instruments operate in the radio domain and enable the observations 24 hours a day. These wavelengths are not sensitive to bad weather conditions and can be used during the day (and night), which is well adapted for educational timing and constraints. Want to try? Visit our website and register for a free account!">
+        <source>The network of 6 radio telescopes, in France, Portugal, Spain, Poland, and Romania, allows on-line observations of the gas of the Milky Way in classrooms. These instruments operate in the radio domain and enable the observations 24 hours a day. These wavelengths are not sensitive to bad weather conditions and can be used during the day (and night), which is well adapted for educational timing and constraints. Want to try? Visit our website and register for a free account!</source>
+        <target state="translated">Το δίκτυο των 6 ραδιοτηλεσκόπιων, στη Γαλλία, την Πορτογαλία, την Ισπανία, την Πολωνία και τη Ρουμανία επιτρέπει την απ'ευθείας διαδικτυακή παρατήρηση του αερίου στον Γαλαξία μας, από την αίθουσα διδασκαλίας του σχολείου. Τα όργανα αυτά λειτουργούν στην φασματική περιοχή ραδιοκυμάτων, επομένως κάνουν δυνατή την παρατήρηση 24 ώρες την ημέρα. Αυτά τα μήκη κύματος δεν επηρεάζονται από τις καιρικές συνθήκε, επομένωςς μπορούν να χρησιμοποιηθούν κατά τη διάρκεια της ημέρας (και φυσικά και της νύχτας), επομένως είναι πλήρως προσαρμοσμένα στους εκπαιδευτικούς χρονικούς περιορισμούς. Θέλετε να δοκιμάσετε; Επισκεφθείτε την ιστοσελίδα μας και να εγγραφείτε για να αποκτήσετε ένα δωρεάν λογαριασμό!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="My Radio Astronomy ">
+        <source>My Radio Astronomy </source>
+        <target state="translated">Η Ραδιοαστρονομία μου</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Write your comments, unleash your imagination!">
+        <source>Write your comments, unleash your imagination!</source>
+        <target state="translated">Γράψτε τα σχόλια σας, απελευθερώστε την φαντασία σας!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Earth-Moon distance is approximately 380,000 km">
+        <source>The Earth-Moon distance is approximately 380,000 km</source>
+        <target state="translated">Η απόσταση Γης - Σελήνης είναι περίπου 380,000 χλμ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SKY">
+        <source>SKY</source>
+        <target state="translated">ΟΥΡΑΝΟΣ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Small Antenna">
+        <source>Small Antenna</source>
+        <target state="translated">Μικρή κεραία</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bandpass Filter">
+        <source>Bandpass Filter</source>
+        <target state="translated">Φίλτρο Φασματικής Περιοχής</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Frequency Amplifier">
+        <source>High Frequency Amplifier</source>
+        <target state="translated">Ενισχυτής Υψηλής Συχνότητας</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FSKY">
+        <source>FSKY</source>
+        <target state="translated">FSKY</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="MIXER">
+        <source>MIXER</source>
+        <target state="translated">ΜΙΚΤΗΣ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Local Oscillator">
+        <source>Local Oscillator</source>
+        <target state="translated">Τοπικός Ταλαντωτής </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FSKY - FLO">
+        <source>FSKY - FLO</source>
+        <target state="translated">FSKY - FLO</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Intermediate Frequency Amplifier">
+        <source>Intermediate Frequency Amplifier</source>
+        <target state="translated">Ενισχυτής Μέσης Συχνότητας</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FIntermediate">
+        <source>FIntermediate</source>
+        <target state="translated">Eνδιάμεση</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Analog to Digital Converter">
+        <source>Analog to Digital Converter</source>
+        <target state="translated">Μετατροπέας Αναλογικού σε Ψηφιακό </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="PC">
+        <source>PC</source>
+        <target state="translated">Ηλεκτρονικός υπολογιστής</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Sun as it appears to the eye. At the time of the picture, two black sunspots could be seen at the centre. ">
+        <source>The Sun as it appears to the eye. At the time of the picture, two black sunspots could be seen at the centre. </source>
+        <target state="translated">Ο Ήλιος, όπως φαίνεται με το μάτι. Κατά τον χρόνο λήψης της φωτογραφίας, στο κέντρο ήταν ορατές δύο μαύρες ηλιακές κηλίδες.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Sun as it appears in radio emission. The sun spots at the Solar equator are sites of intense radio wave emission (colored red).">
+        <source>The Sun as it appears in radio emission. The sun spots at the Solar equator are sites of intense radio wave emission (colored red).</source>
+        <target state="translated">Ο Ήλιος, όπως φαίνεται στα ραδιοκύματα. Οι ηλιακές κηλίδες στον ισημερινό του Ήλιου είναι περιοχές έντονης εκπομπής ραδιοκυμάτων (κόκκινο χρώμα).</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Wavelength">
+        <source>Wavelength</source>
+        <target state="translated">Μήκος κύματος </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This project has been funded with support from the European Commission. This communication reflects the views only of the author, and the Commission cannot be held responsible for any use which may be made of the information contained therein.">
+        <source>This project has been funded with support from the European Commission. This communication reflects the views only of the author, and the Commission cannot be held responsible for any use which may be made of the information contained therein.</source>
+        <target state="translated">Αυτό το πρόγραμμα έχει χρηματοδοτηθεί με την υποστήριξη της Ευρωπαϊκής Επιτροπής. Η παρούσα ανακοίνωση δεσμεύει μόνο τον συντάκτη της και   η Επιτροπή δεν μπορεί να θεωρηθεί υπεύθυνη για οποιαδήποτε χρήση μπορεί να γίνει των πληροφοριών που περιέχονται σε αυτήν.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="European Coordinator of the EU-HOUMW project">
+        <source>European Coordinator of the EU-HOUMW project</source>
+        <target state="translated">Ευρωπαίος Συντονιστής του έργου EU-HOUMW</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Partner in charge of the dissemination  of this exhibit">
+        <source>Partner in charge of the dissemination  of this exhibit</source>
+        <target state="translated">Υπεύθυνος για την   διάδοση αυτής της έκθεσης</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Production and Design: ">
+        <source>Production and Design: </source>
+        <target state="translated">Παραγωγή και Σχεδιασμός:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Astronomers use λ after the Tera- prefix">
+        <source>Astronomers use λ after the Tera- prefix</source>
+        <target state="translated">Οι αστρονόμοι χρησιμοποιούν το λ μετά το πρόθεμα Tera</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="(Credit: NRAO/AUI/NSF/F.Zadeh et al.) This image obtained at the VLA shows the spectacular filamentary structures that appear toward the Galactic center (the bright spot) in centimetre radio wavelengths. This emission originates from plasma flowing along lines of magnetic field, which produces this arc formation that is called the Arches.">
+        <source>(Credit: NRAO/AUI/NSF/F.Zadeh et al.) This image obtained at the VLA shows the spectacular filamentary structures that appear toward the Galactic center (the bright spot) in centimetre radio wavelengths. This emission originates from plasma flowing along lines of magnetic field, which produces this arc formation that is called the Arches.</source>
+        <target state="translated">(Credit: NRAO/AUI/NSF/F.Zadeh et al.) Αυτή η εικόνα λήφθηκε στο VLA και δείχνει τις θεαματικές νηματοειδείς δομές που εμφανίζονται προς την κατέύθυνση του γαλαξιακού κέντρου (το φωτεινό σημείο) στα εκατοστομετρικά μήκη ραδιοκυμάτων. Αυτή η εκπομπή προέρχεται από το πλάσμα που ρέει κατά μήκος των γραμμών μαγνητικού πεδίου, η οποία παράγει αυτό τον τοξοειδή σχηματισμό που ονομάζεται Arches.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Galactic centre the galactic centre of the Milky Way was the first radio source to be detected by Karl Jansky in 1932. It contains a number of radio sources, including Sagittarius A and the supermassive black hole at Sagittarius A*.">
+        <source>The Galactic centre the galactic centre of the Milky Way was the first radio source to be detected by Karl Jansky in 1932. It contains a number of radio sources, including Sagittarius A and the supermassive black hole at Sagittarius A*.</source>
+        <target state="translated">Το κέντρο του Γαλαξία μας ήταν η πρώτη ραδιοπηγή που ανιχνεύθηκε από τον Karl Jansky το 1932. Περιέχει έναν αριθμό ραδιοπηγών, συμπεριλαμβανομένου του Τοξότη Α και της υπερμεγέθους μαύρης τρύπας στον Τοξότη Α *.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Map of the CMB in millimetre wavelengths. It was obtained by the satellite WMAP">
+        <source>Map of the CMB in millimetre wavelengths. It was obtained by the satellite WMAP</source>
+        <target state="translated">Χάρτης του Κοσμικού Υποβάθρου Μικροκυμάτων (CMB) σε μήκη κύματος χιλιοστομέτρου. Λήφθηκε από τον δορυφόρο WMAP</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The EU-HOU (Hands-On Universe, Europe) project uses the excitement of doing real astronomy as a vector to boost science education all over Europe. With the use of state-of-the-art astronomy products combined with new technologies, the project aims at renewing the interest of primary and secondary students for sciences. On the website www.euhou.net, pedagogical resources are available in multiple form. It can be hands-on experiment, exercises, as well as real-time observation with telescopes from all over Europe.  With the worldwide Square Kilometre Array and Atacama Large Millimetre Array projects aiming at building the biggest radio observatories ever, radioastronomy is entering a new golden age and will unveil the Universe as never before. In that context, since 2010 the EU-HOU project took a big step towards radio astronomy, by deploying the first European network of radiotelescopes for education, enabling schools to explore the Milky Way through Internet, and IBSE pedagogical resources to be used in the classrooms.">
+        <source>The EU-HOU (Hands-On Universe, Europe) project uses the excitement of doing real astronomy as a vector to boost science education all over Europe. With the use of state-of-the-art astronomy products combined with new technologies, the project aims at renewing the interest of primary and secondary students for sciences. On the website www.euhou.net, pedagogical resources are available in multiple form. It can be hands-on experiment, exercises, as well as real-time observation with telescopes from all over Europe.  With the worldwide Square Kilometre Array and Atacama Large Millimetre Array projects aiming at building the biggest radio observatories ever, radioastronomy is entering a new golden age and will unveil the Universe as never before. In that context, since 2010 the EU-HOU project took a big step towards radio astronomy, by deploying the first European network of radiotelescopes for education, enabling schools to explore the Milky Way through Internet, and IBSE pedagogical resources to be used in the classrooms.</source>
+        <target state="translated">Το πρόγραμμα EU-HOU (Hands-On Universe, Europe) αξιοποιεί τον ενθουσιασμό της πρακτικής αστρονομίας ως φορέα για την ενίσχυση της επιστημονικής εκπαίδευσης σε όλη την Ευρώπη. Με τη χρήση των πιο πρόσφατων προϊόντων αστρονομίας σε συνδυασμό με τις νέες τεχνολογίες, το έργο στοχεύει στην ανανέωση του ενδιαφέροντος των μαθητών πρωτοβάθμιας και δευτεροβάθμιας εκπαίδευσης για τις επιστήμες. Στην ιστοσελίδα μας www.euhou.net υπάρχει διαθέσιμο παιδαγωγικό υλικό σε πολλαπλές μορφές: χειροπιαστά πειράματα, ασκήσεις, καθώς και δυνατότητα παρατηρήσεων σε πραγματικό χρόνο με τηλεσκόπια που βρίσκονται σε διάφορες ευρωπαϊκές χώρες. Τα πρόσφατα προγράμματα Square Kilometre Array και Atacama Large Millimetre Array αποσκοπούν στην οικοδόμηση του μεγαλύτερου ως τώρα ραδιοτηλεσκοπίου σε παγκόσμια κλίμακα. Με αυτό τον τρόπο η ραδιοαστρονομία εισέρχεται σε μια νέα χρυσή εποχή που υπόσχεται να αποκαλύψει το Σύμπαν όπως ποτέ πριν. Το πρόγραμμα  ΕU-HOU έχει κάνει από το 2010 ένα μεγάλο βήμα προς την κατεύθυνση της ραδιοαστρονομίας αναπτύσσοντας το πρώτο Ευρωπαϊκό δίκτυο ραδιοτηλεσκοπίων για εκπαιδευτικούς σκοπούς, που επιτρέπει στους μαθητές πρωτοβάθμιας και δευτεροβάθμιας εκπαίδευσης να εξερευνήσουν τον Γαλαξία μας μέσω του διαδικτύου και προσφέρει παιδαγωγικές πηγές που βασίζονται στη ερευνητική εκπαιδευτική μέθοδο (Inquiry Based Science Education - IBSE) οι οποίες μπορούν να χρησιμοποιηθούν στην τάξη.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="On the picture, from left to right, and from top to bottom: Cecilia Kozma , Maria Loizou , Yannick Libert , F. Miranda , Eleni Chatzichristou , Sotira Trifourki , Krzysztof Chyzy , Rosa Doran , Peter Kalberla , Roger Ferlet , Rodrigo Alvarez , Cezar Lesanu , Radu Constantinescu , Lech Mankiewicz , Anne-Laure Melchior .">
+        <source>On the picture, from left to right, and from top to bottom: Cecilia Kozma , Maria Loizou , Yannick Libert , F. Miranda , Eleni Chatzichristou , Sotira Trifourki , Krzysztof Chyzy , Rosa Doran , Peter Kalberla , Roger Ferlet , Rodrigo Alvarez , Cezar Lesanu , Radu Constantinescu , Lech Mankiewicz , Anne-Laure Melchior .</source>
+        <target state="translated">Στην εικόνα, από αριστερά προς δεξιά, και από πάνω προς τα κάτω: Σεσίλια Κοσμά , Μαρία Λοϊζου , Yannick Libert , Francisca Miranda , Ελένη Χατζηχρήστου ,  Σωτήρα Τριφούκη , Krzysztof Chyzy , Rosa Doran , Peter Kalberla , Roger Ferlet , Rodrigo Alvarez , Cezar Lesanu , Radu Constantinescu , Lech Mankiewicz , Anne-Laure Melchior .</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="translator-credits">
+        <source>translator-credits</source>
+        <target state="translated">πιστωτκές μονάδες μεταφραστή</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

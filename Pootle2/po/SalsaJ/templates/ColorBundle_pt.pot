@@ -1,0 +1,90 @@
+#. extracted from ../templates/ColorBundle.properties, ../resu/ColorBundle_pt.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: BackGColor
+msgid "Background Color"
+msgstr "Cor de Fundo"
+
+#: BlackColor
+msgid "black"
+msgstr "preto"
+
+#: BlueColor
+msgid "blue"
+msgstr "azul"
+
+#: Clipboard
+msgid "Clipboard"
+msgstr "Área de Transferência (Clipboard)"
+
+#: ColorNone
+msgid "none"
+msgstr "nenhuma"
+
+#: ColorRGB
+msgid "R/V/B"
+msgstr "RGB"
+
+#: CyanColor
+msgid "cyan"
+msgstr "ciano"
+
+#: DGrayColor
+msgid "dark gray"
+msgstr "cinzento escuro"
+
+#: ForGColor
+msgid "Foreground Color"
+msgstr "Cor de Primeiro Plano"
+
+#. ##NEW
+#: GrayColor
+msgid "gray"
+msgstr "cinzento"
+
+#: GreenColor
+msgid "green"
+msgstr "verde"
+
+#: LGrayColor
+msgid "light gray"
+msgstr "cinzento claro"
+
+#: MagentaColor
+msgid "magenta"
+msgstr "magenta"
+
+#: OrangeColor
+msgid "orange"
+msgstr "laranja"
+
+#: Ramp
+msgid "Ramp"
+msgstr "Gradiente"
+
+#: RedColor
+msgid "red"
+msgstr "vermelho"
+
+#: SelectionColor
+msgid "Selection Color"
+msgstr "Cor da Selecção"
+
+#: WhiteColor
+msgid "white"
+msgstr "branco"
+
+#: YellowColor
+msgid "yellow"
+msgstr "amarelo"

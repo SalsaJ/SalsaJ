@@ -1,0 +1,829 @@
+#. extracted from files/locale.properties, files/locale_EN.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-24 19:26+0200\n"
+"PO-Revision-Date: 2012-11-17 07:28+0200\n"
+"Last-Translator: Eleni <elthchatz@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#; Thank you for your help to translate this file. 
+#; It corresponds to the Web interface developed to 
+#; remotely control the EUHOU-MW SRT network, 
+#; actually hosted at http://euhou.obspm.fr
+#: [base]
+msgctxt "[base]"
+msgid ""
+msgstr ""
+
+#: home
+msgid "\"Home\""
+msgstr "\"Αρχική σελίδα\""
+
+#: observer
+msgid "\"Observer\""
+msgstr "\"Παρατηρητής\""
+
+#: simulator
+msgid "\"Simulator\""
+msgstr "\"Προσομοιωτής\""
+
+#: archive
+msgid "\"Archive\""
+msgstr "\"Αρχείο\""
+
+#: credits
+msgctxt "credits"
+msgid "\"Credits\""
+msgstr "\"Συντελεστές\""
+
+#: radioTelescope
+msgid "\"radio telescope\""
+msgstr "\"ραδιοτηλεσκόπιο\""
+
+#: login
+msgid "\"Username\""
+msgstr "\"Όνομα χρήστη\""
+
+#: password
+msgid "\"Password\""
+msgstr "\"Κωδικός πρόσβασης\""
+
+#: password_confirmation
+msgid "\"Password confirmation\""
+msgstr "\"Επιβεβαίωση κωδικού\""
+
+#: first_name
+msgid "\"First name\""
+msgstr "\"Όνομα\""
+
+#: last_name
+msgid "\"Last name\""
+msgstr "\"Επώνυμο\""
+
+#: email
+msgid "\"Email\""
+msgstr "\"Ηλεκτρονικό ταχυδρομείο\""
+
+#: country
+msgid "\"Country\""
+msgstr "\"Χώρα\""
+
+#: language
+msgid "\"Language\""
+msgstr "\"Γλώσσα\""
+
+#: status
+msgid "\"Status\""
+msgstr "\"Κατάσταση\""
+
+#: motivation
+msgid "\"Motivation\""
+msgstr "\"Κίνητρο\""
+
+#: status_1
+msgid "\"researcher\""
+msgstr "\"ερευνητής\""
+
+#: status_2
+msgid "\"teacher\""
+msgstr "\"καθηγητής\""
+
+#: status_3
+msgid "\"student\""
+msgstr "\"φοιτητής\""
+
+#: status_4
+msgid "\"other\""
+msgstr "\"άλλα\""
+
+#: Paris
+msgid "\"Paris 2m (FR)\""
+msgstr "\"Παρίσι 2m(FR)\""
+
+#: Cracovie
+msgid "\"Krakow (PL)\""
+msgstr "\"Κρακοβία (PL)\""
+
+#: Craiova
+msgid "\"Craiova (RO)\""
+msgstr "\"Craiova (RO)\""
+
+#: Paris2
+msgid "\"Paris 3m (FR)\""
+msgstr "\"Παρίσι 3m (FR)\""
+
+#: Madrid
+msgid "\"Madrid (ES)\""
+msgstr "\"Μαδρίτη (ES)\""
+
+#: to_login
+msgid "\"Log in\""
+msgstr "\"Σύνδεση\""
+
+#: register
+msgid "\"Create your account\""
+msgstr "\"Δημιουργία λογαριασμού\""
+
+#: booking
+msgid "\"Booking\""
+msgstr "\"Κρατήσεις\""
+
+#: myInformation
+msgid "\"My informations\""
+msgstr "\"Οι πληροφορίες μου\""
+
+#: administration
+msgid "\"Administration\""
+msgstr "\"Διαχείρηση\""
+
+#: account_requests
+msgid "\"Account Requests\""
+msgstr "\"Αιτήσεις λογαριασμών\""
+
+#: delete_time_slots
+msgid "\"Delete time slots\""
+msgstr "\"Διαγραφή χρονοθυρίδων\""
+
+#: account_list
+msgid "\"Account list\""
+msgstr "\"Λίστα λογαριασμών\""
+
+#: webcam
+msgid "\"Webcam\""
+msgstr "\"Βιντεοκάμερα\""
+
+#: logout
+msgid "\"Log out\""
+msgstr "\"Αποσύνδεση\""
+
+#: forgotten_password
+msgid "\"Password forgotten\""
+msgstr "\"Υπενθύμιση κωδικού\""
+
+#: date
+msgid "\"Date\""
+msgstr "\"Ημερομηνία\""
+
+#: cancel_button
+msgid "\"Cancel\""
+msgstr "\"Ακύρωση \""
+
+#: enter_your_email
+msgid "\"Enter your email\""
+msgstr "\"Εισαγωγή ηλεκτρονικού ταχυδρομίου\""
+
+#: [info_errors]
+msgctxt "[info_errors]"
+msgid ""
+msgstr ""
+
+#: error_title
+msgid "\"There are # errors\"       ; There are 3 errors"
+msgstr "\"Υπάρχουν # σφάλματα\"  ;Υπάρχουν 3 σφάλματα"
+
+#: empty_parameter_error
+msgid "\"cannot be empty\""
+msgstr "\"δεν μπορεί να είναι κενό\""
+
+#: dont_exist
+msgid "\"doesn't exist\""
+msgstr "\"δεν υπάρχει\""
+
+#: too_short_parameter_error
+msgid "\"must have at least # characters\" ; must have at least 8 characters "
+msgstr ""
+"\"πρέπει να αποτελείται από τουλάχιστον # χαρακτήρες\" πρέπει να αποτελείται "
+"από τουλάχιστον 8 χαρακτήρες "
+
+#: login_cararcter_restraint_error
+msgid "\"must consist of a-z A-Z 0-9\""
+msgstr "\"πρέπει να αποτελείται από a-z A-Z 0-9\""
+
+#: name_cararcter_restraint_error
+msgid "'cannot contain characters other than letters, numbers and \"_\"'"
+msgstr ""
+"'δεν μπορεί να περιέχει χαρακτήρες εκτός από γράμματα,αριθμούς και  \"_\"'"
+
+#: login_not_available_error
+msgid "\"is not available\""
+msgstr "\"δεν είναι διαθέσιμο\""
+
+#: incorrect_password_error
+msgid "\"is incorrect\""
+msgstr "\"είναι λάθος\""
+
+#: mail_incorrect_shape_error
+msgid "\"must be have the format: toto@tata.net\""
+msgstr "\"θα πρέπει να έχει την μορφή: toto@tata.net\""
+
+#: mail_not_available_error
+msgid "\"already related to another account\""
+msgstr "\"ήδη σχετίζεται με άλλο λογαριασμό\""
+
+#: date_in_the_past_error
+msgid "\"date cannot be in the past\""
+msgstr "\"η ημερομηνία δεν μπορεί να είναι στο παρελθόν\""
+
+#: radiotelescope_not_available_error
+msgid "\"not available\""
+msgstr "\"μη διαθέσιμο \""
+
+#: is_not_a_date_error
+msgid "\"is not a date\""
+msgstr "\"δεν είναι ημερομηνία\""
+
+#: [index]
+msgctxt "[index]"
+msgid ""
+msgstr ""
+
+#: welcome
+msgid "\"Welcome\""
+msgstr "\"Καλώς ορίσατε\""
+
+#: welcome_txt
+msgid ""
+"\"<span class='date'>November 24, 2011</span> | EU-HOU radio "
+"astronomy<br/>Welcome to Hands-On Universe, Europe. The aim of this site is "
+"to give remote access to small radio telescopes installed throughout Europe. "
+"It is possible to operate these telescopes remotly.  Based on your "
+"observations, you will be able to build a map of our galaxy, the Milky "
+"Way...\""
+msgstr ""
+"\"<span class='date'>24 Νοεμβρίου, 2011</span> | EU-HOU ραδιοαστρονομία "
+"<br/>Καλώς ήλθατε στο Ευρωπαϊκό Hands-On Universe. Ο σκοπός αυτής της "
+"ιστοσελίδας είναι να παρέχει εξ'αποστάσεως πρόσβαση σε μικρά ραδιοτηλεσκόπια "
+"εγκατεστημένα σε όλη την Ευρώπη. Είναι δυνατόν να χρησιμοποιήσετε αυτά τα "
+"τηλεσκόπια εξ'αποστάσεως. Με βάση τις παρατηρήσεις σας, θα είστε σε θέση να "
+"χαρτογραφήσετε τον Γαλαξία μας...\""
+
+#: observer_txt
+msgid ""
+"\"Web interface to remotely use the Antenna. A login and password are "
+"required to access this facility.\""
+msgstr ""
+"\"Διαδικτυακή διεπαφή για την εξ'αποστάσεως χρήση της Κεραίας. Απαιτείται "
+"όνομα χρήστη και κωδικός για την πρόσβαση σας.\""
+
+#: simulator_txt
+msgid ""
+"\"Web interface to access the LAB database and tools to interactively perform "
+"the Milky Way-exercise (rotation curve and spiral arms)\" "
+msgstr ""
+"\"Διαδικτυακή διεπαφή για να αποκτήσετε πρόσβαση στη βάση δεδομένων LAB και "
+"στα αντίστοιχα διαδραστικά εργαλεία για να εκτελέσετε την άσκηση που αφορά "
+"τον Γαλαξία (καμπύλη περιστροφής και σπειροειδείς βραχίονες)\""
+
+#: archive_txt
+msgid ""
+"\"Database of the all the observations taken with the 5 antennas together "
+"with tools to (i) display and download the archived results and (ii) create "
+"a map of the Milky Way.\""
+msgstr ""
+"\"Βάση δεδομένων από όλες τις παρατηρήσεις που λήφθηκαν από τις 5 κεραίες, "
+"καθώς και τα εργαλεία για (i) να εμφανίσετε και να κατεβάσετε τα "
+"αρχειοθετημένα αποτελέσματα και (ii) να δημιουργήσετε ένα χάρτη του Γαλαξία "
+"μας.\""
+
+#: msg_registred
+msgid "\"You have been registered; please wait for the comfirmation email\""
+msgstr "\"Έχετε ήδη εγγραφεί, παρακαλώ περιμένετε για το e-mail επιβεβαίωσης\""
+
+#: msg_dont_touch_parameters
+msgid "\"Don't modify the link\""
+msgstr "\"Μην τροποποιείτε το σύνδεσμο\""
+
+#: msg_need_a_password
+msgid "\"You must give a password\""
+msgstr "\"Πρέπει να εισάγετε έναν κωδικό πρόσβασης\""
+
+#: msg_need_a_login
+msgid "\"You must give a login\""
+msgstr "\"Πρέπει να εισάγετε όνομα χρήστη\""
+
+#: msg_login_password_incorrect
+msgid "\"Your login or password is incorrect\""
+msgstr "\"Το όνομα χρήστη ή ο κωδικός πρόσβασης είναι λάθος\""
+
+#: msg_not_valid_account
+msgid "\"Your account hasn't been validated yet\""
+msgstr "\"Ο λογαριασμός σας δεν έχει επικυρωθεί ακόμη\""
+
+#: msg_not_allowed
+msgid "\"you are not allowed to go on this page\""
+msgstr "\"δεν επιτρέπεται η πρόσβαση σε αυτή την σελίδα\""
+
+#: msg_not_reserved
+msgid "\"you have no reservation for now\""
+msgstr "\"δεν έχετε καμία κράτηση για τώρα\""
+
+#: msg_wait_for_validation
+msgid ""
+"\"You've already validated your email, please wait for the admin validation\""
+msgstr ""
+"\"Έχετε ήδη επικυρώσει το e-mail σας, παρακαλώ περιμένετε για την επικύρωση "
+"απο τον διαχειριστή\""
+
+#: msg_already_valid
+msgid "\"Your account is already valid, you can reserve time slots to observe\""
+msgstr ""
+"\"Ο λογαριασμός σας είναι ήδη ενεργός, μπορείτε να κάνετε κράτηση σε "
+"χρονοθυρίδες για την παρατήρηση\""
+
+#: msg_deleted_account
+msgid "\"Your account has been deleted. Create another account\""
+msgstr "\"Ο λογαριασμός σας έχει διαγραφεί. Δημιουργήστε νέο λογαριασμό\""
+
+#: msg_validated_account
+msgid ""
+"\"Your e-mail address has been validated. You now need to wait for an "
+"administator to validate your account, based on your motivation. You will "
+"received an email when your account has been approved and is active\""
+msgstr ""
+"\"Η ηλεκτρονική διεύθυνσή σας έχει επικυρωθεί. Θα πρέπει τώρα να περιμένετε "
+"για να επικυρωθεί ο λογαριασμός σας από τον διαχειρηστή, με βάση το κίνητρό "
+"σας. Θα λάβετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου, όταν ο λογαριασμός σας "
+"έχει εγκριθεί και είναι ενεργός\""
+
+#: msg_broken_link
+msgid "\"Sorry, it did not work. Please create a new account\""
+msgstr "\"Συγνώμη, δεν ολοκληρώθηκε. Παρακαλώ δημιουργήστε νέο λογαριασμό\""
+
+#: [login]
+msgctxt "[login]"
+msgid ""
+msgstr ""
+
+#: enter_login_password
+msgid "\"Enter your login and password\""
+msgstr "\"Εισάγετε όνομα χρήστη και κωδικό πρόσβασης\""
+
+#: [register]
+msgctxt "[register]"
+msgid ""
+msgstr ""
+
+#: register_title
+msgid "\"Create an account to make a reservation and observe\""
+msgstr "\"Δημιουργήστε ένα λογαριασμό για να κάνετε κράτηση για παρατηρήσεις\""
+
+#: [booking]
+msgctxt "[booking]"
+msgid ""
+msgstr ""
+
+#: scheduler_title
+msgid "\"Scheduler\""
+msgstr "\"Οργανωτής χρονοδιαγράμματος\""
+
+#: date_of_reservation
+msgid "\"Date of reservation (UTC)\""
+msgstr "\"Ημερομηνία κράτησης (UTC)\""
+
+#: duration
+msgid "\"Duration\""
+msgstr "\"Διάρκεια\""
+
+#: reserve
+msgid "\"Reserve\""
+msgstr "\"Κράτηση\""
+
+#: this_week
+msgid "\"this week\""
+msgstr "\"αυτή την εβδομάδα\""
+
+#: date_UTC
+msgid "\"date (UTC)\""
+msgstr "\"ημερομηνία (UTC)\""
+
+#: [userPage]
+msgctxt "[userPage]"
+msgid ""
+msgstr ""
+
+#: user_page_title
+msgid "\"My information\""
+msgstr "\"Οι πληροφορίες μου\""
+
+#: my_slot
+msgid "\"My slots\""
+msgstr "\"Οι θυρίδες μου\""
+
+#: my_data
+msgid "\"My data\""
+msgstr "\"Τα δεδομένα μου\""
+
+#: no_futur_reservation_message
+msgid "\"You have no future reservations\""
+msgstr "\"Δεν έχετε μελλοντικές κρατήσεις\""
+
+#: change_button
+msgid "\"Edit\""
+msgstr "\"Επεξεργασία\""
+
+#: valid_change_button
+msgid "\"Valid change\""
+msgstr "\"Έγκυρη αλλαγή\""
+
+#: delete_account_button
+msgid "\"Delete my account\""
+msgstr "\"Διαγραφή του λογαριασμού μου\""
+
+#: delete_time_slote
+msgid "\"delete\""
+msgstr "\"διαγραφή\""
+
+#: [credits]
+msgctxt "[credits]"
+msgid ""
+msgstr ""
+
+#: credits_title
+msgctxt "credits_title"
+msgid "\"Credits\""
+msgstr "\"Συντελεστές\""
+
+#: credits_disclaimer[1]
+msgid ""
+"\"This project has been funded with support from the European Commission.\""
+msgstr ""
+"\"Αυτό το πρόγραμμα έχει χρηματοδοτηθεί με την υποστήριξη της Ευρωπαϊκής "
+"Επιτροπής.\""
+
+#: credits_disclaimer[2]
+msgid ""
+"\"This publication [communication] reflects the views only of the author,\""
+msgstr ""
+"\"Η παρούσα δημοσίευση [ανακοίνωση] δεσμεύει μόνο τις απόψεις του συγγραφέα,\""
+
+#: credits_disclaimer[3]
+msgid ""
+"\"and the Commission cannot be held responsible for any use which may be made "
+"of the information contained therein.\""
+msgstr ""
+"\"και η Επιτροπή δεν μπορεί να θεωρηθεί υπεύθυνη για οποιαδήποτε χρήση των "
+"πληροφοριών που περιέχονται σε αυτήν.\""
+
+#: credits_text[1]
+msgid "\"Images and data from:\""
+msgstr "\"Εικόνες και δεδομένα από:\""
+
+#: credits_text[2]
+msgid "\"Kalberla, P.M.W. et al., 2005, A&A, 440, 775\""
+msgstr "\"Kalberla, P.M.W. et al., 2005, A&A, 440, 775\""
+
+#: credits_text[3]
+msgid "\"Mellinger, A., 2009, PASP, 121, 1180\""
+msgstr "\"Mellinger, A., 2009, PASP, 121, 1180\""
+
+#: credits_text[4]
+msgid "\"Schlegel, D.J., 1998, ApJ, 500, 525\""
+msgstr "\"Schlegel, D.J., 1998, ApJ, 500, 525\""
+
+#: credits_text[5]
+msgctxt "credits_text[5]"
+msgid "\"\""
+msgstr "\"\""
+
+#: credits_text[6]
+msgctxt "credits_text[6]"
+msgid "\"This page has been translated by Firstname Lastname (Affiliation, Country)\""
+msgstr "\"Αυτή η σελίδα έχει μεταφραστεί από την Ελένη Χατζηχρήστου (Ελλάδα)\""
+
+#: credits_text[7]
+msgctxt "credits_text[7]"
+msgid "\"\""
+msgstr "\"\""
+
+#: credits_text[8]
+msgid "\"Site optimized for Firefox / Chrome / Safari\""
+msgstr "\"Η ιστοσελίδα έχει βελτιστοποιηθεί για Firefox / Chrome / Safari\""
+
+#: credits_contact
+msgid "\"Contact\""
+msgstr "\"Επικοινωνία\""
+
+#: credits_copyright
+msgid ""
+"\"copyright@EU-HOU - Design/Conception Antoine Radiguet - Philippe Salomé\""
+msgstr ""
+"\"πνευματική ιδιοκτησία@EU-HOU - Σχεδιασμός/Ιδέα Antoine Radiguet - Philippe "
+"Salomé\""
+
+#: [mail]
+msgctxt "[mail]"
+msgid ""
+msgstr ""
+
+#: hello_user[1]
+msgid "\"Hello #,\" ; Hello Login"
+msgstr "\"Γεία σου #,\" ; Χαιρετισμός σύνδεσης"
+
+#: hello_user[2]
+msgctxt "hello_user[2]"
+msgid "\"\""
+msgstr "\"\""
+
+#: thank_user[1]
+msgctxt "thank_user[1]"
+msgid "\"\""
+msgstr "'\""
+
+#: thank_user[2]
+msgid "\"Thank you\""
+msgstr "\"Σας ευχαριστούμε\""
+
+#: thank_user[3]
+msgid "\"The observatory team\""
+msgstr "\"Η ομάδα του αστεροσκοπείου \""
+
+#: email_validation_subject
+msgid "\"Email confirmation\""
+msgstr "\"Email επιβεβαίωσης \""
+
+#: email_validation_mail[1]
+msgid "\"Thank you for creating your account\""
+msgstr "\"Ευχαριστούμε για την δημιουργία του λογαριασμού σας\""
+
+#: email_validation_mail[2]
+msgid "\"To validate your email, please click on the link below\""
+msgstr "\"Για να επικυρώσετε το e-mail σας, κάντε κλικ στον παρακάτω σύνδεσμο\""
+
+#: email_validation_mail[3]
+msgid ""
+"'<a href=\"http://euhou.obspm.fr/public/validEmail.php?login=#&validation=#\">"
+"Validation link</a>' ; Translate only  \"Validation link\" "
+msgstr "Σύνδεσμος επικύρωσης"
+
+#: time_confirmation_subject
+msgid "\"Reservation confirmation\""
+msgstr "\"Επικύρωση κράτησης\""
+
+#: time_confirmation_mail[1]
+msgid "\"Your reservation have been saved\""
+msgstr "\"Η κράτησή σας έχει αποθηκευτεί \""
+
+#: time_confirmation_mail[2]
+msgid ""
+"\"You can use the # radio telescope at # for # hour(s)\" ; You can use the "
+"Paris radiotelescope at 16h30 for 2 hour(s)"
+msgstr ""
+"\"Μπορείτε να χρησιμοποιήσετε το # ραδιοτηλεσκόπιο στις # για # ώρα/ες\". "
+"Μπορείτε να χρησιμοποιήσετε το τηλεσκόπιο του Παρισιού στις 16:30 για 2 ώρες "
+""
+
+#: password_recovery_subject
+msgid "\"Password recovery\""
+msgstr "\"Επαναφορά κωδικού πρόσβασης\""
+
+#: password_recovery_mail[1]
+msgid "\"Forgot your password?\""
+msgstr "\"Ξεχάσατε τον κωδικό πρόσβασης;\""
+
+#: password_recovery_mail[2]
+msgid "\"To recover your account, please click on the link below\""
+msgstr ""
+"\"Για να ανακτήσετε το λογαριασμό σας, κάντε κλικ στον παρακάτω σύνδεσμο\""
+
+#: password_recovery_mail[3]
+msgid ""
+"'<a href=\"http://euhou.obspm.fr/public/passwordRecover.php?login=#&validatio"
+"n=#\">recover link</a>'; Translate only  \"Recover link\" "
+msgstr "Σύνδεσμος επαναφοράς"
+
+#: password_recovery_mail[4]
+msgctxt "password_recovery_mail[4]"
+msgid "\"\""
+msgstr "\"\""
+
+#: password_recovery_mail[5]
+msgid ""
+"\"If you haven't ask for password recovery, please contact the administrator\""
+msgstr ""
+"\"Αν δεν έχετε ζητήσει την ανάκτηση κωδικού πρόσβασης, επικοινωνήστε με το "
+"διαχειριστή\""
+
+#: user_registration_admin_notification_subject
+msgid "\"User registration\""
+msgstr "\"Εγγραφή χρήστη\""
+
+#: user_registration_admin_notification_mail[1]
+msgid "\"Hello Admin\""
+msgstr "\"Γεια σας διαχειριστή \""
+
+#: user_registration_admin_notification_mail[2]
+msgctxt "user_registration_admin_notification_mail[2]"
+msgid "\"\""
+msgstr "\"\""
+
+#: user_registration_admin_notification_mail[3]
+msgid "\"A user has just registered\""
+msgstr "\"Ένας χρήστης μόλις έχει εγγραφεί \""
+
+#: user_registration_admin_notification_mail[4]
+msgid ""
+"\"<br/><a href='http://euhou.obspm.fr/public/validUserList.php' >link</a>\"; "
+"Translate only  \"link\" "
+msgstr "σύνδεσμος"
+
+#: account_validated_subject
+msgctxt "account_validated_subject"
+msgid "\"Your account has been validated\""
+msgstr "\"Ο λογαριασμός σας έχει επικυρωθεί\""
+
+#: account_validated_mail[1]
+msgctxt "account_validated_mail[1]"
+msgid "\"Your account has been validated\""
+msgstr "\"Ο λογαριασμός σας έχει επικυρωθεί\""
+
+#: account_validated_mail[2]
+msgid "\"You can reserve a time slot to observe\""
+msgstr "\"Μπορείτε να κάνετε κράτηση για μια χρονοθυρίδα παρατήρησης\""
+
+#: delete_reservation_subject
+msgid "\"Your reservation(s) have been deleted\""
+msgstr "\"Η κράτησή(εις) σας έχει(ουν) διαγραφεί\""
+
+#: delete_reservation_notification
+msgid ""
+"\"Your reservation for the # radio telescope from # to # has been deleted by "
+"an admin of the website.\" ;Your reservation in the Paris radiotelescope from "
+"16h30 to 17h30 has been deleted by an administrator of the website.\""
+msgstr ""
+"\"Η κράτησή σας για το ραδιοτηλεσκόπιο # από τις # ως τις # έχει διαγραφεί "
+"από τον διαχειριστή της ιστοσελίδας.\" Η κράτησή σας για το ραδιοτηλεσκόπιο "
+"του Παρισιού από τις 16ω30λ ως τις 17ω30λ έχει διαγραφεί από τον διαχειριστή "
+"της ιστοσελίδας.\""
+
+#: delete_reservations_notification
+msgid ""
+"\"Your reservations in the # radio telescope from :\" ; Your reservations in "
+"the Paris radio telescope from:"
+msgstr ""
+"\"Οι κρατήσεις σας για το ραδιοτηλεσκόπιο # radio από: \" Οι κρατήσεις σας για "
+"το ραδιοτηλεσκόπιο του Παρισιού από:"
+
+#: delete_reservations_list
+msgid "\"# to #;\" ; 16h30 to 17h30"
+msgstr "\"# ως #\" 16ω30λ ως 17ω30λ"
+
+#: delete_reservations_deleted
+msgid "\"have been deleted by an administrator of the website.\""
+msgstr "\"έχετε διαγραφεί από έναν διαχειριστή της ιστοσελίδας.\""
+
+#: delete_reservations_contact
+msgid "\"for more information, please contact the administrator.\""
+msgstr ""
+"\"για περισσότερες πληροφορίες, παρακαλώ επικοινωνήστε με τον διαχειριστή.\""
+
+#: [archives]
+msgctxt "[archives]"
+msgid ""
+msgstr ""
+
+#: archives_title
+msgid "\"Comenius archives\""
+msgstr "\"Αρχεία Comenius\""
+
+#: id
+msgid "\"Id\""
+msgstr "\"Ταυτότητα\""
+
+#: user
+msgid "\"User\""
+msgstr "\"Χρήστης\""
+
+#: all
+msgid "\"All\""
+msgstr "\"Όλα\""
+
+#: num
+msgid "\"Num\""
+msgstr "\"Αριθμός\""
+
+#: download_selected_fits
+msgid "\"download selected Fits\""
+msgstr "\"κατέβασμα επιλεγμένων Fits\""
+
+#: download_selected_CSV
+msgid "\"download selected CSV\""
+msgstr "\"κατέβασμα επιλεγμένων CSV\""
+
+#: [simulator]
+msgctxt "[simulator]"
+msgid ""
+msgstr ""
+
+#: simulator_title
+msgid "\"Comenius-Simulator\""
+msgstr "\"Προσομοιωτής Comenius\""
+
+#: [observator]
+msgctxt "[observator]"
+msgid ""
+msgstr ""
+
+#: command
+msgid "\"Command\""
+msgstr "\"Εντολή\""
+
+#: results
+msgid "\"Results\""
+msgstr "\"Αποτελέσματα\""
+
+#: freq
+msgid "\"freq\""
+msgstr "\"συχνότητα\""
+
+#: time
+msgid "\"Time\""
+msgstr "\"Χρόνος\""
+
+#: observe
+msgid "\"Observe\""
+msgstr "\"Παρατήρηση\""
+
+#: end_of_session
+msgid "\"End of session\""
+msgstr "\"Τέλος της συνεδρίας\""
+
+#: base
+msgid "\"base\""
+msgstr "\"βάση\""
+
+#: [application]
+msgctxt "[application]"
+msgid ""
+msgstr ""
+
+#: galaxie_plan_radio
+msgid "\"Radio H21\""
+msgstr "\"Ραδιο Η21\""
+
+#: galaxie_plan_optic
+msgid "\"Optics\""
+msgstr "\"Οπτική\""
+
+#: galaxie_plan_infrarouge
+msgid "\"Infrared\""
+msgstr "\"Υπέρυθρο\""
+
+#: visibility
+msgid "\"Visibility\""
+msgstr "\"Ορατότητα \""
+
+#: spectrum_legend
+msgid "\"T [K] .vs. V [km/s]\""
+msgstr "\"Τ (Κ) ως προς V (χλμ/δευτ)\""
+
+#: spectrum_send_max
+msgid "\"send max\""
+msgstr "\"μέγιστη αποστολή\""
+
+#: spectrum_clean
+msgid "\"clean\""
+msgstr "\"καθαρισμός\""
+
+#: control_longitude
+msgid "\"Lon\""
+msgstr "\"Μήκος\""
+
+#: control_latitude
+msgid "\"Lat\""
+msgstr "\"Πλάτος\""
+
+#: simulate
+msgid "\"Simulate\""
+msgstr "\"Προσομοίωση \""
+
+#: rotation_curve
+msgid "\"Rotation Curve\""
+msgstr "\"Καμπύλη Περιστροφής \""
+
+#: galaxie_map
+msgid "\"Galaxy map\""
+msgstr "\"Γαλαξιακός χάρτης\""
+
+#: clean_all
+msgid "\"Clean all\""
+msgstr "\"Καθαρισμός όλων \""
+
+#: clean_last
+msgid "\"Clean last\""
+msgstr "\"Καθαρισμός τελευταίου \""
+
+#: rotation_curve_title
+msgid "\"Rotation curves V [km/s] .vs. R [kpc]\""
+msgstr "\"Περιστροφή Καμπύλης V [km/s] .vs. R [kpc]\""
+
+#: galaxie_map_title
+msgid "\"Map of the Milky Way X [kpc] , Y [kpc]\""
+msgstr "\"Χάρτης του Γαλαξία X [kpc] , Y [kpc]\""

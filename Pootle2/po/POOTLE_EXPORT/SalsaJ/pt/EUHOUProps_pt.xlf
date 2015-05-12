@@ -1,0 +1,728 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="EUHOUProps_pt.po" source-language="en-US" datatype="plaintext" target-language="pt">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Undo">
+        <source>Undo</source>
+        <target state="translated">Desfazer</target>
+        <note from="developer"># Note that commands must be unique.# Version 1.38
+# Popup Menu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="popup02__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cut">
+        <source>Cut</source>
+        <target state="translated">Cortar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy">
+        <source>Copy</source>
+        <target state="translated">Copiar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paste">
+        <source>Paste</source>
+        <target state="translated">Colar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="popup06__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear">
+        <source>Clear</source>
+        <target state="translated">Limpar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill">
+        <source>Fill</source>
+        <target state="translated">Preencher</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Draw">
+        <source>Draw</source>
+        <target state="translated">Desenhar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="popup10__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rename...">
+        <source>Rename...</source>
+        <target state="translated">Mudar nome...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Duplicate...">
+        <source>Duplicate...</source>
+        <target state="translated">Duplicar...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Image...&quot;,ij.plugin.Commands(&quot;new&quot;)">
+        <source>"Image...",ij.plugin.Commands("new")</source>
+        <target state="translated">"Imagem...",ij.plugin.Commands("new")</target>
+        <note from="developer"># Plugins installed in the File/New submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Internal Clipboard&quot;,ij.plugin.Clipboard(&quot;show&quot;)">
+        <source>"Internal Clipboard",ij.plugin.Clipboard("show")</source>
+        <target state="translated">"Área de Transferência Interna",ij.plugin.Clipboard("show")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;System Clipboard&quot;,ij.plugin.Clipboard(&quot;showsys&quot;)">
+        <source>"System Clipboard",ij.plugin.Clipboard("showsys")</source>
+        <target state="translated">"Área de Transferência do Sistema",ij.plugin.Clipboard("showsys")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Image Sequence...&quot;,ij.plugin.FolderOpener">
+        <source>"Image Sequence...",ij.plugin.FolderOpener</source>
+        <target state="translated">"Sequência de Imagens...",ij.plugin.FolderOpener</target>
+        <note from="developer"># Plugins installed in the File/Import submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Raw...&quot;,ij.plugin.Raw">
+        <source>"Raw...",ij.plugin.Raw</source>
+        <target state="translated">"Raw...",ij.plugin.Raw</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;LUT... &quot;,ij.plugin.LutLoader">
+        <source>"LUT... ",ij.plugin.LutLoader</source>
+        <target state="translated">"Paleta...",ij.plugin.LutLoader</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Text Image... &quot;,ij.plugin.TextReader">
+        <source>"Text Image... ",ij.plugin.TextReader</source>
+        <target state="translated">"Imagem de Texto... ",ij.plugin.TextReader</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Text File... &quot;,ij.plugin.TextFileReader">
+        <source>"Text File... ",ij.plugin.TextFileReader</source>
+        <target state="translated">"Ficheiro de Texto...",ij.plugin.TextFileReader</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Results...&quot;,ij.plugin.SimpleCommands(&quot;import&quot;)">
+        <source>"Results...",ij.plugin.SimpleCommands("import")</source>
+        <target state="translated">"Resultados...",ij.plugin.SimpleCommands("import")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;URL...&quot;,ij.plugin.URLOpener">
+        <source>"URL...",ij.plugin.URLOpener</source>
+        <target state="translated">"URL...",ij.plugin.URLOpener</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;FITS...&quot;,ij.plugin.filter.Writer(&quot;fits&quot;)">
+        <source>"FITS...",ij.plugin.filter.Writer("fits")</source>
+        <target state="translated">"FITS...",ij.plugin.filter.Writer("fits")</target>
+        <note from="developer"># Plugins installed in the File/Save As submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Tiff...&quot;,ij.plugin.filter.Writer(&quot;tiff&quot;)">
+        <source>"Tiff...",ij.plugin.filter.Writer("tiff")</source>
+        <target state="translated">"Tiff...",ij.plugin.filter.Writer("tiff")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Jpeg...&quot;,ij.plugin.filter.Writer(&quot;jpeg&quot;)">
+        <source>"Jpeg...",ij.plugin.filter.Writer("jpeg")</source>
+        <target state="translated">"JPEG...",ij.plugin.filter.Writer("jpeg")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Gif...&quot;,ij.plugin.filter.Writer(&quot;gif&quot;)">
+        <source>"Gif...",ij.plugin.filter.Writer("gif")</source>
+        <target state="translated">"GIF...",ij.plugin.filter.Writer("gif")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;BMP...&quot;,ij.plugin.filter.Writer(&quot;bmp&quot;)">
+        <source>"BMP...",ij.plugin.filter.Writer("bmp")</source>
+        <target state="translated">"BMP...",ij.plugin.filter.Writer("bmp")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;PNG...&quot;,ij.plugin.filter.Writer(&quot;png&quot;)">
+        <source>"PNG...",ij.plugin.filter.Writer("png")</source>
+        <target state="translated">"PNG...",ij.plugin.filter.Writer("png")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;ZIP...&quot;,ij.plugin.filter.Writer(&quot;zip&quot;)">
+        <source>"ZIP...",ij.plugin.filter.Writer("zip")</source>
+        <target state="translated">"ZIP...",ij.plugin.filter.Writer("zip")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="saveas08__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Image Sequence... &quot;,ij.plugin.StackWriter">
+        <source>"Image Sequence... ",ij.plugin.StackWriter</source>
+        <target state="translated">"Sequência de Imagens... ",ij.plugin.StackWriter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;AVI... &quot;,ij.plugin.filter.AVIWriter">
+        <source>"AVI... ",ij.plugin.filter.AVIWriter</source>
+        <target state="translated">"AVI... ",ij.plugin.filter.AVIWriter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Select All[a]&quot;,ij.plugin.Selection(&quot;all&quot;)">
+        <source>"Select All[a]",ij.plugin.Selection("all")</source>
+        <target state="translated">"Seleccionar Tudo [a]",ij.plugin.Selection("all")</target>
+        <note from="developer"># Plugins installed in the Edit/Selection submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Select None[A]&quot;,ij.plugin.Selection(&quot;none&quot;)">
+        <source>"Select None[A]",ij.plugin.Selection("none")</source>
+        <target state="translated">"Anular Selecção [A]",ij.plugin.Selection("none")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Restore Selection[E]&quot;,ij.plugin.Selection(&quot;restore&quot;)">
+        <source>"Restore Selection[E]",ij.plugin.Selection("restore")</source>
+        <target state="translated">"Restaurar Selecção [E]",ij.plugin.Selection("restore")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Fit Spline&quot;,ij.plugin.Selection(&quot;spline&quot;)">
+        <source>"Fit Spline",ij.plugin.Selection("spline")</source>
+        <target state="translated">"Ajustar Spline",ij.plugin.Selection("spline")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Fit Ellipse&quot;,ij.plugin.Selection(&quot;ellipse&quot;)">
+        <source>"Fit Ellipse",ij.plugin.Selection("ellipse")</source>
+        <target state="translated">"Ajustar Elipse",ij.plugin.Selection("ellipse")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Convex Hull&quot;,ij.plugin.Selection(&quot;hull&quot;)">
+        <source>"Convex Hull",ij.plugin.Selection("hull")</source>
+        <target state="translated">"Envelope Convexo ",ij.plugin.Selection("hull")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Make Inverse&quot;,ij.plugin.Selection(&quot;inverse&quot;)">
+        <source>"Make Inverse",ij.plugin.Selection("inverse")</source>
+        <target state="translated">"Inverter",ij.plugin.Selection("inverse")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Create Mask&quot;,ij.plugin.Selection(&quot;mask&quot;)">
+        <source>"Create Mask",ij.plugin.Selection("mask")</source>
+        <target state="translated">"Criar Mascara",ij.plugin.Selection("mask")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Create Selection&quot;,ij.plugin.Selection(&quot;from&quot;)">
+        <source>"Create Selection",ij.plugin.Selection("from")</source>
+        <target state="translated">"Criar Selecção",ij.plugin.Selection("from")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="selection10__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Rotate...&quot;,ij.plugin.Selection(&quot;rotate&quot;)">
+        <source>"Rotate...",ij.plugin.Selection("rotate")</source>
+        <target state="translated">"Rodar...",ij.plugin.Selection("rotate")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Enlarge...&quot;,ij.plugin.Selection(&quot;enlarge&quot;)">
+        <source>"Enlarge...",ij.plugin.Selection("enlarge")</source>
+        <target state="translated">"Aumentar...",ij.plugin.Selection("enlarge")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Make Band...&quot;,ij.plugin.Selection(&quot;band&quot;)">
+        <source>"Make Band...",ij.plugin.Selection("band")</source>
+        <target state="translated">"Fazer Banda...",ij.plugin.Selection("band")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Specify...&quot;,ij.plugin.SpecifyROI">
+        <source>"Specify...",ij.plugin.SpecifyROI</source>
+        <target state="translated">"Especificar...",ij.plugin.SpecifyROI</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Add to Manager [t]&quot;,ij.plugin.Selection(&quot;add&quot;)">
+        <source>"Add to Manager [t]",ij.plugin.Selection("add")</source>
+        <target state="translated">"Adicionar ao Gestor [t]",ij.plugin.Selection("add")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Line Width...&quot;,ij.plugin.Options(&quot;line&quot;)">
+        <source>"Line Width...",ij.plugin.Options("line")</source>
+        <target state="translated">"Largura de Risca...",ij.plugin.Options("line")</target>
+        <note from="developer"># Plugins installed in the Edit/Options submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Input/Output...&quot;,ij.plugin.Options(&quot;io&quot;)">
+        <source>"Input/Output...",ij.plugin.Options("io")</source>
+        <target state="translated">"Entrada/Saída...",ij.plugin.Options("io")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Fonts...&quot;,ij.plugin.frame.Fonts">
+        <source>"Fonts...",ij.plugin.frame.Fonts</source>
+        <target state="translated">"Fontes...",ij.plugin.frame.Fonts</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Profile Plot Options...&quot;,ij.plugin.filter.Profiler(&quot;set&quot;)">
+        <source>"Profile Plot Options...",ij.plugin.filter.Profiler("set")</source>
+        <target state="translated">"Opções do Gráfico do Perfil...",ij.plugin.filter.Profiler("set")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Point Tool...&quot;,ij.plugin.Colors(&quot;point&quot;)">
+        <source>"Point Tool...",ij.plugin.Colors("point")</source>
+        <target state="translated">"Ferramenta de Ponto...",ij.plugin.Colors("point")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Colors...&quot;,ij.plugin.Colors">
+        <source>"Colors...",ij.plugin.Colors</source>
+        <target state="translated">"Cores...",ij.plugin.Colors</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Appearance...&quot;,ij.plugin.Options(&quot;display&quot;)">
+        <source>"Appearance...",ij.plugin.Options("display")</source>
+        <target state="translated">"Aparência...",ij.plugin.Options("display")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Conversions...&quot;,ij.plugin.Options(&quot;conv&quot;)">
+        <source>"Conversions...",ij.plugin.Options("conv")</source>
+        <target state="translated">"Conversões...",ij.plugin.Options("conv")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Memory &amp; Threads...&quot;,ij.plugin.Memory">
+        <source>"Memory &amp; Threads...",ij.plugin.Memory</source>
+        <target state="translated">"Memória &amp; Processos...",ij.plugin.Memory</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Misc...&quot;,ij.plugin.Options(&quot;misc&quot;)">
+        <source>"Misc...",ij.plugin.Options("misc")</source>
+        <target state="translated">"Misc...",ij.plugin.Options("misc")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Brightness/Contrast...&quot;,ij.plugin.frame.ContrastAdjuster">
+        <source>"Brightness/Contrast...",ij.plugin.frame.ContrastAdjuster</source>
+        <target state="translated">"Brilho/Contraste...",ij.plugin.frame.ContrastAdjuster</target>
+        <note from="developer"># Plugins installed in the Image/Adjust submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Color Balance...&quot;,ij.plugin.frame.ContrastAdjuster(&quot;balance&quot;)">
+        <source>"Color Balance...",ij.plugin.frame.ContrastAdjuster("balance")</source>
+        <target state="translated">"Balanço de Cor...",ij.plugin.frame.ContrastAdjuster("balance")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Size...&quot;,ij.plugin.filter.Resizer">
+        <source>"Size...",ij.plugin.filter.Resizer</source>
+        <target state="translated">"Tamanho...",ij.plugin.filter.Resizer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Canvas Size...&quot;,ij.plugin.CanvasResizer">
+        <source>"Canvas Size...",ij.plugin.CanvasResizer</source>
+        <target state="translated">"Tamanho da Tela...",ij.plugin.CanvasResizer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Convert Stack to RGB&quot;,ij.plugin.RGBStackConverter">
+        <source>"Convert Stack to RGB",ij.plugin.RGBStackConverter</source>
+        <target state="translated">"Converter Empilhamento para RGB",ij.plugin.RGBStackConverter</target>
+        <note from="developer"># Plugins installed in the Image/Color submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;RGB Split&quot;,ij.plugin.filter.RGBStackSplitter">
+        <source>"RGB Split",ij.plugin.filter.RGBStackSplitter</source>
+        <target state="translated">"Separação RGB",ij.plugin.filter.RGBStackSplitter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;RGB Merge...&quot;,ij.plugin.RGBStackMerge">
+        <source>"RGB Merge...",ij.plugin.RGBStackMerge</source>
+        <target state="translated">"Fusão RGB...",ij.plugin.RGBStackMerge</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Color Picker&quot;,ij.plugin.ColorPicker">
+        <source>"Color Picker",ij.plugin.ColorPicker</source>
+        <target state="translated">"Escolher Cor",ij.plugin.ColorPicker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Add Slice&quot;,ij.plugin.StackEditor(&quot;add&quot;)">
+        <source>"Add Slice",ij.plugin.StackEditor("add")</source>
+        <target state="translated">"Adicionar Camada",ij.plugin.StackEditor("add")</target>
+        <note from="developer"># Plugins installed in the Image/Stacks submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Delete Slice&quot;,ij.plugin.StackEditor(&quot;delete&quot;)">
+        <source>"Delete Slice",ij.plugin.StackEditor("delete")</source>
+        <target state="translated">"Apagar Camada",ij.plugin.StackEditor("delete")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Next Slice&quot;,ij.plugin.Animator(&quot;next&quot;)">
+        <source>"Next Slice",ij.plugin.Animator("next")</source>
+        <target state="translated">"Próxima Camada",ij.plugin.Animator("next")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Previous Slice&quot;,ij.plugin.Animator(&quot;previous&quot;)">
+        <source>"Previous Slice",ij.plugin.Animator("previous")</source>
+        <target state="translated">"Camada Anterior",ij.plugin.Animator("previous")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Set Slice...&quot;,ij.plugin.Animator(&quot;set&quot;)">
+        <source>"Set Slice...",ij.plugin.Animator("set")</source>
+        <target state="translated">"Definir Camada...",ij.plugin.Animator("set")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Make Montage...&quot;,ij.plugin.MontageMaker">
+        <source>"Make Montage...",ij.plugin.MontageMaker</source>
+        <target state="translated">"Fazer Montagem...",ij.plugin.MontageMaker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stacks07__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Images to Stack&quot;,ij.plugin.StackEditor(&quot;tostack&quot;)">
+        <source>"Images to Stack",ij.plugin.StackEditor("tostack")</source>
+        <target state="translated">"Converter Imagens para Empilhamento",ij.plugin.StackEditor("tostack")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Stack to Images&quot;,ij.plugin.StackEditor(&quot;toimages&quot;)">
+        <source>"Stack to Images",ij.plugin.StackEditor("toimages")</source>
+        <target state="translated">"Converter Empilhamento para Imagens",ij.plugin.StackEditor("toimages")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stacks10__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Start Animation&quot;,ij.plugin.Animator(&quot;start&quot;)">
+        <source>"Start Animation",ij.plugin.Animator("start")</source>
+        <target state="translated">"Iniciar Animação",ij.plugin.Animator("start")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Stop Animation&quot;,ij.plugin.Animator(&quot;stop&quot;)">
+        <source>"Stop Animation",ij.plugin.Animator("stop")</source>
+        <target state="translated">"Parar Animação",ij.plugin.Animator("stop")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Animation Options...&quot;,ij.plugin.Animator(&quot;options&quot;)">
+        <source>"Animation Options...",ij.plugin.Animator("options")</source>
+        <target state="translated">"Opções da Animação...",ij.plugin.Animator("options")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Flip Horizontally&quot;,ij.plugin.filter.Transformer(&quot;fliph&quot;)">
+        <source>"Flip Horizontally",ij.plugin.filter.Transformer("fliph")</source>
+        <target state="translated">"Inverter na Horizontal",ij.plugin.filter.Transformer("fliph")</target>
+        <note from="developer"># Plugins installed in the Image/Rotate submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Flip Vertically&quot;,ij.plugin.filter.Transformer(&quot;flipv&quot;)">
+        <source>"Flip Vertically",ij.plugin.filter.Transformer("flipv")</source>
+        <target state="translated">"Inverter na Vertical",ij.plugin.filter.Transformer("flipv")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Rotate 90 Degrees Right&quot;,ij.plugin.filter.Transformer(&quot;right&quot;)">
+        <source>"Rotate 90 Degrees Right",ij.plugin.filter.Transformer("right")</source>
+        <target state="translated">"Rodar 90 Graus à Direita",ij.plugin.filter.Transformer("right")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Rotate 90 Degrees Left&quot;,ij.plugin.filter.Transformer(&quot;left&quot;)">
+        <source>"Rotate 90 Degrees Left",ij.plugin.filter.Transformer("left")</source>
+        <target state="translated">"Rodar 90 Graus à Esquerda",ij.plugin.filter.Transformer("left")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Arbitrarily...&quot;,ij.plugin.filter.Rotator">
+        <source>"Arbitrarily...",ij.plugin.filter.Rotator</source>
+        <target state="translated">"Rotação...",ij.plugin.filter.Rotator</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;In[+]&quot;,ij.plugin.Zoom(&quot;in&quot;)">
+        <source>"In[+]",ij.plugin.Zoom("in")</source>
+        <target state="translated">"Aumentar [+]",ij.plugin.Zoom("in")</target>
+        <note from="developer"># Plugins installed in the Image/Zoom submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Out[-]&quot;,ij.plugin.Zoom(&quot;out&quot;)">
+        <source>"Out[-]",ij.plugin.Zoom("out")</source>
+        <target state="translated">"Diminuir [-]",ij.plugin.Zoom("out")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;View 100%&quot;,ij.plugin.Zoom(&quot;100%&quot;)">
+        <source>"View 100%",ij.plugin.Zoom("100%")</source>
+        <target state="translated">"Ver 100%",ij.plugin.Zoom("100%")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Original Scale&quot;,ij.plugin.Zoom(&quot;orig&quot;)">
+        <source>"Original Scale",ij.plugin.Zoom("orig")</source>
+        <target state="translated">"Escala Original",ij.plugin.Zoom("orig")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;To Selection&quot;,ij.plugin.Zoom(&quot;to&quot;)">
+        <source>"To Selection",ij.plugin.Zoom("to")</source>
+        <target state="translated">"Selecção",ij.plugin.Zoom("to")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Grays&quot;,ij.plugin.LutLoader(&quot;grays&quot;)">
+        <source>"Grays",ij.plugin.LutLoader("grays")</source>
+        <target state="translated">"Preto e Branco",ij.plugin.LutLoader("grays")</target>
+        <note from="developer"># Plugins installed in the Image/Lookup Tables submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Grays invert&quot;,ij.plugin.LutLoader(&quot;igrays&quot;)">
+        <source>"Grays invert",ij.plugin.LutLoader("igrays")</source>
+        <target state="translated">"Inverter Escala de Cinzentos",ij.plugin.LutLoader("igrays")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="lookup03__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Red&quot;,ij.plugin.LutLoader(&quot;red&quot;)">
+        <source>"Red",ij.plugin.LutLoader("red")</source>
+        <target state="translated">"Vermelho",ij.plugin.LutLoader("red")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Green&quot;,ij.plugin.LutLoader(&quot;green&quot;)">
+        <source>"Green",ij.plugin.LutLoader("green")</source>
+        <target state="translated">"Verde",ij.plugin.LutLoader("green")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Blue&quot;,ij.plugin.LutLoader(&quot;blue&quot;)">
+        <source>"Blue",ij.plugin.LutLoader("blue")</source>
+        <target state="translated">"Azul",ij.plugin.LutLoader("blue")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Cyan&quot;,ij.plugin.LutLoader(&quot;cyan&quot;)">
+        <source>"Cyan",ij.plugin.LutLoader("cyan")</source>
+        <target state="translated">"Ciano",ij.plugin.LutLoader("cyan")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Magenta&quot;,ij.plugin.LutLoader(&quot;magenta&quot;)">
+        <source>"Magenta",ij.plugin.LutLoader("magenta")</source>
+        <target state="translated">"Magenta",ij.plugin.LutLoader("magenta")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Yellow&quot;,ij.plugin.LutLoader(&quot;yellow&quot;)">
+        <source>"Yellow",ij.plugin.LutLoader("yellow")</source>
+        <target state="translated">"Amarelo",ij.plugin.LutLoader("yellow")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="lookup10__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Red/Green&quot;,ij.plugin.LutLoader(&quot;redgreen&quot;)">
+        <source>"Red/Green",ij.plugin.LutLoader("redgreen")</source>
+        <target state="translated">"Vermelho/Verde",ij.plugin.LutLoader("redgreen")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Fire&quot;,ij.plugin.LutLoader(&quot;fire&quot;)">
+        <source>"Fire",ij.plugin.LutLoader("fire")</source>
+        <target state="translated">"Fogo",ij.plugin.LutLoader("fire")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Ice&quot;,ij.plugin.LutLoader(&quot;ice&quot;)">
+        <source>"Ice",ij.plugin.LutLoader("ice")</source>
+        <target state="translated">"Gelo",ij.plugin.LutLoader("ice")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Spectrum&quot;,ij.plugin.LutLoader(&quot;spectrum&quot;)">
+        <source>"Spectrum",ij.plugin.LutLoader("spectrum")</source>
+        <target state="translated">"Espectro",ij.plugin.LutLoader("spectrum")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;3-3-2 RGB&quot;,ij.plugin.LutLoader(&quot;3-3-2 RGB&quot;)">
+        <source>"3-3-2 RGB",ij.plugin.LutLoader("3-3-2 RGB")</source>
+        <target state="translated">"3-3-2 RGB",ij.plugin.LutLoader("3-3-2 RGB")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="lookup16__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Invert LUT&quot;,ij.plugin.filter.LutApplier">
+        <source>"Invert LUT",ij.plugin.filter.LutApplier</source>
+        <target state="translated">"Inverter Paleta",ij.plugin.filter.LutApplier</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Apply LUT&quot;,ij.plugin.filter.LutApplier">
+        <source>"Apply LUT",ij.plugin.filter.LutApplier</source>
+        <target state="translated">"Aplicar Paleta",ij.plugin.filter.LutApplier</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="lookup19__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Show LUT&quot;,ij.plugin.filter.LutViewer">
+        <source>"Show LUT",ij.plugin.filter.LutViewer</source>
+        <target state="translated">"Mostrar Paleta",ij.plugin.filter.LutViewer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Edit LUT...&quot;,ij.plugin.LUT_Editor">
+        <source>"Edit LUT...",ij.plugin.LUT_Editor</source>
+        <target state="translated">"Editar Paleta...",ij.plugin.LUT_Editor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Add Noise&quot;,ij.plugin.filter.Filters(&quot;add&quot;)">
+        <source>"Add Noise",ij.plugin.filter.Filters("add")</source>
+        <target state="translated">"Adicionar Ruído",ij.plugin.filter.Filters("add")</target>
+        <note from="developer"># Plug-ins installed in the Process/Noise submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Add Specified Noise...&quot;,ij.plugin.filter.Filters(&quot;noise&quot;)">
+        <source>"Add Specified Noise...",ij.plugin.filter.Filters("noise")</source>
+        <target state="translated">"Adicionar Ruído Específico...",ij.plugin.filter.Filters("noise")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Salt and Pepper&quot;,ij.plugin.filter.SaltAndPepper">
+        <source>"Salt and Pepper",ij.plugin.filter.SaltAndPepper</source>
+        <target state="translated">"Sal e Pimenta",ij.plugin.filter.SaltAndPepper</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="noise04__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Despeckle&quot;,ij.plugin.filter.RankFilters(&quot;despeckle&quot;)">
+        <source>"Despeckle",ij.plugin.filter.RankFilters("despeckle")</source>
+        <target state="translated">"Retirar ruído",ij.plugin.filter.RankFilters("despeckle")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Remove Outliers...&quot;,ij.plugin.filter.RankFilters(&quot;outliers&quot;)">
+        <source>"Remove Outliers...",ij.plugin.filter.RankFilters("outliers")</source>
+        <target state="translated">"Remover Outliers...",ij.plugin.filter.RankFilters("outliers")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;North&quot;,ij.plugin.filter.Shadows(&quot;north&quot;)">
+        <source>"North",ij.plugin.filter.Shadows("north")</source>
+        <target state="translated">"Norte",ij.plugin.filter.Shadows("north")</target>
+        <note from="developer"># Plugins installed in the Process/Shadows submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Northeast&quot;,ij.plugin.filter.Shadows(&quot;northeast&quot;)">
+        <source>"Northeast",ij.plugin.filter.Shadows("northeast")</source>
+        <target state="translated">"Nordeste",ij.plugin.filter.Shadows("northeast")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;East&quot;,ij.plugin.filter.Shadows(&quot;east&quot;)">
+        <source>"East",ij.plugin.filter.Shadows("east")</source>
+        <target state="translated">"Este",ij.plugin.filter.Shadows("east")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Southeast&quot;,ij.plugin.filter.Shadows(&quot;southeast&quot;)">
+        <source>"Southeast",ij.plugin.filter.Shadows("southeast")</source>
+        <target state="translated">"Sudeste",ij.plugin.filter.Shadows("southeast")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;South&quot;,ij.plugin.filter.Shadows(&quot;south&quot;)">
+        <source>"South",ij.plugin.filter.Shadows("south")</source>
+        <target state="translated">"Sul",ij.plugin.filter.Shadows("south")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Southwest&quot;,ij.plugin.filter.Shadows(&quot;southwest&quot;)">
+        <source>"Southwest",ij.plugin.filter.Shadows("southwest")</source>
+        <target state="translated">"Sudoeste",ij.plugin.filter.Shadows("southwest")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;West&quot;,ij.plugin.filter.Shadows(&quot;west&quot;)">
+        <source>"West",ij.plugin.filter.Shadows("west")</source>
+        <target state="translated">"Oeste",ij.plugin.filter.Shadows("west")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Northwest&quot;,ij.plugin.filter.Shadows(&quot;northwest&quot;)">
+        <source>"Northwest",ij.plugin.filter.Shadows("northwest")</source>
+        <target state="translated">"Noroeste",ij.plugin.filter.Shadows("northwest")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="shadows09__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Shadows Demo&quot;,ij.plugin.filter.Shadows(&quot;demo&quot;)">
+        <source>"Shadows Demo",ij.plugin.filter.Shadows("demo")</source>
+        <target state="translated">"Demo de sombras",ij.plugin.filter.Shadows("demo")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Make Binary&quot;,ij.plugin.Thresholder">
+        <source>"Make Binary",ij.plugin.Thresholder</source>
+        <target state="translated">"Transformar em binário",ij.plugin.Thresholder</target>
+        <note from="developer"># Plugins installed in the Process/Binary submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Convert to Mask&quot;,ij.plugin.Thresholder(&quot;mask&quot;)">
+        <source>"Convert to Mask",ij.plugin.Thresholder("mask")</source>
+        <target state="translated">"Converter para Máscara",ij.plugin.Thresholder("mask")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Find Maxima...&quot;,ij.plugin.filter.MaximumFinder">
+        <source>"Find Maxima...",ij.plugin.filter.MaximumFinder</source>
+        <target state="translated">"Encontrar Máximo...",ij.plugin.filter.MaximumFinder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="binary04__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Erode&quot;,ij.plugin.filter.Binary(&quot;erode&quot;)">
+        <source>"Erode",ij.plugin.filter.Binary("erode")</source>
+        <target state="translated">"Erodir",ij.plugin.filter.Binary("erode")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Dilate&quot;,ij.plugin.filter.Binary(&quot;dilate&quot;)">
+        <source>"Dilate",ij.plugin.filter.Binary("dilate")</source>
+        <target state="translated">"Dilatar",ij.plugin.filter.Binary("dilate")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Open-&quot;,ij.plugin.filter.Binary(&quot;open&quot;)">
+        <source>"Open-",ij.plugin.filter.Binary("open")</source>
+        <target state="translated">"Abrir-",ij.plugin.filter.Binary("open")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Close-&quot;,ij.plugin.filter.Binary(&quot;close&quot;)">
+        <source>"Close-",ij.plugin.filter.Binary("close")</source>
+        <target state="translated">"Fechar-",ij.plugin.filter.Binary("close")</target>
+        <note from="developer"># Can't use "Close" because it conflicts with File/Close</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Options...&quot;,ij.plugin.filter.Binary(&quot;options&quot;)">
+        <source>"Options...",ij.plugin.filter.Binary("options")</source>
+        <target state="translated">"Opções...",ij.plugin.filter.Binary("options")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="binary10__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Outline&quot;,ij.plugin.filter.Binary(&quot;outline&quot;)">
+        <source>"Outline",ij.plugin.filter.Binary("outline")</source>
+        <target state="translated">"Outline",ij.plugin.filter.Binary("outline")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Fill Holes&quot;,ij.plugin.filter.BinaryFiller">
+        <source>"Fill Holes",ij.plugin.filter.BinaryFiller</source>
+        <target state="translated">"Preencher Buracos",ij.plugin.filter.BinaryFiller</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Skeletonize&quot;,ij.plugin.filter.Binary(&quot;skel&quot;)">
+        <source>"Skeletonize",ij.plugin.filter.Binary("skel")</source>
+        <target state="translated">"Esqueleto",ij.plugin.filter.Binary("skel")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="binary14__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Distance Map&quot;,ij.plugin.filter.EDM(&quot;edm&quot;)">
+        <source>"Distance Map",ij.plugin.filter.EDM("edm")</source>
+        <target state="translated">"Mapa de Distância",ij.plugin.filter.EDM("edm")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Ultimate Points&quot;,ij.plugin.filter.EDM(&quot;points&quot;)">
+        <source>"Ultimate Points",ij.plugin.filter.EDM("points")</source>
+        <target state="translated">"Pontos Extremos",ij.plugin.filter.EDM("points")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Watershed&quot;,ij.plugin.filter.EDM(&quot;watershed&quot;)">
+        <source>"Watershed",ij.plugin.filter.EDM("watershed")</source>
+        <target state="translated">"Watershed",ij.plugin.filter.EDM("watershed")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Add...&quot;,ij.plugin.filter.ImageMath(&quot;add&quot;)">
+        <source>"Add...",ij.plugin.filter.ImageMath("add")</source>
+        <target state="translated">"Adicionar...",ij.plugin.filter.ImageMath("add")</target>
+        <note from="developer"># Plugins installed in the Process/Math submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Subtract...&quot;,ij.plugin.filter.ImageMath(&quot;sub&quot;)">
+        <source>"Subtract...",ij.plugin.filter.ImageMath("sub")</source>
+        <target state="translated">"Subtrair...",ij.plugin.filter.ImageMath("sub")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Multiply...&quot;,ij.plugin.filter.ImageMath(&quot;mul&quot;)">
+        <source>"Multiply...",ij.plugin.filter.ImageMath("mul")</source>
+        <target state="translated">"Multiplicar...",ij.plugin.filter.ImageMath("mul")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Divide...&quot;,ij.plugin.filter.ImageMath(&quot;div&quot;)">
+        <source>"Divide...",ij.plugin.filter.ImageMath("div")</source>
+        <target state="translated">"Dividir...",ij.plugin.filter.ImageMath("div")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Min...&quot;,ij.plugin.filter.ImageMath(&quot;min&quot;)">
+        <source>"Min...",ij.plugin.filter.ImageMath("min")</source>
+        <target state="translated">"Min...",ij.plugin.filter.ImageMath("min")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Max...&quot;,ij.plugin.filter.ImageMath(&quot;max&quot;)">
+        <source>"Max...",ij.plugin.filter.ImageMath("max")</source>
+        <target state="translated">"Max...",ij.plugin.filter.ImageMath("max")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Log&quot;,ij.plugin.filter.ImageMath(&quot;log&quot;)">
+        <source>"Log",ij.plugin.filter.ImageMath("log")</source>
+        <target state="translated">"Log",ij.plugin.filter.ImageMath("log")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Square&quot;,ij.plugin.filter.ImageMath(&quot;sqr&quot;)">
+        <source>"Square",ij.plugin.filter.ImageMath("sqr")</source>
+        <target state="translated">"Quadrado",ij.plugin.filter.ImageMath("sqr")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Square Root&quot;,ij.plugin.filter.ImageMath(&quot;sqrt&quot;)">
+        <source>"Square Root",ij.plugin.filter.ImageMath("sqrt")</source>
+        <target state="translated">"Raíz Quadrada",ij.plugin.filter.ImageMath("sqrt")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Reciprocal&quot;,ij.plugin.filter.ImageMath(&quot;reciprocal&quot;)">
+        <source>"Reciprocal",ij.plugin.filter.ImageMath("reciprocal")</source>
+        <target state="translated">"Recíproco",ij.plugin.filter.ImageMath("reciprocal")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Convolve...&quot;,ij.plugin.filter.Convolver">
+        <source>"Convolve...",ij.plugin.filter.Convolver</source>
+        <target state="translated">"Convolver...",ij.plugin.filter.Convolver</target>
+        <note from="developer"># Plugins installed in the Process/Filters submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Gaussian Blur...&quot;,ij.plugin.filter.GaussianBlur">
+        <source>"Gaussian Blur...",ij.plugin.filter.GaussianBlur</source>
+        <target state="translated">"Desfocagem Gaussiana...",ij.plugin.filter.GaussianBlur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Median...&quot;,ij.plugin.filter.RankFilters(&quot;median&quot;)">
+        <source>"Median...",ij.plugin.filter.RankFilters("median")</source>
+        <target state="translated">"Mediana...",ij.plugin.filter.RankFilters("median")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Mean...&quot;,ij.plugin.filter.RankFilters(&quot;mean&quot;)">
+        <source>"Mean...",ij.plugin.filter.RankFilters("mean")</source>
+        <target state="translated">"Média...",ij.plugin.filter.RankFilters("mean")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Minimum...&quot;,ij.plugin.filter.RankFilters(&quot;min&quot;)">
+        <source>"Minimum...",ij.plugin.filter.RankFilters("min")</source>
+        <target state="translated">"Mínimo...",ij.plugin.filter.RankFilters("min")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Maximum...&quot;,ij.plugin.filter.RankFilters(&quot;max&quot;)">
+        <source>"Maximum...",ij.plugin.filter.RankFilters("max")</source>
+        <target state="translated">"Máximo...",ij.plugin.filter.RankFilters("max")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Unsharp Mask...&quot;,ij.plugin.filter.UnsharpMask">
+        <source>"Unsharp Mask...",ij.plugin.filter.UnsharpMask</source>
+        <target state="translated">"Máscara de focagem...",ij.plugin.filter.UnsharpMask</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Variance...&quot;,ij.plugin.filter.RankFilters(&quot;variance&quot;)">
+        <source>"Variance...",ij.plugin.filter.RankFilters("variance")</source>
+        <target state="translated">"Variância...",ij.plugin.filter.RankFilters("variance")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filters09__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Show Circular Masks...&quot;,ij.plugin.filter.RankFilters(&quot;masks&quot;)">
+        <source>"Show Circular Masks...",ij.plugin.filter.RankFilters("masks")</source>
+        <target state="translated">"Mostrar Máscaras Circulares...",ij.plugin.filter.RankFilters("masks")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Save XY Coordinates...&quot;,ij.plugin.XYCoordinates">
+        <source>"Save XY Coordinates...",ij.plugin.XYCoordinates</source>
+        <target state="translated">"Guardar Coordenadas XY...",ij.plugin.filter.XYCoordinates</target>
+        <note from="developer"># Plugins installed in the Analyze/Tools submenu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Curve Fitting...&quot;,ij.plugin.frame.Fitter">
+        <source>"Curve Fitting...",ij.plugin.frame.Fitter</source>
+        <target state="translated">"Ajuste de Curvas...",ij.plugin.frame.Fitter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;ROI Manager...&quot;,ij.plugin.frame.RoiManager">
+        <source>"ROI Manager...",ij.plugin.frame.RoiManager</source>
+        <target state="translated">"Seleccionar Regiões...",ij.plugin.frame.RoiManager</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&gt;&quot;Macros&quot;">
+        <source>&gt;"Macros"</source>
+        <target state="translated">&gt;"Macros"</target>
+        <note from="developer">#tools04="Radio Spectrum",ij.plugin.RadioSpectrum_Reader
+# Plugins installed in the Plugins menu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&gt;&quot;Shortcuts&quot;">
+        <source>&gt;"Shortcuts"</source>
+        <target state="translated">&gt;"Atalhos"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&gt;&quot;Utilities&quot;">
+        <source>&gt;"Utilities"</source>
+        <target state="translated">&gt;"Utilitários"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Install...[M]&quot;,ij.plugin.MacroInstaller">
+        <source>"Install...[M]",ij.plugin.MacroInstaller</source>
+        <target state="translated">"Instalar... [M]",ij.plugin.MacroInstaller</target>
+        <note from="developer">#plug-in08=&gt;"User_Plugins"# Install user plugins located in ij.jar to Plugins&gt;User Plugins submenu#user_plugins01="Red And Blue",RedAndBlue_#user_plugins02="Inverter",Inverter_
+# Plugins installed in the Plugins/Macros submenu
+# 'baseCount' in MacroInstaller must be updated if more items are added</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Run...&quot;,ij.plugin.Macro_Runner">
+        <source>"Run...",ij.plugin.Macro_Runner</source>
+        <target state="translated">"Executar...",ij.plugin.Macro_Runner</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Startup Macros...&quot;,ij.plugin.Commands(&quot;startup&quot;)">
+        <source>"Startup Macros...",ij.plugin.Commands("startup")</source>
+        <target state="translated">"Iniciar Macros...",ij.plugin.Commands("startup")</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Record...&quot;,ij.plugin.frame.Recorder">
+        <source>"Record...",ij.plugin.frame.Recorder</source>
+        <target state="translated">"Gravador...",ij.plugin.frame.Recorder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="macros05__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&quot;Translation&quot;,ij.plugin.filter.Translator">
+        <source>"Translation",ij.plugin.filter.Translator</source>
+        <target state="translated">"Translação",ij.plugin.filter.Translator</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,1585 @@
+#. extracted from ../templates/PluginBundle.properties, ../resu/PluginBundle_pl.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#. ##GLOBAL SECTION
+#: Pixel
+msgid "pixel"
+msgstr "piksel"
+
+#: Pixels
+msgid "pixels"
+msgstr "piksele"
+
+#: Degrees
+msgid "degrees"
+msgstr "stopnie"
+
+#: Open
+msgctxt "Open"
+msgid "Open"
+msgstr "OtwÃ³rz"
+
+#: MyApply1
+msgid "Apply"
+msgstr "Zastosuj"
+
+#: Settings
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: OpenText
+msgid "Open Text File..."
+msgstr "OtwÃ³rz plik tekstowy..."
+
+#: Height
+msgid "Height"
+msgstr "WysokoÅÄ"
+
+#: Width
+msgid "Width"
+msgstr "SzerokoÅÄ"
+
+#: NewWin
+msgid "Create New Window"
+msgstr "UtwÃ³rz nowe okno"
+
+#: List
+msgid "List"
+msgstr "Wypisz listÄ"
+
+#: Unit
+msgid "Unit"
+msgstr "Jednostka"
+
+#: None
+msgid "none"
+msgstr "Å¼aden"
+
+#: LeftCol
+msgid "Left column"
+msgstr "Lewa kolumna"
+
+#: RightCol
+msgid "Right column"
+msgstr "Prawa kolumna"
+
+#: Values
+msgid "values"
+msgstr "wartoÅci"
+
+#: File
+msgid "File"
+msgstr "Plik"
+
+#. ##NEW
+#: Title
+msgid "Title"
+msgstr "TytuÅ"
+
+#. # StackEditor
+#: StackReqErr
+msgid "Stack required"
+msgstr "Wymagany stos."
+
+#: NoImgErr
+msgid "No images are open."
+msgstr "Nie ma otwartych obrazÃ³w."
+
+#: OneImgErr
+msgid "There must be at least two open images."
+msgstr "MuszÄ byÄ przynajmniej dwa otwarte obrazy."
+
+#: ImgErr
+msgid "None of the open images can go in a stack."
+msgstr "Å»adnego z otwartych obrazÃ³w nie moÅ¼na umieÅciÄ na stosie."
+
+#: ImgTypeErr
+msgid "All open images must be the same type."
+msgstr "Wszystkie otwarte obrazy muszÄ byÄ tego samego typu."
+
+#: ImgSizeErr
+msgid "All open images must be the same size."
+msgstr "Wszystkie otwarte obrazy muszÄ byÄ tego samego rozmiaru."
+
+#: StackTitle
+msgid "Stack"
+msgstr "Stos"
+
+#: ConvertTitle
+msgid "Convert to Images?"
+msgstr "PrzeksztaÅciÄ do obrazÃ³w?"
+
+#: Convert1
+msgid ""
+"Are you sure you want to convert this\n"
+"stack to"
+msgstr "Czy chcesz przeksztaÅciÄ ten stos w"
+
+#: Convert2
+msgid "separate windows?"
+msgstr "odzielne obrazy?"
+
+#. # ImageCalculator
+#: TitleStr
+msgid "Image Calculator"
+msgstr "Kalkulator obrazÃ³w"
+
+#: NoWinErr
+msgid "No windows are open."
+msgstr "Nie ma otwartych okien."
+
+#: StackSizeErr
+msgid "Both stacks must have the same number of slices."
+msgstr "Na obu stosach musi byÄ ta sama liczba obrazÃ³w."
+
+#: OutOfMem
+msgid "Out of memory"
+msgstr "Brak pamiÄci"
+
+#: Image1
+msgid "Image 1:"
+msgstr "Obraz 1:"
+
+#: Image2
+msgid "Image 2:"
+msgstr "Obraz 2:"
+
+#: Operation
+msgid "Operation:"
+msgstr "Operacja:"
+
+#: NewResultTitle
+msgid "Result of"
+msgstr "Nowy wynik"
+
+#: ResultTitle
+msgid "Result"
+msgstr "Wynik"
+
+#: Add
+msgctxt "Add"
+msgid "Add"
+msgstr "Dodaj"
+
+#: Subtract
+msgid "Subtract"
+msgstr "Odejmij"
+
+#: Multiply
+msgid "Multiply"
+msgstr "PomnÃ³Å¼"
+
+#: Divide
+msgid "Divide"
+msgstr "Podziel"
+
+#: AND
+msgid "AND"
+msgstr "AND"
+
+#: OR
+msgid "OR"
+msgstr "OR"
+
+#: XOR
+msgid "XOR"
+msgstr "XOR"
+
+#: Min
+msgid "Min"
+msgstr "Minimum"
+
+#: Max
+msgid "Max"
+msgstr "Maksimum"
+
+#: Gamma
+msgid "Gamma"
+msgstr "Gamma"
+
+#: Average
+msgid "Average"
+msgstr "Årednia"
+
+#: Difference
+msgid "Difference"
+msgstr "RÃ³Å¼nica"
+
+#: Copy
+msgid "Copy"
+msgstr "Kopiuj"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "Kopiuj bez tÅa"
+
+#: Index
+msgid "index"
+msgstr "indeks"
+
+#: Value
+msgid "Value:"
+msgstr "WartoÅÄ:"
+
+#: BinValue
+msgid "Value (binary): "
+msgstr "WartoÅÄ w systemie dwÃ³jkowym:"
+
+#: BinValReqErr
+msgid "Binary number required"
+msgstr "Wymagana liczba dwÃ³jkowa"
+
+#: Value01
+msgid "Value (0.1-5.0):"
+msgstr "WartoÅÄ (0.1-5.0):"
+
+#: GammaValErr
+msgid "Gamma must be between 0.1 and 5.0"
+msgstr "WartoÅÄ Gamma musi byÄ pomiÄdzy 0.1 a 5.0"
+
+#. # Selection
+#: Spline
+msgid "Spline"
+msgstr "Spline"
+
+#. ## PLUGIN/FRAME
+#. # PasteController
+#: FrameTitle
+msgid "Paste Control"
+msgstr "Wstaw specjalnie"
+
+#: TransferMode
+msgid "Transfer Mode:"
+msgstr "Rodzaj transferu:"
+
+#. # ContrastAdjuster
+#: ContrastTitle
+msgid "Brightness & Contrast"
+msgstr "JasnoÅÄ & Kontrast"
+
+#: WLTitle
+msgid "Window & Level"
+msgstr "Okno & Poziom"
+
+#: ColorTitle
+msgctxt "ColorTitle"
+msgid "Color"
+msgstr "Kolor"
+
+#: Minimum
+msgid "Minimum"
+msgstr "Minimum"
+
+#: Maximum
+msgid "Maximum"
+msgstr "Maksimum"
+
+#: Brightness
+msgid "Brightness"
+msgstr "JasnoÅÄ"
+
+#: Contrast
+msgid "Constrast"
+msgstr "Kontrast"
+
+#: Level
+msgid "Level:"
+msgstr "Poziom:"
+
+#: Window
+msgid "Window:"
+msgstr "Okno:"
+
+#: Auto
+msgid "Auto"
+msgstr "Auto"
+
+#: Reset
+msgid "Reset"
+msgstr "Resetuj"
+
+#: Set
+msgid "Set"
+msgstr "Ustaw"
+
+#: MyApply2
+msgid "Apply "
+msgstr "Zastosuj"
+
+#: Thresh
+msgid "Thresh"
+msgstr "PrÃ³g"
+
+#: Update
+msgid "Update"
+msgstr "Uaktualnij"
+
+#: AdjTypeErr
+msgid "Requires an 8-bit grayscale image or an RGB stack"
+msgstr "Wymaga obrazu w 8-bitowej skali szaroÅci albo stosu RGB"
+
+#: LUT1
+msgid "Apply LUT to all"
+msgstr "Zastosuj LUT do wszystkich"
+
+#: LUT2
+msgctxt "LUT2"
+msgid "slices in the stack?"
+msgstr "obrazÃ³w na stosie?"
+
+#: RGB1
+msgid "Apply brightness and contrast settings to all"
+msgstr "Zastosuj ustawienia jasnoÅci i kontrastu do wszystkich"
+
+#: RGB2
+msgctxt "RGB2"
+msgid "slices in the stack?"
+msgstr "obrazÃ³w na stosie?"
+
+#: SetMinMaxTitle
+msgid "Set Min and Max"
+msgstr "Ustaw min i max"
+
+#: MinVal
+msgid "Minimum Displayed Value:"
+msgstr "Minimalna wyÅwietlana wartoÅÄ:"
+
+#: MaxVal
+msgid "Maximum Displayed Value:"
+msgstr "Maksymalna wyÅwietlana wartoÅÄ:"
+
+#: SetWLTitle
+msgid "Set W&L"
+msgstr "Ustaw W i L"
+
+#: WinCenter
+msgid "Window Center (Level):"
+msgstr "Årodek okna (poziom):"
+
+#: WinWidth
+msgid "Window Width:"
+msgstr "SzerokoÅÄ okna:"
+
+#: NoImg
+msgid "No Image"
+msgstr "Nie ma obrazu"
+
+#. # Analyser
+#: SetMeasurementsTitle
+msgid "Set Measurements"
+msgstr "Wybierz pomiary"
+
+#: measurements
+msgid "measurements"
+msgstr "pomiary"
+
+#: Area
+msgid "Area"
+msgstr "Obszar"
+
+#: MeanGray
+msgid "Mean Grey Value"
+msgstr "Årednia wartoÅÄ szaroÅci"
+
+#: StDev
+msgid "Standard Deviation"
+msgstr "Odchylenie standardowe"
+
+#: ModalGray
+msgid "Modal Grey Value"
+msgstr "Modalna wartoÅÄ szaroÅci"
+
+#: MinMaxGray
+msgid "Min & Max Grey Value"
+msgstr "Minimalna & maksymalna wartoÅÄ szaroÅci"
+
+#: Centroid
+msgid "Centroid"
+msgstr "Årodek ciÄÅ¼koÅci"
+
+#: MassCenter
+msgid "Center of Mass"
+msgstr "Årodek masy"
+
+#: Perimeter
+msgid "Perimeter"
+msgstr "ObwÃ³d"
+
+#: Bounds
+msgid "Bounding Rectangle"
+msgstr "Granice prostokÄta"
+
+#: FitEllipse
+msgid "Fit Ellipse"
+msgstr "Dopasuj elipsÄ"
+
+#: Circularity
+msgid "Circularity"
+msgstr "OkrÄgÅoÅÄ"
+
+#: FeretDiam
+msgid "Feret's Diameter"
+msgstr "Årednica Fereta"
+
+#: ThreshLimit
+msgid "Limit to Threshold"
+msgstr "PrÃ³g graniczny"
+
+#: ImgName
+msgid "Display Image Name"
+msgstr "PokaÅ¼ nazwÄ obrazu"
+
+#: InvertY
+msgid "Invert Y Coordinates"
+msgstr "OdwrÃ³Ä wspÃ³ÅrzÄdnÄ Y"
+
+#: DeciPlaces
+msgctxt "DeciPlaces"
+msgid "Decimal Places:"
+msgstr "Miejsc po przecinku:"
+
+#: Val
+msgid "Value"
+msgstr "WartoÅÄ"
+
+#: FileName
+msgid "Name"
+msgstr "Nazwa"
+
+#: Angle
+msgid "Angle"
+msgstr "KÄt"
+
+#: Length
+msgid "Length "
+msgstr "DÅugoÅÄ"
+
+#. #Shorter labels
+#: SD
+msgid "SD"
+msgstr "SD"
+
+#: Mean
+msgid "Moy."
+msgstr "Mean"
+
+#. ### ThresholdAdjuster
+#: Threshold
+msgid "Threshold"
+msgstr "PrÃ³g"
+
+#: RedThresh
+msgid "Red"
+msgstr "Czerwieni"
+
+#: BWThresh
+msgid "Black & White"
+msgstr "Czerni/Bieli"
+
+#: OverUnder
+msgid "Over/Under"
+msgstr "PoniÅ¼ej/Ponad"
+
+#: ThreshLevels
+msgid "Set Threshold Levels"
+msgstr "Ustaw progi"
+
+#: LowThreshLevel
+msgid "Lower Threshold Level:"
+msgstr "Dolny prÃ³g:"
+
+#: UpThreshLevel
+msgid "Upper Threshold Level:"
+msgstr "GÃ³rny prÃ³g:"
+
+#: RGBThreshErr
+msgid "RGB images cannot be thresolded."
+msgstr "Obrazy RGB nie mogÄ byÄ progowane."
+
+#. ## NewPlugin
+#: NPTitle
+msgid "Nouveau..."
+msgstr "Nowy..."
+
+#: Type
+msgid "Type"
+msgstr "Typ"
+
+#. ##Recorder
+#: Record
+msgid "Record"
+msgstr "Rejestruj"
+
+#: CreateMacro
+msgid "Create Macro"
+msgstr "UtwÃ³rz makro"
+
+#: CreatePlugin
+msgid "Create Plugin"
+msgstr "UtwÃ³rz plugin"
+
+#. ## Command Lister
+#: Commands
+msgid "Commands"
+msgstr "Polecenia"
+
+#. # 2 FIELDS SEPARATED BY \t
+#: CommandLabels
+msgid "Command\tPlugin"
+msgstr "Polecenie\tPlugin"
+
+#: KbdShortcuts
+msgid "Keyboard Shortcuts"
+msgstr "SkrÃ³ty klawiszowe"
+
+#. # 2 FIELDS SEPARATED BY \t
+#: KbdShortcutsLabels
+msgid "Hot Key\tCommand"
+msgstr "Klawisz\tPlugin"
+
+#. ## ScaleDialog
+#: ScDiagTitle
+msgid "Set Scale"
+msgstr "Ustawienia skali"
+
+#: ScDiagDistPix
+msgid "Distance in Pixels:"
+msgstr "OdlegÅoÅÄ w pikselach:"
+
+#: ScDiagDist
+msgid "Real Distance:"
+msgstr "Rzeczywista odlegÅoÅÄ:"
+
+#: ScDiagRatio
+msgid "Width/Height Ratio:"
+msgstr "Stosunek szerokoÅÄ/wysokoÅÄ:"
+
+#: ScDiagUnit
+msgid "Unit of Length:"
+msgstr "Jednostka dÅugoÅci:"
+
+#: ScDiagScale
+msgid "Scale:"
+msgstr "Skala:"
+
+#: ScDiagGlobal
+msgctxt "ScDiagGlobal"
+msgid "Global"
+msgstr "Globalnie"
+
+#: ScDiagNoScale
+msgid "<No Scale>"
+msgstr "<Brak skali>"
+
+#. ## SurfacePlotter
+#: SfcPlTitle
+msgid "Surface Plotter"
+msgstr "WykreÅlanie powierzchni"
+
+#: SfcPlImgTitle
+msgid "Surface Plot"
+msgstr "Wykres powierzchniowy"
+
+#: SfcPlDrSlice
+msgid "Drawing slice"
+msgstr "Rysuj ciÄcie"
+
+#: SfcPlMult
+msgid "Number of samples"
+msgstr "Liczba przekrojÃ³w"
+
+#: SfcPlWire
+msgid "Draw wireframe"
+msgstr "Rysuj linie przekrojÃ³w"
+
+#: SfcPlShade
+msgid "Shade"
+msgstr "PokaÅ¼ odcienie kolorÃ³w"
+
+#: SfcPlAxis
+msgid "Draw axis"
+msgstr "Rysuj osie"
+
+#: SfcPlInvert
+msgid "Source Background is Lighter"
+msgstr "OdwrÃ³Ä podstawÄ wykresu"
+
+#: SfcPlBlack
+msgid "Fill Plot Background with Black"
+msgstr "Czarne tÅo wykresu"
+
+#: SfcPlPoly
+msgid "Fill Plot"
+msgstr "WypeÅnij wykres"
+
+#: SfcPlSmooth
+msgid "Smooth"
+msgstr "WygÅadÅº"
+
+#. ## Printer
+#: PageSetup
+msgid "Page Setup"
+msgstr "Ustawienia strony"
+
+#: PrintScaling
+msgid "Scaling"
+msgstr "Skalowanie"
+
+#: PrintBorder
+msgid "Draw Border"
+msgstr "Drukuj krawÄdÅº"
+
+#: PrintTitle
+msgid "Print Title"
+msgstr "Drukuj tytuÅ"
+
+#: PrintCenter
+msgid "Center on Page"
+msgstr "Årodek strony"
+
+#. ## Rotator
+#: Rotate
+msgid "Rotate"
+msgstr "ObrÃ³t"
+
+#: AngleUnity
+msgid "Angle (degrees):"
+msgstr ""
+
+#: GridLines
+msgid "Grid Lines:"
+msgstr ""
+
+#: Interpolate
+msgid "Interpolate"
+msgstr "Interpolacja"
+
+#: FillwithBg
+msgctxt "FillwithBg"
+msgid "Fill with Background Color"
+msgstr ""
+
+#: EnlargetoFit
+msgid "Enlarge Image to Fit Result"
+msgstr ""
+
+#: AngleErr
+msgid "Angle is invalid."
+msgstr "KÄt jest nieprawidÅowy."
+
+#. ## Options
+#: OptMiscTitle
+msgid "Miscellaneous Options"
+msgstr "RÃ³Å¼ne moÅ¼liwoÅci"
+
+#: OptHistBin
+msgid "Real Histogram Bins:"
+msgstr "Rzeczywista szerokoÅÄ binu:"
+
+#: OptDivZero
+msgid "Divide by Zero Value:"
+msgstr "WartoÅÄ dzielenia przez zero:"
+
+#: OptCursor
+msgid "Use Pointer Cursor"
+msgstr "UÅ¼yj kursora"
+
+#: OptScale
+msgid "Scale When Converting"
+msgstr "Skaluj przy konwersji"
+
+#: OptStackDiag
+msgid "Hide \"Process Stack?\" Dialog"
+msgstr "Ukryj dialog \"Czy przetworzyÄ stos?\""
+
+#: OptAntialias
+msgid "Antialiased Text"
+msgstr "Tekst zantyalisasowany"
+
+#: OptInterpolate
+msgid "Interpolate Images <100%"
+msgstr "Interpoluj obrazy <100%"
+
+#: OptOpen
+msgid "Open Images at 100%"
+msgstr "Otwieraj obrazy w rzeczywistej skali"
+
+#: OptDebug
+msgid "Debug Mode"
+msgstr "Tryb usuwania bÅÄdÃ³w"
+
+#: OptLine
+msgid "Line width:"
+msgstr "SzerokoÅÄ linii:"
+
+#: OptJpeg
+msgid "JPEG quality (0-100):"
+msgstr "JakoÅÄ pliku JPEG (0-100):"
+
+#: OptMark
+msgid "Mark Width:"
+msgstr "SzerokoÅÄ znaku:"
+
+#. ## Fonts
+#: FontsTitle
+msgid "Fonts"
+msgstr "Czcionka"
+
+#: FontPlain
+msgid "Plain"
+msgstr "ZwykÅa"
+
+#: FontBold
+msgid "Bold"
+msgstr "Pogrubiona"
+
+#: FontIt
+msgid "Italic"
+msgstr "Kursywa"
+
+#: FontBoldIt
+msgid "Bold+Italic"
+msgstr "Pogrubiona kursywa"
+
+#: FontPoint
+msgid "pt"
+msgstr "pt "
+
+#. ## Fitter
+#: FitterTitle
+msgid "Curve Fitter"
+msgstr "Dopasowanie krzywej"
+
+#: Fit
+msgid "Fit..."
+msgstr "Dopasuj..."
+
+#: FitFncErr
+msgid "No function available"
+msgstr "NiedostÄpna funkcja"
+
+#: FitImgErr
+msgid "First select the image to be transformed"
+msgstr "Najpierw zaznacz obraz do transformacji"
+
+#: FitterSuffix
+msgid "-transformed"
+msgstr "-przetransformowany"
+
+#. ## Resizer
+#: ResizeRoiErr
+msgid ""
+"These commands\n"
+"do not work with line selections."
+msgstr ""
+"Te polecenia\n"
+"nie dziaÅajÄ z liniowym zaznaczeniem."
+
+#: ResizeTitle
+msgid "Resize"
+msgstr "ZmieÅ rozmiar"
+
+#: ResizeConstrain
+msgid "Constrain Aspect Ratio"
+msgstr "Przytnij zachowujÄc proporcje"
+
+#: ResizeWarn
+msgid "NOTE: Undo is not available"
+msgstr "UWAGA: Opcja cofniÄcia jest niedostÄpna"
+
+#: ResizeErr
+msgid "Width or height are invalid."
+msgstr "SzerokoÅÄ lub wysokoÅÄ sÄ nieprawidÅowe."
+
+#: ResizeLost1
+msgid ""
+"SalsaJ ran out of memory causing \n"
+"the last"
+msgstr ""
+"SalsaJ brakÅo pamiÄci \n"
+"co spowodowaÅo, Å¼e ostatnie"
+
+#: ResizeLost2
+msgid "slices to be lost."
+msgstr "obrazy zostaÅy stracone."
+
+#. ##CanvasResizer NEW
+#: CanvasResizerTitle1
+msgid "Resize Image Canvas"
+msgstr "ZmieÅ rozmiar obszaru roboczego obrazu"
+
+#: CanvasResizerTitle2
+msgid "Resize Stack Canvas"
+msgstr "ZmieÅ rozmiar obszaru roboczego stosu"
+
+#: Position
+msgid "Postion"
+msgstr "Pozycja"
+
+#: ZeroFile
+msgid "Zero Fill"
+msgstr "WypeÅnienie zerami"
+
+#: Top-Left
+msgid "Top-Left "
+msgstr "U gÃ³ry po lewej"
+
+#: Top-Center
+msgid "Top-Center"
+msgstr "U gÃ³ry po Årodku"
+
+#: Top-Right
+msgid "Top-Right"
+msgstr "U gÃ³ry po prawej"
+
+#: Center-Left
+msgid "Center-Left"
+msgstr "Na Årodku po lewej"
+
+#: Center
+msgid "Center"
+msgstr "Na Årodku"
+
+#: Center-Right
+msgid "Center-Right"
+msgstr "Na Årodku po prawej"
+
+#: Bottom-Left
+msgid "Bottom-Left"
+msgstr "Na dole po lewej"
+
+#: Bottom-Center
+msgid "Bottom-Center"
+msgstr "Na dole po Årodku"
+
+#: Bottom-Right
+msgid "Bottom-Right"
+msgstr "Na dole po prawej"
+
+#. ##Montage Maker NEW
+#: MakeMontage
+msgid "Make Montage"
+msgstr "MontaÅ¼"
+
+#: Columns
+msgid "Columns"
+msgstr "Kolumny"
+
+#: Rows
+msgid "Rows"
+msgstr "Wiersze"
+
+#: ScaleFactor
+msgid "Scale Factor"
+msgstr "Czynnik skali"
+
+#: FirstSlice
+msgid "First Slice"
+msgstr "Pierwszy obraz"
+
+#: LastSlice
+msgid "Last Slice"
+msgstr "Ostatni obraz"
+
+#: Increment
+msgctxt "Increment"
+msgid "Increment"
+msgstr "Przyrost"
+
+#: BorderWidth
+msgid "Border Width"
+msgstr "SzerokoÅÄ granicy"
+
+#: LabelSlices
+msgid "Label Slices"
+msgstr "Nadaj etykiety obrazom"
+
+#: UseForegroundColor
+msgid "Use Foreground Color"
+msgstr "UÅ¼yj koloru pierwszego planu"
+
+#. ##ImageProperties NEW
+#: Channels
+msgid "Channels"
+msgstr "KanaÅy"
+
+#: Frames
+msgid "Frames"
+msgstr "Klatki"
+
+#: Pixel_Width
+msgid "Pixel Width"
+msgstr "SzerokoÅÄ piksela"
+
+#: Pixel_Height
+msgid "Pixeln Height"
+msgstr "WysokoÅÄ piksela"
+
+#: Voxel_Depth
+msgid "Voxel Depth"
+msgstr "GÅÄbokoÅÄ woksela"
+
+#: FrameInterval
+msgid "Frame Interval"
+msgstr "OdlegÅoÅÄ pomiÄdzy klatkami"
+
+#: Origin
+msgid "Origin (pixels)"
+msgstr "Å¹rÃ³dÅo (piksele)"
+
+#: Global
+msgctxt "Global"
+msgid "Global"
+msgstr "Globalny"
+
+#. ## SimpleCommands
+#: NotLocked
+msgid "is not locked"
+msgstr "nie jest zablokowany"
+
+#: Unlocked
+msgid "is now unlocked"
+msgstr "teraz jest odblokowany"
+
+#: Rename
+msgid "Rename"
+msgstr "ZmieÅ nazwÄ"
+
+#: RenameName
+msgid "New title:"
+msgstr "Nowa nazwa:"
+
+#. ## Duplicater
+#: DupliSuffix
+msgid "-copy"
+msgstr "-kopia"
+
+#: DupliTitle
+msgid "Duplicate"
+msgstr "Powiel"
+
+#: DupliNewName
+msgid "Title:"
+msgstr "Nazwa:"
+
+#: DupliStack
+msgid "Duplicate Entire Stack?"
+msgstr "Czy powieliÄ caÅy stos?"
+
+#. ## Scaler
+#: ScalerTitle
+msgid "Scale"
+msgstr "Skala"
+
+#: ScalerX
+msgid "X Scale"
+msgstr "Skala na osi X "
+
+#: ScalerY
+msgid "Y Scale"
+msgstr "Skala na osi Y "
+
+#: ScalerErr
+msgid "X or Y scale are invalid."
+msgstr "Skala na osi X lub Y jest nieprawidÅowa."
+
+#: ScalerSuffix
+msgid "-rescaled"
+msgstr "-przeskalowany"
+
+#. ##NEW
+#: ScalerBackground
+msgctxt "ScalerBackground"
+msgid "Fill with Background Color"
+msgstr "WypeÅnij kolorem tÅa"
+
+#. ##ScaleBar ##NEW
+#: ScaleBarTitle
+msgid "ScaleBar Plus"
+msgstr "Pasek skali Plus"
+
+#: ScaleBarWidth
+msgid "Width in"
+msgstr "SzerokoÅÄ w"
+
+#: ScaleBarHeight
+msgid "Height in pixels"
+msgstr "WysokoÅÄ w pikselach"
+
+#: ScaleBarFont
+msgid "Font Size"
+msgstr "Rozmiar czcionki"
+
+#: ScaleBarColor
+msgctxt "ScaleBarColor"
+msgid "Color"
+msgstr "Kolor"
+
+#: ScaleBarBackground
+msgid "Background"
+msgstr "TÅo"
+
+#: ScaleBarLocation
+msgid "Location"
+msgstr "PoÅoÅ¼enie"
+
+#: ScaleBarBold
+msgctxt "ScaleBarBold"
+msgid "Bold Text"
+msgstr "Tekst pogrubiony"
+
+#: ScaleBarHide
+msgid "Hide Text"
+msgstr "Ukryj tekst"
+
+#: ScaleBarSerif
+msgid "Serif Font"
+msgstr "Czcionka Serif"
+
+#. ## LutViewer
+#: LUTTitle
+msgid "LookUp Table"
+msgstr "Look-Up Table"
+
+#. # 4 FIELDS SEPARATED BY \t
+#: LUTHead
+msgid "Index\tRed\tGreen\tBlue"
+msgstr "Indeks\tCzerwony\tZielony\tNiebieski"
+
+#: LUTTextTitle
+msgid "LUT"
+msgstr "LUT"
+
+#. ## LutLoader
+#: LutRGBErr
+msgid "RGB images do not use LUTs."
+msgstr "Obrazy RGB nie uÅ¼ywajÄ LUT."
+
+#. ## Profiler
+#: ProOptTitle
+msgid "Profile Plot Options"
+msgstr "Opcje wykresu"
+
+#: ProOptScale
+msgid "Fixed Y-axis Scale"
+msgstr "Ustal skalÄ na osi Y"
+
+#: ProOptSave
+msgid "Do Not Save X-Values"
+msgstr "Nie zapisuj wartoÅci X"
+
+#: ProOptAuto
+msgid "Auto-close"
+msgstr "AutozamkniÄcie "
+
+#: ProOptVert
+msgid "Vertical Profile"
+msgstr "Profil pionowy"
+
+#. ## RoiManager
+#: RoiTitle
+msgid "Roi Manager"
+msgstr "MenadÅ¼er ROI"
+
+#: RoiAdd
+msgctxt "RoiAdd"
+msgid "Add"
+msgstr "Dodaj"
+
+#: RoiAdd&Draw
+msgctxt "RoiAdd&Draw"
+msgid "Delete"
+msgstr "UsuÅ"
+
+#: RoiDel
+msgctxt "RoiDel"
+msgid "Delete"
+msgstr "UsuÅ"
+
+#: RoiOpen
+msgctxt "RoiOpen"
+msgid "Open"
+msgstr "OtwÃ³rz"
+
+#: RoiOpenAll
+msgid "Open All"
+msgstr "OtwÃ³rz wszystkie"
+
+#: RoiSave
+msgid "Save"
+msgstr "Zapisz"
+
+#: RoiSel
+msgid "Select All"
+msgstr "Zaznacz wszystkie"
+
+#: RoiMeasure
+msgid "Measure"
+msgstr "Wymiary"
+
+#: RoiDraw
+msgid "Draw"
+msgstr "Rysuj"
+
+#: RoiFill
+msgid "Fill"
+msgstr "WypeÅnij"
+
+#: RoiErr1
+msgid "The active image does not have an ROI."
+msgstr "Aktywny obraz nie posiada ROI."
+
+#: RoiErr2
+msgid "The ROI list is empty."
+msgstr "Lista ROI jest pusta."
+
+#: RoiErr3
+msgid "At least one ROI in the list must be selected."
+msgstr "Przynajmniej jeden ROI z listy musi byÄ wybrany."
+
+#: RoiErr4
+msgid "This ROI does not fit the current image."
+msgstr "ROI nie pasuje do tego obrazu."
+
+#: RoiOpenTitle
+msgid "Open ROI..."
+msgstr "OtwÃ³rz ROI..."
+
+#: RoiOpenFolder
+msgid "Select a file in the folder..."
+msgstr "Wybierz plik z katalogu..."
+
+#: RoiSaveTitle
+msgid "Save ROI..."
+msgstr "Zapisz ROI..."
+
+#. ## CalibrationBar
+#: CaliTitle
+msgid "Calibration Bar"
+msgstr "Pasek kalibracji"
+
+#: CaliLoc
+msgid "Location:"
+msgstr "PoÅoÅ¼enie:"
+
+#: CaliFill
+msgid "Fill Colour:"
+msgstr "Kolor wypeÅnienia:"
+
+#: CaliLab
+msgid "Label Colour:"
+msgstr "Kolor etykiety:"
+
+#: CaliNb
+msgid "Number of Labels:"
+msgstr "Liczba etykiet:"
+
+#: CaliPlaces
+msgctxt "CaliPlaces"
+msgid "Decimal Places:"
+msgstr "Liczba miejsc po przecinku:"
+
+#: CaliSize
+msgid "Font Size:"
+msgstr "Rozmiar czcionki:"
+
+#: CaliZoom
+msgid "Zoom Factor:"
+msgstr "WspÃ³Åczynnik powiÄkszenia:"
+
+#: CaliBold
+msgctxt "CaliBold"
+msgid "Bold Text"
+msgstr "Tekst pogrubiony"
+
+#: CaliWithBar
+msgid "with bar"
+msgstr "z paskiem"
+
+#: CaliUpR
+msgid "Upper Right"
+msgstr "Prawy gÃ³rny"
+
+#: CaliUpL
+msgid "Upper Left"
+msgstr "Lewy gÃ³rny"
+
+#: CaliDoR
+msgid "Lower Right"
+msgstr "Prawy dolny"
+
+#: CaliDoL
+msgid "Lower Left"
+msgstr "Lewy dolny"
+
+#: CaliSel
+msgid "At Selection"
+msgstr "Przez wybranie"
+
+#. ## FolderOpener
+#: FoldOpenTitle
+msgid "Open Image Sequence..."
+msgstr "OtwÃ³rz obraz..."
+
+#: FoldOpenErrTitle
+msgid "Import Error:"
+msgstr "BÅÄd podczas importu:"
+
+#: FoldOpenErr1
+msgid ""
+"This folder does not appear to contain any TIFF,\n"
+"FITS, JPEG, BMP, GIF, or PGM files."
+msgstr ""
+"Ten katalog nie zawiera Å¼adnego z plikÃ³w typu TIFF,\n"
+"FITS, JPEG, BMP, GIF, lub PGM."
+
+#: FoldOpenErr2
+msgid "None of the"
+msgstr "Å»aden z "
+
+#: FoldOpenErr3
+msgid "files contain  in their name the string"
+msgstr ""
+"plikÃ³w nie zawiera\n"
+"w nazwie tego ciÄgu znakÃ³w"
+
+#: FoldOpenErr4
+msgid ": wrong dimensions"
+msgstr ": nieprawidÅowy wymiar"
+
+#: FoldOpenErr5
+msgid ": wrong type"
+msgstr ": nieprawidÅowy typ"
+
+#: FoldOpenErr6
+msgid ": unable to open"
+msgstr ": nie moÅ¼na otworzyÄ"
+
+#: FoldOptTitle
+msgid "Sequence Options"
+msgstr "KolejnoÅÄ opcji"
+
+#: FoldOpt1
+msgid "Number of Images"
+msgstr "Liczba obrazÃ³w"
+
+#: FoldOpt2
+msgid "Starting Image"
+msgstr "Obraz poczÄtkowy"
+
+#: FoldOpt3
+msgctxt "FoldOpt3"
+msgid "Increment"
+msgstr "Przyrost"
+
+#: FoldOpt4
+msgid "File Name Contains"
+msgstr "Nawza pliku zawiera"
+
+#: FoldOpt5
+msgid "Convert to 8-bit Greyscale"
+msgstr "PrzeksztaÅÄ do 8-bitowej skali szaroÅci"
+
+#: FoldOpt6
+msgid "Open 1/2 Size"
+msgstr "OtwÃ³rz 1/2 rozmiaru"
+
+#. ## URLOpener
+#: URLDiagTitle
+msgid "Enter URL"
+msgstr "WprowadÅº URL"
+
+#: URLDiagLab
+msgid "Enter the URL of an image to open:"
+msgstr "WprowadÅº URL obrazu do otwarcia:"
+
+#. ## Animator
+#: AnimOptTitle
+msgid "Animation Options"
+msgstr "Opcje animacji"
+
+#: AnimOptSpeed
+msgid "Speed (1-100 fps):"
+msgstr "SzybkoÅÄ (1-100 klatek na sek.):"
+
+#: AnimOptLoop
+msgid "Loop Back and Forth"
+msgstr "PÄtla tam i z powrotem"
+
+#: AnimOptStart
+msgid "Start Animation"
+msgstr "Rozpocznij animacjÄ"
+
+#: AnimSlice
+msgid "Set Slice"
+msgstr "Ustaw obrazy"
+
+#: AnimNb
+msgid "Slice number"
+msgstr "Numer obrazu"
+
+#. ## TextWriter
+#: TWErrTitle
+msgid "Save As Text"
+msgstr "Zapisz jako tekst"
+
+#: TWErrMsg
+msgid "This command requires a TextWindow"
+msgstr "To polecenie wymaga okna tekstowego"
+
+#. ## Calibrator
+#: CalibrTitle
+msgid "Calibrate..."
+msgstr "Kalibracja..."
+
+#: CalibrFunc
+msgid "Function:"
+msgstr "Funkcja:"
+
+#: CalibrGlob
+msgid "Global calibration"
+msgstr "Kalibracja globalna"
+
+#: Calibrator
+msgid "Calibrator:"
+msgstr "Kalibrator:"
+
+#: CalibrErr1
+msgid "Please select a function"
+msgstr "ProszÄ wybraÄ funkcjÄ"
+
+#: CalibrErr16b
+msgid ""
+"Calibration of 16-bit images, except with straight\n"
+"line functions, is currently not supported."
+msgstr ""
+"Kalibaracja 16-bitowych obrazÃ³w (z wyjÄtkiem funkcji linowych)\n"
+"nie jest obecnie wspomagana."
+
+#: CalPixelInverter
+msgid "Pixel Inverter"
+msgstr "OdwrÃ³Ä piksele"
+
+#: CalibrMan
+msgid ""
+"To create a calibration curve, the left column must\n"
+"contain a list of measured mean pixel values and the\n"
+"right column must contain the same number of calibration\n"
+"standard values."
+msgstr ""
+"Aby utworzyÄ krzywÄ kalibracji, w lewej kolumnie miusi\n"
+"znajdowaÄ siÄ lista zmierzonych wartoÅci Årednich pikseli,\n"
+"a w prawej kolumnie musi znajdowac siÄ standardowa wartoÅc kalibracji.  "
+
+#: CalibrFuncTitle
+msgid "Calibration function"
+msgstr "Funkcja kalibracji"
+
+#. #Recorder
+#: Recorder
+msgid "Recorder"
+msgstr "Rejestrowanie"
+
+#: 32birReqErr
+msgid "32-bit float image required"
+msgstr "Wymagany obraz 32-bitowy"
+
+#: OptHistory
+msgid "Last used files:"
+msgstr "Ostatnio uÅ¼ywane pliki:"
+
+#: OptFiles
+msgid "Files"
+msgstr "Pliki"
+
+#: Translate
+msgid "Translate"
+msgstr "PrzesuÅ rÃ³wnolegle"
+
+#: TX
+msgid "Translation on X"
+msgstr "PrzesuÅ rÃ³wnolegle na osi X"
+
+#: TY
+msgid "Translation on Y"
+msgstr "PrzesuÅ rÃ³wnolegle na osi Y"
+
+#: TxErr
+msgid "Translation on X is invalid"
+msgstr "PrzesuniÄcie na osi X jest nieprawidÅowe"
+
+#: TyErr
+msgid "Translation en Y est invalide"
+msgstr "PrzesuniÄcie na osi Y jest nieprawidÅowe"
+
+#. #OptJFileChooser
+#: OptJFileChooser
+msgid "Open/Save Using JFileChooser"
+msgstr "OtwÃ³rz/Zapisz za pomocÄ JFileChooser"
+
+#: ProOptHoriz
+msgid "Horizontal Profile"
+msgstr "Profil poziomy"
+
+#. #Spectrum Radio...
+#: GaussFitResults
+msgid "Gaussian fit results"
+msgstr "Wyniki dopasowania funkcji Gaussa"
+
+#: ChannelRS
+msgid "Channel"
+msgstr "KanaÅ"
+
+#: VelocityRS
+msgid "Velocity"
+msgstr "PrÄdkoÅÄ"
+
+#: unitsVelocityRS
+msgid "km/s"
+msgstr "km/s"
+
+#: FrequencyRS
+msgid "Frequency"
+msgstr "CzÄstoÅÄ"
+
+#: unitsFrequencyRS
+msgid "MHz"
+msgstr "MHz"
+
+#: WavelengthRS
+msgid "Wavelength"
+msgstr "DÅugoÅÄ fali"
+
+#. # ref wave of chemical element to compute velocity in optical spectrum (default Na=589 nm)
+#: Wave_ref
+msgid "Reference wavelength"
+msgstr ""
+
+#: unitsWavelengthRS
+msgid "cm"
+msgstr "cm"
+
+#: IntensityRS
+msgid "Intensity"
+msgstr "NatÄÅ¼enie"
+
+#: error0
+msgid "This does not appear to be a FITS file."
+msgstr "To nie jest plik FITS."
+
+#: error1
+msgid "too few points to fit"
+msgstr "zbyt maÅo punktÃ³w aby wykonaÄ dopasowanie"
+
+#: error2
+msgid "singular matrix"
+msgstr "macierz osobliwa"
+
+#: chooseInter
+msgid "choose two intervals"
+msgstr "wybierz dwa przedziaÅy"
+
+#: Finter
+msgid "first interval"
+msgstr "pierwszy przedziaÅ"
+
+#: Sinter
+msgid "second interval"
+msgstr "drugi przedziaÅ"
+
+#: chooseOder
+msgid "choose order of baseline fit (0<order<5)"
+msgstr "wybierz rzÄd dopasowania (0<rzÄd<5)"
+
+#: order
+msgid "Order"
+msgstr "RzÄd"
+
+#: DisplayZero
+msgid "display zero line in blue"
+msgstr "pokaÅ¼ liniÄ zerowÄ na niebiesko"
+
+#: GaussianfitTitle
+msgid "Gaussian fit of spectral line"
+msgstr "Dopasowanie funkcji Gaussa dla linii widmowej"
+
+#: ChooseParam
+msgid "Choose parameters"
+msgstr "Wybierz parametry"
+
+#: interval
+msgid "interval"
+msgstr "PrzedziaÅ"
+
+#: amplitudeRS
+msgid "amplitude"
+msgstr "Amplituda"
+
+#: centerRS
+msgid "center"
+msgstr "Årodek"
+
+#: widthRS
+msgid "width"
+msgstr "SzerokoÅÄ"
+
+#: eraseRS
+msgid "erase the last"
+msgstr "Skasuj ostatni"
+
+#: subtractRS
+msgid "Subtract baseline"
+msgstr "Odejmij liniÄ odniesienia"
+
+#: GaussianFit
+msgid "Gaussian fit"
+msgstr "Dopasowanie funkcji Gaussa"
+
+#: baseline
+msgid "Baseline"
+msgstr "Linia odniesienia"
+
+#. #Optical Spectrum...
+#: lambdaOS
+msgid "Lambda[A]"
+msgstr "Lambda[A]"
+
+#: fluxOS
+msgid "Flux[ADU]"
+msgstr "StrumieÅ[ADU]"
+
+#. #Plugins externes
+#: Chooselanguage
+msgid "Choose language"
+msgstr "Wybierz jÄzyk"
+
+#: DynamicProfile
+msgid "Dynamic profile"
+msgstr "Profil dynamiczny"
+
+#: LiveHistg
+msgid "Live histogram"
+msgstr "Histogram na Å¼ywo"
+
+#: OpenStar
+msgid "Virtual observatories images"
+msgstr "Obrazy z wirtualnych obserwatoriÃ³w"
+
+#: ImportURL
+msgid "Open an image on the Web"
+msgstr "otwÃ³rz obraz w sieci"
+
+#: AlignRGB
+msgid "Align R/G/B planes"
+msgstr "WyrÃ³wnaj plany R/G/B"

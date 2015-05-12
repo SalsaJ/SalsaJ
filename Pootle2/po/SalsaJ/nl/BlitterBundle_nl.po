@@ -1,0 +1,77 @@
+#. extracted from ../templates/BlitterBundle.properties, ../resu/BlitterBundle_nl.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: Add
+msgid "Add"
+msgstr "Optellen"
+
+#: AND
+msgid "AND"
+msgstr "EN"
+
+#: Average
+msgid "Average"
+msgstr "Gemiddelde"
+
+#: Copy
+msgid "Copy"
+msgstr "Kopieer"
+
+#: Difference
+msgid "Difference"
+msgstr "Verschil"
+
+#: Divide
+msgid "Divide"
+msgstr "Deel"
+
+#: Gamma
+msgid "Gamma"
+msgstr "Gamma"
+
+#: Index
+msgid "index"
+msgstr "index"
+
+#: Max
+msgid "Max"
+msgstr "Max"
+
+#: Min
+msgid "Min"
+msgstr "Min"
+
+#: Multiply
+msgid "Multiply"
+msgstr "Vermenigvuldig"
+
+#: OR
+msgid "OR"
+msgstr "OF"
+
+#: Subtract
+msgid "Subtract"
+msgstr "Aftrekken"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "Transparant"
+
+#: Value
+msgid "value"
+msgstr "waarde"
+
+#: XOR
+msgid "XOR"
+msgstr "XOF"

@@ -1,0 +1,820 @@
+#. extracted from files/locale.properties, files/locale_EN.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-24 19:26+0200\n"
+"PO-Revision-Date: 2012-11-18 14:50+0200\n"
+"Last-Translator: Christer <lcg.nilsson@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#  Thank you for your help to translate this file. 
+#  It corresponds to the Web interface developed to 
+#  remotely control the EUHOU-MW SRT network, 
+#  actually hosted at http://euhou.obspm.fr
+#: [base]
+msgctxt "[base]"
+msgid ""
+msgstr "Engelska"
+
+#: home
+msgid "\"Home\""
+msgstr "\"Hem\""
+
+#: observer
+msgid "\"Observer\""
+msgstr "\"Observatör\""
+
+#: simulator
+msgid "\"Simulator\""
+msgstr "\"Simulator\""
+
+#: archive
+msgid "\"Archive\""
+msgstr "\"Arkiv\""
+
+#: credits
+msgctxt "credits"
+msgid "\"Credits\""
+msgstr "\"Tack till\""
+
+#: radioTelescope
+msgid "\"radio telescope\""
+msgstr "\"radioteleskop\""
+
+#: login
+msgid "\"Username\""
+msgstr "\"Användarnamn\""
+
+#: password
+msgid "\"Password\""
+msgstr "\"Lösenord\""
+
+#: password_confirmation
+msgid "\"Password confirmation\""
+msgstr "\"Bekräfta lösenord\""
+
+#: first_name
+msgid "\"First name\""
+msgstr "\"Förnamn\""
+
+#: last_name
+msgid "\"Last name\""
+msgstr "\"Efternamn\""
+
+#: email
+msgid "\"Email\""
+msgstr "\"E-post\""
+
+#: country
+msgid "\"Country\""
+msgstr "\"Land\""
+
+#: language
+msgid "\"Language\""
+msgstr "\"Språk\""
+
+#: status
+msgid "\"Status\""
+msgstr "\"Status\""
+
+#: motivation
+msgid "\"Motivation\""
+msgstr "\"Motiv\""
+
+#: status_1
+msgid "\"researcher\""
+msgstr "\"forskare\""
+
+#: status_2
+msgid "\"teacher\""
+msgstr "\"lärare\""
+
+#: status_3
+msgid "\"student\""
+msgstr "\"student\""
+
+#: status_4
+msgid "\"other\""
+msgstr "\"annat\""
+
+#: Paris
+msgid "\"Paris 2m (FR)\""
+msgstr "\"Paris 2 m (FR)\""
+
+#: Cracovie
+msgid "\"Krakow (PL)\""
+msgstr "\"Krakow (PL)\""
+
+#: Craiova
+msgid "\"Craiova (RO)\""
+msgstr "\"Craiova (RO)\""
+
+#: Paris2
+msgid "\"Paris 3m (FR)\""
+msgstr "\"Paris 3 m (FR)\""
+
+#: Madrid
+msgid "\"Madrid (ES)\""
+msgstr "\"Madrid (ES)\""
+
+#: to_login
+msgid "\"Log in\""
+msgstr "\"Logga in\""
+
+#: register
+msgid "\"Create your account\""
+msgstr "\"Skapa konto\""
+
+#: booking
+msgid "\"Booking\""
+msgstr "\"Bokning\""
+
+#: myInformation
+msgid "\"My informations\""
+msgstr "\"Information om mig\""
+
+#: administration
+msgid "\"Administration\""
+msgstr "\"Administration\""
+
+#: account_requests
+msgid "\"Account Requests\""
+msgstr "\"Kontoförfrågningar\""
+
+#: delete_time_slots
+msgid "\"Delete time slots\""
+msgstr "\"Ta bort tidsfönster\""
+
+#: account_list
+msgid "\"Account list\""
+msgstr "\"Kontolista\""
+
+#: webcam
+msgid "\"Webcam\""
+msgstr "\"Webbkamera\""
+
+#: logout
+msgid "\"Log out\""
+msgstr "\"Logga ut\""
+
+#: forgotten_password
+msgid "\"Password forgotten\""
+msgstr "\"Glömt ditt lösenord?\""
+
+#: date
+msgid "\"Date\""
+msgstr "\"Datum\""
+
+#: cancel_button
+msgid "\"Cancel\""
+msgstr "\"Ta bort\""
+
+#: enter_your_email
+msgid "\"Enter your email\""
+msgstr "\"Skriv in din e-postadress\""
+
+#: [info_errors]
+msgctxt "[info_errors]"
+msgid ""
+msgstr "Engelska"
+
+#: error_title
+msgid "\"There are # errors\"       ; There are 3 errors"
+msgstr "\"Det finns # fel\" ; Det finns 3 fel"
+
+#: empty_parameter_error
+msgid "\"cannot be empty\""
+msgstr "\"kan inte vara tom\""
+
+#: dont_exist
+msgid "\"doesn't exist\""
+msgstr "\"finns inte\""
+
+#: too_short_parameter_error
+msgid "\"must have at least # characters\" ; must have at least 8 characters "
+msgstr "\"måste ha åtminstone # tecken\" ; måste ha åtminstone 8 tecken"
+
+#: login_cararcter_restraint_error
+msgid "\"must consist of a-z A-Z 0-9\""
+msgstr "\"måste innehålla a-z A-Z 0-9\""
+
+#: name_cararcter_restraint_error
+msgid "'cannot contain characters other than letters, numbers and \"_\"'"
+msgstr "'kan inte innehålla andra tecken än bokstäver, tal och \"_\"'"
+
+#: login_not_available_error
+msgid "\"is not available\""
+msgstr "\"inte tillgänglig\""
+
+#: incorrect_password_error
+msgid "\"is incorrect\""
+msgstr "\"är fel\""
+
+#: mail_incorrect_shape_error
+msgid "\"must be have the format: toto@tata.net\""
+msgstr "\"måste ha formatet: toto@tata.net\""
+
+#: mail_not_available_error
+msgid "\"already related to another account\""
+msgstr "\"redan kopplat till ett annat konto\""
+
+#: date_in_the_past_error
+msgid "\"date cannot be in the past\""
+msgstr "\"datum kan inte vara i förfluten tid\""
+
+#: radiotelescope_not_available_error
+msgid "\"not available\""
+msgstr "\"inte tillgänglig\""
+
+#: is_not_a_date_error
+msgid "\"is not a date\""
+msgstr "\"är inget datum\""
+
+#: [index]
+msgctxt "[index]"
+msgid ""
+msgstr ""
+
+#: welcome
+msgid "\"Welcome\""
+msgstr "\"Välkommen\""
+
+#: welcome_txt
+msgid ""
+"\"<span class='date'>November 24, 2011</span> | EU-HOU radio "
+"astronomy<br/>Welcome to Hands-On Universe, Europe. The aim of this site is "
+"to give remote access to small radio telescopes installed throughout Europe. "
+"It is possible to operate these telescopes remotly.  Based on your "
+"observations, you will be able to build a map of our galaxy, the Milky "
+"Way...\""
+msgstr ""
+"\"<span class='date'>24 november, 2011</span> | EU-HOU "
+"Radioastronomi<br/>Välkommen till europeiska Hands-On Universe. Syftet med "
+"denna sajt är att ge kontakt med små radioteleskop som finns på flera "
+"platser i Europa. Det är möjligt att styra dessa teleskop på distans.   Med "
+"hjälp av dina observationer kan du göra en karta över vår galax, "
+"Vintergatan...\""
+
+#: observer_txt
+msgid ""
+"\"Web interface to remotely use the Antenna. A login and password are "
+"required to access this facility.\""
+msgstr ""
+"\"Webbgränssnitt för att på distans använda antennen. Du behöver ett "
+"användarnamn och ett lösenord för att få tillgång till denna resurs.\""
+
+#: simulator_txt
+msgid ""
+"\"Web interface to access the LAB database and tools to interactively perform "
+"the Milky Way-exercise (rotation curve and spiral arms)\" "
+msgstr ""
+"\"Webbgränssnitt för att komma åt LAB-databasen och verktyg för att "
+"interaktivt genomföra Vintergatsövningen (rotationskurva och spiralarmar\""
+
+#: archive_txt
+msgid ""
+"\"Database of the all the observations taken with the 5 antennas together "
+"with tools to (i) display and download the archived results and (ii) create "
+"a map of the Milky Way.\""
+msgstr ""
+"\"Databas med alla observationer som gjorts med de 5 antennerna och verktyg "
+"för att (1) ladda ner och visa upp arkiverade resultat och (2) skapa en "
+"karta över Vintergatan.\""
+
+#: msg_registred
+msgid "\"You have been registered; please wait for the comfirmation email\""
+msgstr ""
+"\"Du har blivit registrerad; avvakta tills du fått bekräftelse per e-post\""
+
+#: msg_dont_touch_parameters
+msgid "\"Don't modify the link\""
+msgstr "\"Ändra inte länken\""
+
+#: msg_need_a_password
+msgid "\"You must give a password\""
+msgstr "\"Du måste ange lösenord\""
+
+#: msg_need_a_login
+msgid "\"You must give a login\""
+msgstr "\"Du måste ange användarnamn\""
+
+#: msg_login_password_incorrect
+msgid "\"Your login or password is incorrect\""
+msgstr "\"Ditt användarnamn eller lösenord är felaktigt\""
+
+#: msg_not_valid_account
+msgid "\"Your account hasn't been validated yet\""
+msgstr "\"Ditt konto har ännu inte bekräftats\""
+
+#: msg_not_allowed
+msgid "\"you are not allowed to go on this page\""
+msgstr "\"Du har inte tillstånd att gå till denna sida\""
+
+#: msg_not_reserved
+msgid "\"you have no reservation for now\""
+msgstr "\"Du har för närvarande ingen bokning\""
+
+#: msg_wait_for_validation
+msgid ""
+"\"You've already validated your email, please wait for the admin validation\""
+msgstr ""
+"\"Du har redan bekräftat din e-postadress, avvakta bekräftelse från admin\""
+
+#: msg_already_valid
+msgid "\"Your account is already valid, you can reserve time slots to observe\""
+msgstr ""
+"\"Ditt konto är redan bekräftat, du kan boka tidsfönster för observation\""
+
+#: msg_deleted_account
+msgid "\"Your account has been deleted. Create another account\""
+msgstr "\"Ditt konto har avslutats. Skapa ett nytt konto.\""
+
+#: msg_validated_account
+msgid ""
+"\"Your e-mail address has been validated. You now need to wait for an "
+"administator to validate your account, based on your motivation. You will "
+"received an email when your account has been approved and is active\""
+msgstr ""
+"\"Din e-postadress har bekräftats. Avvakta nu att en administratör ska "
+"bekräfta ditt konto efter att ha granskat din motivering. Du kommer att få "
+"ett mejl när ditt konto godkänts och har aktiverats.\""
+
+#: msg_broken_link
+msgid "\"Sorry, it did not work. Please create a new account\""
+msgstr "\"Beklagar, men det fungerade inte. Var god skapa ett nytt konto.\""
+
+#: [login]
+msgctxt "[login]"
+msgid ""
+msgstr ""
+
+#: enter_login_password
+msgid "\"Enter your login and password\""
+msgstr "\"Ange användarnamn och lösenord\""
+
+#: [register]
+msgctxt "[register]"
+msgid ""
+msgstr ""
+
+#: register_title
+msgid "\"Create an account to make a reservation and observe\""
+msgstr "\"Skapa ett konto för att göra en bokning för att observera\""
+
+#: [booking]
+msgctxt "[booking]"
+msgid ""
+msgstr ""
+
+#: scheduler_title
+msgid "\"Scheduler\""
+msgstr "\"Tidsbokning\""
+
+#: date_of_reservation
+msgid "\"Date of reservation (UTC)\""
+msgstr "\"Datum för bokning (UTC)\""
+
+#: duration
+msgid "\"Duration\""
+msgstr "\"Varaktighet\""
+
+#: reserve
+msgid "\"Reserve\""
+msgstr "\"Boka\""
+
+#: this_week
+msgid "\"this week\""
+msgstr "\"denna vecka\""
+
+#: date_UTC
+msgid "\"date (UTC)\""
+msgstr "\"datum (UTC)\""
+
+#: [userPage]
+msgctxt "[userPage]"
+msgid ""
+msgstr ""
+
+#: user_page_title
+msgid "\"My information\""
+msgstr "\"Information om mig\""
+
+#: my_slot
+msgid "\"My slots\""
+msgstr "\"Mina tidsfönster\""
+
+#: my_data
+msgid "\"My data\""
+msgstr "\"Mina data\""
+
+#: no_futur_reservation_message
+msgid "\"You have no future reservations\""
+msgstr "\"Du har inga kommande bokningar\""
+
+#: change_button
+msgid "\"Edit\""
+msgstr "\"Redigera\""
+
+#: valid_change_button
+msgid "\"Valid change\""
+msgstr "\"Giltig ändring\""
+
+#: delete_account_button
+msgid "\"Delete my account\""
+msgstr "\"Ta bort mitt konto\""
+
+#: delete_time_slote
+msgid "\"delete\""
+msgstr "\"ta bort\""
+
+#: [credits]
+msgctxt "[credits]"
+msgid ""
+msgstr ""
+
+#: credits_title
+msgctxt "credits_title"
+msgid "\"Credits\""
+msgstr "\"Tack till\""
+
+#: credits_disclaimer[1]
+msgid ""
+"\"This project has been funded with support from the European Commission.\""
+msgstr "\"Detta projekt har fått stöd från Europakommissionen.\""
+
+#: credits_disclaimer[2]
+msgid ""
+"\"This publication [communication] reflects the views only of the author,\""
+msgstr "\"Denna publikation (meddelande) avspeglar endast författarens åsikter,\""
+
+#: credits_disclaimer[3]
+msgid ""
+"\"and the Commission cannot be held responsible for any use which may be made "
+"of the information contained therein.\""
+msgstr ""
+"\"och Kommissionen kan inte hållas ansvarig för någon eventuell användning av "
+"den information som den innehåller.\""
+
+#: credits_text[1]
+msgid "\"Images and data from:\""
+msgstr "\"Bilder och data från:\""
+
+#: credits_text[2]
+msgid "\"Kalberla, P.M.W. et al., 2005, A&A, 440, 775\""
+msgstr "\"Kalberla, P.M.W. et al., 2005, A&A, 440, 775\""
+
+#: credits_text[3]
+msgid "\"Mellinger, A., 2009, PASP, 121, 1180\""
+msgstr "\"Mellinger, A., 2009, PASP, 121, 1180\""
+
+#: credits_text[4]
+msgid "\"Schlegel, D.J., 1998, ApJ, 500, 525\""
+msgstr "\"Schlegel, D.J., 1998, ApJ, 500, 525\""
+
+#: credits_text[5]
+msgctxt "credits_text[5]"
+msgid "\"\""
+msgstr "\"\""
+
+#: credits_text[6]
+msgctxt "credits_text[6]"
+msgid "\"This page has been translated by Firstname Lastname (Affiliation, Country)\""
+msgstr ""
+"\"Denna sida har översatts av Christer Nilsson (Vetenskapens Hus, Sverige)\""
+
+#: credits_text[7]
+msgctxt "credits_text[7]"
+msgid "\"\""
+msgstr "\"\""
+
+#: credits_text[8]
+msgid "\"Site optimized for Firefox / Chrome / Safari\""
+msgstr "\"Sajten är optimerad för Firefox / Chrome / Safari\""
+
+#: credits_contact
+msgid "\"Contact\""
+msgstr "\"Kontakt\""
+
+#: credits_copyright
+msgid ""
+"\"copyright@EU-HOU - Design/Conception Antoine Radiguet - Philippe Salomé\""
+msgstr "\"copyright@EU-HOU - Design/Idé Antoine Radiguet - Philippe Salomé\""
+
+#: [mail]
+msgctxt "[mail]"
+msgid ""
+msgstr ""
+
+#: hello_user[1]
+msgid "\"Hello #,\" ; Hello Login"
+msgstr "\"Hej #,\" ; Hej Användarnamn"
+
+#: hello_user[2]
+msgctxt "hello_user[2]"
+msgid "\"\""
+msgstr "\"\""
+
+#: thank_user[1]
+msgctxt "thank_user[1]"
+msgid "\"\""
+msgstr "\"\""
+
+#: thank_user[2]
+msgid "\"Thank you\""
+msgstr "\"Tack\""
+
+#: thank_user[3]
+msgid "\"The observatory team\""
+msgstr "\"Observatorie-teamet\""
+
+#: email_validation_subject
+msgid "\"Email confirmation\""
+msgstr "\"Bekräfta e-postadress\""
+
+#: email_validation_mail[1]
+msgid "\"Thank you for creating your account\""
+msgstr "\"Tack för att du skapat ett konto\""
+
+#: email_validation_mail[2]
+msgid "\"To validate your email, please click on the link below\""
+msgstr "\"För att bekräfta din e-postadress, klicka på nedanstående länk\""
+
+#: email_validation_mail[3]
+msgid ""
+"'<a href=\"http://euhou.obspm.fr/public/validEmail.php?login=#&validation=#\">"
+"Validation link</a>' ; Translate only  \"Validation link\" "
+msgstr ""
+"'<a href=\"http://euhou.obspm.fr/public/validEmail.php?login=#&validation=#\">"
+"Bekräftelselänk</a>' ; Översätt bara  \"Bekräftelselänk\""
+
+#: time_confirmation_subject
+msgid "\"Reservation confirmation\""
+msgstr "\"Bekräftelse av bokning\""
+
+#: time_confirmation_mail[1]
+msgid "\"Your reservation have been saved\""
+msgstr "\"Din bokning har sparats\""
+
+#: time_confirmation_mail[2]
+msgid ""
+"\"You can use the # radio telescope at # for # hour(s)\" ; You can use the "
+"Paris radiotelescope at 16h30 for 2 hour(s)"
+msgstr ""
+"\"Du kan använda radioteleskopet i # klockan # i # tim\" ; Du kan använda "
+"radioteleskopet i Paris klockan 16h30 i 2 tim"
+
+#: password_recovery_subject
+msgid "\"Password recovery\""
+msgstr "\"Återställning av lösenord\""
+
+#: password_recovery_mail[1]
+msgid "\"Forgot your password?\""
+msgstr "\"Glömt lösenordet?\""
+
+#: password_recovery_mail[2]
+msgid "\"To recover your account, please click on the link below\""
+msgstr "\"För att återställa ditt konto, klicka på nedanstående länk\""
+
+#: password_recovery_mail[3]
+msgid ""
+"'<a href=\"http://euhou.obspm.fr/public/passwordRecover.php?login=#&validatio"
+"n=#\">recover link</a>'; Translate only  \"Recover link\" "
+msgstr ""
+"'<a href=\"http://euhou.obspm.fr/public/passwordRecover.php?login=#&validatio"
+"n=#\">återställ länk</a>'; Översätt bara \"Återställ länk\""
+
+#: password_recovery_mail[4]
+msgctxt "password_recovery_mail[4]"
+msgid "\"\""
+msgstr "\"\""
+
+#: password_recovery_mail[5]
+msgid ""
+"\"If you haven't ask for password recovery, please contact the administrator\""
+msgstr ""
+"\"Om du inte har begärt återställning av lösenordet, var god kontakta "
+"administratören\""
+
+#: user_registration_admin_notification_subject
+msgid "\"User registration\""
+msgstr "\"Registrering av användare\""
+
+#: user_registration_admin_notification_mail[1]
+msgid "\"Hello Admin\""
+msgstr "\"Hallå Admin\""
+
+#: user_registration_admin_notification_mail[2]
+msgctxt "user_registration_admin_notification_mail[2]"
+msgid "\"\""
+msgstr "\"\""
+
+#: user_registration_admin_notification_mail[3]
+msgid "\"A user has just registered\""
+msgstr "\"En användare har just registrerats\""
+
+#: user_registration_admin_notification_mail[4]
+msgid ""
+"\"<br/><a href='http://euhou.obspm.fr/public/validUserList.php' >link</a>\"; "
+"Translate only  \"link\" "
+msgstr ""
+"\"<br/><a href='http://euhou.obspm.fr/public/validUserList.php' >länk</a>\"; "
+"Översätt bara \"länk\" "
+
+#: account_validated_subject
+msgctxt "account_validated_subject"
+msgid "\"Your account has been validated\""
+msgstr "\"Ditt konto har bekräftats\""
+
+#: account_validated_mail[1]
+msgctxt "account_validated_mail[1]"
+msgid "\"Your account has been validated\""
+msgstr "\"Ditt konto har bekräftats\""
+
+#: account_validated_mail[2]
+msgid "\"You can reserve a time slot to observe\""
+msgstr "\"Du kan boka ett tidsfönster för observation\""
+
+#: delete_reservation_subject
+msgid "\"Your reservation(s) have been deleted\""
+msgstr "\"Din(a) bokning(ar) har tagits bort\""
+
+#: delete_reservation_notification
+msgid ""
+"\"Your reservation for the # radio telescope from # to # has been deleted by "
+"an admin of the website.\" ;Your reservation in the Paris radiotelescope from "
+"16h30 to 17h30 has been deleted by an administrator of the website.\""
+msgstr ""
+"\"Din bokning av radioteleskopet i # från # till # har tagits bort av en "
+"administratör på sajten.\" Din bokning av radioteleskopet i Paris från 16h30 "
+"till 17h30 har tagits bort av en administratör på sajten."
+
+#: delete_reservations_notification
+msgid ""
+"\"Your reservations in the # radio telescope from :\" ; Your reservations in "
+"the Paris radio telescope from:"
+msgstr ""
+"\"Dina bokningar av radioteleskopet i # från :\" ; Dina bokningar av "
+"radioteleskopet i Paris från:"
+
+#: delete_reservations_list
+msgid "\"# to #;\" ; 16h30 to 17h30"
+msgstr "\"# till #;\" ; 16h30 till 17h30"
+
+#: delete_reservations_deleted
+msgid "\"have been deleted by an administrator of the website.\""
+msgstr "\"har tagits bort av en administratör på sajten.\""
+
+#: delete_reservations_contact
+msgid "\"for more information, please contact the administrator.\""
+msgstr "\"för mer information, kontakta administratören.\""
+
+#: [archives]
+msgctxt "[archives]"
+msgid ""
+msgstr ""
+
+#: archives_title
+msgid "\"Comenius archives\""
+msgstr "\"Comenius-arkiven\""
+
+#: id
+msgid "\"Id\""
+msgstr "\"Id\""
+
+#: user
+msgid "\"User\""
+msgstr "\"Användarnamn\""
+
+#: all
+msgid "\"All\""
+msgstr "\"Alla\""
+
+#: num
+msgid "\"Num\""
+msgstr "\"Num\""
+
+#: download_selected_fits
+msgid "\"download selected Fits\""
+msgstr "\"ladda ner valda Fits\""
+
+#: download_selected_CSV
+msgid "\"download selected CSV\""
+msgstr "\"ladda ner valda CSV\""
+
+#: [simulator]
+msgctxt "[simulator]"
+msgid ""
+msgstr ""
+
+#: simulator_title
+msgid "\"Comenius-Simulator\""
+msgstr "\"Comenius-Simulator\""
+
+#: [observator]
+msgctxt "[observator]"
+msgid ""
+msgstr ""
+
+#: command
+msgid "\"Command\""
+msgstr "\"Kommando\""
+
+#: results
+msgid "\"Results\""
+msgstr "\"Resultat\""
+
+#: freq
+msgid "\"freq\""
+msgstr "\"frekv\""
+
+#: time
+msgid "\"Time\""
+msgstr "\"Tid\""
+
+#: observe
+msgid "\"Observe\""
+msgstr "\"Observera\""
+
+#: end_of_session
+msgid "\"End of session\""
+msgstr "\"Slut på sessionen\""
+
+#: base
+msgid "\"base\""
+msgstr "\"bas\""
+
+#: [application]
+msgctxt "[application]"
+msgid ""
+msgstr ""
+
+#: galaxie_plan_radio
+msgid "\"Radio H21\""
+msgstr "\"Radio H21\""
+
+#: galaxie_plan_optic
+msgid "\"Optics\""
+msgstr "\"Optik\""
+
+#: galaxie_plan_infrarouge
+msgid "\"Infrared\""
+msgstr "\"Infrarött\""
+
+#: visibility
+msgid "\"Visibility\""
+msgstr "\"Synligt\""
+
+#: spectrum_legend
+msgid "\"T [K] .vs. V [km/s]\""
+msgstr "\"T [K] som funkt. av V [km/s]\""
+
+#: spectrum_send_max
+msgid "\"send max\""
+msgstr "\"skicka max\""
+
+#: spectrum_clean
+msgid "\"clean\""
+msgstr "\"rensa\""
+
+#: control_longitude
+msgid "\"Lon\""
+msgstr "\"Long\""
+
+#: control_latitude
+msgid "\"Lat\""
+msgstr "\"Lat\""
+
+#: simulate
+msgid "\"Simulate\""
+msgstr "\"Simulera\""
+
+#: rotation_curve
+msgid "\"Rotation Curve\""
+msgstr "\"Rotationskurva\""
+
+#: galaxie_map
+msgid "\"Galaxy map\""
+msgstr "\"Galaxkarta\""
+
+#: clean_all
+msgid "\"Clean all\""
+msgstr "\"Rensa allt\""
+
+#: clean_last
+msgid "\"Clean last\""
+msgstr "\"Rensa sista\""
+
+#: rotation_curve_title
+msgid "\"Rotation curves V [km/s] .vs. R [kpc]\""
+msgstr "\"Rotationskurvor V [km/s] som funkt. av R [kpc]\""
+
+#: galaxie_map_title
+msgid "\"Map of the Milky Way X [kpc] , Y [kpc]\""
+msgstr "\"Karta över Vintergatan X [kpc] , Y [kpc]\""

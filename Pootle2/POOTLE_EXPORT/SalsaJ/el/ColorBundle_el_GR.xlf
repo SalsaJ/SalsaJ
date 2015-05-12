@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="ColorBundle_el_GR.po" source-language="en-US" datatype="plaintext" target-language="el">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Background Color">
+        <source>Background Color</source>
+        <target state="translated">Χρώμα Υπόβαθρου</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="black">
+        <source>black</source>
+        <target state="translated">μαύρο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="blue">
+        <source>blue</source>
+        <target state="translated">μπλε</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clipboard">
+        <source>Clipboard</source>
+        <target state="translated">Πρόχειρο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="none">
+        <source>none</source>
+        <target state="translated">δίχως χρώμα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="R/G/B">
+        <source>R/G/B</source>
+        <target state="translated">Χρώμα RGB</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cyan">
+        <source>cyan</source>
+        <target state="translated">κυανό</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="dark gray">
+        <source>dark gray</source>
+        <target state="translated">σκούρο γκρι</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Foreground Color">
+        <source>Foreground Color</source>
+        <target state="translated">Χρώμα Πρώτου Πλάνου</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="gray">
+        <source>gray</source>
+        <target state="translated">γκρι</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>γκρι</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>γκριζο</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="green">
+        <source>green</source>
+        <target state="translated">πράσινο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="light gray">
+        <source>light gray</source>
+        <target state="translated">ανοικτό γκρι</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="magenta">
+        <source>magenta</source>
+        <target state="translated">μωβ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="orange">
+        <source>orange</source>
+        <target state="translated">πορτοκαλί</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ramp">
+        <source>Ramp</source>
+        <target state="translated">Διαβάθμιση Χρώματος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="red">
+        <source>red</source>
+        <target state="translated">κόκκινο</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Selection Color">
+        <source>Selection Color</source>
+        <target state="translated">Επιλογή Χρώματος:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="white">
+        <source>white</source>
+        <target state="translated">λευκό</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="yellow">
+        <source>yellow</source>
+        <target state="translated">κίτρινο</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

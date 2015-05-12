@@ -1,0 +1,130 @@
+#. extracted from ../templates/ToolBundle.properties, ../resu/ToolBundle_zh_CN.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: NewHint
+msgid "New Image"
+msgstr "新建图片"
+
+#: OpenHint
+msgid "Open Image File"
+msgstr "打开图片文件"
+
+#: SaveHint
+msgid "Save Image"
+msgstr "保存图片"
+
+#: SaveAsHint
+msgid "Save Image (new name, FITS format)"
+msgstr "另存为"
+
+#: PrintHint
+msgid "Print Image"
+msgstr "打印图片"
+
+#: ClearHint
+msgid "Clear Selection"
+msgstr "清除"
+
+#: UndoHint
+msgid "Undo Last Operation"
+msgstr "撤销"
+
+#: Mag+Hint
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: Mag-Hint
+msgid "Zoom Out"
+msgstr "缩小"
+
+#: PhotometryHint
+msgid "Aperture Photometry"
+msgstr "天体光度测量光圈"
+
+#: PhotometryAdjustHint
+msgid "Photometry Settings"
+msgstr "天体光度测量设置"
+
+#: ClearPhotometryHint
+msgid "Clear Photometry Results"
+msgstr "清除天体光度测量计算结果"
+
+#: InfoHint
+msgid "Online Documentation"
+msgstr "在线文件"
+
+#: RectSel
+msgid "Rectangular selection"
+msgstr "矩形"
+
+#: OvalSel
+msgid "Oval selection"
+msgstr "椭圆"
+
+#: PolySel
+msgid "Polygon selection"
+msgstr "多边形"
+
+#: FreeSel
+msgid "Freehand selection"
+msgstr "任意形"
+
+#: StraightSel
+msgid "Straight line selection"
+msgstr "直线"
+
+#: SegSel
+msgid "Segmented line selection"
+msgstr "直线分割"
+
+#: FreeLineSel
+msgid "Freehand line selection"
+msgstr "手绘线"
+
+#: ProfileLineSel
+msgid "Profile selection"
+msgstr "剖面线的选择"
+
+#: CrosshairTool
+msgid "Pixel selection tool"
+msgstr "象素选择工具"
+
+#: WandTool
+msgid "Isovaluated selection tool"
+msgstr "椭圆形选择工具"
+
+#: TextTool
+msgid "Text tool "
+msgstr "文本工具"
+
+#: MagTool
+msgid "Magnifying glass"
+msgstr "放大镜"
+
+#: ScrollTool
+msgid "Scrolling tool"
+msgstr "卷轴工具"
+
+#: ColorTool
+msgid "Color picker...[K]"
+msgstr "采集颜色"
+
+#: AngleTool
+msgid "Angle tool"
+msgstr "角度工具"
+
+#. #BrightnessContrastHint
+#: BrightnessContrastHint
+msgid "Brightness & Contrast"
+msgstr "亮度 & 对比"

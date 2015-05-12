@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-06-30 20:11+0200\n"
+"Last-Translator: Tsetsa <tzetza@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=n>1;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#  Thank you for your help to translate this file.
+#: text001
+msgid "receive radio wave"
+msgstr "получаване на радиовълни"
+
+#: text002
+msgid "The Sun is our star: a gigantic ball of gas, the Sun is shining because of nuclear reactions. Its temperature is very high: several thousands of degrees."
+msgstr ""
+"Слънцето е нашата звезда: гигантска топка от газ, Причината за греенето на "
+"Слънцето са ядрените реакции. Температурата му е много висока: няколко "
+"хиляди градуса."
+
+#: text003
+msgid "THE FM RADIO FROM STARS"
+msgstr "FM радиовълни от звездите"
+
+#: text004
+msgid "So stars are emitting radio waves... ?"
+msgstr "Така че, звездите се излъчват радиовълни ... ?"
+
+#: text005
+msgid "If we  could tune a radio to the FM frequency of 160MHz, we could hear... the Sun ! What a weird music!"
+msgstr ""
+"Ако бихме могли да настроим радиото на FM честота от 160MHz, бихме могли да "
+"чуем ... Слънцето! Каква странна музика!"
+
+#: text006
+msgid "the horsehead nebula"
+msgstr "мъглявината Конска глава"
+
+#: text007
+msgid "6000.C"
+msgstr "6000 C"
+
+#: text008
+msgid "QUIZZ"
+msgstr "тест"
+
+#: text009
+msgid "During World War II, a plane could hide from radar while flying facing the sun."
+msgstr ""
+"По време на Втората световна война самолетът можел да се скрие от радара по "
+"време на полет, насочен към Слънцето."
+
+#: text010
+msgid "True or False?"
+msgstr "Вярно или невярно?"
+
+#: text011
+msgid "THE radio WAVES: invisible WAVEs that are not SOUND waves"
+msgstr "Радиовълните: невидими вълни, които не са звукови вълни."
+
+#: text012
+msgid "We receive radio waves from the Universe, but what can we actually hear?"
+msgstr ""
+"Ние получаваме радиовълни от Вселената, но какво всъщност можем да чуем?"
+
+#: text013
+msgid "It doesnt matter: nobody is listening to the stars. In fact, stellar radio waves are used to take a picture, more like a radar."
+msgstr ""
+"Това не е от значение: никой не слуша звездите. В действителност звездни "
+"радио вълни се използват за правене на снимки, повечето като радар."
+
+#: text014
+msgid "Radio astronomers listen to the stars with headphones."
+msgstr "Радио астрономите слушат звездите със слушалки."
+
+#: text015
+msgid "Let's compare Stars in the radio and optical domain"
+msgstr "Нека да се сравним звездите в радио и оптичния диапазон."
+
+#: text016
+msgid "Our eyes can see visible light from stars: we see the colors inside a  rainbow. Our sun is yellow, but red stars, blue, white, brown, ... also exist!"
+msgstr ""
+"Нашите очи могат да видят видимата светлина от звездата: виждаме цветовете "
+"от дъгата. Нашето Слънцето е жълто, но червени звезди, сини, бели, кафяви, "
+"... също съществуват!"
+
+#: text017
+msgid "Radio waves can be used to detect invisible galaxies."
+msgstr "Радио вълните могат да се използват за откриване на невидими галактики."
+
+#: text018
+msgid "The radio of the stars is not very melodious. It is emitted by the atoms and the molecules of gas that are heated by the stars. Its more like a kind of noise, like the scratchy sound of an old vinyl record."
+msgstr ""
+"Радиото от звездите не е много мелодично. То се излъчва от атомите и "
+"молекулите на газ, които се затоплят от звездите.Това по-скоро прилича на "
+"някакъв вид шум, като скърцащ звук на стара грамофонна плоча."
+
+#: text019
+msgid "Radio waves show us parts of planets and galaxies, in particular where atoms and molecules of hydrogen and carbon monoxide lie. For the Sun, radio waves show magnetic storms, in the form of spots on its surface."
+msgstr ""
+"Радио вълните ни показват части от планети и галактики, по-специално, къде "
+"се намират атомите и молекулите на водорода и въглеродния оксид. За Слънцето "
+"радиовълните показват магнитните бури, под формата на петна върху "
+"повърхността му."
+
+#: text020
+msgid "MAGNETIC FIELDS"
+msgstr "МАГНИТНИ ПОЛЕТА"
+
+#: text021
+msgid "The song of stars?"
+msgstr "Песента на звездите?"
+
+#: text022
+msgid "exoplanets"
+msgstr ""
+
+#: text023
+msgid "pulsars, the radio lighthouse of the Universe"
+msgstr "пулсарите, радио фара на Вселената"
+
+#: text024
+msgid "In 1054 BC, the chinese people were able to observe a bright new star in the sky: it was a supernovae explosion. A millenium later, we can observe a beautiful nebula in the same place: the Crab nebula. At its very center lies a peculiar star: a pulsar."
+msgstr ""
+"През 1054, китайците имали възможност да наблюдават нова ярка звезда в "
+"небето: това е било избухване на свръхнова. А хилядолетие по-късно ние можем "
+"да наблюдаваме красива мъглявина на същото място: Ракообразната мъглявина. "
+"В самият и център е специфична звезда: пулсар."
+
+#: text025
+msgid "The pulsar signals come from extra-terrestrials"
+msgstr "Пулсиращите сигнали идват от извънземни източници."
+
+#: text026
+msgid "SUPERNOVAE"
+msgstr "СВРЪХНОВИ"
+
+#: text027
+msgid "Like a spinning top, a pulsar is rotating around"
+msgstr "Пулсарите се въртят като пумпал"
+
+#: text028
+msgid "Radio emission from the Sun"
+msgstr "Радио емисиите от Слънцето"
+
+#: text029
+msgid "Optical emission from the Sun"
+msgstr "Оптична емисия от Слънцето"
+
+#: text030
+msgid "Comparing the strength of the signal coming from the stars to that of a mobile phone"
+msgstr ""
+"Сравняване на силата на сигнала, който идва от звездите с този на мобилен "
+"телефон."
+
+#: text031
+msgid "At full power, a mobile phone can emit up to 1 Watt. The antenna of the phone compagnies mounted on the roofs of some buildings are very small : they only measure 1 meter, and thats enough to transmit the radio signal."
+msgstr ""
+"На пълна мощност мобилен телефон може да емитира до 1 ват. Антената на "
+"телефонните компании, монтирани на покривите на някои сгради са много малки: "
+"само 1 м, и това е достатъчно за предаване на радио сигнал."
+
+#: text032
+msgid "A mobile phone can perturb the signal of a radio telescope."
+msgstr "Мобилен телефон може да смущава сигнала на радио телескоп."
+
+#: text033
+msgid "To receive radio waves from stars, SWITCH OFF YOUR MOBILE"
+msgstr "За да получите радио вълни от звезди, изключете мобилния си телефон."
+
+#: text034
+msgid "In contrast, to receive radio signal from stars, radio astronomers have to use huge antennas, of a size up to 300 meter. For example galaxies that are emitting radio waves are very far away (millions of light-years). As a result, the signal arriving on earth is very weak."
+msgstr ""
+"От друга страна, за получаване на радио сигнал от звезди, радио астрономите "
+"трябва да използват огромни антени, с размер до 300 метра. Например "
+"галактики, които излъчват радио вълни са много далеч (на милиони светлинни "
+"години). В резултат на това сигнала, пристигащ на земята е много слаб."
+
+#: text035
+msgid "How to receive the weak radio waves of the stars : with Huge radio telescopes"
+msgstr ""
+"Как да получите слаби радиовълни на звездите: с огромни радио телескопи."
+
+#: text036
+msgid "For that reason, astronomers build huge radio telescopes. It allows the study of galaxies very far away, at billion of light-years from Earth. The form of the dish can vary depending on the location and the cost."
+msgstr ""
+"Поради тази причина, астрономите изграждат огромни радио телескопи. Те "
+"позволяват изучаването на много отдалечени галактики, на милиарди светлинни "
+"години от Земята. Формата на радиочинията може да варира в зависимост от "
+"местоположението и разходите."
+
+#: text037
+msgid "With a dish twice as big, one can receive a signal two times stronger."
+msgstr "С двойно по-голяма чиния може да се получи два пъти по-силен сигнал."
+
+#: text038
+msgid "TELESCOPE"
+msgstr "ТЕЛЕСКОП"
+
+#: text039
+msgid "The bigger the antenna is, the more sensitive it is to radio waves. The satellite dishes used for receiving the television signal illustrate that very well: a big dish receives a better signal."
+msgstr ""
+"Колкото по-голяма е антената, толкова по-чувствителна е на радиовълни. "
+"Сателитните чинии, които се използват за получаване на телевизионен сигнал "
+"показват това много добре: голямата чиния получава по-добър сигнал."
+
+#: text040
+msgid "Arecibo (Puerto Rico, Caribbean Sea) 305 m in diameter"
+msgstr "Аресибо (Пуерто Рико, Карибско море), 305 м диаметър"
+
+#: text041
+msgid "Nancay (France) 300 m of length"
+msgstr "Нанкаи (Франция) 300 м дължина"
+
+#: text042
+msgid "Green Bank (United States) 105 m in diameter"
+msgstr "Зелена Банка (САЩ) 105 м диаметър"
+
+#: text043
+msgid "ANTENNAE"
+msgstr "АНТЕНА"
+
+#: text044
+msgid "the Sun"
+msgstr "Слънцето"
+
+#: text045
+msgid "Radar sreen - NAVY (USA)"
+msgstr "радарния екран - ФЛОТ (САЩ)"
+
+#: text046
+msgid "In addition to bring us light, the Sun emits radio waves, in all the FM band, and beyond! Besides, the Suns emission is more powerful than any of our FM radios. But our favorite FM emitters are only a few km away, whereas the Sun is very far from the Earth: at 150 million km! The signal coming from the Sun is therefore too weak to actually prevent us from listening to our favourite radio stations. PHEW!"
+msgstr ""
+"В допълнение, за да ни донесе светлина, Слънцето излъчва радиовълни в целия "
+"FM обхват, и отвъд него! Освен това, излъчването на Слънцето е по-мощно, "
+"отколкото на някой от нашите на FM радиостанции. Но нашите любими FM "
+"източници на емисии са само на няколко километра разстояние, докато Слънцето "
+"е много далече от Земята: на 150 милиона километра! Сигнала, който идва от "
+"Слънцето, следователно е твърде слаб, наистина да ни попречи да слушаме "
+"любимите ни радиостанции. Пфу!"
+
+#: text047
+msgid "The radio waves from stars can, as FM radio, be received anytime, day and night, whereas their bright light can only be seen at night, when the Sun has set."
+msgstr ""
+"Радио вълните от звездите, както FM радио, се получават по всяко време, "
+"денонощно, докато тяхната ярка светлина се вижда само през нощта, когато "
+"Слънцето е залязло."
+
+#: text048
+msgid "One galaxy can host billions of stars. In some galaxies, the center is buried deep inside lots of dust clouds that shield the light from the galaxy. But radio waves can pierce through the clouds and thus can be observed. This is called a  radiogalaxy."
+msgstr ""
+"Една галактика може да съдържа милиарди звезди. В някои галактики центъра е "
+"потънал в много облаци прах, който скрива светлината от галактиката. Но "
+"радиовълните могат да пробият през облаците и по този начин той може да се "
+"наблюдава. Това се нарича радио галактика."
+
+#: text049
+msgid "1 m"
+msgstr "1 m"
+
+#: text050
+msgid "25 m"
+msgstr "25 m"
+
+#: text051
+msgid "1 light-year is the distance traveled by light in 1 year: it's a huge distance! The light travels very fast: 300 000 km per second! At this speed, you could get to the Moon in 1seconde, and to the Sun in 8minutes...  and to the Andromeda galaxy in 2million years !"
+msgstr ""
+"1 светлинна година е разстоянието, изминато от светлината на 1 година: това "
+"е огромно разстояние! Светлината се движи много бързо: 300 000 km в секунда! "
+"При тази скорост, може да достигнете до Луната за 1 секунда и до Слънцето "
+"за 8минути ... и да галактиката Андромеда за 2милиона години!"
+
+#: text052
+msgid "If you compare the signal coming from the Sun and the signal from a mobile phone, the signal of the mobile phone is a billion time stronger "
+msgstr ""
+"Ако сравнявате сигнаа, идващ от Слънцето и сигнала от мобилен телефон, "
+"сигнала на мобилния телефон е милиард пъти по-силен."
+
+#: text053
+msgid "Effelsberg (Germany) 100 m in diameter"
+msgstr "Ефелсберг (Германия) 100 м диаметър"
+
+#: text054
+msgid "The Future of radioastronomy: radio telescopes for  amateurs in Europe"
+msgstr "Бъдещето на радио астрономията: радио телескопи за аматьори в Европа."
+
+#: text055
+msgid "A European network of radio telescope is currently under development for the student in secondary schools."
+msgstr ""
+"Европейска мрежа от радио телескопи в момента е в процес на разработване за "
+"ученици в средните училища."
+
+#: text056
+msgid "A small telescope is easy to buy... but what about a small radio telescope?"
+msgstr ""
+"Малък телескоп е лесно да се купи ... Но какво да кажем за малък радио "
+"телескоп?"
+
+#: text057
+msgid "Two prototypes of 2,3m in diameter were developed in the EU-HOU project: www.euhou.net by the Onsala observatory in Sweden. It has been used in European classrooms since 2005 via Internet. With these radio telescopes, it is possible to observe the gas of the Milky Way, even in big cities, and even in daylight."
+msgstr ""
+"Два прототипа с 2,3 м диаметър са разработени в EU-HOU проекта: "
+"www.euhou.net от обсерваторията в Онсала, Швеция. Те се използват в "
+"европейските класни стаи от 2005 г. насам чрез Интернет. С тези "
+"радиотелескопи е  възможно да се наблюдава газ от Млечния път, дори и в "
+"големите градове, и дори при дневна светлина."
+
+#: text058
+msgid "Can we contribute to find intelligent life in the Universe? "
+msgstr "Можем ли  да допринесем да се намери разумен живот във Вселената?"
+
+#: text059
+msgid "Thanks to the Internet, it will be soon possible to observe the gas of the Milky Way with a radio telescope from any European classroom."
+msgstr ""
+"Благодарение на Интернет, това ще бъде скоро възможно да се наблюдава на газ "
+"на Млечния път с радио телескоп от всяка европейска класна стая."
+
+#: text060
+msgid "EU-HOU project"
+msgstr "EU-HOU проект"
+
+#: text061
+msgid "Yes: with a clever screensaver system installed on their computers, more that 3 million users contribute to search for intelligent signal from the galaxy. It is the program  SETI @ HOME. To get involved, see setiathome.berkeley.edu"
+msgstr ""
+"Да: с интелигентна система скрийнсейвър, инсталиран на компютрите си, повече "
+"от 3 милиона потребители допринасят за търсене на интелигентен сигнал от "
+"галактиката. Това е програмата SETI @ Home. За да се включите, вижте "
+"setiathome.berkeley.edu"
+
+#: text062
+msgid "SETI"
+msgstr "СЕТИ"
+
+#: text063
+msgid "Onsala (Sweden) Small antenna of 2,3m in diameter"
+msgstr "Онсала (Швеция), малка антена с 2,3 м  диаметър"
+
+#: text064
+msgid "Exobiology Searching for Life in the Universe"
+msgstr "Eкзoбиологията търси живот във Вселената"
+
+#: text065
+msgid "Some antennae are used to listen to extraterrestrial signals, in case they really exist."
+msgstr ""
+"Някои антени се използват за слушане на извънземни сигнали, в случай, че те "
+"наистина съществуват."
+
+#: text066
+msgid "There are planets orbiting around the Sun: The Solar System. In order: Mercure, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune."
+msgstr ""
+"Има планети, обикалящи около Слънцето: Слънчевата система. В "
+"последователност: Меркурий, Венера, Земя, Марс, Юпитер, Сатурн, Уран и "
+"Нептун."
+
+#: text067
+msgid "In 1992, a Polish researcher, Alex Wolszcan, observe the pulsar (bip bip bip) PSR 1257+12 with the Arecibo radio telescope. To his great surprise, he discover the first planetary system beyond the Sun: extrasolar planets! These new planets are particularly interesting because they are like the Earth. But they are so far away, 900 light-years, that we wont get much more information for a long time!"
+msgstr ""
+"През 1992 г. полския изследовател Алекс Волсзкан наблюдава пулсар (BIP BIP "
+"BIP) PSR 1257 +12 с радио телескопа Аресибо. За негова голяма изненада, той "
+"открива първата планетна система извън Слънцето: извънслънчеви планети! Тези "
+"нови планети са особено интересни, защото те са като Земята. Но те са "
+"толкова далече, на 900 светлинни години, че ние няма да получим много повече "
+"информация за дълго време!"
+
+#: text068
+msgid "Fortunately, since then more than 300 extrasolar planets have been discovered. They are everywhere inside our Galaxy. Maybe some day we will discover life on one of these planets. Life could be brought by comets travelling through space. On Earth, comets brought complex molecules that played a role in the development of life."
+msgstr ""
+"За щастие, оттогава са били открити повече от 300 извънслънчеви планети. Те "
+"са навсякъде вътре в нашата Галактика. Може би някой ден ние ще открием "
+"живот на една от тези планети. Животът може да бъде пренесен  от комети, "
+"които пътуват през пространството. На Земята кометите донасят сложни "
+"молекули, които играят роля в развитието на живота."
+
+#: text069
+msgid "planetes"
+msgstr "планети"
+
+#: text070
+msgid "Observatories, High technology inside"
+msgstr "Обсерватории, с високите технологии "
+
+#: text071
+msgid "With a radio telescope the size of the Earth, its possible to observe a planet the size of Jupiter somewhere else in our Galaxy, at many light-years from us."
+msgstr ""
+"С радио телескоп с размера на Земята е възможно да се наблюдава планета "
+"размера на Юпитер, някъде другаде в нашата галактика, на много светлинни "
+"години от нас."
+
+#: text072
+msgid "FOREST of antennae"
+msgstr "Гора от антени"
+
+#: text073
+msgid "With a digital camera, there is more detail when there are more pixels. In the same way, we can use a network of radio telescopes to increase the detail: the more antennas you have, the more precise you get!"
+msgstr ""
+"С цифров фотоапарат, има повече подробности, когато има повече пиксели. По "
+"същия начин можем да използваме мрежа от радио телескопи, за да се увеличи "
+"детайла: колкото повече антени имате, по-точно получавате!"
+
+#: text074
+msgid "To see more details in distant galaxies, forests of radio antennae are built around the world: 27 antennae for the VLA in New Mexico (USA), 30 antennas in Pune (India), 64 antennas in the Andes (Chile)."
+msgstr ""
+"За да видите повече подробности от далечни галактики, гори от радио антени "
+"са изградени по целия свят: 27 антени на VLA ( Много голям масив) в Ню "
+"Мексико (САЩ), 30 антени в Пуна (Индия), 64 антени в Андите (Чили)."
+
+#: text075
+msgid "The radio signal from the antennas is mixed and analysed by very powerful computer. We can even mix the signal from antennae located on different continents to simulate a giant antenna the size of the Earth!"
+msgstr ""
+"Радио сигнал от антените се смесва и анализира от много мощен компютър. Ние "
+"може дори да се смесим сигнала от антени, разположени на различни "
+"континенти, за да се симулира гигантска антената с размера на Земята!"
+
+#: text076
+msgid "The first radio antenna radars were actually built by the military during World War II: they could listen to the Sun!"
+msgstr ""
+"Първата радио антена радари всъщност са построени от военните по време на "
+"Втората световна война: те можели да слушат Слънцето!"
+
+#: text077
+msgid "the Solar System"
+msgstr "Слънчевата система"
+
+#: text078
+msgid "exoplanets"
+msgstr "екзопланети"
+
+#: text079
+msgid "the regular signal received from a pulsar"
+msgstr "редовен сигнала, получен от пулсар"
+
+#: text080
+msgid "ALMA (Chile)"
+msgstr "АЛМА (Чили)"
+
+#: text081
+msgid "Plateau de Bure (Alpes)"
+msgstr "Плато де Буре (Алпи)"
+
+#: text082
+msgid "SKA (in project)"
+msgstr "СKA (в проекта)"
+
+#: text083
+msgid "des radiotelescopes pour capter les ondes de le univers"
+msgstr "от радиотелескопи, за да улови вълните на Вселената"
+
+# add the name of the translator here
+#: text084
+msgid "Credits :Observatoire de Paris Sciences a l'école NASA, ESO, ESA Conception and implementation : Olivier Marco, Aurore Mathon, Yannick Libert"
+msgstr ""
+"Кредити:Училището на  Парижката обсерватория науките, НАСА, EСO, EСA "
+"Проектиране и изпълнение: Марко Оливие, Орор Матон, Яник Либерт"
+
+#: text085
+msgid "Radio wave emitted by the galaxy M87"
+msgstr "Радио вълни, излъчвани от галактиката M87"
+
+#: text086
+msgid "The Crab nebula- M1 the remains of a supernova explosion."
+msgstr "Ракообразната мъглявина М1-Останки от експлозията на свръхнова."
+
+#: text087
+msgid "Receive Galactic Signal"
+msgstr "Получаване на галактическия сигнал"
+
+#: text088
+msgid "SUN radio"
+msgstr "Слънчево радио"
+
+#: text089
+msgid "atoms"
+msgstr "атоми"
+
+#: text090
+msgid "Very Large Array, USA"
+msgstr "Много голям масив, САЩ"
+
+#: text091
+msgid "international collaboration"
+msgstr "Международно сътрудничество"
+
+#: text092
+msgid "radiotelescopes tuned up to the Universe"
+msgstr "радиотелескопи настроени към Вселената"

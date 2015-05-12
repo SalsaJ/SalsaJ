@@ -1,0 +1,77 @@
+#. extracted from ../templates/BlitterBundle.properties, ../resu/BlitterBundle_zh_CN.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: Add
+msgid "Add"
+msgstr "加"
+
+#: AND
+msgid "AND"
+msgstr "和"
+
+#: Average
+msgid "Average"
+msgstr "平均"
+
+#: Copy
+msgid "Copy"
+msgstr "拷贝"
+
+#: Difference
+msgid "Difference"
+msgstr "不同"
+
+#: Divide
+msgid "Divide"
+msgstr "除"
+
+#: Gamma
+msgid "Gamma"
+msgstr "Gamma"
+
+#: Index
+msgid "index"
+msgstr "索引"
+
+#: Max
+msgid "Max"
+msgstr "极大"
+
+#: Min
+msgid "Min"
+msgstr "极小"
+
+#: Multiply
+msgid "Multiply"
+msgstr "乘"
+
+#: OR
+msgid "OR"
+msgstr "或"
+
+#: Subtract
+msgid "Subtract"
+msgstr "减"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "非白色拷贝"
+
+#: Value
+msgid "value"
+msgstr "值"
+
+#: XOR
+msgid "XOR"
+msgstr "异或"

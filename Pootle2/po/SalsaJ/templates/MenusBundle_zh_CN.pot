@@ -1,0 +1,1125 @@
+#. # MENU COMMANDS
+#. extracted from ../templates/MenusBundle.properties, ../resu/MenusBundle_zh_CN.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#. ###
+#: Value
+msgid "Value"
+msgstr "值"
+
+#: Count
+msgctxt "Count"
+msgid "Count"
+msgstr "计数"
+
+#: Mean
+msgid "Mean"
+msgstr "平均值"
+
+#: StdDev
+msgid "StdDev"
+msgstr "StdDev"
+
+#: Mode
+msgid "Mode"
+msgstr "Mode"
+
+#: Min
+msgid "Min"
+msgstr "最小"
+
+#: Max
+msgid "Max"
+msgstr "最大"
+
+#: Bins
+msgid "Bins"
+msgstr "Bins"
+
+#: BinWidth
+msgid "Bin Width"
+msgstr "Bin Width"
+
+#: Name
+msgid "Name"
+msgstr "名字"
+
+#: Width
+msgid "Width"
+msgstr "宽"
+
+#: Height
+msgid "Height"
+msgstr "高"
+
+#: Pixels
+msgid "pixels"
+msgstr "像素"
+
+#: Slices
+msgid "Slices"
+msgstr "片"
+
+#: Untitled
+msgid "Untitled"
+msgstr "无标题"
+
+#. ###Menu Plus
+#: ClearOutside
+msgid "Clear Outside"
+msgstr "清除外部"
+
+#: Fill
+msgid "Fill"
+msgstr "填充"
+
+#: Draw
+msgid "Draw"
+msgstr "画图"
+
+#: Invert
+msgid "Invert"
+msgstr "反转"
+
+#: OpenNext
+msgid "Open Next"
+msgstr "打开下一个"
+
+#: PasteControl
+msgid "Paste Control..."
+msgstr "粘贴控制..."
+
+#: Selection
+msgid "Selection"
+msgstr "选择"
+
+#: Options
+msgid "Options"
+msgstr "选项"
+
+#: AnalyzeParticles
+msgid "Analyze Particles..."
+msgstr "分析颗粒..."
+
+#: Summarize
+msgid "Summarize"
+msgstr "求和"
+
+#: Distribution
+msgid "Distribution"
+msgstr "分布"
+
+#: Label
+msgid "Label"
+msgstr "标签"
+
+#: ClearResults
+msgid "Clear Results"
+msgstr "清除结果"
+
+#: SetMeasurements
+msgid "Set Measurements..."
+msgstr "设置测量..."
+
+#: SetScale
+msgid "Set Scale..."
+msgstr "设置放大尺寸..."
+
+#: Calibrate
+msgid "Calibrate..."
+msgstr "定标..."
+
+#: Smooth
+msgid "Smooth"
+msgstr "平滑"
+
+#: Sharpen
+msgid "Sharpen"
+msgstr "锐利"
+
+#: FindEdges
+msgid "Find Edges"
+msgstr "找边缘"
+
+#: EnhanceContrast
+msgid "Enhance Contrast"
+msgstr "增加反差"
+
+#: Noise
+msgid "Noise"
+msgstr "噪声"
+
+#: Shadows
+msgid "Shadows"
+msgstr "阴影"
+
+#: Binary
+msgid "Binary"
+msgstr "二进制"
+
+#: Operations
+msgid "Operations"
+msgstr "运算"
+
+#: Math
+msgid "Single Image Operators"
+msgstr "单个图像运算器"
+
+#: Import
+msgid "Import"
+msgstr "导入"
+
+#: SubtractBackground
+msgid "Subtract Background..."
+msgstr "减去背景..."
+
+#: Filters
+msgid "Filters"
+msgstr "过滤器"
+
+#: Photometer
+msgid "Photometry"
+msgstr "光度测量"
+
+#: PhotometrySettings
+msgid "Photometry Settings"
+msgstr "设置光度测量参数"
+
+#: ClearPhotometer
+msgid "Clear Photometry Results"
+msgstr "清除光度测量结果"
+
+#: Radio_Spectrum
+msgid "Radio Spectrum..."
+msgstr "射电光谱..."
+
+#: Optical_Spectrum
+msgid "Optical Spectrum..."
+msgstr "光学光谱..."
+
+#: Webcam
+msgid "Webcam"
+msgstr "网络摄像头"
+
+#: ImageJ
+msgid "SalsaJ [enter]"
+msgstr "SalsaJ [enter]"
+
+#. ### real menu entries
+#: File
+msgid "File"
+msgstr "文件"
+
+#: New
+msgid "New"
+msgstr "新建..."
+
+#: Open
+msgid "Open"
+msgstr "打开..."
+
+#. ##NEW
+#: OpenRecent
+msgid "Open Recent"
+msgstr "最近打开"
+
+#: Close
+msgid "Close"
+msgstr "关闭"
+
+#: Save
+msgctxt "Save"
+msgid "Save"
+msgstr "保存"
+
+#: SaveAs
+msgid "Save As"
+msgstr "另存为"
+
+#: Revert
+msgid "Revert"
+msgstr "恢复"
+
+#: PageSetup
+msgid "Page Setup..."
+msgstr "页面设置..."
+
+#: Print
+msgid "Print..."
+msgstr "打印..."
+
+#: Quit
+msgid "Quit"
+msgstr "退出"
+
+#: QuitMessage
+msgid "Are you sure you want to quit?"
+msgstr "确定要退出吗?"
+
+#: Edit
+msgid "Edit"
+msgstr "编辑"
+
+#: Undo
+msgid "Undo"
+msgstr "撤消"
+
+#: Cut
+msgid "Cut"
+msgstr "剪切"
+
+#: Copy
+msgid "Copy"
+msgstr "复制"
+
+#: Paste
+msgid "Paste"
+msgstr "粘贴"
+
+#: Clear
+msgid "Clear"
+msgstr "清除"
+
+#: Crop
+msgid "Crop"
+msgstr "切割"
+
+#. ##NEW
+#: CaptureScreen
+msgid "Capture Screen"
+msgstr "拷屏"
+
+#: RepeatCommand
+msgid "Repeat Command"
+msgstr "重复指令"
+
+#: Image
+msgid "Image"
+msgstr "图像"
+
+#: Type
+msgid "Type"
+msgstr "类型"
+
+#: 8-bit
+msgid "8-bit"
+msgstr "8-bit"
+
+#: 16-bit
+msgid "16-bit"
+msgstr "16-bit"
+
+#: 32-bit
+msgid "32-bit"
+msgstr "32-bit"
+
+#: RGBColor
+msgid "RGB Colour "
+msgstr "RGB 颜色 "
+
+#: Adjust
+msgid "Adjust"
+msgstr "调控"
+
+#: ShowInfo
+msgid "Show Info..."
+msgstr "信息显示..."
+
+#: Properties
+msgid "Properties..."
+msgstr "性质..."
+
+#: Prop
+msgid "Axis properties"
+msgstr "轴属性"
+
+#: Color
+msgid "Color"
+msgstr "颜色"
+
+#: ColorsWindow
+msgid "Colors Sample..."
+msgstr "颜色示例..."
+
+#: Stacks
+msgid "Stacks"
+msgstr "堆栈"
+
+#: Duplicate
+msgid "Duplicate..."
+msgstr "复制..."
+
+#: Rename
+msgid "Rename..."
+msgstr "重命名..."
+
+#: Scale
+msgid "Scale..."
+msgstr "标尺..."
+
+#: Lookup
+msgid "Lookup Tables"
+msgstr "Lookup表"
+
+#: ShowLUT
+msgid "Show LUT"
+msgstr "显示LUT"
+
+#: InvertLUT
+msgid "Invert LUT"
+msgstr "反转LUT"
+
+#: Process
+msgid "Process"
+msgstr "处理"
+
+#: ImageCalculator
+msgid "Image Calculator..."
+msgstr "图像计算器..."
+
+#: Rotate
+msgid "Rotate"
+msgstr "旋转"
+
+#: Zoom
+msgid "Zoom"
+msgstr "放大"
+
+#: Analyze
+msgid "Analyze"
+msgstr "分析"
+
+#: Measure
+msgid "Measure"
+msgstr "测量"
+
+#: Set_Scale
+msgid "Set Scale"
+msgstr "设置尺寸"
+
+#: ScaleBar
+msgid "Scale Bar"
+msgstr "比例尺"
+
+#: CalibrationBar
+msgid "Calibration Bar"
+msgstr "校准尺"
+
+#: Histogram
+msgid "Histogram"
+msgstr "直方图"
+
+#: PlotProfile
+msgid "Plot Profile"
+msgstr "画断面轮廓图"
+
+#: SurfacePlot
+msgid "Surface Plot..."
+msgstr "画表面轮廓图..."
+
+#: Tools
+msgid "Tools"
+msgstr "工具"
+
+#: Window
+msgid "Window"
+msgstr "窗口"
+
+#: ShowAll
+msgid "Show All"
+msgstr "全部显示"
+
+#: PutBehind
+msgid "Put Behind [tab]"
+msgstr "显示下一个[tab]"
+
+#: Cascade
+msgid "Cascade"
+msgstr "多图像重叠"
+
+#: Tile
+msgid "Tile"
+msgstr "子窗口显示"
+
+#: Help
+msgid "Help"
+msgstr "帮助"
+
+#: About
+msgid "About Plugins"
+msgstr "关于插件"
+
+#: IJWebSite
+msgid "EU-HOU Web Site..."
+msgstr "EU-HOU网站链接..."
+
+#: OnlineDocs
+msgid "Online Docs..."
+msgstr "在线文档..."
+
+#: AboutIJ
+msgid "About SalsaJ..."
+msgstr "关于SalsaJ..."
+
+#. ##Photometry
+#: DisablePhotometer
+msgid "Stop Photometry"
+msgstr "停止光度测量"
+
+#: PhotometryError
+msgid "An error occured."
+msgstr "产生错误."
+
+#: PhotomCoord
+msgid "Coordinates of Star's Center :"
+msgstr "恒星中心坐标 :"
+
+#: Auto
+msgctxt "Auto"
+"Auto"
+msgid "Auto"
+msgstr "自动"
+
+#: Manual
+msgid "Forced Coordinates"
+msgstr "设定坐标"
+
+#: SkyParam
+msgid "Sky :"
+msgstr "天空 :"
+
+#: AutoFWHM
+msgctxt "AutoFWHM"
+msgid "Auto"
+msgstr "自动半径 (FWHM)"
+
+#: AutoSky
+msgctxt "AutoSky"
+msgid "Auto"
+msgstr "自动"
+
+#: ManStarRad
+msgid "Forced Star Raduis"
+msgstr "设定星体半径"
+
+#: ManSkyRad
+msgid "Forced Sky Radius"
+msgstr "设定天空半径"
+
+#: Skyval
+msgid "Forced Sky Value"
+msgstr "设定天光值"
+
+#: StarRad
+msgid "Star Radius :"
+msgstr "恒星半径 :"
+
+#. ##Popmenu
+#. ##NEW
+#: StraightLines
+msgid "Straight Lines"
+msgstr "直线"
+
+#. ##NEW
+#: SegmentedLines
+msgid "Segmented Lines"
+msgstr "分段线"
+
+#. ##NEW
+#: FreehandLines
+msgid "Freehand Lines"
+msgstr "手绘线"
+
+#. ##NEW
+#: ProfileLines
+msgid "Profile Lines"
+msgstr "轮廓线"
+
+#. ##NEW
+#: Rectangle
+msgid "Rectangle"
+msgstr "矩形"
+
+#. ##NEW
+#: Oval
+msgid "Oval"
+msgstr "椭圆"
+
+#. ##NEW
+#: Polygon
+msgid "Polygon"
+msgstr "多边形"
+
+#. ### STUFF FROM THE Plugins MENU not in EHOUProps
+#: Plugins
+msgid "Plugins"
+msgstr "插件"
+
+#: Macros
+msgid "Macros"
+msgstr "宏汇编语言"
+
+#: Shortcuts
+msgid "Shortcuts"
+msgstr "设置快捷键"
+
+#: Utilities
+msgid "Utilities"
+msgstr "设施"
+
+#. ### COMMANDS END HERE
+#. #### ERROR MESSAGES
+#: MenuPlugFoldErr
+msgid "Plugins folder not found at"
+msgstr "插件不能找到"
+
+#: UnrecCmdErr
+msgid "Unrecognized command:"
+msgstr "不能识别的命令:"
+
+#: SelReqErr
+msgid "Selection required."
+msgstr "选择请求."
+
+#: StackReqErr
+msgid "Stack required."
+msgstr "堆栈请求."
+
+#: NoStackCmdErr
+msgid "This operation is impossible with a stack."
+msgstr "这个运算不能用于堆栈中."
+
+#: TypeReqErr
+msgid "This command requires an image of type:"
+msgstr "此命令需要的图像类型:"
+
+#: NoImgErr
+msgid "There are no images open."
+msgstr "这里没有打开的图像."
+
+#: MinVerErr
+msgid "This plugin or macro requires a newer SalsaJ"
+msgstr "这个插件或宏需要更新版本的SalsaJ"
+
+#: PlugNotFoundErr
+msgid "Plugin not found:"
+msgstr "插件不能找到:"
+
+#: ImgNotFoundErr1
+msgid "Image not found: "
+msgstr "图像不能找到: "
+
+#: ImgNotFoundErr2
+msgid "or no images are open."
+msgstr "或者没有图像是打开的."
+
+#: WinTitleErr
+msgid "Unable to find window with the title:"
+msgstr "不能找到有标题的窗口:"
+
+#: LineOrRectSelReqErr
+msgid "Line or rectangular selection required."
+msgstr "必须有线或者矩形选择."
+
+#: Ploy2SelReqErr
+msgid "Polygon or 'polyline' selection required."
+msgstr "必须有多边形或者多叉线选择."
+
+#: CalibrErr
+msgid "Uncalibrated image required."
+msgstr "必须是没有标度的图像."
+
+#: CalibrBothErr
+msgid ""
+"Both images must have same calibration.\n"
+"Try to convert images into 32-bits image type."
+msgstr ""
+"两幅图像应该是相同的标度.\n"
+"试图将图片转化成32-比特的图像类型."
+
+#: NoRGBTypeErr
+msgid "RGB images are unsupported."
+msgstr "不支持RGB图像."
+
+#: HorizLineSelReqErr
+msgid "The selection must be a horizontal line"
+msgstr "选择必须是水平线"
+
+#. # modifie par Nicolas le 15/09/06
+#: Clear_Outside
+msgid "Clear Outside does not work with line selections."
+msgstr "清除所选背景以外的内容."
+
+#. #### OTHER
+#: Grayscale
+msgid "grayscale"
+msgstr "灰度标"
+
+#: PixPerSec
+msgid "pixels/second"
+msgstr "像素/秒"
+
+#: MPixPerSec
+msgid "million pixels/second"
+msgstr "百万像素/秒"
+
+#: Secs
+msgid "seconds"
+msgstr "秒"
+
+#: Distance
+msgid "Distance"
+msgstr "距离"
+
+#: MilliSecs
+msgid "milliseconds"
+msgstr "百万秒"
+
+#: PercentDone
+msgid "% done"
+msgstr "% done"
+
+#: DoneIn
+msgid "done in"
+msgstr "done in"
+
+#: Results
+msgid "Results"
+msgstr "结果"
+
+#: ErrorTitle
+msgid "Error!"
+msgstr "错误!"
+
+#: MsgTitle
+msgid "Message"
+msgstr "消息"
+
+#: ProcStackTitle
+msgid "Process Stack?"
+msgstr "进程堆栈?"
+
+#: PlotWinTitle
+msgid "Plot of"
+msgstr "Plot of"
+
+#: Memory
+msgid "Memory:"
+msgstr "记忆:"
+
+#: ProcStack1
+msgid "Process all"
+msgstr "所有进程"
+
+#: ProcStack2
+msgid "Slices?"
+msgstr "片段?"
+
+#: NoUndoConfirm
+msgid "There is NO Undo possible afterwards"
+msgstr "这里没有撤销的可能"
+
+#: YNCDialYes
+msgid "Ok"
+msgstr "确定"
+
+#: YNCDialNo
+msgid "No"
+msgstr "否"
+
+#: YNCDialCan
+msgid "Cancel"
+msgstr "取消"
+
+#: SameTypeImgs
+msgid "Images must be the same type."
+msgstr "图像必须是同样类型."
+
+#: ImgTooLarge
+msgid "Image is too large to paste."
+msgstr "图像太大不能粘贴."
+
+#: InProgress
+msgid "in progress..."
+msgstr "在进行..."
+
+#: Clipboard
+msgid "Clipboard"
+msgstr "剪贴板"
+
+#: EmptyClipErr
+msgid "Clipboard is empty."
+msgstr "剪贴板为空."
+
+#: ClipCopyErr
+msgid "Unable to copy to Clipboard."
+msgstr "不能拷贝到剪贴板."
+
+#: List
+msgid "List"
+msgstr "表单"
+
+#: PlotValues
+msgid "Plot Values"
+msgstr "图值"
+
+#: CopyPlotValues
+msgid "Copying plot values..."
+msgstr "拷贝图值..."
+
+#: SavePlotValues
+msgid "Saving plot values..."
+msgstr "保存图值..."
+
+#: CharCopied
+msgid "characters copied to Clipboard"
+msgstr "字符拷贝到剪贴板"
+
+#. ## TEXT CANVAS POPUP & TEXT WINDOW MENU
+#: SelectAll
+msgid "Select All"
+msgstr "选择所有"
+
+#: CopyAll
+msgid "Copy All"
+msgstr "拷贝所有"
+
+#: SaveAsText
+msgid "Save As Text"
+msgstr "另存为文本"
+
+#: LinesCopied
+msgid "lines copied to clipboard"
+msgstr "线拷贝到剪贴板"
+
+#: OpenText
+msgid "Open Text File..."
+msgstr "打开文本文件..."
+
+#: Opening
+msgid "Opening:"
+msgstr "打开中"
+
+#: OpenTextImage
+msgid "Open Text Image"
+msgstr "打开文本图像"
+
+#. # 8 FIELDS SEPARATED BY \t
+#: PhotometerLabels
+msgid ""
+"Index\tImage\tX\tY\tStar's intensity\tStar's radius\tSky's intensity\tSky's "
+"radiusMessage"
+msgstr "index\timage\tslice\tx\ty\tintensity\tradius\tsky"
+
+#: PhotometerWarningMesure
+msgid "Unreliable value"
+msgstr "不可靠的数值"
+
+#. ## SaveChangesDialog
+#: DoSave
+msgid "Save ?"
+msgstr "保存 ?"
+
+#: SaveCmd
+msgctxt "SaveCmd"
+msgid "Save"
+msgstr "保存"
+
+#: SaveChanges
+msgid "Save changes to"
+msgstr "另存为"
+
+#. ## TextRoi
+#: TextRoi1
+msgid "Type, then"
+msgstr "Type, then"
+
+#: TextRoi2
+msgid "Ctrl-D"
+msgstr "Ctrl-D"
+
+#. ## CurveFitter
+#: Curve1
+msgid "Straight Line"
+msgstr "直线"
+
+#: Curve2
+msgid "2nd Degree Polynomial"
+msgstr "二次多项式"
+
+#: Curve3
+msgid "3rd Degree Polynomial"
+msgstr "三次多项式"
+
+#: Curve4
+msgid "4th Degree Polynomial"
+msgstr "四次多项式"
+
+#: Curve5
+msgid "Exponential"
+msgstr "指数"
+
+#: Curve6
+msgid "Power"
+msgstr "乘方"
+
+#: Curve7
+msgid "log"
+msgstr "对数"
+
+#: Curve8
+msgid "Rodbard"
+msgstr "Rodbard"
+
+#: Curve9
+msgid "Gamma Variate"
+msgstr "Gamma 变量"
+
+#: CurveDiagTitle
+msgid "Simplex Fitting Options"
+msgstr "Simplex Fitting Options"
+
+#: CurveDiagName
+msgid "Function name:"
+msgstr "函数名称:"
+
+#: CurveDiagForm
+msgid "Formula:"
+msgstr "公式:"
+
+#: CurveDiagInit
+msgid "Initial"
+msgstr "初始化"
+
+#: CurveDiagIter
+msgid "Maximum iterations:"
+msgstr "最大反复:"
+
+#: CurveDiagRestart
+msgid "Number of restarts:"
+msgstr "重新开始的编号:"
+
+#: CurveDiagToler
+msgid "Error tolerance [1*10^(-x)]:"
+msgstr "Error tolerance [1*10^(-x)]:"
+
+#: CurveDiagErr
+msgid ""
+"Parameter setting canceled.\n"
+"Using default parameters."
+msgstr ""
+"取消参量设置.\n"
+"使用缺省参量."
+
+#: CurveResIter
+msgid ""
+"\n"
+"Number of iterations:"
+msgstr ""
+"\n"
+"叠代次数:"
+
+#: CurveResMax
+msgid ""
+"\n"
+"Maximum number of iterations:"
+msgstr ""
+"\n"
+"叠代最大数目:"
+
+#: CurveResSum
+msgid ""
+"\n"
+"Sum of residuals squared:"
+msgstr ""
+"\n"
+"残差平方和:"
+
+#: CurveResStd
+msgid ""
+"\n"
+"Standard deviation:"
+msgstr ""
+"\n"
+"标准差:"
+
+#: CurveResGood
+msgid ""
+"\n"
+"Goodness of fit:"
+msgstr ""
+"\n"
+"拟合程度:"
+
+#: CurveResParam
+msgid ""
+"\n"
+"Parameters:"
+msgstr ""
+"\n"
+"参量:"
+
+#. ##Histogram
+#: HistoTitle
+msgid "Histogram of"
+msgstr "直方图"
+
+#. ##NEW
+#: Histo
+msgid "Histogramme"
+msgstr "直方图"
+
+#: HistoLog
+msgid "Log"
+msgstr "对数"
+
+#: HistoCount
+msgctxt "HistoCount"
+msgid "Count"
+msgstr "计数"
+
+#. ##NEW
+#: HistoXmin
+msgid "X min"
+msgstr "X 最小"
+
+#. ##NEW
+#: HistoXmax
+msgid "X max"
+msgstr "X 最大"
+
+#. ##NEW
+#: HistoYmax
+msgid "Y max"
+msgstr "Y 最大"
+
+#. # 2 FIELDS SEPARATED BY \t
+#: HistoHead
+msgid "value\tcount"
+msgstr "值\t计数"
+
+#: HistoCopyVal
+msgid "Copying Histogram values"
+msgstr "拷贝直方图的值"
+
+#. ##NEW
+#: HistoMinMax
+msgid "Use min/max or"
+msgstr "使用 最下/最大 或者"
+
+#: NewFill
+msgid "Fill With"
+msgstr "填充为"
+
+#: CalGrayVal
+msgid "Grey Value"
+msgstr "灰度值"
+
+#: About1
+msgid "University Pierre et Marie Curie (Paris)"
+msgstr "University Pierre et Marie Curie (Paris)"
+
+#: About2
+msgid "Based on ImageJ (W. Rasband - NIH)"
+msgstr "Based on ImageJ (W. Rasband - NIH)"
+
+#: About3
+msgid "PUBLIC DOMAIN"
+msgstr "PUBLIC DOMAIN"
+
+#: Translation
+msgid "Translation"
+msgstr "Translation"
+
+#: Cmd
+msgid "commands,"
+msgstr "commands,"
+
+#: Version
+msgid "Version "
+msgstr "Version "
+
+#: Mak
+msgid "macro"
+msgstr "macro"
+
+#: Credits
+msgid "Credits"
+msgstr "Credits"
+
+#: Ack
+msgid "credits_SalsaJ_uk.html"
+msgstr "credits_SalsaJ_uk.html"
+
+#: Online
+msgid "http://www.euhou.net/docupload/files/software/manuel/Documentation.html"
+msgstr "http://www.euhou.net/docupload/files/software/manuel/Documentation.html"
+
+#. #http://fhou.cicrp.jussieu.fr/beta/euhouman_en.pdf
+#: MsgErr
+msgid ""
+"File can't be found or is not in TIFF, JPEG, GIF, BMP, DICOM, FITS, PGM,\n"
+"ZIP, LUT, ROI or text format."
+msgstr ""
+"File can't be found or is not in TIFF, JPEG, GIF, BMP, DICOM, FITS, PGM,\n"
+"ZIP, LUT, ROI or text format."
+
+#: GetPosition
+msgid "Get cross-hair position"
+msgstr "Get cross-hair position"
+
+#: GetPositionLabels
+msgid "x\t\ty"
+msgstr "x\t\ty"
+
+#. #FITS
+#: OBJECT
+msgid "Object"
+msgstr "目标"
+
+#: TELESCOP
+msgid "Telescope"
+msgstr "望远镜"
+
+#: INSTRUM
+msgid "Instrument"
+msgstr "仪器"
+
+#: OBSERVER
+msgid "Observer"
+msgstr "观察"
+
+#: EXPTIME
+msgid "Exposure time"
+msgstr "曝光时间"
+
+#: DATE-OBS
+msgid "Date of observation"
+msgstr "观测日期"
+
+#: FILTER
+msgid "Filter"
+msgstr "滤波"
+
+#: DEC
+msgid "Declination"
+msgstr "赤纬"
+
+#: RA
+msgid "Right Ascension"
+msgstr "赤经"
+
+#: UT
+msgid "Universal Time"
+msgstr "宇宙时间"

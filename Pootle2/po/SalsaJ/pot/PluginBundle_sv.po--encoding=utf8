@@ -1,0 +1,1591 @@
+#. extracted from ../templates/PluginBundle.properties, ../resu/PluginBundle_sv.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#. ##GLOBAL SECTION
+#: Pixel
+msgid "pixel"
+msgstr "pixel"
+
+#: Pixels
+msgid "pixels"
+msgstr "pixlar"
+
+#: Degrees
+msgid "degrees"
+msgstr "grader"
+
+#: Open
+msgctxt "Open"
+msgid "Open"
+msgstr "Ãppna"
+
+#: MyApply1
+msgid "Apply"
+msgstr "AnvÃ¤nd"
+
+#: Settings
+msgid "Settings"
+msgstr "InstÃ¤llningar"
+
+#: OpenText
+msgid "Open Text File..."
+msgstr "Ãppna textfil..."
+
+#: Height
+msgid "Height"
+msgstr "HÃ¶jd"
+
+#: Width
+msgid "Width"
+msgstr "Bredd"
+
+#: NewWin
+msgid "Create New Window"
+msgstr "Resultat i nytt fÃ¶nster"
+
+#: List
+msgid "List"
+msgstr "Lista"
+
+#: Unit
+msgid "Unit"
+msgstr "Enhet"
+
+#: None
+msgid "none"
+msgstr "ingen"
+
+#: LeftCol
+msgid "Left column"
+msgstr "VÃ¤nster kolumn"
+
+#: RightCol
+msgid "Right column"
+msgstr "HÃ¶ger kolumn"
+
+#: Values
+msgid "values"
+msgstr "vÃ¤rden"
+
+#: File
+msgid "File"
+msgstr "Fil"
+
+#. ##NEW
+#: Title
+msgid "Title"
+msgstr "Titel"
+
+#. # StackEditor
+#: StackReqErr
+msgid "Stack required"
+msgstr "Ingen bunt Ã¶ppen!"
+
+#: NoImgErr
+msgid "No images are open."
+msgstr "Ingen bild Ã¶ppen!"
+
+#: OneImgErr
+msgid "There must be at least two open images."
+msgstr "Minst 2 bilder krÃ¤vs!"
+
+#: ImgErr
+msgid "None of the open images can go in a stack."
+msgstr "Ingen av bilderna kan flyttas till bunt. "
+
+#: ImgTypeErr
+msgid "All open images must be the same type."
+msgstr ""
+"Alla Ã¶ppnade bilder\n"
+" mÃ¥ste vara av samma typ."
+
+#: ImgSizeErr
+msgid "All open images must be the same size."
+msgstr ""
+"Alla Ã¶ppnade bilder\n"
+" mÃ¥ste ha samma storlek. "
+
+#: StackTitle
+msgid "Stack"
+msgstr "Bunt"
+
+#: ConvertTitle
+msgid "Convert to Images?"
+msgstr "Konvertera bunt till bilder?"
+
+#: Convert1
+msgid ""
+"Are you sure you want to convert this\n"
+"stack to"
+msgstr "Vill du konvertera bunten till"
+
+#: Convert2
+msgid "separate windows?"
+msgstr "skilda fÃ¶nster?"
+
+#. # ImageCalculator
+#: TitleStr
+msgid "Image Calculator"
+msgstr "Bildkalkylator"
+
+#: NoWinErr
+msgid "No windows are open."
+msgstr "Inget fÃ¶nster Ã¶ppet!"
+
+#: StackSizeErr
+msgid "Both stacks must have the same number of slices."
+msgstr ""
+"BÃ¥da buntar mÃ¥ste ha \n"
+"samma antal bilder."
+
+#: OutOfMem
+msgid "Out of memory"
+msgstr "Slut pÃ¥ minne"
+
+#: Image1
+msgid "Image 1:"
+msgstr "Bild 1:"
+
+#: Image2
+msgid "Image 2:"
+msgstr "Bild 2:"
+
+#: Operation
+msgid "Operation:"
+msgstr "Operation:"
+
+#: NewResultTitle
+msgid "Result of"
+msgstr "Resultat av"
+
+#: ResultTitle
+msgid "Result"
+msgstr "Resultat"
+
+#: Add
+msgctxt "Add"
+msgid "Add"
+msgstr "Addera "
+
+#: Subtract
+msgid "Subtract"
+msgstr "Subtrahera"
+
+#: Multiply
+msgid "Multiply"
+msgstr "Multiplicera"
+
+#: Divide
+msgid "Divide"
+msgstr "Dividera"
+
+#: AND
+msgid "AND"
+msgstr "OCH"
+
+#: OR
+msgid "OR"
+msgstr "ELLER"
+
+#: XOR
+msgid "XOR"
+msgstr "ELLER (exklusivt)"
+
+#: Min
+msgid "Min"
+msgstr "Min"
+
+#: Max
+msgid "Max"
+msgstr "Max"
+
+#: Gamma
+msgid "Gamma"
+msgstr "Gamma"
+
+#: Average
+msgid "Average"
+msgstr "MedelvÃ¤rde"
+
+#: Difference
+msgid "Difference"
+msgstr "Absolut differens"
+
+#: Copy
+msgid "Copy"
+msgstr "Kopiera"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "Genomskinlig kopia"
+
+#: Index
+msgid "index"
+msgstr "index"
+
+#: Value
+msgid "Value:"
+msgstr "VÃ¤rde:"
+
+#: BinValue
+msgid "Value (binary): "
+msgstr "BinÃ¤rt vÃ¤rde: "
+
+#: BinValReqErr
+msgid "Binary number required"
+msgstr "BinÃ¤rt tal krÃ¤vs!"
+
+#: Value01
+msgid "Value (0.1-5.0):"
+msgstr "VÃ¤rde (mellan 0,1 och 5,0):"
+
+#: GammaValErr
+msgid "Gamma must be between 0.1 and 5.0"
+msgstr "Gamma mÃ¥ste ligga mellan 0,1 och 5,0"
+
+#. # Selection
+#: Spline
+msgid "Spline"
+msgstr "Spline"
+
+#. ## PLUGIN/FRAME
+#. # PasteController
+#: FrameTitle
+msgid "Paste Control"
+msgstr "Urklippshantering"
+
+#: TransferMode
+msgid "Transfer Mode:"
+msgstr "'Klistra in' motsvarar:"
+
+#. # ContrastAdjuster
+#: ContrastTitle
+msgid "Brightness & Contrast"
+msgstr "Ljusstyrka & kontrast"
+
+#: WLTitle
+msgid "Window & Level"
+msgstr "FÃ¶nster & nivÃ¥"
+
+#: ColorTitle
+msgctxt "ColorTitle"
+msgid "Color"
+msgstr "FÃ¤rger"
+
+#: Minimum
+msgid "Minimum"
+msgstr "Minimum"
+
+#: Maximum
+msgid "Maximum"
+msgstr "Maximum"
+
+#: Brightness
+msgid "Brightness"
+msgstr "Ljusstyrka"
+
+#: Contrast
+msgid "Constrast"
+msgstr "Kontrast"
+
+#: Level
+msgid "Level:"
+msgstr "NivÃ¥:"
+
+#: Window
+msgid "Window:"
+msgstr "FÃ¶nster:"
+
+#: Auto
+msgid "Auto"
+msgstr "Auto"
+
+#: Reset
+msgid "Reset"
+msgstr "NollstÃ¤ll"
+
+#: Set
+msgid "Set"
+msgstr "VÃ¤rde"
+
+#: MyApply2
+msgid "Apply "
+msgstr "AnvÃ¤nd"
+
+#: Thresh
+msgid "Thresh"
+msgstr "GrÃ¤ns"
+
+#: Update
+msgid "Update"
+msgstr "Uppdatera"
+
+#: AdjTypeErr
+msgid "Requires an 8-bit grayscale image or an RGB stack"
+msgstr "KrÃ¤ver 8 bitars svartvit bild eller RGB-bunt"
+
+#: LUT1
+msgid "Apply LUT to all"
+msgstr "AnvÃ¤nd fÃ¤rgpaletten pÃ¥ alla"
+
+#: LUT2
+msgctxt "LUT2"
+msgid "slices in the stack?"
+msgstr "bilder i bunten?"
+
+#: RGB1
+msgid "Apply brightness and contrast settings to all"
+msgstr "AnvÃ¤nd instÃ¤llningarna fÃ¶r ljusstyrka och kontrast pÃ¥ alla"
+
+#: RGB2
+msgctxt "RGB2"
+msgid "slices in the stack?"
+msgstr "bilder i bunten?"
+
+#: SetMinMaxTitle
+msgid "Set Min and Max"
+msgstr "Min- & Max-vÃ¤rde "
+
+#: MinVal
+msgid "Minimum Displayed Value:"
+msgstr "Minsta synliga vÃ¤rde (svart):"
+
+#: MaxVal
+msgid "Maximum Displayed Value:"
+msgstr "StÃ¶rsta synliga vÃ¤rde (vitt):"
+
+#: SetWLTitle
+msgid "Set W&L"
+msgstr "InstÃ¤llningar fÃ¶r W & L"
+
+#: WinCenter
+msgid "Window Center (Level):"
+msgstr "FÃ¶nstrets mittpunkt (nivÃ¥):"
+
+#: WinWidth
+msgid "Window Width:"
+msgstr "FÃ¶nstrets bredd:"
+
+#: NoImg
+msgid "No Image"
+msgstr "Ingen bild!"
+
+#. # Analyser
+#: SetMeasurementsTitle
+msgid "Set Measurements"
+msgstr "InstÃ¤llningar..."
+
+#: measurements
+msgid "measurements"
+msgstr "mÃ¤tningar"
+
+#: Area
+msgid "Area"
+msgstr "Area"
+
+#: MeanGray
+msgid "Mean Grey Value"
+msgstr "MedelgrÃ¥vÃ¤rde"
+
+#: StDev
+msgid "Standard Deviation"
+msgstr "Standardavvikelse"
+
+#: ModalGray
+msgid "Modal Grey Value"
+msgstr "Modalt grÃ¥vÃ¤rde"
+
+#: MinMaxGray
+msgid "Min & Max Grey Value"
+msgstr "Min- & MaxvÃ¤rde (grÃ¥skala)"
+
+#: Centroid
+msgid "Centroid"
+msgstr "Mittpunkt"
+
+#: MassCenter
+msgid "Center of Mass"
+msgstr "Masscentrum"
+
+#: Perimeter
+msgid "Perimeter"
+msgstr "Omkrets"
+
+#: Bounds
+msgid "Bounding Rectangle"
+msgstr "RektangulÃ¤rt omrÃ¥de"
+
+#: FitEllipse
+msgid "Fit Ellipse"
+msgstr "Anpassa elliptiskt omrÃ¥de"
+
+#: Circularity
+msgid "Circularity"
+msgstr "KrÃ¶kning"
+
+#: FeretDiam
+msgid "Feret's Diameter"
+msgstr "Feret-diameter"
+
+#: ThreshLimit
+msgid "Limit to Threshold"
+msgstr "TrÃ¶skelvÃ¤rde"
+
+#: ImgName
+msgid "Display Image Name"
+msgstr "Visa bildnamn"
+
+#: InvertY
+msgid "Invert Y Coordinates"
+msgstr "Invertera Y-koordinater"
+
+#: DeciPlaces
+msgctxt "DeciPlaces"
+msgid "Decimal Places:"
+msgstr "Antal decimaler:"
+
+#: Val
+msgid "Value"
+msgstr "VÃ¤rde"
+
+#: FileName
+msgid "Name"
+msgstr "Namn"
+
+#: Angle
+msgid "Angle"
+msgstr "Vinkel"
+
+#: Length
+msgid "Length "
+msgstr "LÃ¤ngd"
+
+#. #Shorter labels
+#: SD
+msgid "SD"
+msgstr "std"
+
+#: Mean
+msgid "Moy."
+msgstr "MedelvÃ¤rde"
+
+#. ### ThresholdAdjuster
+#: Threshold
+msgid "Threshold"
+msgstr "TrÃ¶skelvÃ¤rde"
+
+#: RedThresh
+msgid "Red"
+msgstr "RÃ¶d"
+
+#: BWThresh
+msgid "Black & White"
+msgstr "Svartvit "
+
+#: OverUnder
+msgid "Over/Under"
+msgstr "Ãver/under"
+
+#: ThreshLevels
+msgid "Set Threshold Levels"
+msgstr "SÃ¤tt grÃ¤nser"
+
+#: LowThreshLevel
+msgid "Lower Threshold Level:"
+msgstr "Undre grÃ¤ns:"
+
+#: UpThreshLevel
+msgid "Upper Threshold Level:"
+msgstr "Ãvre grÃ¤ns:"
+
+#: RGBThreshErr
+msgid "RGB images cannot be thresolded."
+msgstr "RGB-bilder kan inte begrÃ¤nsas. "
+
+#. ## NewPlugin
+#: NPTitle
+msgid "Nouveau..."
+msgstr "Nytt..."
+
+#: Type
+msgid "Type"
+msgstr "Typ"
+
+#. ##Recorder
+#: Record
+msgid "Record"
+msgstr "Spela in"
+
+#: CreateMacro
+msgid "Create Macro"
+msgstr "Skapa makro"
+
+#: CreatePlugin
+msgid "Create Plugin"
+msgstr "Skapa plugin"
+
+#. ## Command Lister
+#: Commands
+msgid "Commands"
+msgstr "Kommandon"
+
+#. # 2 FIELDS SEPARATED BY \t
+#: CommandLabels
+msgid "Command\tPlugin"
+msgstr "Kommando\tplugin\t"
+
+#: KbdShortcuts
+msgid "Keyboard Shortcuts"
+msgstr "Snabbkommandon"
+
+#. # 2 FIELDS SEPARATED BY \t
+#: KbdShortcutsLabels
+msgid "Hot Key\tCommand"
+msgstr "Snabbknapp\tkommando"
+
+#. ## ScaleDialog
+#: ScDiagTitle
+msgid "Set Scale"
+msgstr "Ange skala"
+
+#: ScDiagDistPix
+msgid "Distance in Pixels:"
+msgstr "AvstÃ¥nd i pixlar:"
+
+#: ScDiagDist
+msgid "Real Distance:"
+msgstr "Verkligt avstÃ¥nd:"
+
+#: ScDiagRatio
+msgid "Width/Height Ratio:"
+msgstr "Bredd/hÃ¶jd-kvot:"
+
+#: ScDiagUnit
+msgid "Unit of Length:"
+msgstr "LÃ¤ngdenhet:"
+
+#: ScDiagScale
+msgid "Scale:"
+msgstr "Skala:"
+
+#: ScDiagGlobal
+msgctxt "ScDiagGlobal"
+msgid "Global"
+msgstr "Global"
+
+#: ScDiagNoScale
+msgid "<No Scale>"
+msgstr "<Ingen skala>"
+
+#. ## SurfacePlotter
+#: SfcPlTitle
+msgid "Surface Plotter"
+msgstr "3D-diagram"
+
+#: SfcPlImgTitle
+msgid "Surface Plot"
+msgstr "3D-yta"
+
+#: SfcPlDrSlice
+msgid "Drawing slice"
+msgstr "Utsnitt"
+
+#: SfcPlMult
+msgid "Number of samples"
+msgstr "Antal samples"
+
+#: SfcPlWire
+msgid "Draw wireframe"
+msgstr "Visa rutnÃ¤t"
+
+#: SfcPlShade
+msgid "Shade"
+msgstr "Skugga"
+
+#: SfcPlAxis
+msgid "Draw axis"
+msgstr "Visa axlar"
+
+#: SfcPlInvert
+msgid "Source Background is Lighter"
+msgstr "Invertera"
+
+#: SfcPlBlack
+msgid "Fill Plot Background with Black"
+msgstr "Svart bakgrund"
+
+#: SfcPlPoly
+msgid "Fill Plot"
+msgstr "Heldragen"
+
+#: SfcPlSmooth
+msgid "Smooth"
+msgstr "JÃ¤mna ut"
+
+#. ## Printer
+#: PageSetup
+msgid "Page Setup"
+msgstr "UtskriftsinstÃ¤llningar"
+
+#: PrintScaling
+msgid "Scaling"
+msgstr "Skalning"
+
+#: PrintBorder
+msgid "Draw Border"
+msgstr "Skriv ut ram"
+
+#: PrintTitle
+msgid "Print Title"
+msgstr "Skriv ut titel"
+
+#: PrintCenter
+msgid "Center on Page"
+msgstr "Centrera"
+
+#. ## Rotator
+#: Rotate
+msgid "Rotate"
+msgstr "Rotera"
+
+#: AngleUnity
+msgid "Angle (degrees):"
+msgstr ""
+
+#: GridLines
+msgid "Grid Lines:"
+msgstr ""
+
+#: Interpolate
+msgid "Interpolate"
+msgstr "Interpolera"
+
+#: FillwithBg
+msgctxt "FillwithBg"
+msgid "Fill with Background Color"
+msgstr ""
+
+#: EnlargetoFit
+msgid "Enlarge Image to Fit Result"
+msgstr ""
+
+#: AngleErr
+msgid "Angle is invalid."
+msgstr "Ogiltig vinkel!"
+
+#. ## Options
+#: OptMiscTitle
+msgid "Miscellaneous Options"
+msgstr "Diverse instÃ¤llningar"
+
+#: OptHistBin
+msgid "Real Histogram Bins:"
+msgstr "Antal indelningar i histogram: "
+
+#: OptDivZero
+msgid "Divide by Zero Value:"
+msgstr "VÃ¤rde vid division med noll:"
+
+#: OptCursor
+msgid "Use Pointer Cursor"
+msgstr "AnvÃ¤nd hÃ¥rkors"
+
+#: OptScale
+msgid "Scale When Converting"
+msgstr "AnvÃ¤nd min/max vid typkonversion"
+
+#: OptStackDiag
+msgid "Hide \"Process Stack?\" Dialog"
+msgstr "Behandla endast aktiv bild i bunt"
+
+#: OptAntialias
+msgid "Antialiased Text"
+msgstr "Anti-alias"
+
+#: OptInterpolate
+msgid "Interpolate Images <100%"
+msgstr "Interpolera bilder <100%"
+
+#: OptOpen
+msgid "Open Images at 100%"
+msgstr "Ãppna i riktig storlek"
+
+#: OptDebug
+msgid "Debug Mode"
+msgstr "Debug-mode"
+
+#: OptLine
+msgid "Line width:"
+msgstr "Linjebredd:"
+
+#: OptJpeg
+msgid "JPEG quality (0-100):"
+msgstr "Kvalitet pÃ¥ sparad bild JPEG (0-100):"
+
+#: OptMark
+msgid "Mark Width:"
+msgstr "Punktdiameter:"
+
+#. ## Fonts
+#: FontsTitle
+msgid "Fonts"
+msgstr "InstÃ¤llningar fÃ¶r teckensnitt"
+
+#: FontPlain
+msgid "Plain"
+msgstr "Normal"
+
+#: FontBold
+msgid "Bold"
+msgstr "Fet"
+
+#: FontIt
+msgid "Italic"
+msgstr "Kursiv"
+
+#: FontBoldIt
+msgid "Bold+Italic"
+msgstr "Fet+kursiv"
+
+#: FontPoint
+msgid "pt"
+msgstr "punkter"
+
+#. ## Fitter
+#: FitterTitle
+msgid "Curve Fitter"
+msgstr "Kurvanpassning"
+
+#: Fit
+msgid "Fit..."
+msgstr "Anpassa..."
+
+#: FitFncErr
+msgid "No function available"
+msgstr "Ingen funktion tillgÃ¤nglig"
+
+#: FitImgErr
+msgid "First select the image to be transformed"
+msgstr "VÃ¤lj fÃ¶rst en bild att modifiera"
+
+#: FitterSuffix
+msgid "-transformed"
+msgstr "-modifierad"
+
+#. ## Resizer
+#: ResizeRoiErr
+msgid ""
+"These commands\n"
+"do not work with line selections."
+msgstr ""
+"Dessa kommandon fungerar inte\n"
+"med linjemarkeringar."
+
+#: ResizeTitle
+msgid "Resize"
+msgstr "Skala om"
+
+#: ResizeConstrain
+msgid "Constrain Aspect Ratio"
+msgstr "BibehÃ¥ll skalfÃ¶rhÃ¥llande"
+
+#: ResizeWarn
+msgid "NOTE: Undo is not available"
+msgstr "OBS: ÃtgÃ¤rden gÃ¥r ej att Ã¥ngra"
+
+#: ResizeErr
+msgid "Width or height are invalid."
+msgstr "Felaktiga dimensioner."
+
+#: ResizeLost1
+msgid ""
+"SalsaJ ran out of memory causing \n"
+"the last"
+msgstr ""
+"Slut pÃ¥ minne gÃ¶r att\n"
+" sista bilderna i bunten"
+
+#: ResizeLost2
+msgid "slices to be lost."
+msgstr "kommer att fÃ¶rsvinna."
+
+#. ##CanvasResizer NEW
+#: CanvasResizerTitle1
+msgid "Resize Image Canvas"
+msgstr "Ãndra bildfÃ¶nstrets storlek"
+
+#: CanvasResizerTitle2
+msgid "Resize Stack Canvas"
+msgstr "Ãndra buntfÃ¶nstrets storlek"
+
+#: Position
+msgid "Postion"
+msgstr "Placering"
+
+#: ZeroFile
+msgid "Zero Fill"
+msgstr "Ingen fyllning"
+
+#: Top-Left
+msgid "Top-Left "
+msgstr "Ãverst till vÃ¤nster"
+
+#: Top-Center
+msgid "Top-Center"
+msgstr "Ãverst i mitten"
+
+#: Top-Right
+msgid "Top-Right"
+msgstr "Ãverst till hÃ¶ger"
+
+#: Center-Left
+msgid "Center-Left"
+msgstr "VÃ¤nster mittenparti"
+
+#: Center
+msgid "Center"
+msgstr "I mitten"
+
+#: Center-Right
+msgid "Center-Right"
+msgstr "HÃ¶ger mittenparti"
+
+#: Bottom-Left
+msgid "Bottom-Left"
+msgstr "Nere till vÃ¤nster"
+
+#: Bottom-Center
+msgid "Bottom-Center"
+msgstr "Nere i mitten"
+
+#: Bottom-Right
+msgid "Bottom-Right"
+msgstr "Nere till hÃ¶ger"
+
+#. ##Montage Maker NEW
+#: MakeMontage
+msgid "Make Montage"
+msgstr "Montera"
+
+#: Columns
+msgid "Columns"
+msgstr "Kolumner"
+
+#: Rows
+msgid "Rows"
+msgstr "Rader"
+
+#: ScaleFactor
+msgid "Scale Factor"
+msgstr "Skalfaktor"
+
+#: FirstSlice
+msgid "First Slice"
+msgstr "FÃ¶rsta bild"
+
+#: LastSlice
+msgid "Last Slice"
+msgstr "Sista bild"
+
+#: Increment
+msgctxt "Increment"
+msgid "Increment"
+msgstr "Ãkning"
+
+#: BorderWidth
+msgid "Border Width"
+msgstr "Rambredd"
+
+#: LabelSlices
+msgid "Label Slices"
+msgstr "MÃ¤rk bilder"
+
+#: UseForegroundColor
+msgid "Use Foreground Color"
+msgstr "AnvÃ¤nd fÃ¶rgrundsfÃ¤rg"
+
+#. ##ImageProperties NEW
+#: Channels
+msgid "Channels"
+msgstr "Kanaler"
+
+#: Frames
+msgid "Frames"
+msgstr "Bildrutor"
+
+#: Pixel_Width
+msgid "Pixel Width"
+msgstr "Pixelbredd"
+
+#: Pixel_Height
+msgid "Pixeln Height"
+msgstr "PixelhÃ¶jd"
+
+#: Voxel_Depth
+msgid "Voxel Depth"
+msgstr "Voxeldjup"
+
+#: FrameInterval
+msgid "Frame Interval"
+msgstr "Intervall mellan bildrutor"
+
+#: Origin
+msgid "Origin (pixels)"
+msgstr "Koordinater fÃ¶r origo (pixlar)"
+
+#: Global
+msgctxt "Global"
+msgid "Global"
+msgstr "Global"
+
+#. ## SimpleCommands
+#: NotLocked
+msgid "is not locked"
+msgstr "Ã¤r inte lÃ¥sta"
+
+#: Unlocked
+msgid "is now unlocked"
+msgstr "Ã¤r nu upplÃ¥sta"
+
+#: Rename
+msgid "Rename"
+msgstr "Byt namn"
+
+#: RenameName
+msgid "New title:"
+msgstr "Nytt namn:"
+
+#. ## Duplicater
+#: DupliSuffix
+msgid "-copy"
+msgstr "-kopia"
+
+#: DupliTitle
+msgid "Duplicate"
+msgstr "Extrakopia"
+
+#: DupliNewName
+msgid "Title:"
+msgstr "Titel:"
+
+#: DupliStack
+msgid "Duplicate Entire Stack?"
+msgstr "Extrakopia av hela bunten?"
+
+#. ## Scaler
+#: ScalerTitle
+msgid "Scale"
+msgstr "Skala om"
+
+#: ScalerX
+msgid "X Scale"
+msgstr "Skalfaktor pÃ¥ X-axeln"
+
+#: ScalerY
+msgid "Y Scale"
+msgstr "Skalfaktor pÃ¥ Y-axeln"
+
+#: ScalerErr
+msgid "X or Y scale are invalid."
+msgstr "Felaktig skalfaktor."
+
+#: ScalerSuffix
+msgid "-rescaled"
+msgstr "-omskalad"
+
+#. ##NEW
+#: ScalerBackground
+msgctxt "ScalerBackground"
+msgid "Fill with Background Color"
+msgstr "Fyll med bakgrundsfÃ¤rgen"
+
+#. ##ScaleBar ##NEW
+#: ScaleBarTitle
+msgid "ScaleBar Plus"
+msgstr "MÃ¥ttstock plus"
+
+#: ScaleBarWidth
+msgid "Width in"
+msgstr "Bredd i"
+
+#: ScaleBarHeight
+msgid "Height in pixels"
+msgstr "HÃ¶jd i pixlar"
+
+#: ScaleBarFont
+msgid "Font Size"
+msgstr "Teckenstorlek"
+
+#: ScaleBarColor
+msgctxt "ScaleBarColor"
+msgid "Color"
+msgstr "FÃ¤rg"
+
+#: ScaleBarBackground
+msgid "Background"
+msgstr "Bakgrund"
+
+#: ScaleBarLocation
+msgid "Location"
+msgstr "Placering"
+
+#: ScaleBarBold
+msgctxt "ScaleBarBold"
+msgid "Bold Text"
+msgstr "Fetstil"
+
+#: ScaleBarHide
+msgid "Hide Text"
+msgstr "DÃ¶lj text"
+
+#: ScaleBarSerif
+msgid "Serif Font"
+msgstr "Serif-font"
+
+#. ## LutViewer
+#: LUTTitle
+msgid "LookUp Table"
+msgstr "Palett"
+
+#. # 4 FIELDS SEPARATED BY \t
+#: LUTHead
+msgid "Index\tRed\tGreen\tBlue"
+msgstr "Index\tRÃ¶d\tGrÃ¶n\tBlÃ¥"
+
+#: LUTTextTitle
+msgid "LUT"
+msgstr "FÃ¤rgpalett"
+
+#. ## LutLoader
+#: LutRGBErr
+msgid "RGB images do not use LUTs."
+msgstr "RGB-bilder anvÃ¤nder inte paletter. "
+
+#. ## Profiler
+#: ProOptTitle
+msgid "Profile Plot Options"
+msgstr "InstÃ¤llningar fÃ¶r profilplottar"
+
+#: ProOptScale
+msgid "Fixed Y-axis Scale"
+msgstr "LinjÃ¤r skala pÃ¥ y-axeln"
+
+#: ProOptSave
+msgid "Do Not Save X-Values"
+msgstr "Spara inte X-vÃ¤rden"
+
+#: ProOptAuto
+msgid "Auto-close"
+msgstr "StÃ¤ng automatiskt"
+
+#: ProOptVert
+msgid "Vertical Profile"
+msgstr "Vertikal profil"
+
+#. ## RoiManager
+#: RoiTitle
+msgid "Roi Manager"
+msgstr "Urval"
+
+#: RoiAdd
+msgctxt "RoiAdd"
+msgid "Add"
+msgstr "LÃ¤gg till"
+
+#: RoiAdd&Draw
+msgctxt "RoiAdd&Draw"
+msgid "Delete"
+msgstr "Ta bort"
+
+#: RoiDel
+msgctxt "RoiDel"
+msgid "Delete"
+msgstr "Ta bort"
+
+#: RoiOpen
+msgctxt "RoiOpen"
+msgid "Open"
+msgstr "Ãppna"
+
+#: RoiOpenAll
+msgid "Open All"
+msgstr "Ãppna alla"
+
+#: RoiSave
+msgid "Save"
+msgstr "Spara"
+
+#: RoiSel
+msgid "Select All"
+msgstr "Markera allt"
+
+#: RoiMeasure
+msgid "Measure"
+msgstr "MÃ¤t"
+
+#: RoiDraw
+msgid "Draw"
+msgstr "Rita"
+
+#: RoiFill
+msgid "Fill"
+msgstr "Fyll i "
+
+#: RoiErr1
+msgid "The active image does not have an ROI."
+msgstr ""
+"Ingen markering\n"
+" i aktiv bild. "
+
+#: RoiErr2
+msgid "The ROI list is empty."
+msgstr "Ingen markering i listan. "
+
+#: RoiErr3
+msgid "At least one ROI in the list must be selected."
+msgstr "Minst en markering krÃ¤vs i listan."
+
+#: RoiErr4
+msgid "This ROI does not fit the current image."
+msgstr ""
+"Denna markering passar ej\n"
+"ihop med aktiv bild."
+
+#: RoiOpenTitle
+msgid "Open ROI..."
+msgstr "Ãppna markering..."
+
+#: RoiOpenFolder
+msgid "Select a file in the folder..."
+msgstr "VÃ¤lj fil i mappen..."
+
+#: RoiSaveTitle
+msgid "Save ROI..."
+msgstr "Spara markeringen..."
+
+#. ## CalibrationBar
+#: CaliTitle
+msgid "Calibration Bar"
+msgstr "Kalibreringsskala"
+
+#: CaliLoc
+msgid "Location:"
+msgstr "Placering:"
+
+#: CaliFill
+msgid "Fill Colour:"
+msgstr "BakgrundsfÃ¤rg:"
+
+#: CaliLab
+msgid "Label Colour:"
+msgstr "FÃ¤rg pÃ¥ bildtext:"
+
+#: CaliNb
+msgid "Number of Labels:"
+msgstr "Antal punkter:"
+
+#: CaliPlaces
+msgctxt "CaliPlaces"
+msgid "Decimal Places:"
+msgstr "Antal decimaler:"
+
+#: CaliSize
+msgid "Font Size:"
+msgstr "Teckenstorlek:"
+
+#: CaliZoom
+msgid "Zoom Factor:"
+msgstr "FÃ¶rstoring:"
+
+#: CaliBold
+msgctxt "CaliBold"
+msgid "Bold Text"
+msgstr "Fetstil"
+
+#: CaliWithBar
+msgid "with bar"
+msgstr "med bildtext"
+
+#: CaliUpR
+msgid "Upper Right"
+msgstr "Uppe till hÃ¶ger"
+
+#: CaliUpL
+msgid "Upper Left"
+msgstr "Uppe till vÃ¤nster"
+
+#: CaliDoR
+msgid "Lower Right"
+msgstr "Nere till hÃ¶ger"
+
+#: CaliDoL
+msgid "Lower Left"
+msgstr "Nere till vÃ¤nster "
+
+#: CaliSel
+msgid "At Selection"
+msgstr "Vid vald punkt"
+
+#. ## FolderOpener
+#: FoldOpenTitle
+msgid "Open Image Sequence..."
+msgstr "VÃ¤lj mapp..."
+
+#: FoldOpenErrTitle
+msgid "Import Error:"
+msgstr "Fel:"
+
+#: FoldOpenErr1
+msgid ""
+"This folder does not appear to contain any TIFF,\n"
+"FITS, JPEG, BMP, GIF, or PGM files."
+msgstr ""
+"Denna folder tycks inte innehÃ¥lla nÃ¥gra filer i formaten\n"
+"TIFF, FITS, JPEG, BMP, GIF eller PGM."
+
+#: FoldOpenErr2
+msgid "None of the"
+msgstr "Hittar ingen fil"
+
+#: FoldOpenErr3
+msgid "files contain  in their name the string"
+msgstr "med det namnet"
+
+#: FoldOpenErr4
+msgid ": wrong dimensions"
+msgstr ": dimensionsfel."
+
+#: FoldOpenErr5
+msgid ": wrong type"
+msgstr ": typfel"
+
+#: FoldOpenErr6
+msgid ": unable to open"
+msgstr ": gÃ¥r ej att Ã¶ppna"
+
+#: FoldOptTitle
+msgid "Sequence Options"
+msgstr "ÃppningsinstÃ¤llningar"
+
+#: FoldOpt1
+msgid "Number of Images"
+msgstr "Antal bilder"
+
+#: FoldOpt2
+msgid "Starting Image"
+msgstr "Startindex"
+
+#: FoldOpt3
+msgctxt "FoldOpt3"
+msgid "Increment"
+msgstr "Ãkning"
+
+#: FoldOpt4
+msgid "File Name Contains"
+msgstr "SÃ¶kord i filnamnet"
+
+#: FoldOpt5
+msgid "Convert to 8-bit Greyscale"
+msgstr "Konvertera till 8 bitars svartvit"
+
+#: FoldOpt6
+msgid "Open 1/2 Size"
+msgstr "Ãppna i halvformat"
+
+#. ## URLOpener
+#: URLDiagTitle
+msgid "Enter URL"
+msgstr "Ange URL"
+
+#: URLDiagLab
+msgid "Enter the URL of an image to open:"
+msgstr "VÃ¤lj URL fÃ¶r bilden som ska Ã¶ppnas:"
+
+#. ## Animator
+#: AnimOptTitle
+msgid "Animation Options"
+msgstr "AnimeringsinstÃ¤llningar"
+
+#: AnimOptSpeed
+msgid "Speed (1-100 fps):"
+msgstr "Hastighet(1-100 bilder/sek):"
+
+#: AnimOptLoop
+msgid "Loop Back and Forth"
+msgstr "Snurra"
+
+#: AnimOptStart
+msgid "Start Animation"
+msgstr "Starta animering"
+
+#: AnimSlice
+msgid "Set Slice"
+msgstr "VÃ¤lj bild"
+
+#: AnimNb
+msgid "Slice number"
+msgstr "Bildindex"
+
+#. ## TextWriter
+#: TWErrTitle
+msgid "Save As Text"
+msgstr "Spara som textfil"
+
+#: TWErrMsg
+msgid "This command requires a TextWindow"
+msgstr "Kan ej utfÃ¶ras pÃ¥ bild"
+
+#. ## Calibrator
+#: CalibrTitle
+msgid "Calibrate..."
+msgstr "Kalibrera..."
+
+#: CalibrFunc
+msgid "Function:"
+msgstr "Funktion:"
+
+#: CalibrGlob
+msgid "Global calibration"
+msgstr "Global kalibrering"
+
+#: Calibrator
+msgid "Calibrator:"
+msgstr "Kalibrering:"
+
+#: CalibrErr1
+msgid "Please select a function"
+msgstr "VÃ¤lj en funktion!"
+
+#: CalibrErr16b
+msgid ""
+"Calibration of 16-bit images, except with straight\n"
+"line functions, is currently not supported."
+msgstr "Endast fÃ¶rstagradspolynom kan f.n. anvÃ¤ndas med 16-bitarsbilder."
+
+#: CalPixelInverter
+msgid "Pixel Inverter"
+msgstr "Invertera pixlar"
+
+#: CalibrMan
+msgid ""
+"To create a calibration curve, the left column must\n"
+"contain a list of measured mean pixel values and the\n"
+"right column must contain the same number of calibration\n"
+"standard values."
+msgstr ""
+"FÃ¶r att fÃ¥ en kalibreringskurva, \n"
+"fyll i vÃ¤nsterkolumnen med rÃ¥data\n"
+" och hÃ¶gerkolumnen med motvarande korrigerade vÃ¤rden."
+
+#: CalibrFuncTitle
+msgid "Calibration function"
+msgstr "Kalibreringsfunktion"
+
+#. #Recorder
+#: Recorder
+msgid "Recorder"
+msgstr "Inspelning"
+
+#: 32birReqErr
+msgid "32-bit float image required"
+msgstr "32 bits-bild krÃ¤vs"
+
+#: OptHistory
+msgid "Last used files:"
+msgstr "Senast anvÃ¤nda filer:"
+
+#: OptFiles
+msgid "Files"
+msgstr "Filer"
+
+#: Translate
+msgid "Translate"
+msgstr "Translatera"
+
+#: TX
+msgid "Translation on X"
+msgstr "Translation i X-led"
+
+#: TY
+msgid "Translation on Y"
+msgstr "Translation i Y-led"
+
+#: TxErr
+msgid "Translation on X is invalid"
+msgstr "OtillÃ¥ten translation i X-led "
+
+#: TyErr
+msgid "Translation en Y est invalide"
+msgstr "OtillÃ¥ten translation i Y-led "
+
+#. #OptJFileChooser
+#: OptJFileChooser
+msgid "Open/Save Using JFileChooser"
+msgstr "Ãppna/Spara med hjÃ¤lp av JFileChooser"
+
+#: ProOptHoriz
+msgid "Horizontal Profile"
+msgstr "Horisontell profil"
+
+#. #Spectrum Radio...
+#: GaussFitResults
+msgid "Gaussian fit results"
+msgstr "Resultat av Gauss-anpassning"
+
+#: ChannelRS
+msgid "Channel"
+msgstr "Kanal"
+
+#: VelocityRS
+msgid "Velocity"
+msgstr "Hastighet"
+
+#: unitsVelocityRS
+msgid "km/s"
+msgstr "km/s"
+
+#: FrequencyRS
+msgid "Frequency"
+msgstr "Frekvens"
+
+#: unitsFrequencyRS
+msgid "MHz"
+msgstr "MHz"
+
+#: WavelengthRS
+msgid "Wavelength"
+msgstr "VÃ¥glÃ¤ngd"
+
+#. # ref wave of chemical element to compute velocity in optical spectrum (default Na=589 nm)
+#: Wave_ref
+msgid "Reference wavelength"
+msgstr ""
+
+#: unitsWavelengthRS
+msgid "cm"
+msgstr "cm"
+
+#: IntensityRS
+msgid "Intensity"
+msgstr "Intensitet"
+
+#: error0
+msgid "This does not appear to be a FITS file."
+msgstr "Detta tycks inte vara nÃ¥gon FITS-fil."
+
+#: error1
+msgid "too few points to fit"
+msgstr "fÃ¶r fÃ¥ punkter fÃ¶r anpassning"
+
+#: error2
+msgid "singular matrix"
+msgstr "singulÃ¤r matris"
+
+#: chooseInter
+msgid "choose two intervals"
+msgstr "vÃ¤lj tvÃ¥ intervall"
+
+#: Finter
+msgid "first interval"
+msgstr "fÃ¶rsta intervallet"
+
+#: Sinter
+msgid "second interval"
+msgstr "andra intervallet"
+
+#: chooseOder
+msgid "choose order of baseline fit (0<order<5)"
+msgstr "vÃ¤lj ordning fÃ¶r baslinjeanpassningen (0<ordning<5)"
+
+#: order
+msgid "Order"
+msgstr "Ordning"
+
+#: DisplayZero
+msgid "display zero line in blue"
+msgstr "visa nollinjen i blÃ¥tt"
+
+#: GaussianfitTitle
+msgid "Gaussian fit of spectral line"
+msgstr "Gauss-anpassning fÃ¶r spektrallinje"
+
+#: ChooseParam
+msgid "Choose parameters"
+msgstr "VÃ¤lj parametrar"
+
+#: interval
+msgid "interval"
+msgstr "intervall"
+
+#: amplitudeRS
+msgid "amplitude"
+msgstr "amplitud"
+
+#: centerRS
+msgid "center"
+msgstr "centrum"
+
+#: widthRS
+msgid "width"
+msgstr "bredd"
+
+#: eraseRS
+msgid "erase the last"
+msgstr "stryk den sista"
+
+#: subtractRS
+msgid "Subtract baseline"
+msgstr "Subtrahera baslinjen"
+
+#: GaussianFit
+msgid "Gaussian fit"
+msgstr "Gauss-anpassning"
+
+#: baseline
+msgid "Baseline"
+msgstr "Baslinje"
+
+#. #Optical Spectrum...
+#: lambdaOS
+msgid "Lambda[A]"
+msgstr "Lambda[A]"
+
+#: fluxOS
+msgid "Flux[ADU]"
+msgstr "FlÃ¶de[ADU]"
+
+#. #Plugins externes
+#: Chooselanguage
+msgid "Choose language"
+msgstr "VÃ¤lj sprÃ¥k"
+
+#: DynamicProfile
+msgid "Dynamic profile"
+msgstr "Dynamisk profil"
+
+#: LiveHistg
+msgid "Live histogram"
+msgstr "Interaktivt histogram"
+
+#: OpenStar
+msgid "Virtual observatories images"
+msgstr "Bilder frÃ¥n virtuella observatorier"
+
+#: ImportURL
+msgid "Open an image on the Web"
+msgstr "Ã¶ppna en bild pÃ¥ webben"
+
+#: AlignRGB
+msgid "Align R/G/B planes"
+msgstr "Anpassa RGB-planer"

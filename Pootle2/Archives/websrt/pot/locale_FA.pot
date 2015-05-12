@@ -1,0 +1,884 @@
+#. extracted from properties/locale_FA.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-11 16:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [base]
+msgctxt "[base]"
+"[base]"
+msgid ""
+msgstr ""
+
+#: home
+msgctxt "home"
+msgid "\"\" "
+msgstr ""
+
+#: observer
+msgctxt "observer"
+msgid "\"\""
+msgstr ""
+
+#: simulator
+msgctxt "simulator"
+msgid "\"\""
+msgstr ""
+
+#: archive
+msgctxt "archive"
+msgid "\"\" "
+msgstr ""
+
+#: credits
+msgctxt "credits"
+msgid "\"\""
+msgstr ""
+
+#: radioTelescope
+msgctxt "radioTelescope"
+msgid "\"\""
+msgstr ""
+
+#: login
+msgctxt "login"
+msgid "\"\""
+msgstr ""
+
+#: password
+msgctxt "password"
+msgid "\"\""
+msgstr ""
+
+#: password_confirmation
+msgctxt "password_confirmation"
+msgid "\"\""
+msgstr ""
+
+#: first_name
+msgctxt "first_name"
+msgid "\"\""
+msgstr ""
+
+#: last_name
+msgctxt "last_name"
+msgid "\"\""
+msgstr ""
+
+#: email
+msgctxt "email"
+msgid "\"\""
+msgstr ""
+
+#: country
+msgctxt "country"
+msgid "\"\""
+msgstr ""
+
+#: language
+msgctxt "language"
+msgid "\"\""
+msgstr ""
+
+#: status
+msgctxt "status"
+msgid "\"\""
+msgstr ""
+
+#: motivation
+msgctxt "motivation"
+msgid "\"\""
+msgstr ""
+
+#: status_1
+msgctxt "status_1"
+msgid "\"\""
+msgstr ""
+
+#: status_2
+msgctxt "status_2"
+msgid "\"\""
+msgstr ""
+
+#: status_3
+msgctxt "status_3"
+msgid "\"\""
+msgstr ""
+
+#: status_4
+msgctxt "status_4"
+msgid "\"\""
+msgstr ""
+
+#: Paris
+msgctxt "Paris"
+msgid "\"\""
+msgstr ""
+
+#: Cracovie
+msgctxt "Cracovie"
+msgid "\"\""
+msgstr ""
+
+#: Craiova
+msgctxt "Craiova"
+msgid "\"\""
+msgstr ""
+
+#: Paris2
+msgctxt "Paris2"
+msgid "\"\""
+msgstr ""
+
+#: Madrid
+msgctxt "Madrid"
+msgid "\"\""
+msgstr ""
+
+#: to_login
+msgctxt "to_login"
+msgid "\"\""
+msgstr ""
+
+#: register
+msgctxt "register"
+msgid "\"\""
+msgstr ""
+
+#: booking
+msgctxt "booking"
+msgid "\"\" "
+msgstr ""
+
+#: myInformation
+msgctxt "myInformation"
+msgid "\"\""
+msgstr ""
+
+#: administration
+msgctxt "administration"
+msgid "\"\""
+msgstr ""
+
+#: account_requests
+msgctxt "account_requests"
+msgid "\"\""
+msgstr ""
+
+#: delete_time_slots
+msgctxt "delete_time_slots"
+msgid "\"\""
+msgstr ""
+
+#: account_list
+msgctxt "account_list"
+msgid "\"\""
+msgstr ""
+
+#: webcam
+msgctxt "webcam"
+msgid "\"\""
+msgstr ""
+
+#: logout
+msgctxt "logout"
+msgid "\"\""
+msgstr ""
+
+#: forgotten_password
+msgctxt "forgotten_password"
+msgid "\"\""
+msgstr ""
+
+#: date
+msgctxt "date"
+msgid "\"\""
+msgstr ""
+
+#: cancel_button
+msgctxt "cancel_button"
+msgid "\"\""
+msgstr ""
+
+#: enter_your_email
+msgctxt "enter_your_email"
+msgid "\"\""
+msgstr ""
+
+#: [info_errors]
+msgctxt "[info_errors]"
+msgid ""
+msgstr ""
+
+#: error_title
+msgctxt "error_title"
+msgid "\"\""
+msgstr ""
+
+#: empty_parameter_error
+msgctxt "empty_parameter_error"
+msgid "\"\""
+msgstr ""
+
+#: dont_exist
+msgctxt "dont_exist"
+msgid "\"\" "
+msgstr ""
+
+#: too_short_parameter_error
+msgctxt "too_short_parameter_error"
+msgid "\"\""
+msgstr ""
+
+#: login_cararcter_restraint_error
+msgctxt "login_cararcter_restraint_error"
+msgid "\"\""
+msgstr ""
+
+#: name_cararcter_restraint_error
+msgctxt "name_cararcter_restraint_error"
+msgid "\"\" "
+msgstr ""
+
+#: login_not_available_error
+msgctxt "login_not_available_error"
+msgid "\"\""
+msgstr ""
+
+#: incorrect_password_error
+msgctxt "incorrect_password_error"
+msgid "\"\" "
+msgstr ""
+
+#: mail_incorrect_shape_error
+msgctxt "mail_incorrect_shape_error"
+msgid "\"\""
+msgstr ""
+
+#: mail_not_available_error
+msgctxt "mail_not_available_error"
+msgid "\"\""
+msgstr ""
+
+#: date_in_the_past_error
+msgctxt "date_in_the_past_error"
+msgid "\"\""
+msgstr ""
+
+#: radiotelescope_not_available_error
+msgctxt "radiotelescope_not_available_error"
+msgid "\"\""
+msgstr ""
+
+#: is_not_a_date_error
+msgctxt "is_not_a_date_error"
+msgid "\"\""
+msgstr ""
+
+#: [index]
+msgctxt "[index]"
+msgid ""
+msgstr ""
+
+#: welcome
+msgctxt "welcome"
+msgid "\"\""
+msgstr ""
+
+#: welcome_txt
+msgctxt "welcome_txt"
+msgid "\"\""
+msgstr ""
+
+#: observer_txt
+msgctxt "observer_txt"
+msgid "\"\""
+msgstr ""
+
+#: simulator_txt
+msgctxt "simulator_txt"
+msgid "\"\""
+msgstr ""
+
+#: archive_txt
+msgctxt "archive_txt"
+msgid "\"\""
+msgstr ""
+
+#: msg_registred
+msgctxt "msg_registred"
+msgid "\"\""
+msgstr ""
+
+#: msg_dont_touch_parameters
+msgctxt "msg_dont_touch_parameters"
+msgid "\"\""
+msgstr ""
+
+#: msg_need_a_password
+msgctxt "msg_need_a_password"
+msgid "\"\""
+msgstr ""
+
+#: msg_need_a_login
+msgctxt "msg_need_a_login"
+msgid "\"\""
+msgstr ""
+
+#: msg_login_password_incorrect
+msgctxt "msg_login_password_incorrect"
+msgid "\"\""
+msgstr ""
+
+#: msg_not_valid_account
+msgctxt "msg_not_valid_account"
+msgid "\"\""
+msgstr ""
+
+#: msg_not_allowed
+msgctxt "msg_not_allowed"
+msgid "\"\""
+msgstr ""
+
+#: msg_not_reserved
+msgctxt "msg_not_reserved"
+msgid "\"\""
+msgstr ""
+
+#: msg_wait_for_validation
+msgctxt "msg_wait_for_validation"
+msgid "\"\""
+msgstr ""
+
+#: msg_already_valid
+msgctxt "msg_already_valid"
+msgid "\"\""
+msgstr ""
+
+#: msg_deleted_account
+msgctxt "msg_deleted_account"
+msgid "\"\""
+msgstr ""
+
+#: msg_validated_account
+msgctxt "msg_validated_account"
+msgid "\"\""
+msgstr ""
+
+#: msg_broken_link
+msgctxt "msg_broken_link"
+msgid "\"\""
+msgstr ""
+
+#: [login]
+msgctxt "[login]"
+msgid ""
+msgstr ""
+
+#: enter_login_password
+msgctxt "enter_login_password"
+msgid "\"\""
+msgstr ""
+
+#: [register]
+msgctxt "[register]"
+msgid ""
+msgstr ""
+
+#: register_title
+msgctxt "register_title"
+msgid "\"\""
+msgstr ""
+
+#: [booking]
+msgctxt "[booking]"
+msgid ""
+msgstr ""
+
+#: scheduler_title
+msgctxt "scheduler_title"
+msgid "\"\""
+msgstr ""
+
+#: date_of_reservation
+msgctxt "date_of_reservation"
+msgid "\"\""
+msgstr ""
+
+#: duration
+msgctxt "duration"
+msgid "\"\""
+msgstr ""
+
+#: reserve
+msgctxt "reserve"
+msgid "\"\""
+msgstr ""
+
+#: this_week
+msgctxt "this_week"
+msgid "\"\""
+msgstr ""
+
+#: date_UTC
+msgctxt "date_UTC"
+msgid "\"\""
+msgstr ""
+
+#: [userPage]
+msgctxt "[userPage]"
+msgid ""
+msgstr ""
+
+#: user_page_title
+msgctxt "user_page_title"
+msgid "\"\""
+msgstr ""
+
+#: my_slot
+msgctxt "my_slot"
+msgid "\"\""
+msgstr ""
+
+#: my_data
+msgctxt "my_data"
+msgid "\"\""
+msgstr ""
+
+#: no_futur_reservation_message
+msgctxt "no_futur_reservation_message"
+msgid "\"\""
+msgstr ""
+
+#: change_button
+msgctxt "change_button"
+msgid "\"\""
+msgstr ""
+
+#: valid_change_button
+msgctxt "valid_change_button"
+msgid "\"\""
+msgstr ""
+
+#: delete_account_button
+msgctxt "delete_account_button"
+msgid "\"\""
+msgstr ""
+
+#: delete_time_slote
+msgctxt "delete_time_slote"
+msgid "\"\""
+msgstr ""
+
+#: [credits]
+msgctxt "[credits]"
+msgid ""
+msgstr ""
+
+#: credits_title
+msgctxt "credits_title"
+msgid "\"\""
+msgstr ""
+
+#: credits_disclaimer[]
+msgctxt "credits_disclaimer[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_disclaimer[]
+msgctxt "credits_disclaimer[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_disclaimer[]
+msgctxt "credits_disclaimer[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_contact
+msgctxt "credits_contact"
+msgid "\"\""
+msgstr ""
+
+#: credits_copyright
+msgctxt "credits_copyright"
+msgid "\"\""
+msgstr ""
+
+#: [mail]
+msgctxt "[mail]"
+msgid ""
+msgstr ""
+
+#: hello_user[]
+msgctxt "hello_user[]"
+msgid "\"\""
+msgstr ""
+
+#: hello_user[]
+msgctxt "hello_user[]"
+msgid "\"\""
+msgstr ""
+
+#: thank_user[]
+msgctxt "thank_user[]"
+msgid "\"\""
+msgstr ""
+
+#: thank_user[]
+msgctxt "thank_user[]"
+msgid "\"\""
+msgstr ""
+
+#: thank_user[]
+msgctxt "thank_user[]"
+msgid "\"\""
+msgstr ""
+
+#: email_validation_subject
+msgctxt "email_validation_subject"
+msgid "\"\""
+msgstr ""
+
+#: email_validation_mail[]
+msgctxt "email_validation_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: email_validation_mail[]
+msgctxt "email_validation_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: email_validation_mail[]
+msgctxt "email_validation_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: time_confirmation_subject
+msgctxt "time_confirmation_subject"
+msgid "\"\""
+msgstr ""
+
+#: time_confirmation_mail[]
+msgctxt "time_confirmation_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: time_confirmation_mail[]
+msgctxt "time_confirmation_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_subject
+msgctxt "password_recovery_subject"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgctxt "password_recovery_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgctxt "password_recovery_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgctxt "password_recovery_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgctxt "password_recovery_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgctxt "password_recovery_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: user_registration_admin_notification_subject
+msgctxt "user_registration_admin_notification_subject"
+msgid "\"\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgctxt "user_registration_admin_notification_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgctxt "user_registration_admin_notification_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgctxt "user_registration_admin_notification_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgctxt "user_registration_admin_notification_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: account_validated_subject
+msgctxt "account_validated_subject"
+msgid "\"\""
+msgstr ""
+
+#: account_validated_mail[]
+msgctxt "account_validated_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: account_validated_mail[]
+msgctxt "account_validated_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: delete_reservation_subject
+msgctxt "delete_reservation_subject"
+msgid "\"\""
+msgstr ""
+
+#: delete_reservation_notification
+msgctxt "delete_reservation_notification"
+msgid "\"\""
+msgstr ""
+
+#: delete_reservations_notification
+msgctxt "delete_reservations_notification"
+msgid "\"\""
+msgstr ""
+
+#: delete_reservations_list
+msgctxt "delete_reservations_list"
+msgid "\"\""
+msgstr ""
+
+#: delete_reservations_deleted
+msgctxt "delete_reservations_deleted"
+msgid "\"\""
+msgstr ""
+
+#: delete_reservations_contact
+msgctxt "delete_reservations_contact"
+msgid "\"\""
+msgstr ""
+
+#: [archives]
+msgctxt "[archives]"
+msgid ""
+msgstr ""
+
+#: archives_title
+msgctxt "archives_title"
+msgid "\"\""
+msgstr ""
+
+#: id
+msgctxt "id"
+msgid "\"\""
+msgstr ""
+
+#: user
+msgctxt "user"
+msgid "\"\""
+msgstr ""
+
+#: all
+msgctxt "all"
+msgid "\"\""
+msgstr ""
+
+#: num
+msgctxt "num"
+msgid "\"\""
+msgstr ""
+
+#: download_selected_fits
+msgctxt "download_selected_fits"
+msgid "\"\""
+msgstr ""
+
+#: download_selected_CSV
+msgctxt "download_selected_CSV"
+msgid "\"\""
+msgstr ""
+
+#: [simulator]
+msgctxt "[simulator]"
+msgid ""
+msgstr ""
+
+#: simulator_title
+msgctxt "simulator_title"
+msgid "\"\""
+msgstr ""
+
+#: [observator]
+msgctxt "[observator]"
+msgid ""
+msgstr ""
+
+#: command
+msgctxt "command"
+msgid "\"\""
+msgstr ""
+
+#: results
+msgctxt "results"
+msgid "\"\""
+msgstr ""
+
+#: freq
+msgctxt "freq"
+msgid "\"\""
+msgstr ""
+
+#: time
+msgctxt "time"
+msgid "\"\""
+msgstr ""
+
+#: observe
+msgctxt "observe"
+msgid "\"\""
+msgstr ""
+
+#: end_of_session
+msgctxt "end_of_session"
+msgid "\"\""
+msgstr ""
+
+#: base
+msgctxt "base"
+msgid "\"\""
+msgstr ""
+
+#: [application]
+msgctxt "[application]"
+msgid ""
+msgstr ""
+
+#: galaxie_plan_radio
+msgctxt "galaxie_plan_radio"
+msgid "\"\""
+msgstr ""
+
+#: galaxie_plan_optic
+msgctxt "galaxie_plan_optic"
+msgid "\"\""
+msgstr ""
+
+#: galaxie_plan_infrarouge
+msgctxt "galaxie_plan_infrarouge"
+msgid "\"\""
+msgstr ""
+
+#: visibility
+msgctxt "visibility"
+msgid "\"\""
+msgstr ""
+
+#: spectrum_legend
+msgctxt "spectrum_legend"
+msgid "\"\""
+msgstr ""
+
+#: spectrum_send_max
+msgctxt "spectrum_send_max"
+msgid "\"\""
+msgstr ""
+
+#: spectrum_clean
+msgctxt "spectrum_clean"
+msgid "\"\""
+msgstr ""
+
+#: control_longitude
+msgctxt "control_longitude"
+msgid "\"\""
+msgstr ""
+
+#: control_latitude
+msgctxt "control_latitude"
+msgid "\"\""
+msgstr ""
+
+#: simulate
+msgctxt "simulate"
+msgid "\"\""
+msgstr ""
+
+#: rotation_curve
+msgctxt "rotation_curve"
+msgid "\"\""
+msgstr ""
+
+#: galaxie_map
+msgctxt "galaxie_map"
+msgid "\"\""
+msgstr ""
+
+#: clean_all
+msgctxt "clean_all"
+msgid "\"\""
+msgstr ""
+
+#: clean_last
+msgctxt "clean_last"
+msgid "\"\""
+msgstr ""
+
+#: rotation_curve_title
+msgctxt "rotation_curve_title"
+msgid "\"\""
+msgstr ""
+
+#: galaxie_map_title
+msgctxt "galaxie_map_title"
+msgid "\"\""
+msgstr ""

@@ -1,0 +1,24 @@
+# Reconstruction of the pootle data 
+
+# Files from different projects 
+
+In Archives (intermediate files from alm account, used to proceed to
+conversion): 
+# For SalsaJ: the files used by Olivier Marco to convert
+# .po to .properties and .properties to .po files are in
+# Archives/salsaj/OLI_convertisseurs
+
+#In po, the po files for different projets.
+#In po/POOTLE_EXPORT: files are stored in format xlf?? for each language
+#In SalsaJ, the different .po files for different languages are provided. 
+#In SalsaJ/Pootle/po/SalsaJ/ALM_macros, the different shell scripts
+#used by ALM to perform the .po to .properties conversions. The
+#original files are the .pot templates. (neglected in the database)
+
+# Databases:
+# pootle.db was the whole pootle database (on the old pootle server,
+# when stopped)
+# stat.db was the correspond statistics of the access to the database
+
+--> We should start from the last .po and .pot files as some bugs (bad
+    spaces, etc.) were corrected.

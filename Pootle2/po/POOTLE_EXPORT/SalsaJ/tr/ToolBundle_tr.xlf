@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="ToolBundle_tr.po" source-language="en-US" datatype="plaintext" target-language="tr">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="New Image">
+        <source>New Image</source>
+        <target state="translated">Yeni Görüntü</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Image File">
+        <source>Open Image File</source>
+        <target state="translated">Görüntü Dosyası Aç</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save Image">
+        <source>Save Image</source>
+        <target state="translated">Görüntü Kaydet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save Image (new name, FITS format)">
+        <source>Save Image (new name, FITS format)</source>
+        <target state="translated">Görüntü Kaydet (yeni ad, FITS formatı)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Print Image">
+        <source>Print Image</source>
+        <target state="translated">Görüntü Yazdır</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear Selection">
+        <source>Clear Selection</source>
+        <target state="translated">Seçimi Temizle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Undo Last Operation">
+        <source>Undo Last Operation</source>
+        <target state="translated">Son İşlemi GeriAl</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zoom In">
+        <source>Zoom In</source>
+        <target state="translated">Yakınlaştır</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zoom Out">
+        <source>Zoom Out</source>
+        <target state="translated">Uzaklaştır</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Aperture Photometry">
+        <source>Aperture Photometry</source>
+        <target state="translated">Fotometre Açıklığı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Photometry Settings">
+        <source>Photometry Settings</source>
+        <target state="translated">Fotometre Ayarları</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear Photometry Results">
+        <source>Clear Photometry Results</source>
+        <target state="translated">Fotometre Sonuçlarını Temizle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Online Documentation">
+        <source>Online Documentation</source>
+        <target state="translated">Çevirimiçi Belgeler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rectangular selection">
+        <source>Rectangular selection</source>
+        <target state="translated">Dikdörtgen seçim</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Oval selection">
+        <source>Oval selection</source>
+        <target state="translated">Oval seçim</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Polygon selection">
+        <source>Polygon selection</source>
+        <target state="translated">Poligon seçim</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Freehand selection">
+        <source>Freehand selection</source>
+        <target state="translated">Serbest seçim</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Straight line selection">
+        <source>Straight line selection</source>
+        <target state="translated">Düz çizgi seçimi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Segmented line selection">
+        <source>Segmented line selection</source>
+        <target state="translated">Parçalara ayrılmış çizgi seçimi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Freehand line selection">
+        <source>Freehand line selection</source>
+        <target state="translated">Serbest çizgi seçimi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Profile selection">
+        <source>Profile selection</source>
+        <target state="translated">Profile line selection</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pixel selection tool">
+        <source>Pixel selection tool</source>
+        <target state="translated">Piksel seçim aracı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Isovaluated selection tool">
+        <source>Isovaluated selection tool</source>
+        <target state="translated">İzodegerli seçim aracı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Text tool ">
+        <source>Text tool </source>
+        <target state="translated">Metin aracı </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Magnifying glass">
+        <source>Magnifying glass</source>
+        <target state="translated">Büyüteç</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scrolling tool">
+        <source>Scrolling tool</source>
+        <target state="translated">Kaydırma aracı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Color picker...[K]">
+        <source>Color picker...[K]</source>
+        <target state="translated">Renk toplayıcı...[K]</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Angle tool">
+        <source>Angle tool</source>
+        <target state="translated">Açı aracı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brightness &amp; Contrast">
+        <source>Brightness &amp; Contrast</source>
+        <target state="translated">Parlaklık &amp; Kontrast</target>
+        <note from="developer">#BrightnessContrastHint</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

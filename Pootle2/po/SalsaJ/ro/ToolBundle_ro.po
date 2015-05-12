@@ -1,0 +1,133 @@
+#. extracted from ../templates/ToolBundle.properties, ../resu/ToolBundle_ro.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: 2010-11-19 07:44+0200\n"
+"Last-Translator: euhouro <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: NewHint
+msgid "New Image"
+msgstr "Imagine noua"
+
+#: OpenHint
+msgid "Open Image File"
+msgstr "Deschide fisierul imagine"
+
+#: SaveHint
+msgid "Save Image"
+msgstr "Salveaza imaginea"
+
+#: SaveAsHint
+msgid "Save Image (new name, FITS format)"
+msgstr "Salveaza Imaginea (nume nou, format FITS)"
+
+#: PrintHint
+msgid "Print Image"
+msgstr "Listeaza Imaginea"
+
+#: ClearHint
+msgid "Clear Selection"
+msgstr "Anuleaza selectia"
+
+#: UndoHint
+msgid "Undo Last Operation"
+msgstr "Anuleaza ultima operatie"
+
+#: Mag+Hint
+msgid "Zoom In"
+msgstr "Mareste"
+
+#: Mag-Hint
+msgid "Zoom Out"
+msgstr "Micsoreaza"
+
+#: PhotometryHint
+msgid "Aperture Photometry"
+msgstr "Fotometrie de apertura"
+
+#: PhotometryAdjustHint
+msgid "Photometry Settings"
+msgstr "Setari fotometrie"
+
+#: ClearPhotometryHint
+msgid "Clear Photometry Results"
+msgstr "Sterge rezultatele fotometriei"
+
+#: InfoHint
+msgid "Online Documentation"
+msgstr "Documentatie online"
+
+#: RectSel
+msgid "Rectangular selection"
+msgstr "Selectie dreptunghiulara"
+
+#: OvalSel
+msgid "Oval selection"
+msgstr "Selectie ovala"
+
+#: PolySel
+msgid "Polygon selection"
+msgstr "Selectie poligon"
+
+#: FreeSel
+msgid "Freehand selection"
+msgstr "Selectie libera"
+
+#: StraightSel
+msgid "Straight line selection"
+msgstr "Selectie linie dreapta"
+
+#: SegSel
+msgid "Segmented line selection"
+msgstr "Selectie linie segmentata"
+
+#: FreeLineSel
+msgid "Freehand line selection"
+msgstr "Selectie libera"
+
+#: ProfileLineSel
+msgid "Profile selection"
+msgstr "Selectie linie profil"
+
+#: CrosshairTool
+msgid "Pixel selection tool"
+msgstr "Instrument selectie pixel"
+
+#: WandTool
+msgid "Isovaluated selection tool"
+msgstr "Instrument selectie evaluare"
+
+#: TextTool
+msgid "Text tool "
+msgstr "Instrument text"
+
+#: MagTool
+msgid "Magnifying glass"
+msgstr "Geam de marire"
+
+#: ScrollTool
+msgid "Scrolling tool"
+msgstr "Instrument de scroll"
+
+#: ColorTool
+msgid "Color picker...[K]"
+msgstr "Culegator culoare...[K]"
+
+#: AngleTool
+msgid "Angle tool"
+msgstr "Instrument unghiular"
+
+#. #BrightnessContrastHint
+#: BrightnessContrastHint
+msgid "Brightness & Contrast"
+msgstr "Stralucire si contrast"

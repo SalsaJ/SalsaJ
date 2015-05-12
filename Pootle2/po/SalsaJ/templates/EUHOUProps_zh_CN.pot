@@ -1,0 +1,753 @@
+#. # IJ_Props.txt - This is the ImageJ properties file. ImageJ uses# the information in this file to install plug-ins in menus.# ImageJ looks for this file in ij.jar. It can be edited by# opening ij.jar with a ZIP utility. With WinZip, you can open# ij.jar and double click on IJ_Props.txt.
+#. extracted from ../templates/EUHOUProps.properties, ../resu/EUHOUProps_zh_CN.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#. # Note that commands must be unique.# Version 1.38
+#. # Popup Menu
+#: popup01
+msgid "Undo"
+msgstr "撤销"
+
+#: popup02
+msgctxt "popup02"
+msgid "-"
+msgstr "-"
+
+#: popup03
+msgid "Cut"
+msgstr "剪切"
+
+#: popup04
+msgid "Copy"
+msgstr "复制"
+
+#: popup05
+msgid "Paste"
+msgstr "粘贴"
+
+#: popup06
+msgctxt "popup06"
+msgid "-"
+msgstr "-"
+
+#: popup07
+msgid "Clear"
+msgstr "清除"
+
+#: popup08
+msgid "Fill"
+msgstr "填充"
+
+#: popup09
+msgid "Draw"
+msgstr "绘制"
+
+#: popup10
+msgctxt "popup10"
+msgid "-"
+msgstr "-"
+
+#: popup11
+msgid "Rename..."
+msgstr "更名"
+
+#: popup12
+msgid "Duplicate..."
+msgstr "复制"
+
+#. # Plugins installed in the File/New submenu
+#: new01
+msgid "\"Image...\",ij.plugin.Commands(\"new\")"
+msgstr "\"图像...\",ij.plugin.Commands(\"new\")"
+
+#: new02
+msgid "\"Internal Clipboard\",ij.plugin.Clipboard(\"show\")"
+msgstr "\"内部剪贴板\",ij.plugin.Clipboard(\"show\")"
+
+#: new03
+msgid "\"System Clipboard\",ij.plugin.Clipboard(\"showsys\")"
+msgstr "\"系统剪贴板\",ij.plugin.Clipboard(\"showsys\")"
+
+#. # Plugins installed in the File/Import submenu
+#: import01
+msgid "\"Image Sequence...\",ij.plugin.FolderOpener"
+msgstr "\"原始图像...\",ij.plugin.Raw"
+
+#: import02
+msgid "\"Raw...\",ij.plugin.Raw"
+msgstr "\"图像顺序...\",ij.plugin.FolderOpener"
+
+#: import03
+msgid "\"LUT... \",ij.plugin.LutLoader"
+msgstr "\"LUT...\",ij.plugin.LutLoader"
+
+#: import04
+msgid "\"Text Image... \",ij.plugin.TextReader"
+msgstr "\"文字图像... \",ij.plugin.TextReader"
+
+#: import05
+msgid "\"Text File... \",ij.plugin.TextFileReader"
+msgstr "\"文本文件...\",ij.plugin.TextFileReader"
+
+#: import06
+msgid "\"Results...\",ij.plugin.SimpleCommands(\"import\")"
+msgstr "\"结果...\",ij.plugin.URLOpener"
+
+#: import07
+msgid "\"URL...\",ij.plugin.URLOpener"
+msgstr "\"电影...\",ij.plugin.JMF_Movie_Reader"
+
+#. # Plugins installed in the File/Save As submenu
+#: saveas01
+msgid "\"FITS...\",ij.plugin.filter.Writer(\"fits\")"
+msgstr "\"拟合...\",ij.plugin.filter.Writer(\"fits\")"
+
+#: saveas02
+msgid "\"Tiff...\",ij.plugin.filter.Writer(\"tiff\")"
+msgstr "\"Tiff...\",ij.plugin.filter.Writer(\"tiff\")"
+
+#: saveas03
+msgid "\"Jpeg...\",ij.plugin.filter.Writer(\"jpeg\")"
+msgstr "\"JPEG...\",ij.plugin.filter.Writer(\"gif\")"
+
+#: saveas04
+msgid "\"Gif...\",ij.plugin.filter.Writer(\"gif\")"
+msgstr "\"GIF...\",ij.plugin.filter.Writer(\"jpeg\")"
+
+#: saveas05
+msgid "\"BMP...\",ij.plugin.filter.Writer(\"bmp\")"
+msgstr "\"BMP...\",ij.plugin.filter.Writer(\"text\")"
+
+#: saveas06
+msgid "\"PNG...\",ij.plugin.filter.Writer(\"png\")"
+msgstr "\"PNG...\",ij.plugin.filter.Writer(\"zip\")"
+
+#: saveas07
+msgid "\"ZIP...\",ij.plugin.filter.Writer(\"zip\")"
+msgstr "\"ZIP...\",ij.plugin.filter.Writer(\"raw\")"
+
+#: saveas08
+msgctxt "saveas08"
+msgid "-"
+msgstr "-"
+
+#: saveas09
+msgid "\"Image Sequence... \",ij.plugin.StackWriter"
+msgstr "\"图像序列...\",ij.plugin.filter.AVIWriter"
+
+#: saveas10
+msgid "\"AVI... \",ij.plugin.filter.AVIWriter"
+msgstr "\"AVI...\",ij.plugin.filter.Writer(\"bmp\")"
+
+#. # Plugins installed in the Edit/Selection submenu
+#: selection01
+msgid "\"Select All[a]\",ij.plugin.Selection(\"all\")"
+msgstr "\"选择所有 [a]\",ij.plugin.Selection(\"all\")"
+
+#: selection02
+msgid "\"Select None[A]\",ij.plugin.Selection(\"none\")"
+msgstr "\"一个不选 [A]\",ij.plugin.Selection(\"none\")"
+
+#: selection03
+msgid "\"Restore Selection[E]\",ij.plugin.Selection(\"restore\")"
+msgstr "\"存储选择 [E]\",ij.plugin.Selection(\"restore\")"
+
+#: selection04
+msgid "\"Fit Spline\",ij.plugin.Selection(\"spline\")"
+msgstr "\"样条拟合（Fit Spline）\",ij.plugin.Selection(\"spline\")"
+
+#: selection05
+msgid "\"Fit Ellipse\",ij.plugin.Selection(\"ellipse\")"
+msgstr "\"椭圆拟合\",ij.plugin.Selection(\"ellipse\")"
+
+#: selection06
+msgid "\"Convex Hull\",ij.plugin.Selection(\"hull\")"
+msgstr "\"Convex Hull\",ij.plugin.Selection(\"hull\")"
+
+#: selection07
+msgid "\"Make Inverse\",ij.plugin.Selection(\"inverse\")"
+msgstr "\"反向\",ij.plugin.Selection(\"inverse\")"
+
+#: selection08
+msgid "\"Create Mask\",ij.plugin.Selection(\"mask\")"
+msgstr "\"标记\",ij.plugin.Selection(\"mask\")"
+
+#: selection09
+msgid "\"Create Selection\",ij.plugin.Selection(\"from\")"
+msgstr "\"创建选项\",ij.plugin.Selection(\"from\")"
+
+#: selection10
+msgctxt "selection10"
+msgid "-"
+msgstr "-"
+
+#: selection11
+msgid "\"Rotate...\",ij.plugin.Selection(\"rotate\")"
+msgstr "\"旋转...\",ij.plugin.Selection(\"rotate\")"
+
+#: selection12
+msgid "\"Enlarge...\",ij.plugin.Selection(\"enlarge\")"
+msgstr "\"扩大...\",ij.plugin.Selection(\"enlarge\")"
+
+#: selection13
+msgid "\"Make Band...\",ij.plugin.Selection(\"band\")"
+msgstr "\"频段...\",ij.plugin.Selection(\"band\")"
+
+#: selection14
+msgid "\"Specify...\",ij.plugin.SpecifyROI"
+msgstr "\"指定...\",ij.plugin.SpecifyROI"
+
+#: selection15
+msgid "\"Add to Manager [t]\",ij.plugin.Selection(\"add\")"
+msgstr "\"添加管理 [t]\",ij.plugin.Selection(\"add\")"
+
+#. # Plugins installed in the Edit/Options submenu
+#: options01
+msgid "\"Line Width...\",ij.plugin.Options(\"line\")"
+msgstr "\"线宽...\",ij.plugin.Options(\"width\")"
+
+#: options02
+msgid "\"Input/Output...\",ij.plugin.Options(\"io\")"
+msgstr "\"输入/输出...\",ij.plugin.Options(\"quality\")"
+
+#: options03
+msgid "\"Fonts...\",ij.plugin.frame.Fonts"
+msgstr "\"字体...\",ij.plugin.frame.Fonts"
+
+#: options04
+msgid "\"Profile Plot Options...\",ij.plugin.filter.Profiler(\"set\")"
+msgstr "\"剖面画图选项...\",ij.plugin.filter.Profiler(\"set\")"
+
+#: options05
+msgid "\"Point Tool...\",ij.plugin.Colors(\"point\")"
+msgstr "\"点工具...\",ij.plugin.frame.ColorSelector(\"fore\")"
+
+#: options06
+msgid "\"Colors...\",ij.plugin.Colors"
+msgstr "\"颜色...\",ij.plugin.frame.ColorSelector(\"back\")"
+
+#: options07
+msgid "\"Appearance...\",ij.plugin.Options(\"display\")"
+msgstr "\"外观...\",ij.plugin.frame.ColorSelector(\"roi\")"
+
+#: options08
+msgid "\"Conversions...\",ij.plugin.Options(\"conv\")"
+msgstr "\"转换...\",ij.plugin.Options(\"cross\")"
+
+#: options09
+msgid "\"Memory & Threads...\",ij.plugin.Memory"
+msgstr "\"内存和线程 ...\",ij.plugin.Options(\"misc\")"
+
+#: options10
+msgid "\"Misc...\",ij.plugin.Options(\"misc\")"
+msgstr "\"杂项...\",ij.plugin.Options(\"misc\")"
+
+#. # Plugins installed in the Image/Adjust submenu
+#: adjust01
+msgid "\"Brightness/Contrast...\",ij.plugin.frame.ContrastAdjuster"
+msgstr "\"亮度/对比度... [C]\",ij.plugin.frame.ContrastAdjuster"
+
+#: adjust02
+msgid "\"Color Balance...\",ij.plugin.frame.ContrastAdjuster(\"balance\")"
+msgstr "\"窗口/水平线...\",ij.plugin.frame.ContrastAdjuster(\"wl\")"
+
+#: adjust03
+msgid "\"Size...\",ij.plugin.filter.Resizer"
+msgstr "\"颜色平衡...\",ij.plugin.frame.ContrastAdjuster(\"balance\")"
+
+#: adjust04
+msgid "\"Canvas Size...\",ij.plugin.CanvasResizer"
+msgstr "\"开始... [T]\",ij.plugin.frame.ThresholdAdjuster"
+
+#. # Plugins installed in the Image/Color submenu
+#: color01
+msgid "\"Convert Stack to RGB\",ij.plugin.RGBStackConverter"
+msgstr "\"堆栈转换RGB\",ij.plugin.RGBStackConverter"
+
+#: color02
+msgid "\"RGB Split\",ij.plugin.filter.RGBStackSplitter"
+msgstr "\"RGB分离\",ij.plugin.filter.RGBStackSplitter"
+
+#: color03
+msgid "\"RGB Merge...\",ij.plugin.RGBStackMerge"
+msgstr "\"RGB合并...\",ij.plugin.RGBStackMerge"
+
+#: color04
+msgid "\"Color Picker\",ij.plugin.ColorPicker"
+msgstr "\"颜色择选\",ij.plugin.ColorPicker"
+
+#. # Plugins installed in the Image/Stacks submenu
+#: stacks01
+msgid "\"Add Slice\",ij.plugin.StackEditor(\"add\")"
+msgstr "\"增加切片\",ij.plugin.StackEditor(\"add\")"
+
+#: stacks02
+msgid "\"Delete Slice\",ij.plugin.StackEditor(\"delete\")"
+msgstr "\"删除切片\",ij.plugin.StackEditor(\"delete\")"
+
+#: stacks03
+msgid "\"Next Slice\",ij.plugin.Animator(\"next\")"
+msgstr "\"后一个切片 [>]\",ij.plugin.Animator(\"next\")"
+
+#: stacks04
+msgid "\"Previous Slice\",ij.plugin.Animator(\"previous\")"
+msgstr "\"前一个切片 [<]\",ij.plugin.Animator(\"previous\")"
+
+#: stacks05
+msgid "\"Set Slice...\",ij.plugin.Animator(\"set\")"
+msgstr "\"设置切片...\",ij.plugin.Animator(\"set\")"
+
+#: stacks06
+msgid "\"Make Montage...\",ij.plugin.MontageMaker"
+msgstr "\"蒙太奇...\",ij.plugin.MontageMaker"
+
+#: stacks07
+msgctxt "stacks07"
+msgid "-"
+msgstr "-"
+
+#: stacks08
+msgid "\"Images to Stack\",ij.plugin.StackEditor(\"tostack\")"
+msgstr "\"Images to Stack\",ij.plugin.StackEditor(\"tostack\")"
+
+#: stacks09
+msgid "\"Stack to Images\",ij.plugin.StackEditor(\"toimages\")"
+msgstr "\"Stack to Images\",ij.plugin.StackEditor(\"toimages\")"
+
+#: stacks10
+msgctxt "stacks10"
+msgid "-"
+msgstr "-"
+
+#: stacks11
+msgid "\"Start Animation\",ij.plugin.Animator(\"start\")"
+msgstr "\"开始动画\",ij.plugin.Animator(\"start\")"
+
+#: stacks12
+msgid "\"Stop Animation\",ij.plugin.Animator(\"stop\")"
+msgstr "\"结束动画\",ij.plugin.filter.Projector"
+
+#: stacks13
+msgid "\"Animation Options...\",ij.plugin.Animator(\"options\")"
+msgstr "\"动画选项...\",ij.plugin.Animator(\"options\")"
+
+#. # Plugins installed in the Image/Rotate submenu
+#: rotate01
+msgid "\"Flip Horizontally\",ij.plugin.filter.Transformer(\"fliph\")"
+msgstr "\"水平反转\",ij.plugin.filter.Transformer(\"fliph\")"
+
+#: rotate02
+msgid "\"Flip Vertically\",ij.plugin.filter.Transformer(\"flipv\")"
+msgstr "\"垂直反转\",ij.plugin.filter.Transformer(\"flipv\")"
+
+#: rotate03
+msgid "\"Rotate 90 Degrees Right\",ij.plugin.filter.Transformer(\"right\")"
+msgstr "\"右转90度\",ij.plugin.filter.Transformer(\"right\")"
+
+#: rotate04
+msgid "\"Rotate 90 Degrees Left\",ij.plugin.filter.Transformer(\"left\")"
+msgstr "\"左转90度\",ij.plugin.filter.Transformer(\"left\")"
+
+#: rotate05
+msgid "\"Arbitrarily...\",ij.plugin.filter.Rotator"
+msgstr "\"翻转任意角度...\",ij.plugin.filter.Rotator"
+
+#. # Plugins installed in the Image/Zoom submenu
+#: zoom01
+msgid "\"In[+]\",ij.plugin.Zoom(\"in\")"
+msgstr "\"放大[+]\",ij.plugin.Zoom(\"in\")"
+
+#: zoom02
+msgid "\"Out[-]\",ij.plugin.Zoom(\"out\")"
+msgstr "\"缩小[-]\",ij.plugin.Zoom(\"out\")"
+
+#: zoom03
+msgid "\"View 100%\",ij.plugin.Zoom(\"100%\")"
+msgstr "\"视图 100%\",ij.plugin.Zoom(\"100%\")"
+
+#: zoom04
+msgid "\"Original Scale\",ij.plugin.Zoom(\"orig\")"
+msgstr "\"原始尺寸\",ij.plugin.Zoom(\"orig\")"
+
+#: zoom05
+msgid "\"To Selection\",ij.plugin.Zoom(\"to\")"
+msgstr "\"选中所选对象\",ij.plugin.Zoom(\"to\")"
+
+#. # Plugins installed in the Image/Lookup Tables submenu
+#: lookup01
+msgid "\"Grays\",ij.plugin.LutLoader(\"grays\")"
+msgstr "\"灰色\",ij.plugin.LutLoader(\"greys\")"
+
+#: lookup02
+msgid "\"Grays invert\",ij.plugin.LutLoader(\"igrays\")"
+msgstr "\"IGrey\",ij.plugin.LutLoader(\"igreys\")"
+
+#: lookup03
+msgctxt "lookup03"
+msgid "-"
+msgstr "-"
+
+#: lookup04
+msgid "\"Red\",ij.plugin.LutLoader(\"red\")"
+msgstr "\"红色\",ij.plugin.LutLoader(\"red\")"
+
+#: lookup05
+msgid "\"Green\",ij.plugin.LutLoader(\"green\")"
+msgstr "\"绿色\",ij.plugin.LutLoader(\"green\")"
+
+#: lookup06
+msgid "\"Blue\",ij.plugin.LutLoader(\"blue\")"
+msgstr "\"蓝色\",ij.plugin.LutLoader(\"blue\")"
+
+#: lookup07
+msgid "\"Cyan\",ij.plugin.LutLoader(\"cyan\")"
+msgstr "\"青色\",ij.plugin.LutLoader(\"cyan\")"
+
+#: lookup08
+msgid "\"Magenta\",ij.plugin.LutLoader(\"magenta\")"
+msgstr "\"洋红色\",ij.plugin.LutLoader(\"magenta\")"
+
+#: lookup09
+msgid "\"Yellow\",ij.plugin.LutLoader(\"yellow\")"
+msgstr "\"黄色\",ij.plugin.LutLoader(\"yellow\")"
+
+#: lookup10
+msgctxt "lookup10"
+msgid "-"
+msgstr "-"
+
+#: lookup11
+msgid "\"Red/Green\",ij.plugin.LutLoader(\"redgreen\")"
+msgstr "\"红色/绿色\",ij.plugin.LutLoader(\"redgreen\")"
+
+#: lookup12
+msgid "\"Fire\",ij.plugin.LutLoader(\"fire\")"
+msgstr "\"火\",ij.plugin.LutLoader(\"fire\")"
+
+#: lookup13
+msgid "\"Ice\",ij.plugin.LutLoader(\"ice\")"
+msgstr "\"Ice\",ij.plugin.LutLoader(\"ice\")"
+
+#: lookup14
+msgid "\"Spectrum\",ij.plugin.LutLoader(\"spectrum\")"
+msgstr "\"光谱\",ij.plugin.LutLoader(\"spectrum\")"
+
+#: lookup15
+msgid "\"3-3-2 RGB\",ij.plugin.LutLoader(\"3-3-2 RGB\")"
+msgstr "\"3-3-2 RGB\",ij.plugin.LutLoader(\"3-3-2 RGB\")"
+
+#: lookup16
+msgctxt "lookup16"
+msgid "-"
+msgstr "-"
+
+#: lookup17
+msgid "\"Invert LUT\",ij.plugin.filter.LutApplier"
+msgstr "\"反转 LUT\",ij.plugin.filter.LutApplier"
+
+#: lookup18
+msgid "\"Apply LUT\",ij.plugin.filter.LutApplier"
+msgstr "\"采用 LUT\",ij.plugin.filter.LutApplier"
+
+#: lookup19
+msgctxt "lookup19"
+msgid "-"
+msgstr "-"
+
+#: lookup20
+msgid "\"Show LUT\",ij.plugin.filter.LutViewer"
+msgstr "\"显示 LUT\",ij.plugin.filter.LutViewer"
+
+#: lookup21
+msgid "\"Edit LUT...\",ij.plugin.LUT_Editor"
+msgstr "\"编辑 LUT...\",ij.plugin.LUT_Editor"
+
+#. # Plug-ins installed in the Process/Noise submenu
+#: noise01
+msgid "\"Add Noise\",ij.plugin.filter.Filters(\"add\")"
+msgstr "\"增加噪声\",ij.plugin.filter.Filters(\"add\")"
+
+#: noise02
+msgid "\"Add Specified Noise...\",ij.plugin.filter.Filters(\"noise\")"
+msgstr "\"增加指定噪声...\",ij.plugin.filter.Filters(\"noise\")"
+
+#: noise03
+msgid "\"Salt and Pepper\",ij.plugin.filter.SaltAndPepper"
+msgstr "\"食盐和胡椒粉（Salt and Pepper）\",ij.plugin.filter.SaltAndPepper"
+
+#: noise04
+msgctxt "noise04"
+msgid "-"
+msgstr "-"
+
+#: noise05
+msgid "\"Despeckle\",ij.plugin.filter.RankFilters(\"despeckle\")"
+msgstr "\"去斑\",ij.plugin.filter.RankFilters(\"despeckle\")"
+
+#: noise06
+msgid "\"Remove Outliers...\",ij.plugin.filter.RankFilters(\"outliers\")"
+msgstr "\"去除异常值...\",ij.plugin.filter.RankFilters(\"outliers\")"
+
+#. # Plugins installed in the Process/Shadows submenu
+#: shadows01
+msgid "\"North\",ij.plugin.filter.Shadows(\"north\")"
+msgstr "\"北\",ij.plugin.filter.Shadows(\"north\")"
+
+#: shadows02
+msgid "\"Northeast\",ij.plugin.filter.Shadows(\"northeast\")"
+msgstr "\"东北\",ij.plugin.filter.Shadows(\"northeast\")"
+
+#: shadows03
+msgid "\"East\",ij.plugin.filter.Shadows(\"east\")"
+msgstr "\"东\",ij.plugin.filter.Shadows(\"east\")"
+
+#: shadows04
+msgid "\"Southeast\",ij.plugin.filter.Shadows(\"southeast\")"
+msgstr "\"东南\",ij.plugin.filter.Shadows(\"southeast\")"
+
+#: shadows05
+msgid "\"South\",ij.plugin.filter.Shadows(\"south\")"
+msgstr "\"南\",ij.plugin.filter.Shadows(\"south\")"
+
+#: shadows06
+msgid "\"Southwest\",ij.plugin.filter.Shadows(\"southwest\")"
+msgstr "\"西南\",ij.plugin.filter.Shadows(\"southwest\")"
+
+#: shadows07
+msgid "\"West\",ij.plugin.filter.Shadows(\"west\")"
+msgstr "\"西\",ij.plugin.filter.Shadows(\"west\")"
+
+#: shadows08
+msgid "\"Northwest\",ij.plugin.filter.Shadows(\"northwest\")"
+msgstr "\"西北\",ij.plugin.filter.Shadows(\"northwest\")"
+
+#: shadows09
+msgctxt "shadows09"
+msgid "-"
+msgstr "-"
+
+#: shadows10
+msgid "\"Shadows Demo\",ij.plugin.filter.Shadows(\"demo\")"
+msgstr "\"遮挡演示（Shadows Demo）\",ij.plugin.filter.Shadows(\"demo\")"
+
+#. # Plugins installed in the Process/Binary submenu
+#: binary01
+msgid "\"Make Binary\",ij.plugin.Thresholder"
+msgstr "\"开始\",ij.plugin.Thresholder"
+
+#: binary02
+msgid "\"Convert to Mask\",ij.plugin.Thresholder(\"mask\")"
+msgstr "-"
+
+#: binary03
+msgid "\"Find Maxima...\",ij.plugin.filter.MaximumFinder"
+msgstr "\"蚀\",ij.plugin.filter.Binary(\"erode\")"
+
+#: binary04
+msgctxt "binary04"
+msgid "-"
+msgstr "\"放大\",ij.plugin.filter.Binary(\"dilate\")"
+
+#: binary05
+msgid "\"Erode\",ij.plugin.filter.Binary(\"erode\")"
+msgstr "\"打开\",ij.plugin.filter.Binary(\"open\")"
+
+#: binary06
+msgid "\"Dilate\",ij.plugin.filter.Binary(\"dilate\")"
+msgstr "\"关闭-\",ij.plugin.filter.Binary(\"close\")"
+
+#: binary07
+msgid "\"Open-\",ij.plugin.filter.Binary(\"open\")"
+msgstr "\"设置反复...\",ij.plugin.filter.Binary(\"set\")"
+
+#. # Can't use "Close" because it conflicts with File/Close
+#: binary08
+msgid "\"Close-\",ij.plugin.filter.Binary(\"close\")"
+msgstr "-"
+
+#: binary09
+msgid "\"Options...\",ij.plugin.filter.Binary(\"options\")"
+msgstr "\"轮廓\",ij.plugin.filter.Binary(\"outline\")"
+
+#: binary10
+msgctxt "binary10"
+msgid "-"
+msgstr "\"萃取提纲\",ij.plugin.filter.Binary(\"skel\")"
+
+#: binary11
+msgid "\"Outline\",ij.plugin.filter.Binary(\"outline\")"
+msgstr "-"
+
+#: binary12
+msgid "\"Fill Holes\",ij.plugin.filter.BinaryFiller"
+msgstr "\"距离地图\",ij.plugin.filter.EDM(\"edm\")"
+
+#: binary13
+msgid "\"Skeletonize\",ij.plugin.filter.Binary(\"skel\")"
+msgstr "\"最终点源\",ij.plugin.filter.EDM(\"points\")"
+
+#: binary14
+msgctxt "binary14"
+msgid "-"
+msgstr "-"
+
+#: binary15
+msgid "\"Distance Map\",ij.plugin.filter.EDM(\"edm\")"
+msgstr "\"Distance Map\",ij.plugin.filter.EDM(\"edm\")"
+
+#: binary16
+msgid "\"Ultimate Points\",ij.plugin.filter.EDM(\"points\")"
+msgstr "\"极限点\",ij.plugin.filter.EDM(\"points\")"
+
+#: binary17
+msgid "\"Watershed\",ij.plugin.filter.EDM(\"watershed\")"
+msgstr "\"分水岭\",ij.plugin.filter.EDM(\"watershed\")"
+
+#. # Plugins installed in the Process/Math submenu
+#: math01
+msgid "\"Add...\",ij.plugin.filter.ImageMath(\"add\")"
+msgstr "\"添加...\",ij.plugin.filter.ImageMath(\"add\")"
+
+#: math02
+msgid "\"Subtract...\",ij.plugin.filter.ImageMath(\"sub\")"
+msgstr "\"减去...\",ij.plugin.filter.ImageMath(\"sub\")"
+
+#: math03
+msgid "\"Multiply...\",ij.plugin.filter.ImageMath(\"mul\")"
+msgstr "\"乘...\",ij.plugin.filter.ImageMath(\"mul\")"
+
+#: math04
+msgid "\"Divide...\",ij.plugin.filter.ImageMath(\"div\")"
+msgstr "\"分割...\",ij.plugin.filter.ImageMath(\"div\")"
+
+#: math05
+msgid "\"Min...\",ij.plugin.filter.ImageMath(\"min\")"
+msgstr "\"和...\",ij.plugin.filter.ImageMath(\"and\")"
+
+#: math06
+msgid "\"Max...\",ij.plugin.filter.ImageMath(\"max\")"
+msgstr "\"或者...\",ij.plugin.filter.ImageMath(\"or\")"
+
+#: math07
+msgid "\"Log\",ij.plugin.filter.ImageMath(\"log\")"
+msgstr "\"异或...\",ij.plugin.filter.ImageMath(\"xor\")"
+
+#: math08
+msgid "\"Square\",ij.plugin.filter.ImageMath(\"sqr\")"
+msgstr "\"最小值...\",ij.plugin.filter.ImageMath(\"min\")"
+
+#: math09
+msgid "\"Square Root\",ij.plugin.filter.ImageMath(\"sqrt\")"
+msgstr "\"最大值...\",ij.plugin.filter.ImageMath(\"max\")"
+
+#: math10
+msgid "\"Reciprocal\",ij.plugin.filter.ImageMath(\"reciprocal\")"
+msgstr "\"Gamma...\",ij.plugin.filter.ImageMath(\"gamma\")"
+
+#. # Plugins installed in the Process/Filters submenu
+#: filters01
+msgid "\"Convolve...\",ij.plugin.filter.Convolver"
+msgstr "\"卷积...\",ij.plugin.filter.Convolver"
+
+#: filters02
+msgid "\"Gaussian Blur...\",ij.plugin.filter.GaussianBlur"
+msgstr "\"高斯模糊...\",ij.plugin.filter.GaussianBlur"
+
+#: filters03
+msgid "\"Median...\",ij.plugin.filter.RankFilters(\"median\")"
+msgstr "\"中间值...\",ij.plugin.filter.RankFilters(\"median\")"
+
+#: filters04
+msgid "\"Mean...\",ij.plugin.filter.RankFilters(\"mean\")"
+msgstr "\"平均值...\",ij.plugin.filter.RankFilters(\"mean\")"
+
+#: filters05
+msgid "\"Minimum...\",ij.plugin.filter.RankFilters(\"min\")"
+msgstr "\"最小值...\",ij.plugin.filter.RankFilters(\"min\")"
+
+#: filters06
+msgid "\"Maximum...\",ij.plugin.filter.RankFilters(\"max\")"
+msgstr "\"最大值...\",ij.plugin.filter.RankFilters(\"max\")"
+
+#: filters07
+msgid "\"Unsharp Mask...\",ij.plugin.filter.UnsharpMask"
+msgstr "\"钝蒙板...\",ij.plugin.filter.UnsharpMask"
+
+#: filters08
+msgid "\"Variance...\",ij.plugin.filter.RankFilters(\"variance\")"
+msgstr "\"方差...\",ij.plugin.filter.RankFilters(\"variance\")"
+
+#: filters09
+msgctxt "filters09"
+msgid "-"
+msgstr "-"
+
+#: filters10
+msgid "\"Show Circular Masks...\",ij.plugin.filter.RankFilters(\"masks\")"
+msgstr "\"Show Circular Masks...\",ij.plugin.filter.RankFilters(\"masks\")"
+
+#. # Plugins installed in the Analyze/Tools submenu
+#: tools01
+msgid "\"Save XY Coordinates...\",ij.plugin.XYCoordinates"
+msgstr "\"保存XY坐标...\",ij.plugin.filter.XYCoordinates"
+
+#: tools02
+msgid "\"Curve Fitting...\",ij.plugin.frame.Fitter"
+msgstr "\"曲线拟合...\",ij.plugin.frame.Fitter"
+
+#: tools03
+msgid "\"ROI Manager...\",ij.plugin.frame.RoiManager"
+msgstr "\"ROI 管理器...\",ij.plugin.frame.RoiManager"
+
+#. #tools04="Radio Spectrum",ij.plugin.RadioSpectrum_Reader
+#. # Plugins installed in the Plugins menu
+#: plug-in01
+msgid ">\"Macros\""
+msgstr ">\"Macros\""
+
+#: plug-in02
+msgid ">\"Shortcuts\""
+msgstr ">\"快捷键\""
+
+#: plug-in03
+msgid ">\"Utilities\""
+msgstr ">\"效用\""
+
+#. #plug-in08=>"User_Plugins"# Install user plugins located in ij.jar to Plugins>User Plugins submenu#user_plugins01="Red And Blue",RedAndBlue_#user_plugins02="Inverter",Inverter_
+#. # Plugins installed in the Plugins/Macros submenu
+#. # 'baseCount' in MacroInstaller must be updated if more items are added
+#: macros01
+msgid "\"Install...[M]\",ij.plugin.MacroInstaller"
+msgstr "\"建立... [M]\",ij.plugin.MacroInstaller"
+
+#: macros02
+msgid "\"Run...\",ij.plugin.Macro_Runner"
+msgstr "\"记录...\",ij.plugin.frame.Recorder"
+
+#: macros03
+msgid "\"Startup Macros...\",ij.plugin.Commands(\"startup\")"
+msgstr "\"启用宏...\",ij.plugin.Commands(\"startup\")"
+
+#: macros04
+msgid "\"Record...\",ij.plugin.frame.Recorder"
+msgstr "\"记录...\",ij.plugin.frame.Recorder"
+
+#: macros05
+msgctxt "macros05"
+msgid "-"
+msgstr "-"
+
+#: translation01
+msgid "\"Translation\",ij.plugin.filter.Translator"
+msgstr "\"移动\",ij.plugin.filter.Translator"

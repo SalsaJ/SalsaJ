@@ -1,0 +1,1565 @@
+#. extracted from PluginBundle_en.properties, PluginBundle_ar.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-14 19:11+0200\n"
+"PO-Revision-Date: 2012-05-29 19:43+0200\n"
+"Last-Translator: Mouad <Mouad.Bahi@obspm.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#. ##GLOBAL SECTION
+#: Pixel
+msgid "pixel"
+msgstr "عنصر صورة"
+
+#: Pixels
+msgid "pixels"
+msgstr "عناصر الصورة"
+
+#: Degrees
+msgid "degrees"
+msgstr "درجات"
+
+#: Open
+msgctxt "Open"
+msgid "Open"
+msgstr "إفتح"
+
+#: Apply
+msgid "Apply"
+msgstr "تطبيق"
+
+#: Settings
+msgid "Settings"
+msgstr "ضبط"
+
+#: OpenText
+msgid "Open Text File..."
+msgstr "فتح جذاذية نص..."
+
+#: Height
+msgid "Height"
+msgstr "ارتفاع"
+
+#: Width
+msgid "Width"
+msgstr "عرض"
+
+#: NewWin
+msgid "Create New Window"
+msgstr "إنشاء نافذة جديدة"
+
+#: List
+msgid "List"
+msgstr "لائحة"
+
+#: Unit
+msgid "Unit"
+msgstr "وحدة"
+
+#: None
+msgid "none"
+msgstr "لا واحد"
+
+#: LeftCol
+msgid "Left column"
+msgstr "العمود الأيسر"
+
+#: RightCol
+msgid "Right column"
+msgstr "العمود الأيمن"
+
+#: Values
+msgid "values"
+msgstr "قيم"
+
+#: File
+msgid "File"
+msgstr "جذاذية"
+
+#. ##NEW
+#: Title
+msgid "Title"
+msgstr ""
+
+#. # StackEditor
+#: StackReqErr
+msgid "Stack required"
+msgstr "كومة لازمة"
+
+#: NoImgErr
+msgid "No images are open."
+msgstr "ما من صور مفتوحة."
+
+#: OneImgErr
+msgid "There must be at least two open images."
+msgstr "يجب أن تكون هناك على الأقل صورتان مفتوحتان."
+
+#: ImgErr
+msgid "None of the open images can go in a stack."
+msgstr "لا يمكن لأي من الصور المفتوحة أن توضع في الكومة."
+
+#: ImgTypeErr
+msgid "All open images must be the same type."
+msgstr "يجب أن تكون كل الصور المفتوحة من نفس الصنف."
+
+#: ImgSizeErr
+msgid "All open images must be the same size."
+msgstr "يجب أن تكون كل الصور المفتوحة من نفس الحجم."
+
+#: StackTitle
+msgid "Stack"
+msgstr "كومة"
+
+#: ConvertTitle
+msgid "Convert to Images?"
+msgstr "حول إلى صور؟"
+
+#: Convert1
+msgid ""
+"Are you sure you want to convert this\n"
+"stack to"
+msgstr ""
+"هل أنت متأكد (ة) أنك تريد تحويل هذه\n"
+" الكومة إلى"
+
+#: Convert2
+msgid "separate windows?"
+msgstr "فصل النوافذ؟"
+
+#. # ImageCalculator
+#: TitleStr
+msgid "Image Calculator"
+msgstr "حاسبة الصور"
+
+#: NoWinErr
+msgid "No windows are open."
+msgstr ".ما من نوافذ مفتوحة"
+
+#: StackSizeErr
+msgid "Both stacks must have the same number of slices."
+msgstr ".يجب أن يكون لكلتا الكومتان نفس عدد القطع"
+
+#: OutOfMem
+msgid "Out of memory"
+msgstr "ذاكرة غير كافية"
+
+#: Image1
+msgid "Image 1:"
+msgstr "صورة 1:"
+
+#: Image2
+msgid "Image 2:"
+msgstr "صورة 2:"
+
+#: Operation
+msgid "Operation:"
+msgstr "عملية:"
+
+#: NewResultTitle
+msgid "Result of"
+msgstr "نتيجة الـ"
+
+#: ResultTitle
+msgid "Result"
+msgstr "نتيجة"
+
+#: Add
+msgctxt "Add"
+msgid "Add"
+msgstr "إضافة"
+
+#: Subtract
+msgid "Subtract"
+msgstr "طرح"
+
+#: Multiply
+msgid "Multiply"
+msgstr "ضرب"
+
+#: Divide
+msgid "Divide"
+msgstr "قسمة"
+
+#: AND
+msgid "AND"
+msgstr "و"
+
+#: OR
+msgid "OR"
+msgstr "أو"
+
+#: XOR
+msgid "XOR"
+msgstr "أو حصري"
+
+#: Min
+msgid "Min"
+msgstr "صاغر"
+
+#: Max
+msgid "Max"
+msgstr "أكبر قيمة"
+
+#: Gamma
+msgid "Gamma"
+msgstr "غاما"
+
+#: Average
+msgid "Average"
+msgstr "متوسط"
+
+#: Difference
+msgid "Difference"
+msgstr "فرق"
+
+#: Copy
+msgid "Copy"
+msgstr "نسخ"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "نقل إلا الأبيض"
+
+#: Index
+msgid "index"
+msgstr "مؤشر"
+
+#: Value
+msgid "Value:"
+msgstr "قيمة:"
+
+#: BinValue
+msgid "Value (binary): "
+msgstr "قيمة (ثنائية) "
+
+#: BinValReqErr
+msgid "Binary number required"
+msgstr "عدد ثنائي لازم"
+
+#: Value01
+msgid "Value (0.1-5.0):"
+msgstr "قيمة (0.1-5.0)"
+
+#: GammaValErr
+msgid "Gamma must be between 0.1 and 5.0"
+msgstr "يجب أن تكون غاما بين 0.1 و 5.0"
+
+#. # Selection
+#: Spline
+msgid "Spline"
+msgstr "حدودية مجالية"
+
+#. ## PLUGIN/FRAME
+#. # PasteController
+#: FrameTitle
+msgid "Paste Control"
+msgstr "ضبط النقل"
+
+#: TransferMode
+msgid "Transfer Mode:"
+msgstr "نمط التحويل:"
+
+#. # ContrastAdjuster
+#: ContrastTitle
+msgid "Brightness & Contrast"
+msgstr "اللمعان و الاختلاف"
+
+#: WLTitle
+msgid "Window & Level"
+msgstr "النافذة و المستوى"
+
+#: ColorTitle
+msgctxt "ColorTitle"
+msgid "Color"
+msgstr "لون"
+
+#: Minimum
+msgid "Minimum"
+msgstr "دنيا"
+
+#: Maximum
+msgid "Maximum"
+msgstr "قصوى"
+
+#: Brightness
+msgid "Brightness"
+msgstr "لمعان"
+
+#: Contrast
+msgid "Constrast"
+msgstr "اختلاف"
+
+#: Level
+msgid "Level:"
+msgstr "مستوى:"
+
+#: Window
+msgid "Window:"
+msgstr "نافذة:"
+
+#: Auto
+msgid "Auto"
+msgstr "تلقائي"
+
+#: Reset
+msgid "Reset"
+msgstr "رجوع إلى القيم البدئية"
+
+#: Set
+msgid "Set"
+msgstr "حدد"
+
+#: Apply
+msgid "Apply "
+msgstr "طبق"
+
+#: Thresh
+msgid "Thresh"
+msgstr "عتبة"
+
+#: Update
+msgid "Update"
+msgstr "تحديث"
+
+#: AdjTypeErr
+msgid "Requires an 8-bit grayscale image or an RGB stack"
+msgstr "تستلزم صورة ذات سلم رمادي 8-بت أو RGB كومة "
+
+#: LUT1
+msgid "Apply LUT to all"
+msgstr "طبق جدول الألوان على الكل"
+
+#: LUT2
+msgctxt "LUT2"
+msgid "slices in the stack?"
+msgstr "قطع في الكومة؟"
+
+#: RGB1
+msgid "Apply brightness and contrast settings to all"
+msgstr "طبق اللمعان و الاختلاف على الكل"
+
+#: RGB2
+msgctxt "RGB2"
+msgid "slices in the stack?"
+msgstr "قطع في الكومة؟"
+
+#: SetMinMaxTitle
+msgid "Set Min and Max"
+msgstr "حدد الأكبر و الأصغر"
+
+#: MinVal
+msgid "Minimum Displayed Value:"
+msgstr "القيمة المعروضة الدنيا:"
+
+#: MaxVal
+msgid "Maximum Displayed Value:"
+msgstr "لقيمة المعروضة القصوى:"
+
+#: SetWLTitle
+msgid "Set W&L"
+msgstr "حدد W&L"
+
+#: WinCenter
+msgid "Window Center (Level):"
+msgstr "مركز النافذة(مستوى):"
+
+#: WinWidth
+msgid "Window Width:"
+msgstr "عرض النافذة:"
+
+#: NoImg
+msgid "No Image"
+msgstr "لا توجد صورة"
+
+#. # Analyser
+#: SetMeasurementsTitle
+msgid "Set Measurements"
+msgstr "تحديد القياسات"
+
+#: measurements
+msgid "measurements"
+msgstr "قياسات"
+
+#: Area
+msgid "Area"
+msgstr "مساحة"
+
+#: MeanGray
+msgid "Mean Grey Value"
+msgstr "متوسط قيمة الرمادي"
+
+#: StDev
+msgid "Standard Deviation"
+msgstr "الانحراف المعياري"
+
+#: ModalGray
+msgid "Modal Grey Value"
+msgstr "قيمة الرمادي النمطية"
+
+#: MinMaxGray
+msgid "Min & Max Grey Value"
+msgstr "قيمة الرمادي الدنيا و القصوى"
+
+#: Centroid
+msgid "Centroid"
+msgstr "النقطه الوسطى"
+
+#: MassCenter
+msgid "Center of Mass"
+msgstr "مركز الكتلة"
+
+#: Perimeter
+msgid "Perimeter"
+msgstr "محيط"
+
+#: Bounds
+msgid "Bounding Rectangle"
+msgstr "المستطيل المحد"
+
+#: FitEllipse
+msgid "Fit Ellipse"
+msgstr "الإهلليج الموافقة"
+
+#: Circularity
+msgid "Circularity"
+msgstr "دائرية"
+
+#: FeretDiam
+msgid "Feret's Diameter"
+msgstr "قطر Feret  "
+
+#: ThreshLimit
+msgid "Limit to Threshold"
+msgstr "حد عند العتبة"
+
+#: ImgName
+msgid "Display Image Name"
+msgstr "إعرض إسم الصورة"
+
+#: InvertY
+msgid "Invert Y Coordinates"
+msgstr "إعكس الأراتيب"
+
+#: DeciPlaces
+msgctxt "DeciPlaces"
+msgid "Decimal Places:"
+msgstr "الأماكن العشرية:"
+
+#: Val
+msgid "Value"
+msgstr "قيمة"
+
+#: FileName
+msgid "Name"
+msgstr "إسم"
+
+#: Angle
+msgid "Angle"
+msgstr "زاوية"
+
+#: Length
+msgid "Length "
+msgstr "طول "
+
+#. #Shorter labels
+#: SD
+msgid "SD"
+msgstr "SD"
+
+#: Mean
+msgid "Moy."
+msgstr "متوسط."
+
+#. ### ThresholdAdjuster
+#: Threshold
+msgid "Threshold"
+msgstr "عتبة"
+
+#: RedThresh
+msgid "Red"
+msgstr "أحمر"
+
+#: BWThresh
+msgid "Black & White"
+msgstr "الأبيض و الأسود"
+
+#: OverUnder
+msgid "Over/Under"
+msgstr "فوق/تحت"
+
+#: ThreshLevels
+msgid "Set Threshold Levels"
+msgstr "تحديد مستويات العتبة"
+
+#: LowThreshLevel
+msgid "Lower Threshold Level:"
+msgstr "مستوى العتبة السفلى:"
+
+#: UpThreshLevel
+msgid "Upper Threshold Level:"
+msgstr "مستوى العتبة العليا:"
+
+#: RGBThreshErr
+msgid "RGB images cannot be thresolded."
+msgstr "عتبة RGB لا يمكن أن يكون لصور ."
+
+#. ## NewPlugin
+#: NPTitle
+msgid "Nouveau..."
+msgstr "جديد..."
+
+#: Type
+msgid "Type"
+msgstr "نوع"
+
+#. ##Recorder
+#: Record
+msgid "Record"
+msgstr "تسجيل"
+
+#: CreateMacro
+msgid "Create Macro"
+msgstr "إنشاء كلية"
+
+#: CreatePlugin
+msgid "Create Plugin"
+msgstr "إنشاء برنامج مساعد"
+
+#. ## Command Lister
+#: Commands
+msgid "Commands"
+msgstr "طلبات"
+
+#. # 2 FIELDS SEPARATED BY \t
+#: CommandLabels
+msgid "Command\tPlugin"
+msgstr "طلب\tبرنامج مساعد"
+
+#: KbdShortcuts
+msgid "Keyboard Shortcuts"
+msgstr "طرق مختصرة على لرحة المفاتيح"
+
+#. # 2 FIELDS SEPARATED BY \t
+#: KbdShortcutsLabels
+msgid "Hot Key\tCommand"
+msgstr "مفتاح خاص\t لطلب"
+
+#. ## ScaleDialog
+#: ScDiagTitle
+msgid "Set Scale"
+msgstr "حدد السلم"
+
+#: ScDiagDistPix
+msgid "Distance in Pixels:"
+msgstr "المسافة بين عناصر الصورة:"
+
+#: ScDiagDist
+msgid "Real Distance:"
+msgstr "المسافة الحقيقية:"
+
+#: ScDiagRatio
+msgid "Width/Height Ratio:"
+msgstr "نسبة العرض/الإرتفاع:"
+
+#: ScDiagUnit
+msgid "Unit of Length:"
+msgstr "وحدة الطول:"
+
+#: ScDiagScale
+msgid "Scale:"
+msgstr "سلم:"
+
+#: ScDiagGlobal
+msgctxt "ScDiagGlobal"
+msgid "Global"
+msgstr "إجمالي"
+
+#: ScDiagNoScale
+msgid "<No Scale>"
+msgstr "<لا سلم>"
+
+#. ## SurfacePlotter
+#: SfcPlTitle
+msgid "Surface Plotter"
+msgstr "راسم المساحة"
+
+#: SfcPlImgTitle
+msgid "Surface Plot"
+msgstr "رسم المساحة"
+
+#: SfcPlDrSlice
+msgid "Drawing slice"
+msgstr "رسم القطعة"
+
+#: SfcPlMult
+msgid "Number of samples"
+msgstr "عدد العينات"
+
+#: SfcPlWire
+msgid "Draw wireframe"
+msgstr "رسم إطار سلكي"
+
+#: SfcPlShade
+msgid "Shade"
+msgstr "ظل"
+
+#: SfcPlAxis
+msgid "Draw axis"
+msgstr "رسم محور"
+
+#: SfcPlInvert
+msgid "Source Background is Lighter"
+msgstr "خلفية المصدر أفتتح"
+
+#: SfcPlBlack
+msgid "Fill Plot Background with Black"
+msgstr "إملأ خلفية الرسم البياني بالأسود"
+
+#: SfcPlPoly
+msgid "Fill Plot"
+msgstr "إملأ الرسم البياني"
+
+#: SfcPlSmooth
+msgid "Smooth"
+msgstr "أملس"
+
+#. ## Printer
+#: PageSetup
+msgid "Page Setup"
+msgstr "إعداد الصفحة"
+
+#: PrintScaling
+msgid "Scaling"
+msgstr "سلم"
+
+#: PrintBorder
+msgid "Draw Border"
+msgstr "أرسم الحدود"
+
+#: PrintTitle
+msgid "Print Title"
+msgstr "إطبع العنوان"
+
+#: PrintCenter
+msgid "Center on Page"
+msgstr "مركز الصفحة"
+
+#. ## Rotator
+#: Rotate
+msgid "Rotate"
+msgstr "دوران"
+
+#: Interpolate
+msgid "Interpolate"
+msgstr "استكمل"
+
+#: AngleErr
+msgid "Angle is invalid."
+msgstr "زاوية غير سليمة."
+
+#. ## Options
+#: OptMiscTitle
+msgid "Miscellaneous Options"
+msgstr "اختيارات متنوعة"
+
+#: OptHistBin
+msgid "Real Histogram Bins:"
+msgstr "عينات مدرج إحصائي حقيقية:"
+
+#: OptDivZero
+msgid "Divide by Zero Value:"
+msgstr "قسمة على صفر:"
+
+#: OptCursor
+msgid "Use Pointer Cursor"
+msgstr "استخدم مؤشر الفأرة"
+
+#: OptScale
+msgid "Scale When Converting"
+msgstr "استعمل السلم عند التحويل"
+
+#: OptStackDiag
+msgid "Hide \"Process Stack?\" Dialog"
+msgstr "حوار إخفاء/\"كومة العمليات؟/\"م"
+
+#: OptAntialias
+msgid "Antialiased Text"
+msgstr "نص صحيح من التشويه"
+
+#: OptInterpolate
+msgid "Interpolate Images <100%"
+msgstr "استكمل الصور أقل من 100%"
+
+#: OptOpen
+msgid "Open Images at 100%"
+msgstr "إفتح الصور عند 100%"
+
+#: OptDebug
+msgid "Debug Mode"
+msgstr "وضعية التنقيح"
+
+#: OptLine
+msgid "Line width:"
+msgstr "عرض الخط:"
+
+#: OptJpeg
+msgid "JPEG quality (0-100):"
+msgstr " JPEG جودة (0-100):"
+
+#: OptMark
+msgid "Mark Width:"
+msgstr "عرض العلامة:"
+
+#. ## Fonts
+#: FontsTitle
+msgid "Fonts"
+msgstr "خطوط"
+
+#: FontPlain
+msgid "Plain"
+msgstr "مجرد"
+
+#: FontBold
+msgid "Bold"
+msgstr "عريض"
+
+#: FontIt
+msgid "Italic"
+msgstr "مائل"
+
+#: FontBoldIt
+msgid "Bold+Italic"
+msgstr "عريض + مائل"
+
+#: FontPoint
+msgid "pt"
+msgstr "نقط"
+
+#. ## Fitter
+#: FitterTitle
+msgid "Curve Fitter"
+msgstr "موفق المنحنى"
+
+#: Fit
+msgid "Fit..."
+msgstr "توفيق..."
+
+#: FitFncErr
+msgid "No function available"
+msgstr "لا دالة متوفرة"
+
+#: FitImgErr
+msgid "First select the image to be transformed"
+msgstr "أولا يجب اختيار الصورة المراد تحويلها"
+
+#: FitterSuffix
+msgid "-transformed"
+msgstr "-تم التحويل"
+
+#. ## Resizer
+#: ResizeRoiErr
+msgid ""
+"These commands\n"
+"do not work with line selections."
+msgstr ""
+"هذه الطلبات\n"
+"لا تعمل مع اختيارات السطور."
+
+#: ResizeTitle
+msgid "Resize"
+msgstr "تغيير الحجم"
+
+#: ResizeConstrain
+msgid "Constrain Aspect Ratio"
+msgstr "حد النسبة"
+
+#: ResizeWarn
+msgid "NOTE: Undo is not available"
+msgstr "ملاحظة: الإلغاء غير متوفر"
+
+#: ResizeErr
+msgid "Width or height are invalid."
+msgstr "العرض أو الارتفاع غير سليم."
+
+#: ResizeLost1
+msgid ""
+"SalsaJ ran out of memory causing \n"
+"the last"
+msgstr ""
+"مما تسبب في Eu-HOU نفذت الذاكرة من \n"
+"آخر"
+
+#: ResizeLost2
+msgid "slices to be lost."
+msgstr "قطع سيضيع."
+
+#. ##CanvasResizer NEW
+#: CanvasResizerTitle1
+msgid "Resize Image Canvas"
+msgstr "تغيير خلية الصورة"
+
+#: CanvasResizerTitle2
+msgid "Resize Stack Canvas"
+msgstr "تغيير كومة الخلية"
+
+#: Position
+msgid "Postion"
+msgstr "موضع"
+
+#: ZeroFile
+msgid "Zero Fill"
+msgstr "بدون ملء"
+
+#: Top-Left
+msgid "Top-Left "
+msgstr "أقصى اليسار"
+
+#: Top-Center
+msgid "Top-Center"
+msgstr "أقصى الوسط"
+
+#: Top-Right
+msgid "Top-Right"
+msgstr "أقصى اليمين"
+
+#: Center-Left
+msgid "Center-Left"
+msgstr "وسط اليسار"
+
+#: Center
+msgid "Center"
+msgstr "وسط"
+
+#: Center-Right
+msgid "Center-Right"
+msgstr "وسط اليمين"
+
+#: Bottom-Left
+msgid "Bottom-Left"
+msgstr "أسفل اليسار"
+
+#: Bottom-Center
+msgid "Bottom-Center"
+msgstr "أسفل الوسط"
+
+#: Bottom-Right
+msgid "Bottom-Right"
+msgstr "أسفل اليمين"
+
+#. ##Montage Maker NEW
+#: MakeMontage
+msgid "Make Montage"
+msgstr "إنشاء تركيب"
+
+#: Columns
+msgid "Columns"
+msgstr "أعمدة"
+
+#: Rows
+msgid "Rows"
+msgstr "صفوف"
+
+#: ScaleFactor
+msgid "Scale Factor"
+msgstr "عامل السلم"
+
+#: FirstSlice
+msgid "First Slice"
+msgstr "التقطيع الأول"
+
+#: LastSlice
+msgid "Last Slice"
+msgstr "التقطيع الأخير"
+
+#: Increment
+msgctxt "Increment"
+msgid "Increment"
+msgstr "التزايد"
+
+#: BorderWidth
+msgid "Border Width"
+msgstr "عرض الحدود"
+
+#: LabelSlices
+msgid "Label Slices"
+msgstr "تسمية القطع"
+
+#: UseForegroundColor
+msgid "Use Foreground Color"
+msgstr "إستعمال لون الأمامية"
+
+#. ##ImageProperties NEW
+#: Channels
+msgid "Channels"
+msgstr "القنوات"
+
+#: Frames
+msgid "Frames"
+msgstr "الإطارات"
+
+#: Pixel_Width
+msgid "Pixel Width"
+msgstr "عرض بيكسل"
+
+#: Pixel_Height
+msgid "Pixeln Height"
+msgstr "ارتفاع بيكسل"
+
+#: Voxel_Depth
+msgid "Voxel Depth"
+msgstr ""
+
+#: FrameInterval
+msgid "Frame Interval"
+msgstr "أبعاد الإطار"
+
+#: Origin
+msgid "Origin (pixels)"
+msgstr "الأصل (بيكسل)"
+
+#: Global
+msgctxt "Global"
+msgid "Global"
+msgstr "عام"
+
+#. ## SimpleCommands
+#: NotLocked
+msgid "is not locked"
+msgstr "غير مقفل"
+
+#: Unlocked
+msgid "is now unlocked"
+msgstr "الآن مفتوح"
+
+#: Rename
+msgid "Rename"
+msgstr "غير الإسم"
+
+#: RenameName
+msgid "New title:"
+msgstr "عنوان جديد:"
+
+#. ## Duplicater
+#: DupliSuffix
+msgid "-copy"
+msgstr "-نسخ"
+
+#: DupliTitle
+msgid "Duplicate"
+msgstr "مضاعفة"
+
+#: DupliNewName
+msgid "Title:"
+msgstr "عنوان:"
+
+#: DupliStack
+msgid "Duplicate Entire Stack?"
+msgstr "مضاعفة كل الكومة؟"
+
+#. ## Scaler
+#: ScalerTitle
+msgid "Scale"
+msgstr "سلم"
+
+#: ScalerX
+msgid "X Scale"
+msgstr "سلم الفواصل"
+
+#: ScalerY
+msgid "Y Scale"
+msgstr "سلم الترتيبات"
+
+#: ScalerErr
+msgid "X or Y scale are invalid."
+msgstr ".سلم X أو Y غير سليم"
+
+#: ScalerSuffix
+msgid "-rescaled"
+msgstr "-سلم جديد"
+
+#. ##NEW
+#: ScalerBackground
+msgid "Fill with Background Color"
+msgstr "إملأ بلون الخلفية"
+
+#. ##ScaleBar ##NEW
+#: ScaleBarTitle
+msgid "ScaleBar Plus"
+msgstr "شريط السلم إضافي"
+
+#: ScaleBarWidth
+msgid "Width in"
+msgstr ""
+
+#: ScaleBarHeight
+msgid "Height in pixels"
+msgstr "ارتفاع في البيكسل"
+
+#: ScaleBarFont
+msgid "Font Size"
+msgstr "حجم الخط"
+
+#: ScaleBarColor
+msgctxt "ScaleBarColor"
+msgid "Color"
+msgstr "اللون"
+
+#: ScaleBarBackground
+msgid "Background"
+msgstr "الخلفية"
+
+#: ScaleBarLocation
+msgid "Location"
+msgstr "المنطقة"
+
+#: ScaleBarBold
+msgctxt "ScaleBarBold"
+msgid "Bold Text"
+msgstr "خط عريض"
+
+#: ScaleBarHide
+msgid "Hide Text"
+msgstr "خط مخفي"
+
+#: ScaleBarSerif
+msgid "Serif Font"
+msgstr "خط رقيق"
+
+#. ## LutViewer
+#: LUTTitle
+msgid "LookUp Table"
+msgstr "بحث في الجدول"
+
+#. # 4 FIELDS SEPARATED BY \t
+#: LUTHead
+msgid "Index\tRed\tGreen\tBlue"
+msgstr "مؤشر\t أحمر\t أخضر\t أزرق"
+
+#: LUTTextTitle
+msgid "LUT"
+msgstr "جدول الألوان"
+
+#. ## LutLoader
+#: LutRGBErr
+msgid "RGB images do not use LUTs."
+msgstr ".لا تستعمل جداول الألوان RGB صور"
+
+#. ## Profiler
+#: ProOptTitle
+msgid "Profile Plot Options"
+msgstr "خيارات منحنى الجانبية"
+
+#: ProOptScale
+msgid "Fixed Y-axis Scale"
+msgstr "سلم محور الأراتيب مثبت"
+
+#: ProOptSave
+msgid "Do Not Save X-Values"
+msgstr "لا تحفظ قيم X "
+
+#: ProOptAuto
+msgid "Auto-close"
+msgstr "إغلاق تلقائي"
+
+#: ProOptVert
+msgid "Vertical Profile"
+msgstr "جانبية عمودية"
+
+#. ## RoiManager
+#: RoiTitle
+msgid "Roi Manager"
+msgstr "مسير منطقة الاهتمام"
+
+#: RoiAdd
+msgctxt "RoiAdd"
+msgid "Add"
+msgstr "إجمع"
+
+#: RoiAdd&Draw
+msgctxt "RoiAdd&Draw"
+msgid "Delete"
+msgstr "حذف"
+
+#: RoiDel
+msgctxt "RoiDel"
+msgid "Delete"
+msgstr "إمح"
+
+#: RoiOpen
+msgctxt "RoiOpen"
+msgid "Open"
+msgstr "إفتح"
+
+#: RoiOpenAll
+msgid "Open All"
+msgstr "إفتح الكل"
+
+#: RoiSave
+msgid "Save"
+msgstr "إحفظ"
+
+#: RoiSel
+msgid "Select All"
+msgstr "ظلل الكل"
+
+#: RoiMeasure
+msgid "Measure"
+msgstr "قياس"
+
+#: RoiDraw
+msgid "Draw"
+msgstr "إرسم"
+
+#: RoiFill
+msgid "Fill"
+msgstr "إملأ"
+
+#: RoiErr1
+msgid "The active image does not have an ROI."
+msgstr "ليس للصور النشيطة منطقة اهتمام."
+
+#: RoiErr2
+msgid "The ROI list is empty."
+msgstr "لائحة مناطق الاهتمام فارغة."
+
+#: RoiErr3
+msgid "At least one ROI in the list must be selected."
+msgstr "يجب اختيار منطقة اهتمام واحدة على الأقل من الائحة."
+
+#: RoiErr4
+msgid "This ROI does not fit the current image."
+msgstr "منطقة الاهتمام هذه لا تناسب الصورة الحالية."
+
+#: RoiOpenTitle
+msgid "Open ROI..."
+msgstr "إفتح منطقة اهتمام..."
+
+#: RoiOpenFolder
+msgid "Select a file in the folder..."
+msgstr "إختر الملف في المجلد..."
+
+#: RoiSaveTitle
+msgid "Save ROI..."
+msgstr "إحفظ منطقة اهتمام..."
+
+#. ## CalibrationBar
+#: CaliTitle
+msgid "Calibration Bar"
+msgstr "شريط المعايرة"
+
+#: CaliLoc
+msgid "Location:"
+msgstr "مكان:"
+
+#: CaliFill
+msgid "Fill Colour:"
+msgstr "ملأ اللون:"
+
+#: CaliLab
+msgid "Label Colour:"
+msgstr "تسمية اللون:"
+
+#: CaliNb
+msgid "Number of Labels:"
+msgstr "عدد العلامات:"
+
+#: CaliPlaces
+msgctxt "CaliPlaces"
+msgid "Decimal Places:"
+msgstr "الأماكن العشرية:"
+
+#: CaliSize
+msgid "Font Size:"
+msgstr "حجم الخط:"
+
+#: CaliZoom
+msgid "Zoom Factor:"
+msgstr "عامل التكبير:"
+
+#: CaliBold
+msgctxt "CaliBold"
+msgid "Bold Text"
+msgstr "نص عريض"
+
+#: CaliWithBar
+msgid "with bar"
+msgstr "بعمود"
+
+#: CaliUpR
+msgid "Upper Right"
+msgstr "أعلى اليمين"
+
+#: CaliUpL
+msgid "Upper Left"
+msgstr "أعلى اليسار"
+
+#: CaliDoR
+msgid "Lower Right"
+msgstr "أدنى اليمين"
+
+#: CaliDoL
+msgid "Lower Left"
+msgstr "أدنى اليسار"
+
+#: CaliSel
+msgid "At Selection"
+msgstr "عند الاختيار"
+
+#. ## FolderOpener
+#: FoldOpenTitle
+msgid "Open Image Sequence..."
+msgstr "إفتح متتالية الصور..."
+
+#: FoldOpenErrTitle
+msgid "Import Error:"
+msgstr "استورد الخطأ:"
+
+#: FoldOpenErr1
+msgid ""
+"This folder does not appear to contain any TIFF,\n"
+"FITS, JPEG, BMP, GIF, or PGM files."
+msgstr ""
+"لا يظهر أن هذا الملف يحتوي على أي نوع من ملفات TIFF \n"
+"FITS أو, JPEG, BMP, GIF, PGM"
+
+#: FoldOpenErr2
+msgid "None of the"
+msgstr "لا أحد من"
+
+#: FoldOpenErr3
+msgid "files contain  in their name the string"
+msgstr "الملفات تحتوي        في اسمها الكلمة"
+
+#: FoldOpenErr4
+msgid ": wrong dimensions"
+msgstr "أبعاد خاطئة:"
+
+#: FoldOpenErr5
+msgid ": wrong type"
+msgstr "صنف خاطئ:"
+
+#: FoldOpenErr6
+msgid ": unable to open"
+msgstr "عاجز عن الفتح:"
+
+#: FoldOptTitle
+msgid "Sequence Options"
+msgstr "خيارات المتتالية"
+
+#: FoldOpt1
+msgid "Number of Images"
+msgstr "عدد الصور"
+
+#: FoldOpt2
+msgid "Starting Image"
+msgstr "صورة اللبدء"
+
+#: FoldOpt3
+msgctxt "FoldOpt3"
+msgid "Increment"
+msgstr "الزيادة"
+
+#: FoldOpt4
+msgid "File Name Contains"
+msgstr "إسم الملف يحتوي"
+
+#: FoldOpt5
+msgid "Convert to 8-bit Greyscale"
+msgstr "حول لسلم رمادي 8-بت "
+
+#: FoldOpt6
+msgid "Open 1/2 Size"
+msgstr "إفتح نصف الحجم"
+
+#. ## URLOpener
+#: URLDiagTitle
+msgid "Enter URL"
+msgstr "أدخل الرابط"
+
+#: URLDiagLab
+msgid "Enter the URL of an image to open:"
+msgstr "أدخل رابط  الصورة المراد فتحها:"
+
+#. ## Animator
+#: AnimOptTitle
+msgid "Animation Options"
+msgstr "خيارات التنشيط"
+
+#: AnimOptSpeed
+msgid "Speed (1-100 fps):"
+msgstr "السرعة (1-100 fps)"
+
+#: AnimOptLoop
+msgid "Loop Back and Forth"
+msgstr "تقدم ذهابا و إيابا"
+
+#: AnimOptStart
+msgid "Start Animation"
+msgstr "إبدأ التنشيط"
+
+#: AnimSlice
+msgid "Set Slice"
+msgstr "حدد قطعة"
+
+#: AnimNb
+msgid "Slice number"
+msgstr "رقم القطعة"
+
+#. ## TextWriter
+#: TWErrTitle
+msgid "Save As Text"
+msgstr "إحفظ كنص"
+
+#: TWErrMsg
+msgid "This command requires a TextWindow"
+msgstr "هذه الطلب يستلزم نافذة نص"
+
+#. ## Calibrator
+#: CalibrTitle
+msgid "Calibrate..."
+msgstr "عاير..."
+
+#: CalibrFunc
+msgid "Function:"
+msgstr "دالة:"
+
+#: CalibrGlob
+msgid "Global calibration"
+msgstr "معايرة إجمالية"
+
+#: Calibrator
+msgid "Calibrator:"
+msgstr "معاير:"
+
+#: CalibrErr1
+msgid "Please select a function"
+msgstr "من فضلك اختر دالة "
+
+#: CalibrErr16b
+msgid ""
+"Calibration of 16-bit images, except with straight\n"
+"line functions, is currently not supported."
+msgstr ""
+"معايرة الصور 16-بت, ما عدا ذواب الدوال\n"
+".الخطية, هي غير مستحملة حاليا "
+
+#: CalPixelInverter
+msgid "Pixel Inverter"
+msgstr "عاكس عناصر الصورة"
+
+#: CalibrMan
+msgid ""
+"To create a calibration curve, the left column must\n"
+"contain a list of measured mean pixel values and the\n"
+"right column must contain the same number of calibration\n"
+"standard values."
+msgstr ""
+"لإنشاء منحنى معايرة, يحب أن يحتوي العمود الأيسر على\n"
+"لائحة قيم متوسطات عناصر الصورة المقاسة و العمود \n"
+".الأيمن على نفس عدد قيم المعايرة"
+
+#: CalibrFuncTitle
+msgid "Calibration function"
+msgstr "دالة المعايرة"
+
+#. #Recorder
+#: Recorder
+msgid "Recorder"
+msgstr "مسجل"
+
+#: 32birReqErr
+msgid "32-bit float image required"
+msgstr "صورة حقيقية 32-بت مستلزمة"
+
+#: OptHistory
+msgid "Last used files:"
+msgstr ":/آخر الجذاذيات المستعملة"
+
+#: OptFiles
+msgid "Files"
+msgstr "جذاذيات"
+
+#: Translate
+msgid "Translate"
+msgstr "إزاحة"
+
+#: TX
+msgid "Translation on X"
+msgstr "إزاحة على X "
+
+#: TY
+msgid "Translation on Y"
+msgstr "إزاحة على Y "
+
+#: TxErr
+msgid "Translation on X is invalid"
+msgstr "إزاحة غير سليمة على X "
+
+#: TyErr
+msgid "Translation en Y est invalide"
+msgstr "إزاحة غير سليمة على Y "
+
+#. #OptJFileChooser
+#: OptJFileChooser
+msgid "Open/Save Using JFileChooser"
+msgstr "فتح/حفظ باستعمال JFileChooser "
+
+#: ProOptHoriz
+msgid "Horizontal Profile"
+msgstr "جانبية أفقية"
+
+#. #Spectrum Radio...
+#: GaussFitResults
+msgid "Gaussian fit results"
+msgstr "نتائج الموافقة الغوسية"
+
+#: ChannelRS
+msgid "Channel"
+msgstr "قناة"
+
+#: VelocityRS
+msgid "Velocity"
+msgstr "سرعة"
+
+#: unitsVelocityRS
+msgid "km/s"
+msgstr "كم/ثا"
+
+#: FrequencyRS
+msgid "Frequency"
+msgstr "تردد"
+
+#: unitsFrequencyRS
+msgid "MHz"
+msgstr "MHz"
+
+#: WavelengthRS
+msgid "Wavelength"
+msgstr "طول الموجة"
+
+#: unitsWavelengthRS
+msgid "cm"
+msgstr "cm"
+
+#: IntensityRS
+msgid "Intensity"
+msgstr "الشدة"
+
+#: error0
+msgid "This does not appear to be a FITS file."
+msgstr "لا يظهر أن هذا الملف من نوع FITS ."
+
+#: error1
+msgid "too few points to fit"
+msgstr "نقط أقل من أن بوافق"
+
+#: error2
+msgid "singular matrix"
+msgstr "مصفوفة مفردة"
+
+#: chooseInter
+msgid "choose two intervals"
+msgstr "إختر مجالان"
+
+#: Finter
+msgid "first interval"
+msgstr "المجال الأول"
+
+#: Sinter
+msgid "second interval"
+msgstr "المجال الثاني"
+
+#: chooseOder
+msgid "choose order of baseline fit (0<order<5)"
+msgstr "إختر درجة موافقة خط القاعدة (ما بين 0 و 5) "
+
+#: order
+msgid "Order"
+msgstr "Order"
+
+#: DisplayZero
+msgid "display zero line in blue"
+msgstr "إظهار الخط 0 بالأزرق"
+
+#: GaussianfitTitle
+msgid "Gaussian fit of spectral line"
+msgstr "الموافقة الغوسية لخط طيفي"
+
+#: ChooseParam
+msgid "Choose parameters"
+msgstr "إختر الخيارات"
+
+#: interval
+msgid "interval"
+msgstr "مجال"
+
+#: amplitudeRS
+msgid "amplitude"
+msgstr "وسع"
+
+#: centerRS
+msgid "center"
+msgstr "مركز"
+
+#: widthRS
+msgid "width"
+msgstr "عرض"
+
+#: eraseRS
+msgid "erase the last"
+msgstr "إمسح الأخير"
+
+#: subtractRS
+msgid "Subtract baseline"
+msgstr "إطرح خط القاعدة"
+
+#: GaussianFit
+msgid "Gaussian fit"
+msgstr "موافقة غوسية"
+
+#: baseline
+msgid "Baseline"
+msgstr "خط القاعدة"
+
+#. #Optical Spectrum...
+#: lambdaOS
+msgid "Lambda[A]"
+msgstr "Lambda[A]"
+
+#: fluxOS
+msgid "Flux[ADU]"
+msgstr "تدفق [ADU]"
+
+#. #Plugins externes
+#: Chooselanguage
+msgid "Choose language"
+msgstr "اختر لغة"
+
+#: DynamicProfile
+msgid "Dynamic profile"
+msgstr "مظهر ديناميكي"
+
+#: LiveHistg
+msgid "Live histogram"
+msgstr "الرسم البياني"
+
+#: OpenStar
+msgid "Virtual observatories images"
+msgstr "صور المراصد الإفتراضية"
+
+#: ImportURL
+msgid "open an image on the Web"
+msgstr "افتح صورة في الواب"
+
+#: AlignRGB
+msgid "Align R/G/B plans"
+msgstr "Align R/G/B plans"

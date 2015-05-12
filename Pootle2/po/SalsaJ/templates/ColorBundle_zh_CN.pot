@@ -1,0 +1,90 @@
+#. extracted from ../templates/ColorBundle.properties, ../resu/ColorBundle_zh_CN.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: BackGColor
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: BlackColor
+msgid "black"
+msgstr "黑色"
+
+#: BlueColor
+msgid "blue"
+msgstr "蓝"
+
+#: Clipboard
+msgid "Clipboard"
+msgstr "剪贴板"
+
+#: ColorNone
+msgid "none"
+msgstr "空"
+
+#: ColorRGB
+msgid "R/V/B"
+msgstr "红/绿/蓝"
+
+#: CyanColor
+msgid "cyan"
+msgstr "蓝绿色"
+
+#: DGrayColor
+msgid "dark gray"
+msgstr "深灰色"
+
+#: ForGColor
+msgid "Foreground Color"
+msgstr "前景颜色"
+
+#. ##NEW
+#: GrayColor
+msgid "gray"
+msgstr "灰色"
+
+#: GreenColor
+msgid "green"
+msgstr "绿"
+
+#: LGrayColor
+msgid "light gray"
+msgstr "淡灰色"
+
+#: MagentaColor
+msgid "magenta"
+msgstr "红紫色"
+
+#: OrangeColor
+msgid "orange"
+msgstr "橙色"
+
+#: Ramp
+msgid "Ramp"
+msgstr "Ramp"
+
+#: RedColor
+msgid "red"
+msgstr "红"
+
+#: SelectionColor
+msgid "Selection Color"
+msgstr "选择颜色"
+
+#: WhiteColor
+msgid "white"
+msgstr "白色"
+
+#: YellowColor
+msgid "yellow"
+msgstr "黄色"

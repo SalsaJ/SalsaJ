@@ -1,0 +1,77 @@
+#. extracted from ../resu/BlitterBundle_ar.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:07+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: Add
+msgid "Ø£Ø¶Ù"
+msgstr ""
+
+#: AND
+msgid "Ù"
+msgstr ""
+
+#: Average
+msgid "ÙØªÙØ³Ø·"
+msgstr ""
+
+#: Copy
+msgid "ÙØ³Ø®"
+msgstr ""
+
+#: Difference
+msgid "DiffÃ©rence"
+msgstr ""
+
+#: Divide
+msgid "ÙØ³ÙØ©"
+msgstr ""
+
+#: Gamma
+msgid "ØºØ§ÙØ§"
+msgstr ""
+
+#: Index
+msgid "ÙØ¤Ø´Ø±"
+msgstr ""
+
+#: Max
+msgid "Ø§ÙÙØ¨Ø±Ù"
+msgstr ""
+
+#: Min
+msgid "Ø§ÙØµØºØ±Ù"
+msgstr ""
+
+#: Multiply
+msgid "Ø¶Ø±Ø¨"
+msgstr ""
+
+#: OR
+msgid "Ø£Ù"
+msgstr ""
+
+#: Subtract
+msgid "Ø·Ø±Ø­"
+msgstr ""
+
+#: Transparent
+msgid "Ø£ÙÙÙ Ø¥ÙØ§ Ø§ÙØ£Ø¨ÙØ¶"
+msgstr ""
+
+#: Value
+msgid "ÙÙÙØ©"
+msgstr ""
+
+#: XOR
+msgid "Ø£Ù Ø­ØµØ±Ù"
+msgstr ""

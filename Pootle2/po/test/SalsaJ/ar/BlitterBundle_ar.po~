@@ -1,0 +1,80 @@
+#. extracted from BlitterBundle_en.properties, BlitterBundle_ar.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-14 19:11+0200\n"
+"PO-Revision-Date: 2012-05-29 11:50+0200\n"
+"Last-Translator: Mouad <Mouad.Bahi@obspm.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: Add
+msgid "Add"
+msgstr "أضف"
+
+#: AND
+msgid "AND"
+msgstr "و"
+
+#: Average
+msgid "Average"
+msgstr "متوسط"
+
+#: Copy
+msgid "Copy"
+msgstr "نسخ"
+
+#: Difference
+msgid "Différence"
+msgstr "فرق"
+
+#: Divide
+msgid "Divide"
+msgstr "قسمة"
+
+#: Gamma
+msgid "Gamma"
+msgstr "غاما"
+
+#: Index
+msgid "index"
+msgstr "مؤشر"
+
+#: Max
+msgid "Max"
+msgstr "الكبرى"
+
+#: Min
+msgid "Min"
+msgstr "الصغرى"
+
+#: Multiply
+msgid "Multiply"
+msgstr "ضرب"
+
+#: OR
+msgid "OR"
+msgstr "أو"
+
+#: Subtract
+msgid "Subtract"
+msgstr "طرح"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "أنقل إلا الأبيض"
+
+#: Value
+msgid "value"
+msgstr "قيمة"
+
+#: XOR
+msgid "XOR"
+msgstr "أو حصري"

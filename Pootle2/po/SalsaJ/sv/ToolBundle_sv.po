@@ -1,0 +1,132 @@
+#. extracted from ../templates/ToolBundle.properties, ../resu/ToolBundle_sv.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: 2012-11-17 22:00+0200\n"
+"Last-Translator: Christer <lcg.nilsson@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: NewHint
+msgid "New Image"
+msgstr "Ny bild"
+
+#: OpenHint
+msgid "Open Image File"
+msgstr "Öppna bild"
+
+#: SaveHint
+msgid "Save Image"
+msgstr "Spara bild"
+
+#: SaveAsHint
+msgid "Save Image (new name, FITS format)"
+msgstr "Spara bild (nytt namn, FITS-format)"
+
+#: PrintHint
+msgid "Print Image"
+msgstr "Skriv ut bild"
+
+#: ClearHint
+msgid "Clear Selection"
+msgstr "Ta bort markering"
+
+#: UndoHint
+msgid "Undo Last Operation"
+msgstr "Ångra senaste åtgärd"
+
+#: Mag+Hint
+msgid "Zoom In"
+msgstr "Zooma in "
+
+#: Mag-Hint
+msgid "Zoom Out"
+msgstr "Zooma ut"
+
+#: PhotometryHint
+msgid "Aperture Photometry"
+msgstr "Fotometri"
+
+#: PhotometryAdjustHint
+msgid "Photometry Settings"
+msgstr "Inställningar för fotometri "
+
+#: ClearPhotometryHint
+msgid "Clear Photometry Results"
+msgstr "Nollställ resultat för fotometri"
+
+#: InfoHint
+msgid "Online Documentation"
+msgstr "Dokumentation på nätet"
+
+#: RectSel
+msgid "Rectangular selection"
+msgstr "Rektangulär markering"
+
+#: OvalSel
+msgid "Oval selection"
+msgstr "Oval markering"
+
+#: PolySel
+msgid "Polygon selection"
+msgstr "Polygonmarkering"
+
+#: FreeSel
+msgid "Freehand selection"
+msgstr "Frihandsmarkering "
+
+#: StraightSel
+msgid "Straight line selection"
+msgstr "Linjemarkering: rak"
+
+#: SegSel
+msgid "Segmented line selection"
+msgstr "Linjemarkering: bruten"
+
+#: FreeLineSel
+msgid "Freehand line selection"
+msgstr "Linjemarkering: frihand"
+
+#: ProfileLineSel
+msgid "Profile selection"
+msgstr "Linjemarkering: profil"
+
+#: CrosshairTool
+msgid "Pixel selection tool"
+msgstr "Markering: punkt"
+
+#: WandTool
+msgid "Isovaluated selection tool"
+msgstr "Konturer"
+
+#: TextTool
+msgid "Text tool "
+msgstr "Infoga text"
+
+#: MagTool
+msgid "Magnifying glass"
+msgstr "Zooma (in/ut)"
+
+#: ScrollTool
+msgid "Scrolling tool"
+msgstr "Flytta i bild"
+
+#: ColorTool
+msgid "Color picker...[K]"
+msgstr "Välj färg...[K]"
+
+#: AngleTool
+msgid "Angle tool"
+msgstr "Vinkelverktyg"
+
+#. #BrightnessContrastHint
+#: BrightnessContrastHint
+msgid "Brightness & Contrast"
+msgstr "Ljusstyrka & kontrast"

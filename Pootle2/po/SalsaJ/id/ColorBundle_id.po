@@ -1,0 +1,92 @@
+#. extracted from salsaj/ColorBundle_en.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-09 13:09+0200\n"
+"PO-Revision-Date: 2012-10-16 15:14+0200\n"
+"Last-Translator: Avivah <avivahy@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: BackGColor
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#: BlackColor
+msgid "black"
+msgstr "hitam"
+
+#: BlueColor
+msgid "blue"
+msgstr "biru"
+
+#: Clipboard
+msgid "Clipboard"
+msgstr "Papan Tulis"
+
+#: ColorNone
+msgid "none"
+msgstr "tidak ada"
+
+#: ColorRGB
+msgid "R/V/B"
+msgstr "M/V/B"
+
+#: CyanColor
+msgid "cyan"
+msgstr "cyan"
+
+#: DGrayColor
+msgid "dark gray"
+msgstr "abu abu gelap"
+
+#: ForGColor
+msgid "Foreground Color"
+msgstr "Warna Latar Depan"
+
+#. ##NEW
+#: GrayColor
+msgid "gray"
+msgstr "abu abu"
+
+#: GreenColor
+msgid "green"
+msgstr "hijau"
+
+#: LGrayColor
+msgid "light gray"
+msgstr "abu abu muda"
+
+#: MagentaColor
+msgid "magenta"
+msgstr "magenta"
+
+#: OrangeColor
+msgid "orange"
+msgstr "oranye"
+
+#: Ramp
+msgid "Ramp"
+msgstr "Ramp"
+
+#: RedColor
+msgid "red"
+msgstr "merah"
+
+#: SelectionColor
+msgid "Selection Color"
+msgstr "Warna Pilihan"
+
+#: WhiteColor
+msgid "white"
+msgstr "putih"
+
+#: YellowColor
+msgid "yellow"
+msgstr "kuning"

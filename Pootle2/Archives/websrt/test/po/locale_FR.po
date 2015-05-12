@@ -1,0 +1,914 @@
+#. extracted from properties/locale.properties, properties/locale_FR.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-23 17:01+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [base]
+msgctxt "[base]"
+"[base]"
+msgid ""
+msgstr ""
+
+#: home
+msgctxt "home"
+msgid "\"\" "
+msgstr "\"Accueil\""
+
+#: observer
+msgctxt "observer"
+msgid "\"\""
+msgstr "\"Observateur\""
+
+#: simulator
+msgctxt "simulator"
+msgid "\"\""
+msgstr "\"Simulateur\""
+
+#: archive
+msgctxt "archive"
+msgid "\"\" "
+msgstr "\"Archive\""
+
+#: credits
+msgctxt "credits"
+msgid "\"\""
+msgstr "\"Contacts\""
+
+#: radioTelescope
+msgctxt "radioTelescope"
+msgid "\"\""
+msgstr "\"Télescope radio\""
+
+#: login
+msgctxt "login"
+msgid "\"\""
+msgstr "\"Identifiant\""
+
+#: password
+msgctxt "password"
+msgid "\"\""
+msgstr "\"Mot de passe\""
+
+#: password_confirmation
+msgctxt "password_confirmation"
+msgid "\"\""
+msgstr "\"Confirmation du mot de passe\""
+
+#: first_name
+msgctxt "first_name"
+msgid "\"\""
+msgstr "\"Prénom\""
+
+#: last_name
+msgctxt "last_name"
+msgid "\"\""
+msgstr "\"Nom\""
+
+#: email
+msgctxt "email"
+msgid "\"\""
+msgstr "\"Email\""
+
+#: country
+msgctxt "country"
+msgid "\"\""
+msgstr "\"Pays\""
+
+#: language
+msgctxt "language"
+msgid "\"\""
+msgstr "\"Language\""
+
+#: status
+msgctxt "status"
+msgid "\"\""
+msgstr "\"Fonction\""
+
+#: motivation
+msgctxt "motivation"
+msgid "\"\""
+msgstr "\"Motivation\""
+
+#: status_1
+msgctxt "status_1"
+msgid "\"\""
+msgstr "\"Chercheur\""
+
+#: status_2
+msgctxt "status_2"
+msgid "\"\""
+msgstr "\"Enseignant\""
+
+#: status_3
+msgctxt "status_3"
+msgid "\"\""
+msgstr "\"Etudiant\""
+
+#: status_4
+msgctxt "status_4"
+msgid "\"\""
+msgstr "\"Autre\""
+
+#: Paris
+msgctxt "Paris"
+msgid "\"\""
+msgstr "\"Paris 2m (FR)\""
+
+#: Cracovie
+msgctxt "Cracovie"
+msgid "\"\""
+msgstr "\"Cracovie (PL)\""
+
+#: Craiova
+msgctxt "Craiova"
+msgid "\"\""
+msgstr "\"Craiova (RO)\""
+
+#: Paris2
+msgctxt "Paris2"
+msgid "\"\""
+msgstr "\"Paris 3m (FR)\""
+
+#: Madrid
+msgctxt "Madrid"
+msgid "\"\""
+msgstr "\"Madrid (ES)\""
+
+#: to_login
+msgctxt "to_login"
+msgid "\"\""
+msgstr "\"Connexion\""
+
+#: register
+msgctxt "register"
+msgid "\"\""
+msgstr ""
+
+#: booking
+msgctxt "booking"
+msgid "\"\" "
+msgstr "\"Réservation\""
+
+#: myInformation
+msgctxt "myInformation"
+msgid "\"\""
+msgstr "\"Mes informations\""
+
+#: administration
+msgctxt "administration"
+msgid "\"\""
+msgstr "\"Administration\""
+
+#: account_requests
+msgctxt "account_requests"
+msgid "\"\""
+msgstr "\"Demande de Compte\""
+
+#: delete_time_slots
+msgctxt "delete_time_slots"
+msgid "\"\""
+msgstr "\"Annuler mes demandes de temps\""
+
+#: account_list
+msgctxt "account_list"
+msgid "\"\""
+msgstr "\"Liste des comptes\""
+
+#: webcam
+msgctxt "webcam"
+msgid "\"\""
+msgstr "\"Webcam\""
+
+#: logout
+msgctxt "logout"
+msgid "\"\""
+msgstr "\"Déconnexion\""
+
+#: forgotten_password
+msgctxt "forgotten_password"
+msgid "\"\""
+msgstr ""
+
+#: date
+msgctxt "date"
+msgid "\"\""
+msgstr "\"Date\""
+
+#: cancel_button
+msgctxt "cancel_button"
+msgid "\"\""
+msgstr ""
+
+#: enter_your_email
+msgctxt "enter_your_email"
+msgid "\"\""
+msgstr "\"Entrer votre email\""
+
+#: [info_errors]
+msgctxt "[info_errors]"
+msgid ""
+msgstr ""
+
+#: error_title
+msgctxt "error_title"
+msgid "\"\""
+msgstr "\"Il y a # erreurs\"       "
+
+#: empty_parameter_error
+msgctxt "empty_parameter_error"
+msgid "\"\""
+msgstr "\"ne peut pas être vide\""
+
+#: dont_exist
+msgctxt "dont_exist"
+msgid "\"\" "
+msgstr "\"n'existe pas\""
+
+#: too_short_parameter_error
+msgctxt "too_short_parameter_error"
+msgid "\"\""
+msgstr "\"doit avoir au moins # caractères\" "
+
+#: login_cararcter_restraint_error
+msgctxt "login_cararcter_restraint_error"
+msgid "\"\""
+msgstr "\"doit utiliser a-z A-Z 0-9\""
+
+#: name_cararcter_restraint_error
+msgctxt "name_cararcter_restraint_error"
+msgid "\"\" "
+msgstr ""
+"'ne peut pas contenir des caractères autres que des lettres, des chiffres et "
+"\"_\"'"
+
+#: login_not_available_error
+msgctxt "login_not_available_error"
+msgid "\"\""
+msgstr "\"n'est pas disponible\""
+
+#: incorrect_password_error
+msgctxt "incorrect_password_error"
+msgid "\"\" "
+msgstr "\"n'est pas correct\""
+
+#: mail_incorrect_shape_error
+msgctxt "mail_incorrect_shape_error"
+msgid "\"\""
+msgstr "\"doit être sous la forme : aaa@aaa.fr\""
+
+#: mail_not_available_error
+msgctxt "mail_not_available_error"
+msgid "\"\""
+msgstr "\"déjà attrubué à un compte existant\""
+
+#: date_in_the_past_error
+msgctxt "date_in_the_past_error"
+msgid "\"\""
+msgstr "\"ne peut pas être dans le passé\""
+
+#: radiotelescope_not_available_error
+msgctxt "radiotelescope_not_available_error"
+msgid "\"\""
+msgstr "\"n'est pas disponible\""
+
+#: is_not_a_date_error
+msgctxt "is_not_a_date_error"
+msgid "\"\""
+msgstr "\"n'est pas une date\""
+
+#: [index]
+msgctxt "[index]"
+msgid ""
+msgstr ""
+
+#: welcome
+msgctxt "welcome"
+msgid "\"\""
+msgstr "\"Bienvenue\""
+
+#: welcome_txt
+msgctxt "welcome_txt"
+msgid "\"\""
+msgstr ""
+"\"<span class='date'>24 Novembre 2011</span> | EU-HOU "
+"RadioAstronomy.<br/>Welcome to EU-HOU. "
+
+#: observer_txt
+msgctxt "observer_txt"
+msgid "\"\""
+msgstr ""
+"\"Interface permettant de piloter à distance une des antennes de notre "
+"réseau. Un identifiant et un mot de passe sont nécessaire. Pour cela, créez "
+"votre compte.\""
+
+#: simulator_txt
+msgctxt "simulator_txt"
+msgid "\"\""
+msgstr ""
+"\"Interface permettant d'accèder à des archives professionnelles (base de "
+"données du LAB). Des outils sont fournis pour que vous puissiez directement "
+"retrouver la courbe de rotation de notre Galaxie et reconstruire la carte de "
+"ses bras spiraux.\" "
+
+#: archive_txt
+msgctxt "archive_txt"
+msgid "\"\""
+msgstr ""
+"\"Archive contenant les résultats des observations faites avec les 5 "
+"antennes.  Des outils sont fournis pour que vous puissiez directement "
+"retrouver la courbe de rotation de notre Galaxie et reconstruire la carte de "
+"ses bras spiraux. Vous pouvez également télecharger vos données au format "
+"Fits et csv.\""
+
+#: msg_registred
+msgctxt "msg_registred"
+msgid "\"\""
+msgstr ""
+"\"Vous avez été enregistré. Vous allez recevoir un email de confirmation. "
+"Vous devrez cliquer sur le lien de validation pour valider la création de "
+"votre compte.\""
+
+#: msg_dont_touch_parameters
+msgctxt "msg_dont_touch_parameters"
+msgid "\"\""
+msgstr "\"Ne modifiez pas les paramètres\" "
+
+#: msg_need_a_password
+msgctxt "msg_need_a_password"
+msgid "\"\""
+msgstr "\"Vous devez donner un mot de passe\""
+
+#: msg_need_a_login
+msgctxt "msg_need_a_login"
+msgid "\"\""
+msgstr "\"Vous devez donner un identifiant\""
+
+#: msg_login_password_incorrect
+msgctxt "msg_login_password_incorrect"
+msgid "\"\""
+msgstr "\"Votre identifiant ou mot de passe est incorrect\""
+
+#: msg_not_valid_account
+msgctxt "msg_not_valid_account"
+msgid "\"\""
+msgstr "\"Votre compte n'a pas encore été validé\""
+
+#: msg_not_allowed
+msgctxt "msg_not_allowed"
+msgid "\"\""
+msgstr "\"Vous n'êtes pas autorisé à acceder à cette page\""
+
+#: msg_not_reserved
+msgctxt "msg_not_reserved"
+msgid "\"\""
+msgstr "\"Vous n'avez pas de réservation pour maintenant \""
+
+#: msg_wait_for_validation
+msgctxt "msg_wait_for_validation"
+msgid "\"\""
+msgstr ""
+"\"Vous avez déjà demandé un compte, attendez la validation de votre compte "
+"par le modérateur\""
+
+#: msg_already_valid
+msgctxt "msg_already_valid"
+msgid "\"\""
+msgstr ""
+"\"Bienvenue ! Votre compte est valide. Vous pouvez réserver des plages de "
+"temps pour utiliser l'antenne\""
+
+#: msg_deleted_account
+msgctxt "msg_deleted_account"
+msgid "\"\""
+msgstr "\"Votre compte a été supprimé. Créez un nouveau compte\""
+
+#: msg_validated_account
+msgctxt "msg_validated_account"
+msgid "\"\""
+msgstr ""
+"\"Votre demande est envoyée. Attendez la validation de votre compte par un "
+"modérateur. Vous allez recevoir un email de confirmation\""
+
+#: msg_broken_link
+msgctxt "msg_broken_link"
+msgid "\"\""
+msgstr "\"Désolé, il y a eu un problème. Veuillez créer un nouveau compte\""
+
+#: [login]
+msgctxt "[login]"
+msgid ""
+msgstr ""
+
+#: enter_login_password
+msgctxt "enter_login_password"
+msgid "\"\""
+msgstr "\"Entrer votre identifiant et mot de passe\""
+
+#: [register]
+msgctxt "[register]"
+msgid ""
+msgstr ""
+
+#: register_title
+msgctxt "register_title"
+msgid "\"\""
+msgstr "\"Créer un compte pour faire une réservation et pouvoir observer\""
+
+#: [booking]
+msgctxt "[booking]"
+msgid ""
+msgstr ""
+
+#: scheduler_title
+msgctxt "scheduler_title"
+msgid "\"\""
+msgstr "\"Outils de réservation\""
+
+#: date_of_reservation
+msgctxt "date_of_reservation"
+msgid "\"\""
+msgstr "\"Date de la reservation (UTC)\""
+
+#: duration
+msgctxt "duration"
+msgid "\"\""
+msgstr "\"Durée\""
+
+#: reserve
+msgctxt "reserve"
+msgid "\"\""
+msgstr "\"Réserver\""
+
+#: this_week
+msgctxt "this_week"
+msgid "\"\""
+msgstr "\"cette semaine\""
+
+#: date_UTC
+msgctxt "date_UTC"
+msgid "\"\""
+msgstr "\"date (UTC)\""
+
+#: [userPage]
+msgctxt "[userPage]"
+msgid ""
+msgstr ""
+
+#: user_page_title
+msgctxt "user_page_title"
+msgid "\"\""
+msgstr "\"Mes informations\""
+
+#: my_slot
+msgctxt "my_slot"
+msgid "\"\""
+msgstr "\"Mes demandes de temps\""
+
+#: my_data
+msgctxt "my_data"
+msgid "\"\""
+msgstr "\"Mes informations personnelles\""
+
+#: no_futur_reservation_message
+msgctxt "no_futur_reservation_message"
+msgid "\"\""
+msgstr "\"Vous n'avez pas de réservations\""
+
+#: change_button
+msgctxt "change_button"
+msgid "\"\""
+msgstr "\"Editer\""
+
+#: valid_change_button
+msgctxt "valid_change_button"
+msgid "\"\""
+msgstr "\"Valider les changements\""
+
+#: delete_account_button
+msgctxt "delete_account_button"
+msgid "\"\""
+msgstr "\"Supprimer mon compte\""
+
+#: delete_time_slote
+msgctxt "delete_time_slote"
+msgid "\"\""
+msgstr "\"Effacer\""
+
+#: [credits]
+msgctxt "[credits]"
+msgid ""
+msgstr ""
+
+#: credits_title
+msgctxt "credits_title"
+msgid "\"\""
+msgstr "\"Contacts\""
+
+#: credits_disclaimer[]
+msgctxt "credits_disclaimer[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_disclaimer[]
+msgctxt "credits_disclaimer[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_disclaimer[]
+msgctxt "credits_disclaimer[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_text[]
+msgctxt "credits_text[]"
+msgid "\"\""
+msgstr ""
+
+#: credits_contact
+msgctxt "credits_contact"
+msgid "\"\""
+msgstr "\"Contact\""
+
+#: credits_copyright
+msgctxt "credits_copyright"
+msgid "\"\""
+msgstr ""
+"\"Copyright@Eu-hou - Design/Conception Antoine Radiguet - Philippe Salomé\""
+
+#: [mail]
+msgctxt "[mail]"
+msgid ""
+msgstr ""
+
+#: hello_user[]
+msgctxt "hello_user[]"
+msgid "\"\""
+msgstr ""
+
+#: hello_user[]
+msgctxt "hello_user[]"
+msgid "\"\""
+msgstr ""
+
+#: thank_user[]
+msgctxt "thank_user[]"
+msgid "\"\""
+msgstr ""
+
+#: thank_user[]
+msgctxt "thank_user[]"
+msgid "\"\""
+msgstr ""
+
+#: thank_user[]
+msgctxt "thank_user[]"
+msgid "\"\""
+msgstr ""
+
+#: email_validation_subject
+msgctxt "email_validation_subject"
+msgid "\"\""
+msgstr "\"Email de confirmation\""
+
+#: email_validation_mail[]
+msgctxt "email_validation_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: email_validation_mail[]
+msgctxt "email_validation_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: email_validation_mail[]
+msgctxt "email_validation_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: time_confirmation_subject
+msgctxt "time_confirmation_subject"
+msgid "\"\""
+msgstr "\"Confirmation de Réservation\""
+
+#: time_confirmation_mail[]
+msgctxt "time_confirmation_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: time_confirmation_mail[]
+msgctxt "time_confirmation_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_subject
+msgctxt "password_recovery_subject"
+msgid "\"\""
+msgstr "\"Mot de passe oublié\""
+
+#: password_recovery_mail[]
+msgctxt "password_recovery_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgctxt "password_recovery_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgctxt "password_recovery_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgctxt "password_recovery_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: password_recovery_mail[]
+msgctxt "password_recovery_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: user_registration_admin_notification_subject
+msgctxt "user_registration_admin_notification_subject"
+msgid "\"\""
+msgstr "\"Création de comptes utilisateurs\""
+
+#: user_registration_admin_notification_mail[]
+msgctxt "user_registration_admin_notification_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgctxt "user_registration_admin_notification_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgctxt "user_registration_admin_notification_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: user_registration_admin_notification_mail[]
+msgctxt "user_registration_admin_notification_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: account_validated_subject
+msgctxt "account_validated_subject"
+msgid "\"\""
+msgstr "\"Votre compte a été validé\""
+
+#: account_validated_mail[]
+msgctxt "account_validated_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: account_validated_mail[]
+msgctxt "account_validated_mail[]"
+msgid "\"\""
+msgstr ""
+
+#: delete_reservation_subject
+msgctxt "delete_reservation_subject"
+msgid "\"\""
+msgstr "\"Votre/vos réservation(s) ont été supprimée(s)\""
+
+#: delete_reservation_notification
+msgctxt "delete_reservation_notification"
+msgid "\"\""
+msgstr ""
+"\"Votre réservation du radiotélescope de # de # à # a été supprimée par un "
+"administrateur du site pour des raisons de maintenance de l'antenne.\" "
+
+#: delete_reservations_notification
+msgctxt "delete_reservations_notification"
+msgid "\"\""
+msgstr "\"Vos réservations du radiotélescope de # de :\" "
+
+#: delete_reservations_list
+msgctxt "delete_reservations_list"
+msgid "\"\""
+msgstr "\"# à #;\""
+
+#: delete_reservations_deleted
+msgctxt "delete_reservations_deleted"
+msgid "\"\""
+msgstr ""
+"\"ont été supprimées par un administrateur du site pour des raisons de "
+"maintenance de l'antenne.\""
+
+#: delete_reservations_contact
+msgctxt "delete_reservations_contact"
+msgid "\"\""
+msgstr "\"pour plus d'informations, contactez un administrateur.\""
+
+#: [archives]
+msgctxt "[archives]"
+msgid ""
+msgstr ""
+
+#: archives_title
+msgctxt "archives_title"
+msgid "\"\""
+msgstr "\"Archives\""
+
+#: id
+msgctxt "id"
+msgid "\"\""
+msgstr "\"Id\""
+
+#: user
+msgctxt "user"
+msgid "\"\""
+msgstr "\"Utilisateur\""
+
+#: all
+msgctxt "all"
+msgid "\"\""
+msgstr "\"Tous\""
+
+#: num
+msgctxt "num"
+msgid "\"\""
+msgstr "\"Num\""
+
+#: download_selected_fits
+msgctxt "download_selected_fits"
+msgid "\"\""
+msgstr "\"télécharger les fichiers Fits sélectionnés\""
+
+#: download_selected_CSV
+msgctxt "download_selected_CSV"
+msgid "\"\""
+msgstr "\"télécharger les fichiers CSV sélectionnés\""
+
+#: [simulator]
+msgctxt "[simulator]"
+msgid ""
+msgstr ""
+
+#: simulator_title
+msgctxt "simulator_title"
+msgid "\"\""
+msgstr "\"Comenius-Simulator\""
+
+#: [observator]
+msgctxt "[observator]"
+msgid ""
+msgstr ""
+
+#: command
+msgctxt "command"
+msgid "\"\""
+msgstr "\"Commandes\""
+
+#: results
+msgctxt "results"
+msgid "\"\""
+msgstr "\"Resultats\""
+
+#: freq
+msgctxt "freq"
+msgid "\"\""
+msgstr "\"freq\""
+
+#: time
+msgctxt "time"
+msgid "\"\""
+msgstr "\"Temps\""
+
+#: observe
+msgctxt "observe"
+msgid "\"\""
+msgstr "\"Observe\""
+
+#: end_of_session
+msgctxt "end_of_session"
+msgid "\"\""
+msgstr "\"Fin de session\""
+
+#: base
+msgctxt "base"
+msgid "\"\""
+msgstr "\"Soustraire une ligne de base\""
+
+#: [application]
+msgctxt "[application]"
+msgid ""
+msgstr ""
+
+#: galaxie_plan_radio
+msgctxt "galaxie_plan_radio"
+msgid "\"\""
+msgstr "\"Radio HI à 21cm\""
+
+#: galaxie_plan_optic
+msgctxt "galaxie_plan_optic"
+msgid "\"\""
+msgstr "\"Optique\""
+
+#: galaxie_plan_infrarouge
+msgctxt "galaxie_plan_infrarouge"
+msgid "\"\""
+msgstr "\"Infra-rouge\""
+
+#: visibility
+msgctxt "visibility"
+msgid "\"\""
+msgstr "\"Visibilité\""
+
+#: spectrum_legend
+msgctxt "spectrum_legend"
+msgid "\"\""
+msgstr "\"T [K] .vs. V [km/s]\""
+
+#: spectrum_send_max
+msgctxt "spectrum_send_max"
+msgid "\"\""
+msgstr "\"Envoyer les max\""
+
+#: spectrum_clean
+msgctxt "spectrum_clean"
+msgid "\"\""
+msgstr "\"Effacer\""
+
+#: control_longitude
+msgctxt "control_longitude"
+msgid "\"\""
+msgstr "\"Lon\""
+
+#: control_latitude
+msgctxt "control_latitude"
+msgid "\"\""
+msgstr "\"Lat\""
+
+#: simulate
+msgctxt "simulate"
+msgid "\"\""
+msgstr "\"Simuler\""
+
+#: rotation_curve
+msgctxt "rotation_curve"
+msgid "\"\""
+msgstr "\"Courbe de rotation\""
+
+#: galaxie_map
+msgctxt "galaxie_map"
+msgid "\"\""
+msgstr "\"Carte de la Galaxie\""
+
+#: clean_all
+msgctxt "clean_all"
+msgid "\"\""
+msgstr "\"Tout effacer\""
+
+#: clean_last
+msgctxt "clean_last"
+msgid "\"\""
+msgstr "\"Effacer le dernier\""
+
+#: rotation_curve_title
+msgctxt "rotation_curve_title"
+msgid "\"\""
+msgstr "\"Courbes de rotation V [km/s] .vs. R [kpc]\""
+
+#: galaxie_map_title
+msgctxt "galaxie_map_title"
+msgid "\"\""
+msgstr "\"Carte de la Voie Lactée X [kpc] , Y [kpc]\""

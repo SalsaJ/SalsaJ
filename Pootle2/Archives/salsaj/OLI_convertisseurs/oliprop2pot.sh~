@@ -1,0 +1,10 @@
+#!/bin/bash
+# oliprop2po.sh
+
+for file in `ls *.properties`
+do
+newname=`basename $file .properties`
+newname=$newname".po"
+echo $newname
+prop2po -i $file -o $newname
+done

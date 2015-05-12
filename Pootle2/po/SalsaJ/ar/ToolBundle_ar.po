@@ -1,0 +1,133 @@
+#. extracted from ../templates/ToolBundle.properties, ../resu/ToolBundle_ar.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:33+0200\n"
+"PO-Revision-Date: 2012-09-30 14:12+0200\n"
+"Last-Translator: Hassane <H.Darhmaoui@aui.ma>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: NewHint
+msgid "New Image"
+msgstr "صورة جديدة"
+
+#: OpenHint
+msgid "Open Image File"
+msgstr "إفتح جذاذية صورة"
+
+#: SaveHint
+msgid "Save Image"
+msgstr "إحفظ الصورة"
+
+#: SaveAsHint
+msgid "Save Image (new name, FITS format)"
+msgstr "(إسم جديد, FITS امتداد) إحفظ الصورة"
+
+#: PrintHint
+msgid "Print Image"
+msgstr "إطبع الصورة"
+
+#: ClearHint
+msgid "Clear Selection"
+msgstr "محو الاختيار "
+
+#: UndoHint
+msgid "Undo Last Operation"
+msgstr "ألغ العملية الأخيرة"
+
+#: Mag+Hint
+msgid "Zoom In"
+msgstr "تكبير"
+
+#: Mag-Hint
+msgid "Zoom Out"
+msgstr "تصغير"
+
+#: PhotometryHint
+msgid "Aperture Photometry"
+msgstr "شدة ضوء الفتحة"
+
+#: PhotometryAdjustHint
+msgid "Photometry Settings"
+msgstr "إعدادات قياس شدة الضوء"
+
+#: ClearPhotometryHint
+msgid "Clear Photometry Results"
+msgstr "محو نتائج قياس الضوء"
+
+#: InfoHint
+msgid "Online Documentation"
+msgstr "وثائق على الشبكة"
+
+#: RectSel
+msgid "Rectangular selection"
+msgstr "اختيار مستطيلي"
+
+#: OvalSel
+msgid "Oval selection"
+msgstr "اختيار إهلليحي"
+
+#: PolySel
+msgid "Polygon selection"
+msgstr "اختيار مضلعي"
+
+#: FreeSel
+msgid "Freehand selection"
+msgstr "اختيار بيد حرة"
+
+#: StraightSel
+msgid "Straight line selection"
+msgstr "اختيار خطي"
+
+#: SegSel
+msgid "Segmented line selection"
+msgstr "اختيار مقطعي"
+
+#: FreeLineSel
+msgid "Freehand line selection"
+msgstr "اختيار خطي بيد حرة"
+
+#: ProfileLineSel
+msgid "Profile selection"
+msgstr "خصائص الخط المحدد"
+
+#: CrosshairTool
+msgid "Pixel selection tool"
+msgstr "أداة إختيار عناصر الصورة"
+
+#: WandTool
+msgid "Isovaluated selection tool"
+msgstr "أداة اختيار بقيمة الرمادي"
+
+#: TextTool
+msgid "Text tool "
+msgstr "أداة النص "
+
+#: MagTool
+msgid "Magnifying glass"
+msgstr "عدسة مكبرة"
+
+#: ScrollTool
+msgid "Scrolling tool"
+msgstr "أداة انزلاق"
+
+#: ColorTool
+msgid "Color picker...[K]"
+msgstr "إنتقاء اللون"
+
+#: AngleTool
+msgid "Angle tool"
+msgstr "أداة الزوايا"
+
+#. #BrightnessContrastHint
+#: BrightnessContrastHint
+msgid "Brightness & Contrast"
+msgstr "اللمعان و الاختلاف"

@@ -1,0 +1,79 @@
+#. extracted from BlitterBundle_en.properties, BlitterBundle_pt.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-15 12:16+0200\n"
+"PO-Revision-Date: 2010-10-11 12:22+0200\n"
+"Last-Translator: euhoupt <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.3\n"
+
+#: Add
+msgid "Add"
+msgstr "Adicionar"
+
+#: AND
+msgid "AND"
+msgstr "E (lógico)"
+
+#: Average
+msgid "Average"
+msgstr "Média"
+
+#: Copy
+msgid "Copy"
+msgstr "Copiar"
+
+#: Difference
+msgid "Différence"
+msgstr "Diferença absoluta"
+
+#: Divide
+msgid "Divide"
+msgstr "Dividir"
+
+#: Gamma
+msgid "Gamma"
+msgstr "Gama"
+
+#: Index
+msgid "index"
+msgstr "Índice"
+
+#: Max
+msgid "Max"
+msgstr "Máximo"
+
+#: Min
+msgid "Min"
+msgstr "Mínimo"
+
+#: Multiply
+msgid "Multiply"
+msgstr "Multiplicar"
+
+#: OR
+msgid "OR"
+msgstr "OU (lógico)"
+
+#: Subtract
+msgid "Subtract"
+msgstr "Subtrair"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "Copiar excepto Branco"
+
+#: Value
+msgid "value"
+msgstr "valor"
+
+#: XOR
+msgid "XOR"
+msgstr "OU exclusivo"

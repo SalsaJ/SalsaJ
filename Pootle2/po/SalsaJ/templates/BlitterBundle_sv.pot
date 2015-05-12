@@ -1,0 +1,77 @@
+#. extracted from ../templates/BlitterBundle.properties, ../resu/BlitterBundle_sv.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: Add
+msgid "Add"
+msgstr "Addera"
+
+#: AND
+msgid "AND"
+msgstr "OCH"
+
+#: Average
+msgid "Average"
+msgstr "Medelvärde"
+
+#: Copy
+msgid "Copy"
+msgstr "Kopiera"
+
+#: Difference
+msgid "Difference"
+msgstr "Absolut differens "
+
+#: Divide
+msgid "Divide"
+msgstr "Dividera"
+
+#: Gamma
+msgid "Gamma"
+msgstr "Gamma"
+
+#: Index
+msgid "index"
+msgstr "index"
+
+#: Max
+msgid "Max"
+msgstr "Maximum"
+
+#: Min
+msgid "Min"
+msgstr "Minimum"
+
+#: Multiply
+msgid "Multiply"
+msgstr "Multiplicera"
+
+#: OR
+msgid "OR"
+msgstr "ELLER "
+
+#: Subtract
+msgid "Subtract"
+msgstr "Subtrahera"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "Genomskinlig kopia "
+
+#: Value
+msgid "value"
+msgstr "värde"
+
+#: XOR
+msgid "XOR"
+msgstr "ELLER (exklusivt)"

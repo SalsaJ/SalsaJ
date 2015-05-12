@@ -1,0 +1,130 @@
+#. extracted from ../templates/ToolBundle.properties, ../resu/ToolBundle_pt.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-28 17:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: NewHint
+msgid "New Image"
+msgstr "Nova Imagem"
+
+#: OpenHint
+msgid "Open Image File"
+msgstr "Abrir Ficheiro de Imagem"
+
+#: SaveHint
+msgid "Save Image"
+msgstr "Guardar Imagem"
+
+#: SaveAsHint
+msgid "Save Image (new name, FITS format)"
+msgstr "Guardar Imagem (Formato FITS, novo nome)"
+
+#: PrintHint
+msgid "Print Image"
+msgstr "Imprimir Imagem"
+
+#: ClearHint
+msgid "Clear Selection"
+msgstr "Limpar Selecção"
+
+#: UndoHint
+msgid "Undo Last Operation"
+msgstr "Desfazer Última Operação"
+
+#: Mag+Hint
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: Mag-Hint
+msgid "Zoom Out"
+msgstr "Zoom para afastar"
+
+#: PhotometryHint
+msgid "Aperture Photometry"
+msgstr "Fotometria de Abertura"
+
+#: PhotometryAdjustHint
+msgid "Photometry Settings"
+msgstr "Parâmetros da Fotometria"
+
+#: ClearPhotometryHint
+msgid "Clear Photometry Results"
+msgstr "Apagar Resultados da Fotometria"
+
+#: InfoHint
+msgid "Online Documentation"
+msgstr "Documentação Online"
+
+#: RectSel
+msgid "Rectangular selection"
+msgstr "Selecção Rectangular"
+
+#: OvalSel
+msgid "Oval selection"
+msgstr "Selecção Oval"
+
+#: PolySel
+msgid "Polygon selection"
+msgstr "Selecção Poligonal"
+
+#: FreeSel
+msgid "Freehand selection"
+msgstr "Selecção Livre"
+
+#: StraightSel
+msgid "Straight line selection"
+msgstr "Selecção Rectilínea"
+
+#: SegSel
+msgid "Segmented line selection"
+msgstr "Selecção por Segmentos de Recta"
+
+#: FreeLineSel
+msgid "Freehand line selection"
+msgstr "Selecção Curvilínea"
+
+#: ProfileLineSel
+msgid "Profile selection"
+msgstr "Selecção por Linha de Perfil"
+
+#: CrosshairTool
+msgid "Pixel selection tool"
+msgstr "Selecção de Pixéis"
+
+#: WandTool
+msgid "Isovaluated selection tool"
+msgstr "Superfícies de Igual Intensidade"
+
+#: TextTool
+msgid "Text tool "
+msgstr "Texto "
+
+#: MagTool
+msgid "Magnifying glass"
+msgstr "Lupa"
+
+#: ScrollTool
+msgid "Scrolling tool"
+msgstr "Scroll"
+
+#: ColorTool
+msgid "Color picker...[K]"
+msgstr "Pipeta de Cor"
+
+#: AngleTool
+msgid "Angle tool"
+msgstr "Selecção Angular"
+
+#. #BrightnessContrastHint
+#: BrightnessContrastHint
+msgid "Brightness & Contrast"
+msgstr "Brilho & Contraste"

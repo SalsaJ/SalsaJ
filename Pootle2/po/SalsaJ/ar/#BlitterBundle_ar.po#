@@ -1,0 +1,81 @@
+#. extracted from BlitterBundle_en.properties, BlitterBundle_ar.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-14 19:11+0200\n"
+"PO-Revision-Date: 2012-06-27 16:44+0200\n"
+"Last-Translator: Mouad <Mouad.Bahi@obspm.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: Add
+msgid "Add"
+msgstr "œô­ãœô­öœô®¡"
+
+#: AND
+msgid "AND"
+msgstr "œô®¨"
+
+#: Average
+msgid "Average"
+msgstr "œô®¥œô­êœô®¨œô­óœô­÷"
+
+#: Copy
+msgid "Copy"
+msgstr "œô®¦œô­óœô­î"
+
+#~ #: Difference
+#~ #, fuzzy
+#~ msgid "Différence"
+#~ msgstr "œô®¡œô­ñœô®¢"
+
+#: Divide
+msgid "Divide"
+msgstr "œô®¢œô­óœô®¥œô­é"
+
+#: Gamma
+msgid "Gamma"
+msgstr "œô­úœô­çœô®¥œô­ç"
+
+#: Index
+msgid "index"
+msgstr "œô®¥œô­äœô­ôœô­ñ"
+
+#: Max
+msgid "Max"
+msgstr "œô­çœô®¤œô®£œô­èœô­ñœô®©"
+
+#: Min
+msgid "Min"
+msgstr "œô­çœô®¤œô­õœô­úœô­ñœô®©"
+
+#: Multiply
+msgid "Multiply"
+msgstr "œô­öœô­ñœô­è"
+
+#: OR
+msgid "OR"
+msgstr "œô­ãœô®¨"
+
+#: Subtract
+msgid "Subtract"
+msgstr "œô­÷œô­ñœô­í"
+
+#: Transparent
+msgid "Copy except White"
+msgstr "œô­ãœô®¦œô®¢œô®¤ œô­åœô®¤œô­ç œô­çœô®¤œô­ãœô­èœô®ªœô­ö"
+
+#: Value
+msgid "value"
+msgstr "œô®¢œô®ªœô®¥œô­é"
+
+#: XOR
+msgid "XOR"
+msgstr "œô­ãœô®¨ œô­íœô­õœô­ñœô®ª"

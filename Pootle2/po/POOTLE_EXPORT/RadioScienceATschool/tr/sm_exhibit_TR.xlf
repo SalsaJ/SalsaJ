@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sm_exhibit_TR.po" source-language="en-US" datatype="plaintext" target-language="tr">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="receive radio wave">
+        <source>receive radio wave</source>
+        <target state="translated">radyo dalgasını almak</target>
+        <note from="translator"> Thank you for your help to translate this file.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Sun is our star: a gigantic ball of gas, the Sun is shining because of nuclear reactions. Its temperature is very high: several thousands of degrees.">
+        <source>The Sun is our star: a gigantic ball of gas, the Sun is shining because of nuclear reactions. Its temperature is very high: several thousands of degrees.</source>
+        <target state="translated">Yıldızımız olan Güneş: gazdan dev bir top, gerçekleşen nükleer reaksiyonlarından dolayı parlıyor. Sıcaklığı çok yüksek: binlerce dereceye ulaşıyor.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="THE FM RADIO FROM STARS">
+        <source>THE FM RADIO FROM STARS</source>
+        <target state="translated">THE FM RADIO FROM STARS</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="So stars are emitting radio waves... ?">
+        <source>So stars are emitting radio waves... ?</source>
+        <target state="translated">Yani yıldızlar radyo dalgalarımı yayıyorlar... ?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="If we  could tune a radio to the FM frequency of 160MHz, we could hear... the Sun ! What a weird music!">
+        <source>If we  could tune a radio to the FM frequency of 160MHz, we could hear... the Sun ! What a weird music!</source>
+        <target state="translated">Eğer biz  radyomuzun FM frekansını 160MHz e ayarlayabilseydik, güneşi... duyuyor olurduk ! Ne garip bir müzik!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="the horsehead nebula">
+        <source>the horsehead nebula</source>
+        <target state="translated">atbaşı bulutlusu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="6000.C">
+        <source>6000.C</source>
+        <target state="translated">6000.C</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="QUIZZ">
+        <source>QUIZZ</source>
+        <target state="translated">QUIZZ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="During World War II, a plane could hide from radar while flying facing the sun.">
+        <source>During World War II, a plane could hide from radar while flying facing the sun.</source>
+        <target state="translated">II. Dünya Savaşı sırasında, bir uçak güneşe bakacak şekilde uçtuğunda radardan gizlenebiliyordu.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="True or False?">
+        <source>True or False?</source>
+        <target state="translated">Doğru yada Yanlış?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="THE radio WAVES: invisible WAVEs that are not SOUND waves">
+        <source>THE radio WAVES: invisible WAVEs that are not SOUND waves</source>
+        <target state="translated">THE radio WAVES: invisible WAVEs that are not SOUND waves
+Radyo dalgaları ses dalgası gibi yayılmayan görünmez dalgalardır</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="We receive radio waves from the Universe, but what can we actually hear?">
+        <source>We receive radio waves from the Universe, but what can we actually hear?</source>
+        <target state="translated">Evrenden gele radyo dalgalarını alıyoruz, fakat gerçekte ne duyabiliyoruz?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="It doesnt matter: nobody is listening to the stars. In fact, stellar radio waves are used to take a picture, more like a radar.">
+        <source>It doesnt matter: nobody is listening to the stars. In fact, stellar radio waves are used to take a picture, more like a radar.</source>
+        <target state="translated">Önemli değil: kimse yıldızları dinlemiyor. Aslıda yıldızsal radyo dalgaları bir resim çekmek için kullanılıyor, daha fazla bir radar gibi.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radio astronomers listen to the stars with headphones.">
+        <source>Radio astronomers listen to the stars with headphones.</source>
+        <target state="translated">Radyo gökbilimcileri kulaklıkları ile yıldız dinler.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Let's compare Stars in the radio and optical domain">
+        <source>Let's compare Stars in the radio and optical domain</source>
+        <target state="translated">Gelin yıldızları radyo ve optik etki alanlarında karşılaştıralım</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Our eyes can see visible light from stars: we see the colors inside a  rainbow. Our sun is yellow, but red stars, blue, white, brown, ... also exist!">
+        <source>Our eyes can see visible light from stars: we see the colors inside a  rainbow. Our sun is yellow, but red stars, blue, white, brown, ... also exist!</source>
+        <target state="translated">Yıldızlarda gelen görünür ışıkları gözlerimiz algılayabiliyor: bir gökkuşağının içindeki  rekleri görebiliriz. Güneşimiz sarı rekte fakat kırmızı yıldızlar, mavi, beyaz, kahverengi, ... olanlar da bulunuyor!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radio waves can be used to detect invisible galaxies.">
+        <source>Radio waves can be used to detect invisible galaxies.</source>
+        <target state="translated">Radyo dalgaları görünemeyen galaksileri keşfetmek için kullanılabilir.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The radio of the stars is not very melodious. It is emitted by the atoms and the molecules of gas that are heated by the stars. Its more like a kind of noise, like the scratchy sound of an old vinyl record.">
+        <source>The radio of the stars is not very melodious. It is emitted by the atoms and the molecules of gas that are heated by the stars. Its more like a kind of noise, like the scratchy sound of an old vinyl record.</source>
+        <target state="translated">Yıldızlardan gelen radyo dalgaları çok melodik değildir. Bu dalgalar yıldılar tarafından ısıtılan atomlar ve gaz moleküllerinden yayınlanırlar. Bu dalgalar daha çok bir çeşit gürültüdür, eski bir plak çalardan çıkan cızırtı sesi gibidir.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radio waves show us parts of planets and galaxies, in particular where atoms and molecules of hydrogen and carbon monoxide lie. For the Sun, radio waves show magnetic storms, in the form of spots on its surface.">
+        <source>Radio waves show us parts of planets and galaxies, in particular where atoms and molecules of hydrogen and carbon monoxide lie. For the Sun, radio waves show magnetic storms, in the form of spots on its surface.</source>
+        <target state="translated">Radyo dalgaları bizlere gezegenlerin ve galaksilerin bölümlerini gösterirler, özellikle hidrojen ve karbonmonoksit moleküllerin ve atomların bulunduğu bölgeleri gösterirler. Güneşimiz için radyo dalgaları bizlere manyetik fırtınaları yüzeydeki leke formunda gösterirler.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="MAGNETIC FIELDS">
+        <source>MAGNETIC FIELDS</source>
+        <target state="translated">MAGNETIC FIELDS</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The song of stars?">
+        <source>The song of stars?</source>
+        <target state="translated">Yıldızların şarkısı?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="exoplanets">
+        <source>exoplanets</source>
+        <target state="translated">ötegezegenler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pulsars, the radio lighthouse of the Universe">
+        <source>pulsars, the radio lighthouse of the Universe</source>
+        <target state="translated">pulsarlar, Evrenin radyo feneri</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="In 1054 BC, the chinese people were able to observe a bright new star in the sky: it was a supernovae explosion. A millenium later, we can observe a beautiful nebula in the same place: the Crab nebula. At its very center lies a peculiar star: a pulsar.">
+        <source>In 1054 BC, the chinese people were able to observe a bright new star in the sky: it was a supernovae explosion. A millenium later, we can observe a beautiful nebula in the same place: the Crab nebula. At its very center lies a peculiar star: a pulsar.</source>
+        <target state="translated">M.Ö. 1054 yılında, Çinde insanlar gökyüzünde parlak yeni bir yıldız gözlemledi: bu bir süpernova patlamasıydı. Bin yıl sonra biz aynı yerde güzel bir bulutsu gözlemleyebiliyoruz: Yengeç Bulutsusu. Onun merkezinde tuhaf bir yıldız yatıyor: bir pulsar.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The pulsar signals come from extra-terrestrials">
+        <source>The pulsar signals come from extra-terrestrials</source>
+        <target state="translated">Pulsarın sinyalleri dünyanın dışında geliyor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SUPERNOVAE">
+        <source>SUPERNOVAE</source>
+        <target state="translated">SUPERNOVAE</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Like a spinning top, a pulsar is rotating around">
+        <source>Like a spinning top, a pulsar is rotating around</source>
+        <target state="translated">Bir pulsar, etrafında dönen bir top gibi dönüyor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radio emission from the Sun">
+        <source>Radio emission from the Sun</source>
+        <target state="translated">Güneşten gelen radyo yayını</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Optical emission from the Sun">
+        <source>Optical emission from the Sun</source>
+        <target state="translated">Güneşten gelen optiksel yayın</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Comparing the strength of the signal coming from the stars to that of a mobile phone">
+        <source>Comparing the strength of the signal coming from the stars to that of a mobile phone</source>
+        <target state="translated">Yıldızlardan gelen sinyal gücünün bir cep telefonu sinyal gücü ile karşılaştırılması</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="At full power, a mobile phone can emit up to 1 Watt. The antenna of the phone compagnies mounted on the roofs of some buildings are very small : they only measure 1 meter, and thats enough to transmit the radio signal.">
+        <source>At full power, a mobile phone can emit up to 1 Watt. The antenna of the phone compagnies mounted on the roofs of some buildings are very small : they only measure 1 meter, and thats enough to transmit the radio signal.</source>
+        <target state="translated">Bir cep telefonu tam güçte 1 Watt'a kadar yayın yapabilir. Bazı binaların çatılarına monte edilen cep telefon şirketlerinin antenleri çok kısadır : onlar sadece 1 metre boyunda ve bu boy radyo sinyalini iletmek için yeterlidir.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="A mobile phone can perturb the signal of a radio telescope.">
+        <source>A mobile phone can perturb the signal of a radio telescope.</source>
+        <target state="translated">Bir cep telefonu radyo teleskop sinyalini karıştırtırabilir.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="To receive radio waves from stars, SWITCH OFF YOUR MOBILE">
+        <source>To receive radio waves from stars, SWITCH OFF YOUR MOBILE</source>
+        <target state="translated">Yıldızlardan gelen radyo dalgaları almak için, CEP TELEFONUNUZU KAPATIN -SWITCH OFF YOUR MOBILE</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="In contrast, to receive radio signal from stars, radio astronomers have to use huge antennas, of a size up to 300 meter. For example galaxies that are emitting radio waves are very far away (millions of light-years). As a result, the signal arriving on earth is very weak.">
+        <source>In contrast, to receive radio signal from stars, radio astronomers have to use huge antennas, of a size up to 300 meter. For example galaxies that are emitting radio waves are very far away (millions of light-years). As a result, the signal arriving on earth is very weak.</source>
+        <target state="translated">Buna karşın, yıldızlardan gelen radyo sinyali almak için, radyo gökbilimciler 300 metre boyutlarına ulaşan büyük antenler kullanmak zorunda. Örneğin radyo dalgaları yayan galaksiler çok (milyonlarca ışık-yılı) uzakta bulunurlar. Bunun sonucunda, dünya üzerine gelen sinyaller çok zayıftır.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="How to receive the weak radio waves of the stars : with Huge radio telescopes">
+        <source>How to receive the weak radio waves of the stars : with Huge radio telescopes</source>
+        <target state="translated">Zayıf radyo dalgaları yıldızlardan nasıl alacaksınız : Kocaman radyo teleskoplar ile</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="For that reason, astronomers build huge radio telescopes. It allows the study of galaxies very far away, at billion of light-years from Earth. The form of the dish can vary depending on the location and the cost.">
+        <source>For that reason, astronomers build huge radio telescopes. It allows the study of galaxies very far away, at billion of light-years from Earth. The form of the dish can vary depending on the location and the cost.</source>
+        <target state="translated">Bu nedenle astronomlar büyük radyo teleskop inşa ederler. Bu teleskoplar onlara Dünya'dan milyarlarca ışık yılı uzaklıktaki galaksileri çalışma olanağı sağlar. Kullanılacak çanağın formu, konuma ve maliyetine göre değişebilir.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="With a dish twice as big, one can receive a signal two times stronger.">
+        <source>With a dish twice as big, one can receive a signal two times stronger.</source>
+        <target state="translated">İki kat daha büyük bir çanak ile, iki kat daha güçlü bir sinyal alabilirsiniz.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="TELESCOPE">
+        <source>TELESCOPE</source>
+        <target state="translated">TELESCOPE</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The bigger the antenna is, the more sensitive it is to radio waves. The satellite dishes used for receiving the television signal illustrate that very well: a big dish receives a better signal.">
+        <source>The bigger the antenna is, the more sensitive it is to radio waves. The satellite dishes used for receiving the television signal illustrate that very well: a big dish receives a better signal.</source>
+        <target state="translated">Daha büyük anten, radyo dalgalarına daha duyarlı bir anten demektir. Televizyon sinyali almak için kullanılan çanak antenler bu durumu çok iyi göstermektedir: büyük bir çanak daha iyi bir sinyal alır.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Arecibo (Puerto Rico, Caribbean Sea) 305 m in diameter">
+        <source>Arecibo (Puerto Rico, Caribbean Sea) 305 m in diameter</source>
+        <target state="translated">Arecibo (Porto Riko, Karayip Denizi) çapı 305 m</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Nancay (France) 300 m of length">
+        <source>Nancay (France) 300 m of length</source>
+        <target state="translated">Nancay (Fransa) 300 m uzunluğunda</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Green Bank (United States) 105 m in diameter">
+        <source>Green Bank (United States) 105 m in diameter</source>
+        <target state="translated">Green Bank (ABD) 105 m çapında</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ANTENNAE">
+        <source>ANTENNAE</source>
+        <target state="translated">ANTENNAE</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="the Sun">
+        <source>the Sun</source>
+        <target state="translated">Güneş</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radar sreen - NAVY (USA)">
+        <source>Radar sreen - NAVY (USA)</source>
+        <target state="translated">Radar ekranı - NAVY (USA)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="In addition to bring us light, the Sun emits radio waves, in all the FM band, and beyond! Besides, the Suns emission is more powerful than any of our FM radios. But our favorite FM emitters are only a few km away, whereas the Sun is very far from the Earth: at 150 million km! The signal coming from the Sun is therefore too weak to actually prevent us from listening to our favourite radio stations. PHEW!">
+        <source>In addition to bring us light, the Sun emits radio waves, in all the FM band, and beyond! Besides, the Suns emission is more powerful than any of our FM radios. But our favorite FM emitters are only a few km away, whereas the Sun is very far from the Earth: at 150 million km! The signal coming from the Sun is therefore too weak to actually prevent us from listening to our favourite radio stations. PHEW!</source>
+        <target state="translated">Bize ışık göndermenin yanı sıra, Güneş tüm FM bandında ve ötesinde radyo dalgaları yayar.  Ayrıca, Güneşin yaydığı dalgalar bizim kullandığımız FM radyo dalgalarının herhangi birinden çok daha güçlüdür. Fakat bizim en sevdiğimiz FM vericilerin sadece bir kaç km lik yayın alanı vardır. Oysa Güneş, Dünya'dan çok uzak: 150 milyon km! Bu nedenle Güneş'ten gelen sinyaller aslında bizim en sevdiğimiz radyo kanallarını dinlememizi engellemek için çok zayıf. Vay be!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The radio waves from stars can, as FM radio, be received anytime, day and night, whereas their bright light can only be seen at night, when the Sun has set.">
+        <source>The radio waves from stars can, as FM radio, be received anytime, day and night, whereas their bright light can only be seen at night, when the Sun has set.</source>
+        <target state="translated">Yıldızlardan yayınlanan radyo dalgaları FM radyo dalgaları gibi herhangi bir zaman, gece ve gündüz, algılanabilir. Oysa onların yaydığı parlak ışık, sadece akşam, Günes battıktan sonra algılanabilir.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="One galaxy can host billions of stars. In some galaxies, the center is buried deep inside lots of dust clouds that shield the light from the galaxy. But radio waves can pierce through the clouds and thus can be observed. This is called a  radiogalaxy.">
+        <source>One galaxy can host billions of stars. In some galaxies, the center is buried deep inside lots of dust clouds that shield the light from the galaxy. But radio waves can pierce through the clouds and thus can be observed. This is called a  radiogalaxy.</source>
+        <target state="translated">Bir galaksi milyarlarca yıldız barındırabilir. Bazı galaksilerin, merkezi çok derinlerde galaksiden gelen ışığa kalkan olan toz bulutlarıyla gömülüdür. Ama radyo dalgaları bulutları delip geçebilir ve bu nedenle görülebilir. Bu, bir  radiogalaxy olarak adlandırılır.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="1 m">
+        <source>1 m</source>
+        <target state="translated">1 m</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="25 m">
+        <source>25 m</source>
+        <target state="translated">25 m</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="1 light-year is the distance traveled by light in 1 year: it's a huge distance! The light travels very fast: 300 000 km per second! At this speed, you could get to the Moon in 1seconde, and to the Sun in 8minutes...  and to the Andromeda galaxy in 2million years !">
+        <source>1 light-year is the distance traveled by light in 1 year: it's a huge distance! The light travels very fast: 300 000 km per second! At this speed, you could get to the Moon in 1seconde, and to the Sun in 8minutes...  and to the Andromeda galaxy in 2million years !</source>
+        <target state="translated">1 ışık yılı ışığın 1 yıl içinde aldığı yoldur: bu çok büyük bir mesafedir! Işık çok hızlı gidiyor: saniyede 300 000 km! Bu hızda yapılan yolculuk ile 1 saniyede Aya ve 8 dakikada ise Güneşe varabilirsiniz...  ve 2 milyon yılda da Andromeda galaksisine !</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="If you compare the signal coming from the Sun and the signal from a mobile phone, the signal of the mobile phone is a billion time stronger ">
+        <source>If you compare the signal coming from the Sun and the signal from a mobile phone, the signal of the mobile phone is a billion time stronger </source>
+        <target state="translated">Bir cep telefonundan gelen sinyali Güneş'ten gelen sinyal ile karşılaştırsak, cep telefonu sinyalinin bir milyar kez daha güçlü olduğu buluruz </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Effelsberg (Germany) 100 m in diameter">
+        <source>Effelsberg (Germany) 100 m in diameter</source>
+        <target state="translated">Effelsberg (Almanya) 100 m çapında</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Future of radioastronomy: radio telescopes for  amateurs in Europe">
+        <source>The Future of radioastronomy: radio telescopes for  amateurs in Europe</source>
+        <target state="translated">Radyoastronominin geleceği:  amatörler için radyo teleskobu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="A European network of radio telescope is currently under development for the student in secondary schools.">
+        <source>A European network of radio telescope is currently under development for the student in secondary schools.</source>
+        <target state="translated">Avrupa ağına bağlı bir radyo teleskobu ortaöğretim okullarında öğrenci için gelişim aşamasındadır.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="A small telescope is easy to buy... but what about a small radio telescope?">
+        <source>A small telescope is easy to buy... but what about a small radio telescope?</source>
+        <target state="translated">Küçük bir teleskobu satın almak kolay... fakat küçük bir radyo telekobu için ne demeli?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Two prototypes of 2,3m in diameter were developed in the EU-HOU project: www.euhou.net by the Onsala observatory in Sweden. It has been used in European classrooms since 2005 via Internet. With these radio telescopes, it is possible to observe the gas of the Milky Way, even in big cities, and even in daylight.">
+        <source>Two prototypes of 2,3m in diameter were developed in the EU-HOU project: www.euhou.net by the Onsala observatory in Sweden. It has been used in European classrooms since 2005 via Internet. With these radio telescopes, it is possible to observe the gas of the Milky Way, even in big cities, and even in daylight.</source>
+        <target state="translated">İsveç'te Onsala gözlemevi tarafından: www.euhou.net çapı 2,3 m olan iki prototip EU-HOU projesi geliştirilmiştir. Bu proje 2005 yılından beri Avrupada internet yoluyla derslik kullanılmaktadır. Bu radyo teleskoplar ile, büyük şehirlerde ve hatta gün ışığında bile Samanyolu'nundaki gazları gözlemlemek mümkündür.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Can we contribute to find intelligent life in the Universe? ">
+        <source>Can we contribute to find intelligent life in the Universe? </source>
+        <target state="translated">Evren'de zeki yaşam formlarını bulmak için bizde katkıda bulunabilirmiyiz? </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Thanks to the Internet, it will be soon possible to observe the gas of the Milky Way with a radio telescope from any European classroom.">
+        <source>Thanks to the Internet, it will be soon possible to observe the gas of the Milky Way with a radio telescope from any European classroom.</source>
+        <target state="translated">İnternet sayesinde, herhangi bir Avrupa sınıfından bir radyo teleskobu ile Samanyolu'da gaz gözlemlemek yakında mümkün olacaktır.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="EU-HOU project">
+        <source>EU-HOU project</source>
+        <target state="translated">EU-HOU projesi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Yes: with a clever screensaver system installed on their computers, more that 3 million users contribute to search for intelligent signal from the galaxy. It is the program  SETI @ HOME. To get involved, see setiathome.berkeley.edu">
+        <source>Yes: with a clever screensaver system installed on their computers, more that 3 million users contribute to search for intelligent signal from the galaxy. It is the program  SETI @ HOME. To get involved, see setiathome.berkeley.edu</source>
+        <target state="translated">Evet: bilgisayarlarında yüklü akıllı bir ekran koruyucu sistemi ile, 3 milyondan fazla kullanıcı galaksiden akıllı sinyal aramak için katkıda bulunuyor. Bu program  SETI @ HOME. Katılmak için, bkz setiathome.berkeley.edu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SETI">
+        <source>SETI</source>
+        <target state="translated">SETI</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Onsala (Sweden) Small antenna of 2,3m in diameter">
+        <source>Onsala (Sweden) Small antenna of 2,3m in diameter</source>
+        <target state="translated">Onsala (İsveç) 2,3m çapında küçük anten</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Exobiology Searching for Life in the Universe">
+        <source>Exobiology Searching for Life in the Universe</source>
+        <target state="translated">Exobiology Evrende canlıların varlığını inceleyen bilim dalı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Some antennae are used to listen to extraterrestrial signals, in case they really exist.">
+        <source>Some antennae are used to listen to extraterrestrial signals, in case they really exist.</source>
+        <target state="translated">Bazı antenler, gerçekte var olma durumda, dünyadışı sinyallere kulak vermek için kullanılır.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="There are planets orbiting around the Sun: The Solar System. In order: Mercure, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune.">
+        <source>There are planets orbiting around the Sun: The Solar System. In order: Mercure, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune.</source>
+        <target state="translated">Güneş çevresinde dolanan gezegenler vardır: Güneş Sistemi. Sırasıyla: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs ve Neptün.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="In 1992, a Polish researcher, Alex Wolszcan, observe the pulsar (bip bip bip) PSR 1257+12 with the Arecibo radio telescope. To his great surprise, he discover the first planetary system beyond the Sun: extrasolar planets! These new planets are particularly interesting because they are like the Earth. But they are so far away, 900 light-years, that we wont get much more information for a long time!">
+        <source>In 1992, a Polish researcher, Alex Wolszcan, observe the pulsar (bip bip bip) PSR 1257+12 with the Arecibo radio telescope. To his great surprise, he discover the first planetary system beyond the Sun: extrasolar planets! These new planets are particularly interesting because they are like the Earth. But they are so far away, 900 light-years, that we wont get much more information for a long time!</source>
+        <target state="translated">Polonyalı bir araştırmacı, 1992 yılında, Alex Wolszcan, Arecibo radyo teleskobu ile pulsar (Bip Bip bip) PSR 1257 +12 gözlemler. Güneş'in ötesinde ilk gezegen sistemi keşfetmesi onun için büyük sürpriz oldu! Güneşdışı gezegenler: Bu yeni gezegenler özellikle ilginçtir çünkü onlar Dünya'ya benziyorlar. Ama uzun bir süre onlardan çok daha fazla bilgi alamayacak kadar çok uzaktalar. 900 ışık yılı!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fortunately, since then more than 300 extrasolar planets have been discovered. They are everywhere inside our Galaxy. Maybe some day we will discover life on one of these planets. Life could be brought by comets travelling through space. On Earth, comets brought complex molecules that played a role in the development of life.">
+        <source>Fortunately, since then more than 300 extrasolar planets have been discovered. They are everywhere inside our Galaxy. Maybe some day we will discover life on one of these planets. Life could be brought by comets travelling through space. On Earth, comets brought complex molecules that played a role in the development of life.</source>
+        <target state="translated">Neyse ki, o günden bu yana 300'den fazla güneşdışı gezegen keşfedildi. Onlar Galaksimizin içinde her yerdeler. Belki bir gün bu gezegenlerden birininde hayat keşfedeceğiz. Yaşam uzayda yolculuk eden kuyruklu yıldızlardan tarafından getirilmiş olabilir. Kuyruklu yıldızlar, Dünya üzerine, karmaşık moleküller getirerek hayatın gelişmesinde önemli bir rol oynadı.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="planetes">
+        <source>planetes</source>
+        <target state="translated">gezegenler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Observatories, High technology inside">
+        <source>Observatories, High technology inside</source>
+        <target state="translated">Gözlemevleri, Yüksek teknoloji içerir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="With a radio telescope the size of the Earth, its possible to observe a planet the size of Jupiter somewhere else in our Galaxy, at many light-years from us.">
+        <source>With a radio telescope the size of the Earth, its possible to observe a planet the size of Jupiter somewhere else in our Galaxy, at many light-years from us.</source>
+        <target state="translated">Dünyanın büyüklüğünde bir radyoteleskobu ile, Galaksimiz içinde bir yerde, bir çok ışık yılı uzaklıkta Jüpite büyüklüğünde bir gezegeni gözlemleyebiliriz.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FOREST of antennae">
+        <source>FOREST of antennae</source>
+        <target state="translated">FOREST antenlerin ormanı</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="With a digital camera, there is more detail when there are more pixels. In the same way, we can use a network of radio telescopes to increase the detail: the more antennas you have, the more precise you get!">
+        <source>With a digital camera, there is more detail when there are more pixels. In the same way, we can use a network of radio telescopes to increase the detail: the more antennas you have, the more precise you get!</source>
+        <target state="translated">Bir dijital kamerada, daha fazla piksel olduğunda daha fazla ayrıntı vardır. Aynı şekilde, detayı artırmak için radyo teleskoplar ile bir ağ kullanabiliriz: Ne kadar çok antenin varsa, detayların o kadar kesin olur!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="To see more details in distant galaxies, forests of radio antennae are built around the world: 27 antennae for the VLA in New Mexico (USA), 30 antennas in Pune (India), 64 antennas in the Andes (Chile).">
+        <source>To see more details in distant galaxies, forests of radio antennae are built around the world: 27 antennae for the VLA in New Mexico (USA), 30 antennas in Pune (India), 64 antennas in the Andes (Chile).</source>
+        <target state="translated">Uzak galaksilerdeki daha fazla ayrıntıyı yakalamak için, dünyanın etrafında yoğun sayıda radyo antenleri inşa ediliyor: Meksika (ABD) da VLA için 27 anten, 30 anten Pune (Hindistan) da, 64 anten Andes (Şili) de.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The radio signal from the antennas is mixed and analysed by very powerful computer. We can even mix the signal from antennae located on different continents to simulate a giant antenna the size of the Earth!">
+        <source>The radio signal from the antennas is mixed and analysed by very powerful computer. We can even mix the signal from antennae located on different continents to simulate a giant antenna the size of the Earth!</source>
+        <target state="translated">Antenlerden gelen radyo sinyali çok güçlü bir bilgisayar tarafından karıştırılır ve analiz edilir. Dev bir anten boyutu simüle etmek için Dünya'nın farklı kıtalarında bulunan antenlerden gelen sinyalleri bile karıştırabiliriz!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The first radio antenna radars were actually built by the military during World War II: they could listen to the Sun!">
+        <source>The first radio antenna radars were actually built by the military during World War II: they could listen to the Sun!</source>
+        <target state="translated">İlk radyo anteni radarlar aslında İkinci Dünya Savaşı sırasında ordu tarafından inşa edildi: Onlar Güneşi dinleyebiliyordu!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="the Solar System">
+        <source>the Solar System</source>
+        <target state="translated">Güneş Sistemi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="the regular signal received from a pulsar">
+        <source>the regular signal received from a pulsar</source>
+        <target state="translated">bir pulsardan alınan düzenli sinyal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ALMA (Chile)">
+        <source>ALMA (Chile)</source>
+        <target state="translated">ALMA (Şili)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Plateau de Bure (Alpes)">
+        <source>Plateau de Bure (Alpes)</source>
+        <target state="translated">Plateau de Bure (Alpler)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SKA (in project)">
+        <source>SKA (in project)</source>
+        <target state="translated">SKA (proje aşamasında)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="des radiotelescopes pour capter les ondes de le univers">
+        <source>des radiotelescopes pour capter les ondes de le univers</source>
+        <target state="translated">evrendeki dalgaları almak için radyoteleskoplar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Credits :Observatoire de Paris Sciences a l'école NASA, ESO, ESA Conception and implementation : Olivier Marco, Aurore Mathon, Yannick Libert">
+        <source>Credits :Observatoire de Paris Sciences a l'école NASA, ESO, ESA Conception and implementation : Olivier Marco, Aurore Mathon, Yannick Libert</source>
+        <target state="translated">Katkıda Bulunanlar :Observatoire de Paris Sciences a l'école NASA, ESO, ESA Tasarım ve Uygulama : Olivier Marco, Aurore Mathon, Yannick Libert</target>
+        <note from="translator">add the name of the translator here</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Radio wave emitted by the galaxy M87">
+        <source>Radio wave emitted by the galaxy M87</source>
+        <target state="translated">Galaksi M87 yaydığı radyo dalgası</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The Crab nebula- M1 the remains of a supernova explosion.">
+        <source>The Crab nebula- M1 the remains of a supernova explosion.</source>
+        <target state="translated">Yengeç Bulutsusu- M1 bir süpernova patlaması kalıntısı.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Receive Galactic Signal">
+        <source>Receive Galactic Signal</source>
+        <target state="translated">Galaktik Sinyal Alma</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SUN radio">
+        <source>SUN radio</source>
+        <target state="translated">SUN radyo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="atoms">
+        <source>atoms</source>
+        <target state="translated">atomlar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Very Large Array, USA">
+        <source>Very Large Array, USA</source>
+        <target state="translated">Very Large Array, USA</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="international collaboration">
+        <source>international collaboration</source>
+        <target state="translated">uluslararası işbirliği</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="radiotelescopes tuned up to the Universe">
+        <source>radiotelescopes tuned up to the Universe</source>
+        <target state="translated">Evrene ayarlanmış radyoteleskoplar</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
