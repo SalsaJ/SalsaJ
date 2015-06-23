@@ -144,8 +144,10 @@ public class FitsDecoder {
                 cdelt2 = getFloat(s);
             } else if (s.startsWith("CDELT3")) {
                 cdelt3 = getFloat(s);
-            } else if (s.startsWith("VELO-LSR") || s.startsWith("VLSR")) {
+		//} else if (s.startsWith("VELO-LSR") || s.startsWith("VLSR")) {
+	    } else if (s.startsWith("VELO-LSR")) {
                 velolsr = getFloat(s);
+		// System.out.print("DEBUG FITSDecoder velolsr="+velolsr+"\n");
             } else if (s.startsWith("DELTAV")) {
                 deltav = getFloat(s);
 
