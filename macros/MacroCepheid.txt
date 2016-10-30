@@ -1,100 +1,0 @@
-// An imageJ macro to be used with exercice 
-// Pour avoir les accents, enregistrer en format
-// OCCIDENTAL WINDOWS LATIN 1
-// sinon ça plante !
-
-setBatchMode(false);
-
-macroDir = getDirectory("macros");
-homeDir=getDirectory("home");
-
-print("Script to study the distance to the SMC with a cepheid");
-print("Load the image files and adjust the intensity thresholds");
-
-runMacro("Close_All_Windows.txt");
-
-path=macroDir+"images_cepheids/";
-file=path+"SMC-Cep-43522-1999-10-24-03-23-25.fits";
-open(file);file=path+"SMC-Cep-43522-1999-10-26-01-41-23.fits";
-open(file);file=path+"SMC-Cep-43522-1999-10-30-02-07-12.fits";
-open(file);file=path+"SMC-Cep-43522-1999-11-02-03-17-50.fits";
-open(file);file=path+"SMC-Cep-43522-1999-11-05-03-11-00.fits";
-open(file);file=path+"SMC-Cep-43522-1999-11-08-04-07-00.fits";
-open(file);file=path+"SMC-Cep-43522-1999-11-10-01-42-37.fits";
-open(file);file=path+"SMC-Cep-43522-1999-11-13-00-40-34.fits";
-open(file);file=path+"SMC-Cep-43522-1999-11-17-01-22-04.fits";
-open(file);file=path+"SMC-Cep-43522-1999-11-20-01-19-30.fits";
-open(file);file=path+"SMC-Cep-43522-1999-11-23-02-55-34.fits";
-open(file);file=path+"SMC-Cep-43522-1999-11-26-01-22-41.fits";
-open(file);file=path+"SMC-Cep-43522-1999-11-27-00-48-33.fits";
-open(file);file=path+"SMC-Cep-43522-1999-11-30-03-15-26.fits";
-open(file);file=path+"SMC-Cep-43522-1999-12-03-02-39-09.fits";
-open(file);file=path+"SMC-Cep-43522-1999-12-05-02-44-18.fits";
-open(file);file=path+"SMC-Cep-43522-1999-12-08-02-25-59.fits";
-open(file);file=path+"SMC-Cep-43522-1999-12-12-01-10-52.fits";
-open(file);file=path+"SMC-Cep-43522-1999-12-14-02-08-45.fits";
-open(file);file=path+"SMC-Cep-43522-1999-12-19-03-23-16.fits";
-open(file);
-
-run("Séparer");
-run("Tile");
-run("Kachel");
-run("Separar");
-run("Disponi tutto");
-run("Mosaico");
-run("Sida vid sida");
-run("Kaskada");
-
-// Propagates the display range of the current image
-//  to all open images of the same type.
-
-    if (nImages<=1) exit;
-    getMinAndMax(min, max);
-    depth = bitDepth();
-    if (depth==24) exit;
-    id = getImageID;
-    for (i=1; i<=nImages; i++) {
-         selectImage(i);
-//         if (depth==bitDepth && getImageID!=id)
-//             setMinAndMax(min, max);
-	 if (i==1) 
-	     setMinAndMax(777, 1314);
-	 if (i==2) 
-	     setMinAndMax(635, 1043);
-	 if (i==3) 
-	     setMinAndMax(560, 966);
-	 if (i==4) 
-	     setMinAndMax(393, 848);
-	 if (i==5) 
-	     setMinAndMax(478, 879);
-	 if (i==6) 
-	     setMinAndMax(367, 962);
-	 if (i==7) 
-	     setMinAndMax(573, 1036);
-	 if (i==8) 
-	     setMinAndMax(472, 917);
-	 if (i==9) 
-	     setMinAndMax(549, 984);
-	 if (i==10) 
-	     setMinAndMax(556, 1179);
-	 if (i==11) 
-	     setMinAndMax(857, 1509);
-	 if (i==12) 
-	     setMinAndMax(525, 785);
-	 if (i==13) 
-	     setMinAndMax(550, 1080);
-	 if (i==14) 
-	     setMinAndMax(604, 1129);
-	 if (i==15) 
-	     setMinAndMax(452, 838);
-	 if (i==16) 
-	     setMinAndMax(437, 966);
-	 if (i==17) 
-	     setMinAndMax(476, 1086);
-	 if (i==18) 
-	     setMinAndMax(551, 971);
-	 if (i==19) 
-	     setMinAndMax(372, 898);
-	 if (i==20) 
-	     setMinAndMax(601, 1236);
-    }
