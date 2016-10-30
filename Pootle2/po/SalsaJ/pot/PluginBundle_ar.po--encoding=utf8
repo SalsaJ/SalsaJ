@@ -1,1603 +1,0 @@
-#. extracted from ../templates/PluginBundle.properties, ../resu/PluginBundle_ar.properties
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-28 17:31+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
-
-#. ##GLOBAL SECTION
-#: Pixel
-msgid "pixel"
-msgstr "Ø¹ÙØµØ± ØµÙØ±Ø©"
-
-#: Pixels
-msgid "pixels"
-msgstr "Ø¹ÙØ§ØµØ± Ø§ÙØµÙØ±Ø©"
-
-#: Degrees
-msgid "degrees"
-msgstr "Ø¯Ø±Ø¬Ø§Øª"
-
-#: Open
-msgctxt "Open"
-msgid "Open"
-msgstr "Ø¥ÙØªØ­"
-
-#: MyApply1
-msgid "Apply"
-msgstr "ØªØ·Ø¨ÙÙ"
-
-#: Settings
-msgid "Settings"
-msgstr "Ø¶Ø¨Ø·"
-
-#: OpenText
-msgid "Open Text File..."
-msgstr "ÙØªØ­ Ø¬Ø°Ø§Ø°ÙØ© ÙØµ..."
-
-#: Height
-msgid "Height"
-msgstr "Ø§Ø±ØªÙØ§Ø¹"
-
-#: Width
-msgid "Width"
-msgstr "Ø¹Ø±Ø¶"
-
-#: NewWin
-msgid "Create New Window"
-msgstr "Ø¥ÙØ´Ø§Ø¡ ÙØ§ÙØ°Ø© Ø¬Ø¯ÙØ¯Ø©"
-
-#: List
-msgid "List"
-msgstr "ÙØ§Ø¦Ø­Ø©"
-
-#: Unit
-msgid "Unit"
-msgstr "ÙØ­Ø¯Ø©"
-
-#: None
-msgid "none"
-msgstr "ÙØ§ ÙØ§Ø­Ø¯"
-
-#: LeftCol
-msgid "Left column"
-msgstr "Ø§ÙØ¹ÙÙØ¯ Ø§ÙØ£ÙØ³Ø±"
-
-#: RightCol
-msgid "Right column"
-msgstr "Ø§ÙØ¹ÙÙØ¯ Ø§ÙØ£ÙÙÙ"
-
-#: Values
-msgid "values"
-msgstr "ÙÙÙ"
-
-#: File
-msgid "File"
-msgstr "Ø¬Ø°Ø§Ø°ÙØ©"
-
-#. ##NEW
-#: Title
-msgid "Title"
-msgstr "Title"
-
-#. # StackEditor
-#: StackReqErr
-msgid "Stack required"
-msgstr "ÙÙÙØ© ÙØ§Ø²ÙØ©"
-
-#: NoImgErr
-msgid "No images are open."
-msgstr "ÙØ§ ÙÙ ØµÙØ± ÙÙØªÙØ­Ø©."
-
-#: OneImgErr
-msgid "There must be at least two open images."
-msgstr ""
-"ÙØ¬Ø¨ Ø£Ù ØªÙÙÙ ÙÙØ§Ù Ø¹ÙÙ Ø§ÙØ£ÙÙ ØµÙØ±ØªØ§Ù "
-"ÙÙØªÙØ­ØªØ§Ù."
-
-#: ImgErr
-msgid "None of the open images can go in a stack."
-msgstr ""
-"ÙØ§ ÙÙÙÙ ÙØ£Ù ÙÙ Ø§ÙØµÙØ± Ø§ÙÙÙØªÙØ­Ø© Ø£Ù ØªÙØ¶Ø¹ ÙÙ "
-"Ø§ÙÙÙÙØ©."
-
-#: ImgTypeErr
-msgid "All open images must be the same type."
-msgstr ""
-"ÙØ¬Ø¨ Ø£Ù ØªÙÙÙ ÙÙ Ø§ÙØµÙØ± Ø§ÙÙÙØªÙØ­Ø© ÙÙ ÙÙØ³ "
-"Ø§ÙØµÙÙ."
-
-#: ImgSizeErr
-msgid "All open images must be the same size."
-msgstr ""
-"ÙØ¬Ø¨ Ø£Ù ØªÙÙÙ ÙÙ Ø§ÙØµÙØ± Ø§ÙÙÙØªÙØ­Ø© ÙÙ ÙÙØ³ "
-"Ø§ÙØ­Ø¬Ù."
-
-#: StackTitle
-msgid "Stack"
-msgstr "ÙÙÙØ©"
-
-#: ConvertTitle
-msgid "Convert to Images?"
-msgstr "Ø­ÙÙ Ø¥ÙÙ ØµÙØ±Ø"
-
-#: Convert1
-msgid ""
-"Are you sure you want to convert this\n"
-"stack to"
-msgstr ""
-"ÙÙ Ø£ÙØª ÙØªØ£ÙØ¯ (Ø©) Ø£ÙÙ ØªØ±ÙØ¯ ØªØ­ÙÙÙ ÙØ°Ù\n"
-" Ø§ÙÙÙÙØ© Ø¥ÙÙ"
-
-#: Convert2
-msgid "separate windows?"
-msgstr "ÙØµÙ Ø§ÙÙÙØ§ÙØ°Ø"
-
-#. # ImageCalculator
-#: TitleStr
-msgid "Image Calculator"
-msgstr "Ø­Ø§Ø³Ø¨Ø© Ø§ÙØµÙØ±"
-
-#: NoWinErr
-msgid "No windows are open."
-msgstr ".ÙØ§ ÙÙ ÙÙØ§ÙØ° ÙÙØªÙØ­Ø©"
-
-#: StackSizeErr
-msgid "Both stacks must have the same number of slices."
-msgstr ""
-".ÙØ¬Ø¨ Ø£Ù ÙÙÙÙ ÙÙÙØªØ§ Ø§ÙÙÙÙØªØ§Ù ÙÙØ³ Ø¹Ø¯Ø¯ Ø§ÙÙØ·Ø¹"
-
-#: OutOfMem
-msgid "Out of memory"
-msgstr "Ø°Ø§ÙØ±Ø© ØºÙØ± ÙØ§ÙÙØ©"
-
-#: Image1
-msgid "Image 1:"
-msgstr "ØµÙØ±Ø© 1:"
-
-#: Image2
-msgid "Image 2:"
-msgstr "ØµÙØ±Ø© 2:"
-
-#: Operation
-msgid "Operation:"
-msgstr "Ø¹ÙÙÙØ©:"
-
-#: NewResultTitle
-msgid "Result of"
-msgstr "ÙØªÙØ¬Ø© Ø§ÙÙ"
-
-#: ResultTitle
-msgid "Result"
-msgstr "ÙØªÙØ¬Ø©"
-
-#: Add
-msgctxt "Add"
-msgid "Add"
-msgstr "Ø¥Ø¶Ø§ÙØ©"
-
-#: Subtract
-msgid "Subtract"
-msgstr "Ø·Ø±Ø­"
-
-#: Multiply
-msgid "Multiply"
-msgstr "Ø¶Ø±Ø¨"
-
-#: Divide
-msgid "Divide"
-msgstr "ÙØ³ÙØ©"
-
-#: AND
-msgid "AND"
-msgstr "Ù"
-
-#: OR
-msgid "OR"
-msgstr "Ø£Ù"
-
-#: XOR
-msgid "XOR"
-msgstr "Ø£Ù Ø­ØµØ±Ù"
-
-#: Min
-msgid "Min"
-msgstr "ØµØ§ØºØ±"
-
-#: Max
-msgid "Max"
-msgstr "Ø£ÙØ¨Ø± ÙÙÙØ©"
-
-#: Gamma
-msgid "Gamma"
-msgstr "ØºØ§ÙØ§"
-
-#: Average
-msgid "Average"
-msgstr "ÙØªÙØ³Ø·"
-
-#: Difference
-msgid "Difference"
-msgstr "ÙØ±Ù"
-
-#: Copy
-msgid "Copy"
-msgstr "ÙØ³Ø®"
-
-#: Transparent
-msgid "Copy except White"
-msgstr "ÙÙÙ Ø¥ÙØ§ Ø§ÙØ£Ø¨ÙØ¶"
-
-#: Index
-msgid "index"
-msgstr "ÙØ¤Ø´Ø±"
-
-#: Value
-msgid "Value:"
-msgstr "ÙÙÙØ©:"
-
-#: BinValue
-msgid "Value (binary): "
-msgstr "ÙÙÙØ© (Ø«ÙØ§Ø¦ÙØ©) "
-
-#: BinValReqErr
-msgid "Binary number required"
-msgstr "Ø¹Ø¯Ø¯ Ø«ÙØ§Ø¦Ù ÙØ§Ø²Ù"
-
-#: Value01
-msgid "Value (0.1-5.0):"
-msgstr "ÙÙÙØ© (0.1-5.0)"
-
-#: GammaValErr
-msgid "Gamma must be between 0.1 and 5.0"
-msgstr "ÙØ¬Ø¨ Ø£Ù ØªÙÙÙ ØºØ§ÙØ§ Ø¨ÙÙ 0.1 Ù 5.0"
-
-#. # Selection
-#: Spline
-msgid "Spline"
-msgstr "Ø­Ø¯ÙØ¯ÙØ© ÙØ¬Ø§ÙÙØ©"
-
-#. ## PLUGIN/FRAME
-#. # PasteController
-#: FrameTitle
-msgid "Paste Control"
-msgstr "Ø¶Ø¨Ø· Ø§ÙÙÙÙ"
-
-#: TransferMode
-msgid "Transfer Mode:"
-msgstr "ÙÙØ· Ø§ÙØªØ­ÙÙÙ:"
-
-#. # ContrastAdjuster
-#: ContrastTitle
-msgid "Brightness & Contrast"
-msgstr "Ø§ÙÙÙØ¹Ø§Ù Ù Ø§ÙØ§Ø®ØªÙØ§Ù"
-
-#: WLTitle
-msgid "Window & Level"
-msgstr "Ø§ÙÙØ§ÙØ°Ø© Ù Ø§ÙÙØ³ØªÙÙ"
-
-#: ColorTitle
-msgctxt "ColorTitle"
-msgid "Color"
-msgstr "ÙÙÙ"
-
-#: Minimum
-msgid "Minimum"
-msgstr "Ø¯ÙÙØ§"
-
-#: Maximum
-msgid "Maximum"
-msgstr "ÙØµÙÙ"
-
-#: Brightness
-msgid "Brightness"
-msgstr "ÙÙØ¹Ø§Ù"
-
-#: Contrast
-msgid "Constrast"
-msgstr "Ø§Ø®ØªÙØ§Ù"
-
-#: Level
-msgid "Level:"
-msgstr "ÙØ³ØªÙÙ:"
-
-#: Window
-msgid "Window:"
-msgstr "ÙØ§ÙØ°Ø©:"
-
-#: Auto
-msgid "Auto"
-msgstr "ØªÙÙØ§Ø¦Ù"
-
-#: Reset
-msgid "Reset"
-msgstr "Ø±Ø¬ÙØ¹ Ø¥ÙÙ Ø§ÙÙÙÙ Ø§ÙØ¨Ø¯Ø¦ÙØ©"
-
-#: Set
-msgid "Set"
-msgstr "Ø­Ø¯Ø¯"
-
-#: MyApply2
-msgid "Apply "
-msgstr "Ø·Ø¨Ù"
-
-#: Thresh
-msgid "Thresh"
-msgstr "Ø¹ØªØ¨Ø©"
-
-#: Update
-msgid "Update"
-msgstr "ØªØ­Ø¯ÙØ«"
-
-#: AdjTypeErr
-msgid "Requires an 8-bit grayscale image or an RGB stack"
-msgstr ""
-"ØªØ³ØªÙØ²Ù ØµÙØ±Ø© Ø°Ø§Øª Ø³ÙÙ Ø±ÙØ§Ø¯Ù 8-Ø¨Øª Ø£Ù RGB ÙÙÙØ© "
-
-#: LUT1
-msgid "Apply LUT to all"
-msgstr "Ø·Ø¨Ù Ø¬Ø¯ÙÙ Ø§ÙØ£ÙÙØ§Ù Ø¹ÙÙ Ø§ÙÙÙ"
-
-#: LUT2
-msgctxt "LUT2"
-msgid "slices in the stack?"
-msgstr "ÙØ·Ø¹ ÙÙ Ø§ÙÙÙÙØ©Ø"
-
-#: RGB1
-msgid "Apply brightness and contrast settings to all"
-msgstr "Ø·Ø¨Ù Ø§ÙÙÙØ¹Ø§Ù Ù Ø§ÙØ§Ø®ØªÙØ§Ù Ø¹ÙÙ Ø§ÙÙÙ"
-
-#: RGB2
-msgctxt "RGB2"
-msgid "slices in the stack?"
-msgstr "ÙØ·Ø¹ ÙÙ Ø§ÙÙÙÙØ©Ø"
-
-#: SetMinMaxTitle
-msgid "Set Min and Max"
-msgstr "Ø­Ø¯Ø¯ Ø§ÙØ£ÙØ¨Ø± Ù Ø§ÙØ£ØµØºØ±"
-
-#: MinVal
-msgid "Minimum Displayed Value:"
-msgstr "Ø§ÙÙÙÙØ© Ø§ÙÙØ¹Ø±ÙØ¶Ø© Ø§ÙØ¯ÙÙØ§:"
-
-#: MaxVal
-msgid "Maximum Displayed Value:"
-msgstr "ÙÙÙÙØ© Ø§ÙÙØ¹Ø±ÙØ¶Ø© Ø§ÙÙØµÙÙ:"
-
-#: SetWLTitle
-msgid "Set W&L"
-msgstr "Ø­Ø¯Ø¯ W&L"
-
-#: WinCenter
-msgid "Window Center (Level):"
-msgstr "ÙØ±ÙØ² Ø§ÙÙØ§ÙØ°Ø©(ÙØ³ØªÙÙ):"
-
-#: WinWidth
-msgid "Window Width:"
-msgstr "Ø¹Ø±Ø¶ Ø§ÙÙØ§ÙØ°Ø©:"
-
-#: NoImg
-msgid "No Image"
-msgstr "ÙØ§ ØªÙØ¬Ø¯ ØµÙØ±Ø©"
-
-#. # Analyser
-#: SetMeasurementsTitle
-msgid "Set Measurements"
-msgstr "ØªØ­Ø¯ÙØ¯ Ø§ÙÙÙØ§Ø³Ø§Øª"
-
-#: measurements
-msgid "measurements"
-msgstr "ÙÙØ§Ø³Ø§Øª"
-
-#: Area
-msgid "Area"
-msgstr "ÙØ³Ø§Ø­Ø©"
-
-#: MeanGray
-msgid "Mean Grey Value"
-msgstr "ÙØªÙØ³Ø· ÙÙÙØ© Ø§ÙØ±ÙØ§Ø¯Ù"
-
-#: StDev
-msgid "Standard Deviation"
-msgstr "Ø§ÙØ§ÙØ­Ø±Ø§Ù Ø§ÙÙØ¹ÙØ§Ø±Ù"
-
-#: ModalGray
-msgid "Modal Grey Value"
-msgstr "ÙÙÙØ© Ø§ÙØ±ÙØ§Ø¯Ù Ø§ÙÙÙØ·ÙØ©"
-
-#: MinMaxGray
-msgid "Min & Max Grey Value"
-msgstr "ÙÙÙØ© Ø§ÙØ±ÙØ§Ø¯Ù Ø§ÙØ¯ÙÙØ§ Ù Ø§ÙÙØµÙÙ"
-
-#: Centroid
-msgid "Centroid"
-msgstr "Ø§ÙÙÙØ·Ù Ø§ÙÙØ³Ø·Ù"
-
-#: MassCenter
-msgid "Center of Mass"
-msgstr "ÙØ±ÙØ² Ø§ÙÙØªÙØ©"
-
-#: Perimeter
-msgid "Perimeter"
-msgstr "ÙØ­ÙØ·"
-
-#: Bounds
-msgid "Bounding Rectangle"
-msgstr "Ø§ÙÙØ³ØªØ·ÙÙ Ø§ÙÙØ­Ø¯"
-
-#: FitEllipse
-msgid "Fit Ellipse"
-msgstr "Ø§ÙØ¥ÙÙÙÙØ¬ Ø§ÙÙÙØ§ÙÙØ©"
-
-#: Circularity
-msgid "Circularity"
-msgstr "Ø¯Ø§Ø¦Ø±ÙØ©"
-
-#: FeretDiam
-msgid "Feret's Diameter"
-msgstr "ÙØ·Ø± Feret  "
-
-#: ThreshLimit
-msgid "Limit to Threshold"
-msgstr "Ø­Ø¯ Ø¹ÙØ¯ Ø§ÙØ¹ØªØ¨Ø©"
-
-#: ImgName
-msgid "Display Image Name"
-msgstr "Ø¥Ø¹Ø±Ø¶ Ø¥Ø³Ù Ø§ÙØµÙØ±Ø©"
-
-#: InvertY
-msgid "Invert Y Coordinates"
-msgstr "Ø¥Ø¹ÙØ³ Ø§ÙØ£Ø±Ø§ØªÙØ¨"
-
-#: DeciPlaces
-msgctxt "DeciPlaces"
-msgid "Decimal Places:"
-msgstr "Ø§ÙØ£ÙØ§ÙÙ Ø§ÙØ¹Ø´Ø±ÙØ©:"
-
-#: Val
-msgid "Value"
-msgstr "ÙÙÙØ©"
-
-#: FileName
-msgid "Name"
-msgstr "Ø¥Ø³Ù"
-
-#: Angle
-msgid "Angle"
-msgstr "Ø²Ø§ÙÙØ©"
-
-#: Length
-msgid "Length "
-msgstr "Ø·ÙÙ "
-
-#. #Shorter labels
-#: SD
-msgid "SD"
-msgstr "SD"
-
-#: Mean
-msgid "Moy."
-msgstr "ÙØªÙØ³Ø·."
-
-#. ### ThresholdAdjuster
-#: Threshold
-msgid "Threshold"
-msgstr "Ø¹ØªØ¨Ø©"
-
-#: RedThresh
-msgid "Red"
-msgstr "Ø£Ø­ÙØ±"
-
-#: BWThresh
-msgid "Black & White"
-msgstr "Ø§ÙØ£Ø¨ÙØ¶ Ù Ø§ÙØ£Ø³ÙØ¯"
-
-#: OverUnder
-msgid "Over/Under"
-msgstr "ÙÙÙ/ØªØ­Øª"
-
-#: ThreshLevels
-msgid "Set Threshold Levels"
-msgstr "ØªØ­Ø¯ÙØ¯ ÙØ³ØªÙÙØ§Øª Ø§ÙØ¹ØªØ¨Ø©"
-
-#: LowThreshLevel
-msgid "Lower Threshold Level:"
-msgstr "ÙØ³ØªÙÙ Ø§ÙØ¹ØªØ¨Ø© Ø§ÙØ³ÙÙÙ:"
-
-#: UpThreshLevel
-msgid "Upper Threshold Level:"
-msgstr "ÙØ³ØªÙÙ Ø§ÙØ¹ØªØ¨Ø© Ø§ÙØ¹ÙÙØ§:"
-
-#: RGBThreshErr
-msgid "RGB images cannot be thresolded."
-msgstr "Ø¹ØªØ¨Ø© RGB ÙØ§ ÙÙÙÙ Ø£Ù ÙÙÙÙ ÙØµÙØ± ."
-
-#. ## NewPlugin
-#: NPTitle
-msgid "Nouveau..."
-msgstr "Ø¬Ø¯ÙØ¯..."
-
-#: Type
-msgid "Type"
-msgstr "ÙÙØ¹"
-
-#. ##Recorder
-#: Record
-msgid "Record"
-msgstr "ØªØ³Ø¬ÙÙ"
-
-#: CreateMacro
-msgid "Create Macro"
-msgstr "Ø¥ÙØ´Ø§Ø¡ ÙÙÙØ©"
-
-#: CreatePlugin
-msgid "Create Plugin"
-msgstr "Ø¥ÙØ´Ø§Ø¡ Ø¨Ø±ÙØ§ÙØ¬ ÙØ³Ø§Ø¹Ø¯"
-
-#. ## Command Lister
-#: Commands
-msgid "Commands"
-msgstr "Ø·ÙØ¨Ø§Øª"
-
-#. # 2 FIELDS SEPARATED BY \t
-#: CommandLabels
-msgid "Command\tPlugin"
-msgstr "Ø·ÙØ¨\tØ¨Ø±ÙØ§ÙØ¬ ÙØ³Ø§Ø¹Ø¯"
-
-#: KbdShortcuts
-msgid "Keyboard Shortcuts"
-msgstr "Ø·Ø±Ù ÙØ®ØªØµØ±Ø© Ø¹ÙÙ ÙØ±Ø­Ø© Ø§ÙÙÙØ§ØªÙØ­"
-
-#. # 2 FIELDS SEPARATED BY \t
-#: KbdShortcutsLabels
-msgid "Hot Key\tCommand"
-msgstr "ÙÙØªØ§Ø­ Ø®Ø§Øµ\t ÙØ·ÙØ¨"
-
-#. ## ScaleDialog
-#: ScDiagTitle
-msgid "Set Scale"
-msgstr "Ø­Ø¯Ø¯ Ø§ÙØ³ÙÙ"
-
-#: ScDiagDistPix
-msgid "Distance in Pixels:"
-msgstr "Ø§ÙÙØ³Ø§ÙØ© Ø¨ÙÙ Ø¹ÙØ§ØµØ± Ø§ÙØµÙØ±Ø©:"
-
-#: ScDiagDist
-msgid "Real Distance:"
-msgstr "Ø§ÙÙØ³Ø§ÙØ© Ø§ÙØ­ÙÙÙÙØ©:"
-
-#: ScDiagRatio
-msgid "Width/Height Ratio:"
-msgstr "ÙØ³Ø¨Ø© Ø§ÙØ¹Ø±Ø¶/Ø§ÙØ¥Ø±ØªÙØ§Ø¹:"
-
-#: ScDiagUnit
-msgid "Unit of Length:"
-msgstr "ÙØ­Ø¯Ø© Ø§ÙØ·ÙÙ:"
-
-#: ScDiagScale
-msgid "Scale:"
-msgstr "Ø³ÙÙ:"
-
-#: ScDiagGlobal
-msgctxt "ScDiagGlobal"
-msgid "Global"
-msgstr "Ø¥Ø¬ÙØ§ÙÙ"
-
-#: ScDiagNoScale
-msgid "<No Scale>"
-msgstr "<ÙØ§ Ø³ÙÙ>"
-
-#. ## SurfacePlotter
-#: SfcPlTitle
-msgid "Surface Plotter"
-msgstr "Ø±Ø§Ø³Ù Ø§ÙÙØ³Ø§Ø­Ø©"
-
-#: SfcPlImgTitle
-msgid "Surface Plot"
-msgstr "Ø±Ø³Ù Ø§ÙÙØ³Ø§Ø­Ø©"
-
-#: SfcPlDrSlice
-msgid "Drawing slice"
-msgstr "Ø±Ø³Ù Ø§ÙÙØ·Ø¹Ø©"
-
-#: SfcPlMult
-msgid "Number of samples"
-msgstr "Ø¹Ø¯Ø¯ Ø§ÙØ¹ÙÙØ§Øª"
-
-#: SfcPlWire
-msgid "Draw wireframe"
-msgstr "Ø±Ø³Ù Ø¥Ø·Ø§Ø± Ø³ÙÙÙ"
-
-#: SfcPlShade
-msgid "Shade"
-msgstr "Ø¸Ù"
-
-#: SfcPlAxis
-msgid "Draw axis"
-msgstr "Ø±Ø³Ù ÙØ­ÙØ±"
-
-#: SfcPlInvert
-msgid "Source Background is Lighter"
-msgstr "Ø®ÙÙÙØ© Ø§ÙÙØµØ¯Ø± Ø£ÙØªØªØ­"
-
-#: SfcPlBlack
-msgid "Fill Plot Background with Black"
-msgstr "Ø¥ÙÙØ£ Ø®ÙÙÙØ© Ø§ÙØ±Ø³Ù Ø§ÙØ¨ÙØ§ÙÙ Ø¨Ø§ÙØ£Ø³ÙØ¯"
-
-#: SfcPlPoly
-msgid "Fill Plot"
-msgstr "Ø¥ÙÙØ£ Ø§ÙØ±Ø³Ù Ø§ÙØ¨ÙØ§ÙÙ"
-
-#: SfcPlSmooth
-msgid "Smooth"
-msgstr "Ø£ÙÙØ³"
-
-#. ## Printer
-#: PageSetup
-msgid "Page Setup"
-msgstr "Ø¥Ø¹Ø¯Ø§Ø¯ Ø§ÙØµÙØ­Ø©"
-
-#: PrintScaling
-msgid "Scaling"
-msgstr "Ø³ÙÙ"
-
-#: PrintBorder
-msgid "Draw Border"
-msgstr "Ø£Ø±Ø³Ù Ø§ÙØ­Ø¯ÙØ¯"
-
-#: PrintTitle
-msgid "Print Title"
-msgstr "Ø¥Ø·Ø¨Ø¹ Ø§ÙØ¹ÙÙØ§Ù"
-
-#: PrintCenter
-msgid "Center on Page"
-msgstr "ÙØ±ÙØ² Ø§ÙØµÙØ­Ø©"
-
-#. ## Rotator
-#: Rotate
-msgid "Rotate"
-msgstr "Ø¯ÙØ±Ø§Ù"
-
-#: AngleUnity
-msgid "Angle (degrees):"
-msgstr ""
-
-#: GridLines
-msgid "Grid Lines:"
-msgstr ""
-
-#: Interpolate
-msgid "Interpolate"
-msgstr "Ø§Ø³ØªÙÙÙ"
-
-#: FillwithBg
-msgctxt "FillwithBg"
-msgid "Fill with Background Color"
-msgstr ""
-
-#: EnlargetoFit
-msgid "Enlarge Image to Fit Result"
-msgstr ""
-
-#: AngleErr
-msgid "Angle is invalid."
-msgstr "Ø²Ø§ÙÙØ© ØºÙØ± Ø³ÙÙÙØ©."
-
-#. ## Options
-#: OptMiscTitle
-msgid "Miscellaneous Options"
-msgstr "Ø§Ø®ØªÙØ§Ø±Ø§Øª ÙØªÙÙØ¹Ø©"
-
-#: OptHistBin
-msgid "Real Histogram Bins:"
-msgstr "Ø¹ÙÙØ§Øª ÙØ¯Ø±Ø¬ Ø¥Ø­ØµØ§Ø¦Ù Ø­ÙÙÙÙØ©:"
-
-#: OptDivZero
-msgid "Divide by Zero Value:"
-msgstr "ÙØ³ÙØ© Ø¹ÙÙ ØµÙØ±:"
-
-#: OptCursor
-msgid "Use Pointer Cursor"
-msgstr "Ø§Ø³ØªØ®Ø¯Ù ÙØ¤Ø´Ø± Ø§ÙÙØ£Ø±Ø©"
-
-#: OptScale
-msgid "Scale When Converting"
-msgstr "Ø§Ø³ØªØ¹ÙÙ Ø§ÙØ³ÙÙ Ø¹ÙØ¯ Ø§ÙØªØ­ÙÙÙ"
-
-#: OptStackDiag
-msgid "Hide \"Process Stack?\" Dialog"
-msgstr "Ø­ÙØ§Ø± Ø¥Ø®ÙØ§Ø¡/\"ÙÙÙØ© Ø§ÙØ¹ÙÙÙØ§ØªØ/\"Ù"
-
-#: OptAntialias
-msgid "Antialiased Text"
-msgstr "ÙØµ ØµØ­ÙØ­ ÙÙ Ø§ÙØªØ´ÙÙÙ"
-
-#: OptInterpolate
-msgid "Interpolate Images <100%"
-msgstr "Ø§Ø³ØªÙÙÙ Ø§ÙØµÙØ± Ø£ÙÙ ÙÙ 100%"
-
-#: OptOpen
-msgid "Open Images at 100%"
-msgstr "Ø¥ÙØªØ­ Ø§ÙØµÙØ± Ø¹ÙØ¯ 100%"
-
-#: OptDebug
-msgid "Debug Mode"
-msgstr "ÙØ¶Ø¹ÙØ© Ø§ÙØªÙÙÙØ­"
-
-#: OptLine
-msgid "Line width:"
-msgstr "Ø¹Ø±Ø¶ Ø§ÙØ®Ø·:"
-
-#: OptJpeg
-msgid "JPEG quality (0-100):"
-msgstr "JPEG Ø¬ÙØ¯Ø© (0-100):"
-
-#: OptMark
-msgid "Mark Width:"
-msgstr "Ø¹Ø±Ø¶ Ø§ÙØ¹ÙØ§ÙØ©:"
-
-#. ## Fonts
-#: FontsTitle
-msgid "Fonts"
-msgstr "Ø®Ø·ÙØ·"
-
-#: FontPlain
-msgid "Plain"
-msgstr "ÙØ¬Ø±Ø¯"
-
-#: FontBold
-msgid "Bold"
-msgstr "Ø¹Ø±ÙØ¶"
-
-#: FontIt
-msgid "Italic"
-msgstr "ÙØ§Ø¦Ù"
-
-#: FontBoldIt
-msgid "Bold+Italic"
-msgstr "Ø¹Ø±ÙØ¶ + ÙØ§Ø¦Ù"
-
-#: FontPoint
-msgid "pt"
-msgstr "ÙÙØ·"
-
-#. ## Fitter
-#: FitterTitle
-msgid "Curve Fitter"
-msgstr "ÙÙÙÙ Ø§ÙÙÙØ­ÙÙ"
-
-#: Fit
-msgid "Fit..."
-msgstr "ØªÙÙÙÙ..."
-
-#: FitFncErr
-msgid "No function available"
-msgstr "ÙØ§ Ø¯Ø§ÙØ© ÙØªÙÙØ±Ø©"
-
-#: FitImgErr
-msgid "First select the image to be transformed"
-msgstr "Ø£ÙÙØ§ ÙØ¬Ø¨ Ø§Ø®ØªÙØ§Ø± Ø§ÙØµÙØ±Ø© Ø§ÙÙØ±Ø§Ø¯ ØªØ­ÙÙÙÙØ§"
-
-#: FitterSuffix
-msgid "-transformed"
-msgstr "-ØªÙ Ø§ÙØªØ­ÙÙÙ"
-
-#. ## Resizer
-#: ResizeRoiErr
-msgid ""
-"These commands\n"
-"do not work with line selections."
-msgstr ""
-"ÙØ°Ù Ø§ÙØ·ÙØ¨Ø§Øª\n"
-"ÙØ§ ØªØ¹ÙÙ ÙØ¹ Ø§Ø®ØªÙØ§Ø±Ø§Øª Ø§ÙØ³Ø·ÙØ±."
-
-#: ResizeTitle
-msgid "Resize"
-msgstr "ØªØºÙÙØ± Ø§ÙØ­Ø¬Ù"
-
-#: ResizeConstrain
-msgid "Constrain Aspect Ratio"
-msgstr "Ø­Ø¯ Ø§ÙÙØ³Ø¨Ø©"
-
-#: ResizeWarn
-msgid "NOTE: Undo is not available"
-msgstr "ÙÙØ§Ø­Ø¸Ø©: Ø§ÙØ¥ÙØºØ§Ø¡ ØºÙØ± ÙØªÙÙØ±"
-
-#: ResizeErr
-msgid "Width or height are invalid."
-msgstr "Ø§ÙØ¹Ø±Ø¶ Ø£Ù Ø§ÙØ§Ø±ØªÙØ§Ø¹ ØºÙØ± Ø³ÙÙÙ."
-
-#: ResizeLost1
-msgid ""
-"SalsaJ ran out of memory causing \n"
-"the last"
-msgstr ""
-"ÙÙØ§ ØªØ³Ø¨Ø¨ ÙÙ Eu-HOU ÙÙØ°Øª Ø§ÙØ°Ø§ÙØ±Ø© ÙÙ \n"
-"Ø¢Ø®Ø±"
-
-#: ResizeLost2
-msgid "slices to be lost."
-msgstr "ÙØ·Ø¹ Ø³ÙØ¶ÙØ¹."
-
-#. ##CanvasResizer NEW
-#: CanvasResizerTitle1
-msgid "Resize Image Canvas"
-msgstr "ØªØºÙÙØ± Ø®ÙÙØ© Ø§ÙØµÙØ±Ø©"
-
-#: CanvasResizerTitle2
-msgid "Resize Stack Canvas"
-msgstr "ØªØºÙÙØ± ÙÙÙØ© Ø§ÙØ®ÙÙØ©"
-
-#: Position
-msgid "Postion"
-msgstr "ÙÙØ¶Ø¹"
-
-#: ZeroFile
-msgid "Zero Fill"
-msgstr "Ø¨Ø¯ÙÙ ÙÙØ¡"
-
-#: Top-Left
-msgid "Top-Left "
-msgstr "Ø£ÙØµÙ Ø§ÙÙØ³Ø§Ø±"
-
-#: Top-Center
-msgid "Top-Center"
-msgstr "Ø£ÙØµÙ Ø§ÙÙØ³Ø·"
-
-#: Top-Right
-msgid "Top-Right"
-msgstr "Ø£ÙØµÙ Ø§ÙÙÙÙÙ"
-
-#: Center-Left
-msgid "Center-Left"
-msgstr "ÙØ³Ø· Ø§ÙÙØ³Ø§Ø±"
-
-#: Center
-msgid "Center"
-msgstr "ÙØ³Ø·"
-
-#: Center-Right
-msgid "Center-Right"
-msgstr "ÙØ³Ø· Ø§ÙÙÙÙÙ"
-
-#: Bottom-Left
-msgid "Bottom-Left"
-msgstr "Ø£Ø³ÙÙ Ø§ÙÙØ³Ø§Ø±"
-
-#: Bottom-Center
-msgid "Bottom-Center"
-msgstr "Ø£Ø³ÙÙ Ø§ÙÙØ³Ø·"
-
-#: Bottom-Right
-msgid "Bottom-Right"
-msgstr "Ø£Ø³ÙÙ Ø§ÙÙÙÙÙ"
-
-#. ##Montage Maker NEW
-#: MakeMontage
-msgid "Make Montage"
-msgstr "Ø¥ÙØ´Ø§Ø¡ ØªØ±ÙÙØ¨"
-
-#: Columns
-msgid "Columns"
-msgstr "Ø£Ø¹ÙØ¯Ø©"
-
-#: Rows
-msgid "Rows"
-msgstr "ØµÙÙÙ"
-
-#: ScaleFactor
-msgid "Scale Factor"
-msgstr "Ø¹Ø§ÙÙ Ø§ÙØ³ÙÙ"
-
-#: FirstSlice
-msgid "First Slice"
-msgstr "Ø§ÙØªÙØ·ÙØ¹ Ø§ÙØ£ÙÙ"
-
-#: LastSlice
-msgid "Last Slice"
-msgstr "Ø§ÙØªÙØ·ÙØ¹ Ø§ÙØ£Ø®ÙØ±"
-
-#: Increment
-msgctxt "Increment"
-msgid "Increment"
-msgstr "Ø§ÙØªØ²Ø§ÙØ¯"
-
-#: BorderWidth
-msgid "Border Width"
-msgstr "Ø¹Ø±Ø¶ Ø§ÙØ­Ø¯ÙØ¯"
-
-#: LabelSlices
-msgid "Label Slices"
-msgstr "ØªØ³ÙÙØ© Ø§ÙÙØ·Ø¹"
-
-#: UseForegroundColor
-msgid "Use Foreground Color"
-msgstr "Ø¥Ø³ØªØ¹ÙØ§Ù ÙÙÙ Ø§ÙØ£ÙØ§ÙÙØ©"
-
-#. ##ImageProperties NEW
-#: Channels
-msgid "Channels"
-msgstr "Ø§ÙÙÙÙØ§Øª"
-
-#: Frames
-msgid "Frames"
-msgstr "Ø§ÙØ¥Ø·Ø§Ø±Ø§Øª"
-
-#: Pixel_Width
-msgid "Pixel Width"
-msgstr "Ø¹Ø±Ø¶ Ø¨ÙÙØ³Ù"
-
-#: Pixel_Height
-msgid "Pixeln Height"
-msgstr "Ø§Ø±ØªÙØ§Ø¹ Ø¨ÙÙØ³Ù"
-
-#: Voxel_Depth
-msgid "Voxel Depth"
-msgstr "Voxel Depth"
-
-#: FrameInterval
-msgid "Frame Interval"
-msgstr "Ø£Ø¨Ø¹Ø§Ø¯ Ø§ÙØ¥Ø·Ø§Ø±"
-
-#: Origin
-msgid "Origin (pixels)"
-msgstr "Ø§ÙØ£ØµÙ (Ø¨ÙÙØ³Ù)"
-
-#: Global
-msgctxt "Global"
-msgid "Global"
-msgstr "Ø¹Ø§Ù"
-
-#. ## SimpleCommands
-#: NotLocked
-msgid "is not locked"
-msgstr "ØºÙØ± ÙÙÙÙ"
-
-#: Unlocked
-msgid "is now unlocked"
-msgstr "Ø§ÙØ¢Ù ÙÙØªÙØ­"
-
-#: Rename
-msgid "Rename"
-msgstr "ØºÙØ± Ø§ÙØ¥Ø³Ù"
-
-#: RenameName
-msgid "New title:"
-msgstr "Ø¹ÙÙØ§Ù Ø¬Ø¯ÙØ¯:"
-
-#. ## Duplicater
-#: DupliSuffix
-msgid "-copy"
-msgstr "-ÙØ³Ø®"
-
-#: DupliTitle
-msgid "Duplicate"
-msgstr "ÙØ¶Ø§Ø¹ÙØ©"
-
-#: DupliNewName
-msgid "Title:"
-msgstr "Ø¹ÙÙØ§Ù:"
-
-#: DupliStack
-msgid "Duplicate Entire Stack?"
-msgstr "ÙØ¶Ø§Ø¹ÙØ© ÙÙ Ø§ÙÙÙÙØ©Ø"
-
-#. ## Scaler
-#: ScalerTitle
-msgid "Scale"
-msgstr "Ø³ÙÙ"
-
-#: ScalerX
-msgid "X Scale"
-msgstr "Ø³ÙÙ Ø§ÙÙÙØ§ØµÙ"
-
-#: ScalerY
-msgid "Y Scale"
-msgstr "Ø³ÙÙ Ø§ÙØªØ±ØªÙØ¨Ø§Øª"
-
-#: ScalerErr
-msgid "X or Y scale are invalid."
-msgstr ".Ø³ÙÙ X Ø£Ù Y ØºÙØ± Ø³ÙÙÙ"
-
-#: ScalerSuffix
-msgid "-rescaled"
-msgstr "-Ø³ÙÙ Ø¬Ø¯ÙØ¯"
-
-#. ##NEW
-#: ScalerBackground
-msgctxt "ScalerBackground"
-msgid "Fill with Background Color"
-msgstr "Ø¥ÙÙØ£ Ø¨ÙÙÙ Ø§ÙØ®ÙÙÙØ©"
-
-#. ##ScaleBar ##NEW
-#: ScaleBarTitle
-msgid "ScaleBar Plus"
-msgstr "Ø´Ø±ÙØ· Ø§ÙØ³ÙÙ Ø¥Ø¶Ø§ÙÙ"
-
-#: ScaleBarWidth
-msgid "Width in"
-msgstr "Width in"
-
-#: ScaleBarHeight
-msgid "Height in pixels"
-msgstr "Ø§Ø±ØªÙØ§Ø¹ ÙÙ Ø§ÙØ¨ÙÙØ³Ù"
-
-#: ScaleBarFont
-msgid "Font Size"
-msgstr "Ø­Ø¬Ù Ø§ÙØ®Ø·"
-
-#: ScaleBarColor
-msgctxt "ScaleBarColor"
-msgid "Color"
-msgstr "Ø§ÙÙÙÙ"
-
-#: ScaleBarBackground
-msgid "Background"
-msgstr "Ø§ÙØ®ÙÙÙØ©"
-
-#: ScaleBarLocation
-msgid "Location"
-msgstr "Ø§ÙÙÙØ·ÙØ©"
-
-#: ScaleBarBold
-msgctxt "ScaleBarBold"
-msgid "Bold Text"
-msgstr "Ø®Ø· Ø¹Ø±ÙØ¶"
-
-#: ScaleBarHide
-msgid "Hide Text"
-msgstr "Ø®Ø· ÙØ®ÙÙ"
-
-#: ScaleBarSerif
-msgid "Serif Font"
-msgstr "Ø®Ø· Ø±ÙÙÙ"
-
-#. ## LutViewer
-#: LUTTitle
-msgid "LookUp Table"
-msgstr "Ø¨Ø­Ø« ÙÙ Ø§ÙØ¬Ø¯ÙÙ"
-
-#. # 4 FIELDS SEPARATED BY \t
-#: LUTHead
-msgid "Index\tRed\tGreen\tBlue"
-msgstr "ÙØ¤Ø´Ø±\t Ø£Ø­ÙØ±\t Ø£Ø®Ø¶Ø±\t Ø£Ø²Ø±Ù"
-
-#: LUTTextTitle
-msgid "LUT"
-msgstr "Ø¬Ø¯ÙÙ Ø§ÙØ£ÙÙØ§Ù"
-
-#. ## LutLoader
-#: LutRGBErr
-msgid "RGB images do not use LUTs."
-msgstr ".ÙØ§ ØªØ³ØªØ¹ÙÙ Ø¬Ø¯Ø§ÙÙ Ø§ÙØ£ÙÙØ§Ù RGB ØµÙØ±"
-
-#. ## Profiler
-#: ProOptTitle
-msgid "Profile Plot Options"
-msgstr "Ø®ÙØ§Ø±Ø§Øª ÙÙØ­ÙÙ Ø§ÙØ¬Ø§ÙØ¨ÙØ©"
-
-#: ProOptScale
-msgid "Fixed Y-axis Scale"
-msgstr "Ø³ÙÙ ÙØ­ÙØ± Ø§ÙØ£Ø±Ø§ØªÙØ¨ ÙØ«Ø¨Øª"
-
-#: ProOptSave
-msgid "Do Not Save X-Values"
-msgstr "ÙØ§ ØªØ­ÙØ¸ ÙÙÙ X "
-
-#: ProOptAuto
-msgid "Auto-close"
-msgstr "Ø¥ØºÙØ§Ù ØªÙÙØ§Ø¦Ù"
-
-#: ProOptVert
-msgid "Vertical Profile"
-msgstr "Ø¬Ø§ÙØ¨ÙØ© Ø¹ÙÙØ¯ÙØ©"
-
-#. ## RoiManager
-#: RoiTitle
-msgid "Roi Manager"
-msgstr "ÙØ³ÙØ± ÙÙØ·ÙØ© Ø§ÙØ§ÙØªÙØ§Ù"
-
-#: RoiAdd
-msgctxt "RoiAdd"
-msgid "Add"
-msgstr "Ø¥Ø¬ÙØ¹"
-
-#: RoiAdd&Draw
-msgctxt "RoiAdd&Draw"
-msgid "Delete"
-msgstr "Ø­Ø°Ù"
-
-#: RoiDel
-msgctxt "RoiDel"
-msgid "Delete"
-msgstr "Ø¥ÙØ­"
-
-#: RoiOpen
-msgctxt "RoiOpen"
-msgid "Open"
-msgstr "Ø¥ÙØªØ­"
-
-#: RoiOpenAll
-msgid "Open All"
-msgstr "Ø¥ÙØªØ­ Ø§ÙÙÙ"
-
-#: RoiSave
-msgid "Save"
-msgstr "Ø¥Ø­ÙØ¸"
-
-#: RoiSel
-msgid "Select All"
-msgstr "Ø¸ÙÙ Ø§ÙÙÙ"
-
-#: RoiMeasure
-msgid "Measure"
-msgstr "ÙÙØ§Ø³"
-
-#: RoiDraw
-msgid "Draw"
-msgstr "Ø¥Ø±Ø³Ù"
-
-#: RoiFill
-msgid "Fill"
-msgstr "Ø¥ÙÙØ£"
-
-#: RoiErr1
-msgid "The active image does not have an ROI."
-msgstr "ÙÙØ³ ÙÙØµÙØ± Ø§ÙÙØ´ÙØ·Ø© ÙÙØ·ÙØ© Ø§ÙØªÙØ§Ù."
-
-#: RoiErr2
-msgid "The ROI list is empty."
-msgstr "ÙØ§Ø¦Ø­Ø© ÙÙØ§Ø·Ù Ø§ÙØ§ÙØªÙØ§Ù ÙØ§Ø±ØºØ©."
-
-#: RoiErr3
-msgid "At least one ROI in the list must be selected."
-msgstr ""
-"ÙØ¬Ø¨ Ø§Ø®ØªÙØ§Ø± ÙÙØ·ÙØ© Ø§ÙØªÙØ§Ù ÙØ§Ø­Ø¯Ø© Ø¹ÙÙ Ø§ÙØ£ÙÙ "
-"ÙÙ Ø§ÙØ§Ø¦Ø­Ø©."
-
-#: RoiErr4
-msgid "This ROI does not fit the current image."
-msgstr ""
-"ÙÙØ·ÙØ© Ø§ÙØ§ÙØªÙØ§Ù ÙØ°Ù ÙØ§ ØªÙØ§Ø³Ø¨ Ø§ÙØµÙØ±Ø© "
-"Ø§ÙØ­Ø§ÙÙØ©."
-
-#: RoiOpenTitle
-msgid "Open ROI..."
-msgstr "Ø¥ÙØªØ­ ÙÙØ·ÙØ© Ø§ÙØªÙØ§Ù..."
-
-#: RoiOpenFolder
-msgid "Select a file in the folder..."
-msgstr "Ø¥Ø®ØªØ± Ø§ÙÙÙÙ ÙÙ Ø§ÙÙØ¬ÙØ¯..."
-
-#: RoiSaveTitle
-msgid "Save ROI..."
-msgstr "Ø¥Ø­ÙØ¸ ÙÙØ·ÙØ© Ø§ÙØªÙØ§Ù..."
-
-#. ## CalibrationBar
-#: CaliTitle
-msgid "Calibration Bar"
-msgstr "Ø´Ø±ÙØ· Ø§ÙÙØ¹Ø§ÙØ±Ø©"
-
-#: CaliLoc
-msgid "Location:"
-msgstr "ÙÙØ§Ù:"
-
-#: CaliFill
-msgid "Fill Colour:"
-msgstr "ÙÙØ£ Ø§ÙÙÙÙ:"
-
-#: CaliLab
-msgid "Label Colour:"
-msgstr "ØªØ³ÙÙØ© Ø§ÙÙÙÙ:"
-
-#: CaliNb
-msgid "Number of Labels:"
-msgstr "Ø¹Ø¯Ø¯ Ø§ÙØ¹ÙØ§ÙØ§Øª:"
-
-#: CaliPlaces
-msgctxt "CaliPlaces"
-msgid "Decimal Places:"
-msgstr "Ø§ÙØ£ÙØ§ÙÙ Ø§ÙØ¹Ø´Ø±ÙØ©:"
-
-#: CaliSize
-msgid "Font Size:"
-msgstr "Ø­Ø¬Ù Ø§ÙØ®Ø·:"
-
-#: CaliZoom
-msgid "Zoom Factor:"
-msgstr "Ø¹Ø§ÙÙ Ø§ÙØªÙØ¨ÙØ±:"
-
-#: CaliBold
-msgctxt "CaliBold"
-msgid "Bold Text"
-msgstr "ÙØµ Ø¹Ø±ÙØ¶"
-
-#: CaliWithBar
-msgid "with bar"
-msgstr "Ø¨Ø¹ÙÙØ¯"
-
-#: CaliUpR
-msgid "Upper Right"
-msgstr "Ø£Ø¹ÙÙ Ø§ÙÙÙÙÙ"
-
-#: CaliUpL
-msgid "Upper Left"
-msgstr "Ø£Ø¹ÙÙ Ø§ÙÙØ³Ø§Ø±"
-
-#: CaliDoR
-msgid "Lower Right"
-msgstr "Ø£Ø¯ÙÙ Ø§ÙÙÙÙÙ"
-
-#: CaliDoL
-msgid "Lower Left"
-msgstr "Ø£Ø¯ÙÙ Ø§ÙÙØ³Ø§Ø±"
-
-#: CaliSel
-msgid "At Selection"
-msgstr "Ø¹ÙØ¯ Ø§ÙØ§Ø®ØªÙØ§Ø±"
-
-#. ## FolderOpener
-#: FoldOpenTitle
-msgid "Open Image Sequence..."
-msgstr "Ø¥ÙØªØ­ ÙØªØªØ§ÙÙØ© Ø§ÙØµÙØ±..."
-
-#: FoldOpenErrTitle
-msgid "Import Error:"
-msgstr "Ø§Ø³ØªÙØ±Ø¯ Ø§ÙØ®Ø·Ø£:"
-
-#: FoldOpenErr1
-msgid ""
-"This folder does not appear to contain any TIFF,\n"
-"FITS, JPEG, BMP, GIF, or PGM files."
-msgstr ""
-"ÙØ§ ÙØ¸ÙØ± Ø£Ù ÙØ°Ø§ Ø§ÙÙÙÙ ÙØ­ØªÙÙ Ø¹ÙÙ Ø£Ù ÙÙØ¹ ÙÙ "
-"ÙÙÙØ§Øª TIFF \n"
-"FITS Ø£Ù, JPEG, BMP, GIF, PGM"
-
-#: FoldOpenErr2
-msgid "None of the"
-msgstr "ÙØ§ Ø£Ø­Ø¯ ÙÙ"
-
-#: FoldOpenErr3
-msgid "files contain  in their name the string"
-msgstr "Ø§ÙÙÙÙØ§Øª ØªØ­ØªÙÙ        ÙÙ Ø§Ø³ÙÙØ§ Ø§ÙÙÙÙØ©"
-
-#: FoldOpenErr4
-msgid ": wrong dimensions"
-msgstr "Ø£Ø¨Ø¹Ø§Ø¯ Ø®Ø§Ø·Ø¦Ø©:"
-
-#: FoldOpenErr5
-msgid ": wrong type"
-msgstr "ØµÙÙ Ø®Ø§Ø·Ø¦:"
-
-#: FoldOpenErr6
-msgid ": unable to open"
-msgstr "Ø¹Ø§Ø¬Ø² Ø¹Ù Ø§ÙÙØªØ­:"
-
-#: FoldOptTitle
-msgid "Sequence Options"
-msgstr "Ø®ÙØ§Ø±Ø§Øª Ø§ÙÙØªØªØ§ÙÙØ©"
-
-#: FoldOpt1
-msgid "Number of Images"
-msgstr "Ø¹Ø¯Ø¯ Ø§ÙØµÙØ±"
-
-#: FoldOpt2
-msgid "Starting Image"
-msgstr "ØµÙØ±Ø© Ø§ÙÙØ¨Ø¯Ø¡"
-
-#: FoldOpt3
-msgctxt "FoldOpt3"
-msgid "Increment"
-msgstr "Ø§ÙØ²ÙØ§Ø¯Ø©"
-
-#: FoldOpt4
-msgid "File Name Contains"
-msgstr "Ø¥Ø³Ù Ø§ÙÙÙÙ ÙØ­ØªÙÙ"
-
-#: FoldOpt5
-msgid "Convert to 8-bit Greyscale"
-msgstr "Ø­ÙÙ ÙØ³ÙÙ Ø±ÙØ§Ø¯Ù 8-Ø¨Øª "
-
-#: FoldOpt6
-msgid "Open 1/2 Size"
-msgstr "Ø¥ÙØªØ­ ÙØµÙ Ø§ÙØ­Ø¬Ù"
-
-#. ## URLOpener
-#: URLDiagTitle
-msgid "Enter URL"
-msgstr "Ø£Ø¯Ø®Ù Ø§ÙØ±Ø§Ø¨Ø·"
-
-#: URLDiagLab
-msgid "Enter the URL of an image to open:"
-msgstr "Ø£Ø¯Ø®Ù Ø±Ø§Ø¨Ø·  Ø§ÙØµÙØ±Ø© Ø§ÙÙØ±Ø§Ø¯ ÙØªØ­ÙØ§:"
-
-#. ## Animator
-#: AnimOptTitle
-msgid "Animation Options"
-msgstr "Ø®ÙØ§Ø±Ø§Øª Ø§ÙØªÙØ´ÙØ·"
-
-#: AnimOptSpeed
-msgid "Speed (1-100 fps):"
-msgstr "Ø§ÙØ³Ø±Ø¹Ø© (1-100 fps)"
-
-#: AnimOptLoop
-msgid "Loop Back and Forth"
-msgstr "ØªÙØ¯Ù Ø°ÙØ§Ø¨Ø§ Ù Ø¥ÙØ§Ø¨Ø§"
-
-#: AnimOptStart
-msgid "Start Animation"
-msgstr "Ø¥Ø¨Ø¯Ø£ Ø§ÙØªÙØ´ÙØ·"
-
-#: AnimSlice
-msgid "Set Slice"
-msgstr "Ø­Ø¯Ø¯ ÙØ·Ø¹Ø©"
-
-#: AnimNb
-msgid "Slice number"
-msgstr "Ø±ÙÙ Ø§ÙÙØ·Ø¹Ø©"
-
-#. ## TextWriter
-#: TWErrTitle
-msgid "Save As Text"
-msgstr "Ø¥Ø­ÙØ¸ ÙÙØµ"
-
-#: TWErrMsg
-msgid "This command requires a TextWindow"
-msgstr "ÙØ°Ù Ø§ÙØ·ÙØ¨ ÙØ³ØªÙØ²Ù ÙØ§ÙØ°Ø© ÙØµ"
-
-#. ## Calibrator
-#: CalibrTitle
-msgid "Calibrate..."
-msgstr "Ø¹Ø§ÙØ±..."
-
-#: CalibrFunc
-msgid "Function:"
-msgstr "Ø¯Ø§ÙØ©:"
-
-#: CalibrGlob
-msgid "Global calibration"
-msgstr "ÙØ¹Ø§ÙØ±Ø© Ø¥Ø¬ÙØ§ÙÙØ©"
-
-#: Calibrator
-msgid "Calibrator:"
-msgstr "ÙØ¹Ø§ÙØ±:"
-
-#: CalibrErr1
-msgid "Please select a function"
-msgstr "ÙÙ ÙØ¶ÙÙ Ø§Ø®ØªØ± Ø¯Ø§ÙØ© "
-
-#: CalibrErr16b
-msgid ""
-"Calibration of 16-bit images, except with straight\n"
-"line functions, is currently not supported."
-msgstr ""
-"ÙØ¹Ø§ÙØ±Ø© Ø§ÙØµÙØ± 16-Ø¨Øª, ÙØ§ Ø¹Ø¯Ø§ Ø°ÙØ§Ø¨ Ø§ÙØ¯ÙØ§Ù\n"
-".Ø§ÙØ®Ø·ÙØ©, ÙÙ ØºÙØ± ÙØ³ØªØ­ÙÙØ© Ø­Ø§ÙÙØ§ "
-
-#: CalPixelInverter
-msgid "Pixel Inverter"
-msgstr "Ø¹Ø§ÙØ³ Ø¹ÙØ§ØµØ± Ø§ÙØµÙØ±Ø©"
-
-#: CalibrMan
-msgid ""
-"To create a calibration curve, the left column must\n"
-"contain a list of measured mean pixel values and the\n"
-"right column must contain the same number of calibration\n"
-"standard values."
-msgstr ""
-"ÙØ¥ÙØ´Ø§Ø¡ ÙÙØ­ÙÙ ÙØ¹Ø§ÙØ±Ø©, ÙØ­Ø¨ Ø£Ù ÙØ­ØªÙÙ Ø§ÙØ¹ÙÙØ¯ "
-"Ø§ÙØ£ÙØ³Ø± Ø¹ÙÙ\n"
-"ÙØ§Ø¦Ø­Ø© ÙÙÙ ÙØªÙØ³Ø·Ø§Øª Ø¹ÙØ§ØµØ± Ø§ÙØµÙØ±Ø© Ø§ÙÙÙØ§Ø³Ø© Ù "
-"Ø§ÙØ¹ÙÙØ¯ \n"
-".Ø§ÙØ£ÙÙÙ Ø¹ÙÙ ÙÙØ³ Ø¹Ø¯Ø¯ ÙÙÙ Ø§ÙÙØ¹Ø§ÙØ±Ø©"
-
-#: CalibrFuncTitle
-msgid "Calibration function"
-msgstr "Ø¯Ø§ÙØ© Ø§ÙÙØ¹Ø§ÙØ±Ø©"
-
-#. #Recorder
-#: Recorder
-msgid "Recorder"
-msgstr "ÙØ³Ø¬Ù"
-
-#: 32birReqErr
-msgid "32-bit float image required"
-msgstr "ØµÙØ±Ø© Ø­ÙÙÙÙØ© 32-Ø¨Øª ÙØ³ØªÙØ²ÙØ©"
-
-#: OptHistory
-msgid "Last used files:"
-msgstr ":/Ø¢Ø®Ø± Ø§ÙØ¬Ø°Ø§Ø°ÙØ§Øª Ø§ÙÙØ³ØªØ¹ÙÙØ©"
-
-#: OptFiles
-msgid "Files"
-msgstr "Ø¬Ø°Ø§Ø°ÙØ§Øª"
-
-#: Translate
-msgid "Translate"
-msgstr "Ø¥Ø²Ø§Ø­Ø©"
-
-#: TX
-msgid "Translation on X"
-msgstr "Ø¥Ø²Ø§Ø­Ø© Ø¹ÙÙ X "
-
-#: TY
-msgid "Translation on Y"
-msgstr "Ø¥Ø²Ø§Ø­Ø© Ø¹ÙÙ Y "
-
-#: TxErr
-msgid "Translation on X is invalid"
-msgstr "Ø¥Ø²Ø§Ø­Ø© ØºÙØ± Ø³ÙÙÙØ© Ø¹ÙÙ X "
-
-#: TyErr
-msgid "Translation en Y est invalide"
-msgstr "Ø¥Ø²Ø§Ø­Ø© ØºÙØ± Ø³ÙÙÙØ© Ø¹ÙÙ Y "
-
-#. #OptJFileChooser
-#: OptJFileChooser
-msgid "Open/Save Using JFileChooser"
-msgstr "ÙØªØ­/Ø­ÙØ¸ Ø¨Ø§Ø³ØªØ¹ÙØ§Ù JFileChooser "
-
-#: ProOptHoriz
-msgid "Horizontal Profile"
-msgstr "Ø¬Ø§ÙØ¨ÙØ© Ø£ÙÙÙØ©"
-
-#. #Spectrum Radio...
-#: GaussFitResults
-msgid "Gaussian fit results"
-msgstr "ÙØªØ§Ø¦Ø¬ Ø§ÙÙÙØ§ÙÙØ© Ø§ÙØºÙØ³ÙØ©"
-
-#: ChannelRS
-msgid "Channel"
-msgstr "ÙÙØ§Ø©"
-
-#: VelocityRS
-msgid "Velocity"
-msgstr "Ø³Ø±Ø¹Ø©"
-
-#: unitsVelocityRS
-msgid "km/s"
-msgstr "ÙÙ/Ø«Ø§"
-
-#: FrequencyRS
-msgid "Frequency"
-msgstr "ØªØ±Ø¯Ø¯"
-
-#: unitsFrequencyRS
-msgid "MHz"
-msgstr "MHz"
-
-#: WavelengthRS
-msgid "Wavelength"
-msgstr "Ø·ÙÙ Ø§ÙÙÙØ¬Ø©"
-
-#. # ref wave of chemical element to compute velocity in optical spectrum (default Na=589 nm)
-#: Wave_ref
-msgid "Reference wavelength"
-msgstr ""
-
-#: unitsWavelengthRS
-msgid "cm"
-msgstr "cm"
-
-#: IntensityRS
-msgid "Intensity"
-msgstr "Ø§ÙØ´Ø¯Ø©"
-
-#: error0
-msgid "This does not appear to be a FITS file."
-msgstr "ÙØ§ ÙØ¸ÙØ± Ø£Ù ÙØ°Ø§ Ø§ÙÙÙÙ ÙÙ ÙÙØ¹ FITS ."
-
-#: error1
-msgid "too few points to fit"
-msgstr "ÙÙØ· Ø£ÙÙ ÙÙ Ø£Ù Ø¨ÙØ§ÙÙ"
-
-#: error2
-msgid "singular matrix"
-msgstr "ÙØµÙÙÙØ© ÙÙØ±Ø¯Ø©"
-
-#: chooseInter
-msgid "choose two intervals"
-msgstr "Ø¥Ø®ØªØ± ÙØ¬Ø§ÙØ§Ù"
-
-#: Finter
-msgid "first interval"
-msgstr "Ø§ÙÙØ¬Ø§Ù Ø§ÙØ£ÙÙ"
-
-#: Sinter
-msgid "second interval"
-msgstr "Ø§ÙÙØ¬Ø§Ù Ø§ÙØ«Ø§ÙÙ"
-
-#: chooseOder
-msgid "choose order of baseline fit (0<order<5)"
-msgstr ""
-"Ø¥Ø®ØªØ± Ø¯Ø±Ø¬Ø© ÙÙØ§ÙÙØ© Ø®Ø· Ø§ÙÙØ§Ø¹Ø¯Ø© (ÙØ§ Ø¨ÙÙ 0 Ù 5) "
-
-#: order
-msgid "Order"
-msgstr "Order"
-
-#: DisplayZero
-msgid "display zero line in blue"
-msgstr "Ø¥Ø¸ÙØ§Ø± Ø§ÙØ®Ø· 0 Ø¨Ø§ÙØ£Ø²Ø±Ù"
-
-#: GaussianfitTitle
-msgid "Gaussian fit of spectral line"
-msgstr "Ø§ÙÙÙØ§ÙÙØ© Ø§ÙØºÙØ³ÙØ© ÙØ®Ø· Ø·ÙÙÙ"
-
-#: ChooseParam
-msgid "Choose parameters"
-msgstr "Ø¥Ø®ØªØ± Ø§ÙØ®ÙØ§Ø±Ø§Øª"
-
-#: interval
-msgid "interval"
-msgstr "ÙØ¬Ø§Ù"
-
-#: amplitudeRS
-msgid "amplitude"
-msgstr "ÙØ³Ø¹"
-
-#: centerRS
-msgid "center"
-msgstr "ÙØ±ÙØ²"
-
-#: widthRS
-msgid "width"
-msgstr "Ø¹Ø±Ø¶"
-
-#: eraseRS
-msgid "erase the last"
-msgstr "Ø¥ÙØ³Ø­ Ø§ÙØ£Ø®ÙØ±"
-
-#: subtractRS
-msgid "Subtract baseline"
-msgstr "Ø¥Ø·Ø±Ø­ Ø®Ø· Ø§ÙÙØ§Ø¹Ø¯Ø©"
-
-#: GaussianFit
-msgid "Gaussian fit"
-msgstr "ÙÙØ§ÙÙØ© ØºÙØ³ÙØ©"
-
-#: baseline
-msgid "Baseline"
-msgstr "Ø®Ø· Ø§ÙÙØ§Ø¹Ø¯Ø©"
-
-#. #Optical Spectrum...
-#: lambdaOS
-msgid "Lambda[A]"
-msgstr "Lambda[A]"
-
-#: fluxOS
-msgid "Flux[ADU]"
-msgstr "ØªØ¯ÙÙ [ADU]"
-
-#. #Plugins externes
-#: Chooselanguage
-msgid "Choose language"
-msgstr "Ø§Ø®ØªØ± ÙØºØ©"
-
-#: DynamicProfile
-msgid "Dynamic profile"
-msgstr "ÙØ¸ÙØ± Ø¯ÙÙØ§ÙÙÙÙ"
-
-#: LiveHistg
-msgid "Live histogram"
-msgstr "Ø§ÙØ±Ø³Ù Ø§ÙØ¨ÙØ§ÙÙ"
-
-#: OpenStar
-msgid "Virtual observatories images"
-msgstr "ØµÙØ± Ø§ÙÙØ±Ø§ØµØ¯ Ø§ÙØ¥ÙØªØ±Ø§Ø¶ÙØ©"
-
-#: ImportURL
-msgid "Open an image on the Web"
-msgstr "Ø§ÙØªØ­ ØµÙØ±Ø© ÙÙ Ø§ÙÙØ§Ø¨"
-
-#: AlignRGB
-msgid "Align R/G/B planes"
-msgstr "Align R/G/B plans"

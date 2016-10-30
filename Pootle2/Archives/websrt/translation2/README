@@ -1,2 +1,0 @@
-prop2po -i properties/locale_FR.properties -t templates/locale.properties -o locale_FR.po --encoding=utf8
-po2prop -i locale_FR.po -t templates/locale.properties --removeuntranslated -o test.properties
