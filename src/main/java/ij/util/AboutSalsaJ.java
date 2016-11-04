@@ -9,7 +9,6 @@ import java.awt.event.MouseEvent;
 import java.io.IOException;
 import java.net.URL;
 import javax.swing.*;
-import sun.awt.VerticalBagLayout;
 
 /**
  * Description of the Class
