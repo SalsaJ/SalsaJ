@@ -17,8 +17,15 @@ import java.util.ResourceBundle;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import nom.tam.fits.*;
+import nom.tam.image.compression.hdu.CompressedImageData;
 import skyview.data.CoordinateFormatter;
 import skyview.geometry.WCS;
+
+import static nom.tam.fits.header.InstrumentDescription.FILTER;
+import static nom.tam.fits.header.ObservationDescription.DEC;
+import static nom.tam.fits.header.ObservationDescription.RA;
+import static nom.tam.fits.header.ObservationDurationDescription.EXPTIME;
+import static nom.tam.fits.header.Standard.NAXIS;
 // end by oli
 
 /**
@@ -52,16 +59,12 @@ public class FITS extends ImagePlus implements PlugIn {
                 IJ.log("Opening: " + directory + fileName);
                 FitsDecoder fd = new FitsDecoder(directory, fileName);
                 FileInfo fi = null;
-                //IJ.log("fi =" + fi);
                 try {
                     fi = fd.getInfo();
                 } catch (IOException e) {
                 }
 
                 Fits myFits = new Fits(directory + fileName);
-                // TEST TB 0612
-                //myFits = new Fits("http://imagej.nih.gov/ij/images/m51.fits");
-                //myFits=new Fits("http://www.snv.jussieu.fr/~wboudier/tmp/SMC-Cep-43522-1999-10-24-03-23-25.fits");
                 BasicHDU[] bhdu = null;
 
                 try {
@@ -79,12 +82,14 @@ public class FITS extends ImagePlus implements PlugIn {
 
                     }
                 }
-                int dim = bhdu[0].getAxes().length;
+
+                BasicHDU hdu = bhdu[0];
+                int dim = hdu.getAxes().length;
 
                 try {
                     //By oli
-                    // replace  bhdu[0].getAxes()[dim - 1] by fi.width
-                    // and replace  bhdu[0].getAxes()[dim - 2] by fi.height
+                    // replace  hdu.getAxes()[dim - 1] by fi.width
+                    // and replace  hdu.getAxes()[dim - 2] by fi.height
                     // or it would crash if it is not defined and go to the exception case at the end
                     int wi = 0;
                     int he = 0;
@@ -94,10 +99,10 @@ public class FITS extends ImagePlus implements PlugIn {
                         he = fi.height;
                         de = 1;
                     } else {
-                        wi = bhdu[0].getAxes()[dim - 1];
-                        he = bhdu[0].getAxes()[dim - 2];
+                        wi = hdu.getAxes()[dim - 1];
+                        he = hdu.getAxes()[dim - 2];
                         if (dim > 2) {
-                            de = bhdu[0].getAxes()[dim - 3];
+                            de = hdu.getAxes()[dim - 3];
                         } else {
                             de = 1;
                         }
@@ -107,41 +112,41 @@ public class FITS extends ImagePlus implements PlugIn {
                     }
                     //end by Oli
 
-                    int bit = bhdu[0].getBitPix();
-                    Header H = bhdu[0].getHeader();
+                    int bit = hdu.getBitPix();
+                    Header H = hdu.getHeader();
                     String s = new String("");
-                    if (bhdu[0].getObject() != null) {
-                        s += IJ.getBundle().getString("OBJECT") + ": " + bhdu[0].getObject() + "\n";
+                    if (hdu.getObject() != null) {
+                        s += IJ.getBundle().getString("OBJECT") + ": " + hdu.getObject() + "\n";
                     }
-                    if (bhdu[0].getTelescop() != null) {
-                        s += IJ.getBundle().getString("TELESCOP") + ": " + bhdu[0].getTelescop() + "\n";
+                    if (hdu.getTelescope() != null) {
+                        s += IJ.getBundle().getString("TELESCOP") + ": " + hdu.getTelescope() + "\n";
                     }
-                    if (bhdu[0].getInstrum() != null) {
-                        s += IJ.getBundle().getString("INSTRUM") + ": " + bhdu[0].getInstrum() + "\n";
+                    if (hdu.getInstrument() != null) {
+                        s += IJ.getBundle().getString("INSTRUM") + ": " + hdu.getInstrument() + "\n";
                     }
-                    if (bhdu[0].getFilter() != null) {
-                        s += IJ.getBundle().getString("FILTER") + ": " + bhdu[0].getFilter() + "\n";
+                    if (hdu.getHeader().getStringValue(FILTER) != null) {
+                        s += IJ.getBundle().getString("FILTER") + ": " + hdu.getHeader().getStringValue(FILTER) + "\n";
                     }
-                    if (bhdu[0].getObserver() != null) {
-                        s += IJ.getBundle().getString("OBSERVER") + ": " + bhdu[0].getObserver() + "\n";
+                    if (hdu.getObserver() != null) {
+                        s += IJ.getBundle().getString("OBSERVER") + ": " + hdu.getObserver() + "\n";
                     }
-                    if (bhdu[0].getExptime() != null) {
-                        s += IJ.getBundle().getString("EXPTIME") + ": " + bhdu[0].getExptime() + "\n";
+                    if (hdu.getHeader().getStringValue(EXPTIME) != null) {
+                        s += IJ.getBundle().getString("EXPTIME") + ": " + hdu.getHeader().getStringValue(EXPTIME) + "\n";
                     }
-                    if (bhdu[0].getDateObs() != null) {
-                        s += IJ.getBundle().getString("DATE-OBS") + ": " + bhdu[0].getDateObs() + "\n";
+                    if (hdu.getObservationDate() != null) {
+                        s += IJ.getBundle().getString("DATE-OBS") + ": " + hdu.getObservationDate() + "\n";
                     }
-                    if (bhdu[0].getUT() != null) {
-                        s += IJ.getBundle().getString("UT") + ": " + bhdu[0].getUT() + "\n";
+                    if (hdu.getHeader().getStringValue("UT") != null) {
+                        s += IJ.getBundle().getString("UT") + ": " + hdu.getHeader().getStringValue("UT") + "\n";
                     }
-                    if (bhdu[0].getUTC() != null) {
-                        s += IJ.getBundle().getString("UT") + ": " + bhdu[0].getUTC() + "\n";
+                    if (hdu.getHeader().getStringValue("UTC") != null) {
+                        s += IJ.getBundle().getString("UT") + ": " + hdu.getHeader().getStringValue("UTC") + "\n";
                     }
-                    if (bhdu[0].getRA() != null) {
-                        s += IJ.getBundle().getString("RA") + ": " + bhdu[0].getRA() + "\n";
+                    if (hdu.getHeader().getStringValue(RA) != null) {
+                        s += IJ.getBundle().getString("RA") + ": " + hdu.getHeader().getStringValue(RA) + "\n";
                     }
-                    if (bhdu[0].getDEC() != null) {
-                        s += IJ.getBundle().getString("DEC") + ": " + bhdu[0].getDEC() + "\n";
+                    if (hdu.getHeader().getStringValue(DEC) != null) {
+                        s += IJ.getBundle().getString("DEC") + ": " + hdu.getHeader().getStringValue(DEC) + "\n";
                     }
                     s += "\n" + "\n" + "*************************************************************" + "\n";
 
@@ -150,8 +155,8 @@ public class FITS extends ImagePlus implements PlugIn {
                     }
 
                     ImageData imgData = null;
-                    if (bhdu[0].getData() != null) {
-                        imgData = (ImageData) bhdu[0].getData();
+                    if (hdu.getData() != null) {
+                        imgData = (ImageData) hdu.getData();
                     } else {
                         if (IJ.debug) {
                             System.out.println("No data in fits !");
@@ -167,13 +172,13 @@ public class FITS extends ImagePlus implements PlugIn {
                             ////////////////////////////////////////////////////////////////////////////////
                             ////////////////////////////////////////////////////////////////////////////////
                             if (IJ.debug) {
-                                System.out.println("Bits " + bhdu[0].getBitPix() + " " + wi + " " + he);
+                                System.out.println("Bits " + hdu.getBitPix() + " " + wi + " " + he);
                             }
                             /////////////////////////// 2D ///////////////////////////////////
-                            if (bhdu[0].getNAXIS() == 2) {
+                            if (hdu.getHeader().getIntValue(NAXIS) == 2) {
                                 //Profiler p = new Profiler();
                                 ///////////////////////////// 16 BITS ///////////////////////
-                                if (bhdu[0].getBitPix() == 16) {
+                                if (hdu.getBitPix() == 16) {
                                     short[][] itab = (short[][]) imgData.getKernel();
                                     int idx = 0;
                                     float[] imgtab;
@@ -182,7 +187,7 @@ public class FITS extends ImagePlus implements PlugIn {
                                     imgtab = new float[wi * he];
                                     for (int y = 0; y < he; y++) {
                                         for (int x = 0; x < wi; x++) {
-                                            imgtab[idx] = (float) bhdu[0].getBZero() + (float) bhdu[0].getBScale() * (float) itab[y][x];
+                                            imgtab[idx] = (float) hdu.getBZero() + (float) hdu.getBScale() * (float) itab[y][x];
                                             idx++;
                                         }
                                     }
@@ -203,7 +208,7 @@ public class FITS extends ImagePlus implements PlugIn {
                                     this.setProcessor(fileName, ip);
 
                                 } // 8 bits
-                                else if (bhdu[0].getBitPix() == 8) {
+                                else if (hdu.getBitPix() == 8) {
                                     byte[][] itab = (byte[][]) imgData.getKernel();
                                     int idx = 0;
                                     float[] imgtab;
@@ -215,7 +220,7 @@ public class FITS extends ImagePlus implements PlugIn {
                                             if (itab[x][y] < 0) {
                                                 itab[x][y] += 256;
                                             }
-                                            imgtab[idx] = (float) bhdu[0].getBZero() + (float) bhdu[0].getBScale() * (float) (itab[y][x]);
+                                            imgtab[idx] = (float) hdu.getBZero() + (float) hdu.getBScale() * (float) (itab[y][x]);
                                             idx++;
                                         }
                                     }
@@ -237,7 +242,7 @@ public class FITS extends ImagePlus implements PlugIn {
 
                                 } // 16-bits
                                 ///////////////// 32 BITS ///////////////////////
-                                else if (bhdu[0].getBitPix() == 32) {
+                                else if (hdu.getBitPix() == 32) {
                                     int[][] itab = (int[][]) imgData.getKernel();
                                     int idx = 0;
                                     float[] imgtab;
@@ -246,7 +251,7 @@ public class FITS extends ImagePlus implements PlugIn {
                                     imgtab = new float[wi * he];
                                     for (int y = 0; y < he; y++) {
                                         for (int x = 0; x < wi; x++) {
-                                            imgtab[idx] = (float) bhdu[0].getBZero() + (float) bhdu[0].getBScale() * (float) itab[y][x];
+                                            imgtab[idx] = (float) hdu.getBZero() + (float) hdu.getBScale() * (float) itab[y][x];
                                             idx++;
                                         }
                                     }
@@ -266,7 +271,7 @@ public class FITS extends ImagePlus implements PlugIn {
 
                                 } // 32 bits
                                 /////////////// -32 BITS ?? /////////////////////////////////
-                                else if (bhdu[0].getBitPix() == -32) {
+                                else if (hdu.getBitPix() == -32) {
                                     float[][] itab = (float[][]) imgData.getKernel();
                                     int idx = 0;
                                     float[] imgtab;
@@ -275,7 +280,7 @@ public class FITS extends ImagePlus implements PlugIn {
                                     imgtab = new float[wi * he];
                                     for (int y = 0; y < he; y++) {
                                         for (int x = 0; x < wi; x++) {
-                                            imgtab[idx] = (float) bhdu[0].getBZero() + (float) bhdu[0].getBScale() * (float) itab[y][x];
+                                            imgtab[idx] = (float) hdu.getBZero() + (float) hdu.getBScale() * (float) itab[y][x];
                                             idx++;
                                         }
                                     }
@@ -292,11 +297,11 @@ public class FITS extends ImagePlus implements PlugIn {
                                     ip = imgtmp;
                                     ip.flipVertical();
                                     this.setProcessor(fileName, ip);
-                                    System.out.print("-32 bits " + ip + " " + this + " " + bhdu[0].getBZero() + " " + bhdu[0].getBScale() + " " + itab);
-                                    System.out.print("Status " + bhdu[0].getSTATUS());
+                                    System.out.print("-32 bits " + ip + " " + this + " " + hdu.getBZero() + " " + hdu.getBScale() + " " + itab);
+                                    System.out.print("Status " + hdu.getHeader().getStringValue("STATUS"));
 
 //                                    ///////// special spectre optique transit
-                                    if ((bhdu[0].getSTATUS() != null) && (bhdu[0].getSTATUS().equals("SPECTRUM")) && (bhdu[0].getNAXIS() == 2)) {
+                                    if ((hdu.getHeader().getStringValue("STATUS") != null) && (hdu.getHeader().getStringValue("STATUS").equals("SPECTRUM")) && (hdu.getHeader().getIntValue(NAXIS) == 2)) {
                                         if (IJ.debug) {
                                             System.out.println("spectre optique");
                                         }
@@ -316,14 +321,14 @@ public class FITS extends ImagePlus implements PlugIn {
                                         float CRVAL1 = 0;
                                         float CRPIX1 = 0;
                                         float CDELT1 = 0;
-                                        if (bhdu[0].getCRVAL1() != null) {
-                                            CRVAL1 = Float.parseFloat(bhdu[0].getCRVAL1());
+                                        if (hdu.getHeader().getStringValue("CRVAL1") != null) {
+                                            CRVAL1 = Float.parseFloat(hdu.getHeader().getStringValue("CRVAL1"));
                                         }
-                                        if (bhdu[0].getCRPIX1() != null) {
-                                            CRPIX1 = Float.parseFloat(bhdu[0].getCRPIX1());
+                                        if (hdu.getHeader().getStringValue("CRPIX1") != null) {
+                                            CRPIX1 = Float.parseFloat(hdu.getHeader().getStringValue("CRPIX1"));
                                         }
-                                        if (bhdu[0].getCDELT1() != null) {
-                                            CDELT1 = Float.parseFloat(bhdu[0].getCDELT1());
+                                        if (hdu.getHeader().getStringValue("CDELT1") != null) {
+                                            CDELT1 = Float.parseFloat(hdu.getHeader().getStringValue("CDELT1"));
                                         }
                                         for (int x = 0; x < wi; x++) {
                                             xValues[x] = CRVAL1 + (x - CRPIX1) * CDELT1;
@@ -355,7 +360,7 @@ public class FITS extends ImagePlus implements PlugIn {
                                 //this.setProcessor(fileName, ip);                                
                             } // 2D
                             ///////// special spectre radio Onsala
-                            else if (bhdu[0].getNAXIS() == 3 && bhdu[0].getAxes()[dim - 2] == 1 && bhdu[0].getAxes()[dim - 3] == 1) {
+                            else if (hdu.getHeader().getIntValue(NAXIS) == 3 && hdu.getAxes()[dim - 2] == 1 && hdu.getAxes()[dim - 3] == 1) {
                                 if (IJ.debug) {
                                     System.out.println("Spectre radio Onsala");
                                 }
@@ -364,7 +369,7 @@ public class FITS extends ImagePlus implements PlugIn {
                                 float[] yValues = new float[wi];
 
                                 for (int y = 0; y < wi; y++) {
-                                    yValues[y] = (float) bhdu[0].getBZero() + (float) bhdu[0].getBScale() * itab[0][0][y];
+                                    yValues[y] = (float) hdu.getBZero() + (float) hdu.getBScale() * itab[0][0][y];
                                 }
 
                                 String unitY = "Intensity ";
@@ -374,14 +379,14 @@ public class FITS extends ImagePlus implements PlugIn {
                                 float CRVAL1 = 0;
                                 float CRPIX1 = 0;
                                 float CDELT1 = 0;
-                                if (bhdu[0].getCRVAL1() != null) {
-                                    CRVAL1 = Float.parseFloat(bhdu[0].getCRVAL1());
+                                if (hdu.getHeader().getStringValue("CRVAL1") != null) {
+                                    CRVAL1 = Float.parseFloat(hdu.getHeader().getStringValue("CRVAL1"));
                                 }
-                                if (bhdu[0].getCRPIX1() != null) {
-                                    CRPIX1 = Float.parseFloat(bhdu[0].getCRPIX1());
+                                if (hdu.getHeader().getStringValue("CRPIX1") != null) {
+                                    CRPIX1 = Float.parseFloat(hdu.getHeader().getStringValue("CRPIX1"));
                                 }
-                                if (bhdu[0].getCDELT1() != null) {
-                                    CDELT1 = Float.parseFloat(bhdu[0].getCDELT1());
+                                if (hdu.getHeader().getStringValue("CDELT1") != null) {
+                                    CDELT1 = Float.parseFloat(hdu.getHeader().getStringValue("CDELT1"));
                                 }
                                 for (int x = 0; x < wi; x++) {
                                     xValues[x] = CRVAL1 + (x - CRPIX1) * CDELT1;
@@ -428,8 +433,8 @@ public class FITS extends ImagePlus implements PlugIn {
                             }//// end of special radio Onsala
 
                             //By Oli, for radiotelescope UPMC/OBSPM spectra
-                            if (bhdu[0].getTelescop() != null) {
-                                if (bhdu[0].getTelescop().equals("SRT-PARIS")) {
+                            if (hdu.getTelescope() != null) {
+                                if (hdu.getTelescope().equals("SRT-PARIS")) {
                                     if (IJ.debug) {
                                         System.out.println("For radiotelescope UPMC/OBSPM spectra");
                                     }
@@ -446,14 +451,14 @@ public class FITS extends ImagePlus implements PlugIn {
                                     float CRVAL1 = 0;
                                     float CRPIX1 = 0;
                                     float CDELT1 = 0;
-                                    if (bhdu[0].getCRVAL1() != null) {
-                                        CRVAL1 = Float.parseFloat(bhdu[0].getCRVAL1());
+                                    if (hdu.getHeader().getStringValue("CRVAL1") != null) {
+                                        CRVAL1 = Float.parseFloat(hdu.getHeader().getStringValue("CRVAL1"));
                                     }
-                                    if (bhdu[0].getCRPIX1() != null) {
-                                        CRPIX1 = Float.parseFloat(bhdu[0].getCRPIX1());
+                                    if (hdu.getHeader().getStringValue("CRPXI1") != null) {
+                                        CRPIX1 = Float.parseFloat(hdu.getHeader().getStringValue("CRPIX1"));
                                     }
-                                    if (bhdu[0].getCDELT1() != null) {
-                                        CDELT1 = Float.parseFloat(bhdu[0].getCDELT1());
+                                    if (hdu.getHeader().getStringValue("CDELT1") != null) {
+                                        CDELT1 = Float.parseFloat(hdu.getHeader().getStringValue("CDELT1"));
                                     }
                                     for (int x = 0; x < wi; x++) {
                                         xValues[x] = (CRVAL1 + (x - CRPIX1) * CDELT1) / 1000000;
@@ -501,8 +506,8 @@ public class FITS extends ImagePlus implements PlugIn {
                             }   //end by Oli
                             
                             //New by thomas, SRT telescope , 18112014
-                            if (bhdu[0].getTelescop() != null) {
-                                if (bhdu[0].getTelescop().startsWith("SRT")) {
+                            if (hdu.getTelescope() != null) {
+                                if (hdu.getTelescope().startsWith("SRT")) {
                                     if (IJ.debug) {
                                         System.out.println("For radiotelescope UPMC SRT");
                                     }
@@ -516,20 +521,20 @@ public class FITS extends ImagePlus implements PlugIn {
                                     unitY = bun.getString("IntensityRS") + " ";
                                     String unitX = "Freq ";
                                     unitX = bun.getString("FrequencyRS") + " ";
-                                    float CRVAL1 = 0;
-                                    float CRPIX1 = 0;
-                                    float CDELT1 = 0;
-                                    if (bhdu[0].getCRVAL1() != null) {
-                                        CRVAL1 = Float.parseFloat(bhdu[0].getCRVAL1());
+                                    float crval1 = 0;
+                                    float crpix1 = 0;
+                                    float cdelt1 = 0;
+                                    if (hdu.getHeader().getStringValue("CRVAL1") != null) {
+                                        crval1 = Float.parseFloat(hdu.getHeader().getStringValue("CRVAL1"));
                                     }
-                                    if (bhdu[0].getCRPIX1() != null) {
-                                        CRPIX1 = Float.parseFloat(bhdu[0].getCRPIX1());
+                                    if (hdu.getHeader().getStringValue("CRPIX1") != null) {
+                                        crpix1 = Float.parseFloat(hdu.getHeader().getStringValue("CRPIX1"));
                                     }
-                                    if (bhdu[0].getCDELT1() != null) {
-                                        CDELT1 = Float.parseFloat(bhdu[0].getCDELT1());
+                                    if (hdu.getHeader().getStringValue("CDELT1") != null) {
+                                        cdelt1 = Float.parseFloat(hdu.getHeader().getStringValue("CDELT1"));
                                     }
                                     for (int x = 0; x < wi; x++) {
-                                        xValues[x] = (CRVAL1 + (x - CRPIX1) * CDELT1) / 1000000;
+                                        xValues[x] = (crval1 + (x - crpix1) * cdelt1) / 1000000;
                                     }
                                     FloatProcessor Upmcimgtmp;
                                     Upmcimgtmp = new FloatProcessor(wi, he);
@@ -692,35 +697,35 @@ public class FITS extends ImagePlus implements PlugIn {
                         if (bhduExc[0].getObject() != null) {
                             s += IJ.getBundle().getString("OBJECT") + ": " + bhduExc[0].getObject() + "\n";
                         }
-                        if (bhduExc[0].getTelescop() != null) {
-                            s += IJ.getBundle().getString("TELESCOP") + ": " + bhduExc[0].getTelescop() + "\n";
+                        if (bhduExc[0].getTelescope() != null) {
+                            s += IJ.getBundle().getString("TELESCOP") + ": " + bhduExc[0].getTelescope() + "\n";
                         }
-                        if (bhduExc[0].getInstrum() != null) {
-                            s += IJ.getBundle().getString("INSTRUM") + ": " + bhduExc[0].getInstrum() + "\n";
+                        if (bhduExc[0].getInstrument() != null) {
+                            s += IJ.getBundle().getString("INSTRUM") + ": " + bhduExc[0].getInstrument() + "\n";
                         }
-                        if (bhduExc[0].getFilter() != null) {
-                            s += IJ.getBundle().getString("FILTER") + ": " + bhduExc[0].getFilter() + "\n";
+                        if (bhduExc[0].getHeader().getStringValue(FILTER) != null) {
+                            s += IJ.getBundle().getString("FILTER") + ": " + bhduExc[0].getHeader().getStringValue(FILTER) + "\n";
                         }
                         if (bhduExc[0].getObserver() != null) {
                             s += IJ.getBundle().getString("OBSERVER") + ": " + bhduExc[0].getObserver() + "\n";
                         }
-                        if (bhduExc[0].getExptime() != null) {
-                            s += IJ.getBundle().getString("EXPTIME") + ": " + bhduExc[0].getExptime() + "\n";
+                        if (bhduExc[0].getHeader().getStringValue(EXPTIME) != null) {
+                            s += IJ.getBundle().getString("EXPTIME") + ": " + bhduExc[0].getHeader().getStringValue(EXPTIME) + "\n";
                         }
-                        if (bhduExc[0].getDateObs() != null) {
-                            s += IJ.getBundle().getString("DATE-OBS") + ": " + bhduExc[0].getDateObs() + "\n";
+                        if (bhduExc[0].getObservationDate() != null) {
+                            s += IJ.getBundle().getString("DATE-OBS") + ": " + bhduExc[0].getObservationDate() + "\n";
                         }
-                        if (bhduExc[0].getUT() != null) {
-                            s += IJ.getBundle().getString("UT") + ": " + bhduExc[0].getUT() + "\n";
+                        if (bhduExc[0].getHeader().getStringValue("UT") != null) {
+                            s += IJ.getBundle().getString("UT") + ": " + bhduExc[0].getHeader().getStringValue("UT") + "\n";
                         }
-                        if (bhduExc[0].getUTC() != null) {
-                            s += IJ.getBundle().getString("UT") + ": " + bhduExc[0].getUTC() + "\n";
+                        if (bhduExc[0].getHeader().getStringValue("UTC") != null) {
+                            s += IJ.getBundle().getString("UT") + ": " + bhduExc[0].getHeader().getStringValue("UTC") + "\n";
                         }
-                        if (bhduExc[0].getRA() != null) {
-                            s += IJ.getBundle().getString("RA") + ": " + bhduExc[0].getRA() + "\n";
+                        if (bhduExc[0].getHeader().getStringValue(RA) != null) {
+                            s += IJ.getBundle().getString("RA") + ": " + bhduExc[0].getHeader().getStringValue(RA) + "\n";
                         }
-                        if (bhduExc[0].getDEC() != null) {
-                            s += IJ.getBundle().getString("DEC") + ": " + bhduExc[0].getDEC() + "\n";
+                        if (bhduExc[0].getHeader().getStringValue(DEC) != null) {
+                            s += IJ.getBundle().getString("DEC") + ": " + bhduExc[0].getHeader().getStringValue(DEC) + "\n";
                         }
                         s += "\n" + "\n" + "*************************************************************" + "\n";
                         setProperty("Info", s + fd.getHeaderInfo());
