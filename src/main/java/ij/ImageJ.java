@@ -65,7 +65,7 @@ public class ImageJ extends Frame implements ActionListener,
      * Plugins should call IJ.getVersion() to get the version string.
      */
     //EU_HOU Version for SalsaJ (to be modified)
-    public final static String VERSION = "2.4";
+    public final static String VERSION = "3.0";
     /**
      * Description of the Field
      */

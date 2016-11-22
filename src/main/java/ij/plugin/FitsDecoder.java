@@ -1,11 +1,8 @@
 package ij.plugin;
 
-import java.awt.*;
 import java.io.*;
 import ij.*;
 import ij.io.*;
-import ij.process.*;
-import ij.measure.*;
 import java.net.URL;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -86,13 +83,23 @@ public class FitsDecoder {
         }
         int count = 1;
 
+        // Compressed FITS files have the main header in the bin-table
+        // keep going until we find it. The clue is NAXIS of 0.
+        int naxis = 0;
+
         do {
             count++;
 
             s = getString(80);
 
-            info.append(s + "\n");
-            if (s.startsWith("BITPIX")) {
+            if (s.matches(".*\\w.*"))
+            {
+                info.append(s + "\n");
+            }
+            if (s.startsWith("NAXIS ")) {
+                naxis = getInteger(s);
+            }
+            else if (s.startsWith("BITPIX")) {
 
                 int bitsPerPixel = getInteger(s);
                 if (bitsPerPixel == 8) {
@@ -174,7 +181,7 @@ public class FitsDecoder {
                 f.close();
                 return null;
             }
-        } while (!s.startsWith("END"));
+        } while (!s.startsWith("END") || naxis == 0);
         f.close();
         fi.offset = 2880 + 2880 * (((count * 80) - 1) / 2880);
         return fi;
