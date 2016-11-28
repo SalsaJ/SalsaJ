@@ -1,8 +1,0 @@
-// Closes the "Results" and "Log" windows and all image windows
-
-macro "CloseAllWindows" {
-    while (nImages()>0) {
-          selectImage(nImages());  
-          close();
-    }
-}
