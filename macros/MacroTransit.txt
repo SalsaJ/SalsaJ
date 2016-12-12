@@ -1,59 +1,0 @@
-// An imageJ macro to be used with exercice 
-// Détection d'une exoplanète par la méthode de transit
-// by O. Marco
-// Pour avoir les accents, enregistrer en format
-// OCCIDENTAL WINDOWS LATIN 1
-// sinon ça plante !
-
-
-setBatchMode(false);
-
-macroDir =getDirectory("macros");
-homeDir  =getDirectory("home");
-
-print("Home Dir: "+homeDir);
-print("Macro Dir: "+macroDir);
-print("Startup Dir: "+getDirectory("startup"));
-print("Images Dir: "+getDirectory("image"));
-print("Plugins Dir: "+getDirectory("plugins"));
-
-print("Script to find an extrasolar planet");
-print("Load all the necessary images and adjust contrast");
-
-runMacro("Close_All_Windows.txt");
-
-path=macroDir+"images_spitzer/";
-file=path+"SPITZER_I2_24538368_0000_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_0100_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_0200_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_0300_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_0400_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_0500_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_0600_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_0700_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_0800_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_0900_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_1000_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_1100_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_1200_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_1300_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_1400_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_1500_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_1600_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_1700_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_1800_0000_1_bcd.fits";
-open(file);file=path+"SPITZER_I2_24538368_1900_0000_1_bcd.fits";
-open(file);
-
-run("Séparer");
-run("Tile");
-run("Kachel");
-run("Separar");
-run("Disponi tutto");
-run("Mosaico");
-run("Sida vid sida");
-run("Kaskada");
-
-run("Enhance Contrast", "saturated=0.5");
-setMinAndMax(-39.3934, 38.7792);
-runMacro("PropagateMinAndMax");
