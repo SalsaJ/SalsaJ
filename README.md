@@ -1,6 +1,8 @@
 SalsaJ
 ======
 
+[![Build Status](https://travis-ci.org/SalsaJ/SalsaJ.svg?branch=master)](https://travis-ci.org/SalsaJ/SalsaJ)
+
 SalsaJ is available under the following licence:
 http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 
